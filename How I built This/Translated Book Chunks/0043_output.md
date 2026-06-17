@@ -1,747 +1,291 @@
-Telugu
-
-మరో వైపు construction cranes మరియు glass towers యొక్క patchwork కనిపించింది; అవి ఆకాశంలో suspendedగా, నేల నుంచి stalactites and stalagmitesలా పైకి rising up అవుతున్నట్లుగా ఉన్నాయి.
-
-English
+ఇంకొక side కి construction cranes మరియు glass towers యొక్క patchwork ఉంది, alternately sky లో suspend అయ్యి ground నుంచి rise అవుతూ, చాలా stalactites మరియు stalagmites లాగా.
 
 To the other side was a patchwork of construction cranes and glass towers, alternately suspended in the sky and rising up from the ground like so many stalactites and stalagmites.
 
 ---
 
-Telugu
+Buildings లో చాలా residential condo complexes, కానీ వాటిని anchor చేసేది ఒక 61-story bullet-shaped building, shape మరియు visually transformative effect లో London's Gherkin ను గుర్తు చేస్తుంది.
 
-ఆ buildingsలో కొన్ని residential condo complexes, కానీ వాటిని sixty-one-story bullet-shaped building anchor చేసింది; shapeలోను, visually transformative effectలోను London’s Gherkinని గుర్తు చేసేలా ఉంది.
-
-English
-
-A number of the buildings were residential condo complexes, but they were anchored by a sixty-one-story bullet-shaped building reminiscent in both shape and visually transformative effect of London’s Gherkin.
+A number of the buildings were residential condo complexes, but they were anchored by a sixty-one-story bullet-shaped building reminiscent in both shape and visually transformative effect of London's Gherkin.
 
 ---
 
-Telugu
+దాన్ని Salesforce Tower అని call చేస్తారు, massive cloud-based software company ఆ building ను మరియు Mission Street లో అనేక smaller buildings ను occupy చేస్తుంది.
 
-దాన్ని Salesforce Tower అంటారు; Mission Streetలో దానితో పాటు మరికొన్ని చిన్న buildingsను occupy చేసే massive cloud-based software company పేరు మీద అది named అయింది.
-
-English
-
-It’s called the Salesforce Tower, so named for the massive cloud-based software company that occupies it and a number of other smaller buildings on Mission Street.
+It's called the Salesforce Tower, so named for the massive cloud-based software company that occupies it and a number of other smaller buildings on Mission Street.
 
 ---
 
-Telugu
+నేను constantly changing (flux) లో ఉన్న city యొక్క view ను చూస్తున్నాను. Historic seismic shift undergoing అవుతున్న city, దీని fault lines Mission మరియు Market Streets down గా parallel గా ran అవుతున్నాయి.
 
-నేను fluxలో ఉన్న cityని చూస్తున్నాను.
-
-English
-
-I was looking at a view of a city in flux.
+I was looking at a view of a city in flux. A city undergoing a historic seismic shift, the fault lines of which ran in parallel right down Mission and Market Streets.
 
 ---
 
-Telugu
-
-ఒక historic seismic shiftలో ఉన్న city; దాని fault lines Mission and Market Streets గుండా parallelగా run అవుతున్నాయి.
-
-English
-
-A city undergoing a historic seismic shift, the fault lines of which ran in parallel right down Mission and Market Streets.
-
----
-
-Telugu
-
-South వైపు early 2000s internet gold rushలో mother lode hit చేసి, తమ respective spacesలో dominant forces అయిన tech companies headquarters ఉన్నాయి: Salesforce, Twitter, Instacart, Airbnb, Pinterest, Zynga, Trulia, DocuSign, Lyft, Uber.
-
-English
+South కి—early 2000s internet gold rush సమయంలో jackpot hit అయ్యి (hit the mother lode) తమ respective spaces లో dominant forces గా అయిన చాలా tech companies headquarters ఉన్నాయి: Salesforce, Twitter, Instacart, Airbnb, Pinterest, Zynga, Trulia, DocuSign, Lyft, Uber.
 
 To the south were the headquarters of many of the tech companies that hit the mother lode during the internet gold rush of the early 2000s and became the dominant forces in their respective spaces: Salesforce, Twitter, Instacart, Airbnb, Pinterest, Zynga, Trulia, DocuSign, Lyft, Uber.
 
 ---
 
-Telugu
+North కి—actually city build చేసిన legacy companies కి landmarks—Ghirardelli Chocolate, Wells Fargo, Levi Strauss—late 1840s మరియు 1850s actual gold rush సమయంలో start అయ్యి, gold కి mine చేయడం కాకుండా, gold mine చేసేవాళ్ల interests ను periphery నుంచి service చేస్తూ rich అయ్యాయి (struck it rich).
 
-North వైపు cityని నిజంగా build చేసిన legacy companiesకి landmarks ఉన్నాయి—Ghirardelli Chocolate, Wells Fargo, Levi Strauss.
-
-English
-
-To the north were landmarks to the legacy companies that actually built the city—Ghirardelli Chocolate, Wells Fargo, Levi Strauss.
+To the north were landmarks to the legacy companies that actually built the city—Ghirardelli Chocolate, Wells Fargo, Levi Strauss—and got their start during the actual gold rush in the late 1840s and 1850s, striking it rich not by mining for gold, but by operating on the periphery servicing the interests of those who did.
 
 ---
 
-Telugu
+Domingo Ghirardelli 1849 లో Sutter's Mill లో gold discovery గురించి విన్న తర్వాత Italy నుంచి California కి immigrate అయ్యాడు.
 
-వాళ్లు 1840s చివరలో, 1850sలో actual gold rush సమయంలో start అయ్యారు; gold mine చేసి కాదు, gold కోసం వెళ్తున్న వారి interestsను service చేసే peripheryలో operate చేసి rich అయ్యారు.
-
-English
-
-and got their start during the actual gold rush in the late 1840s and 1850s, striking it rich not by mining for gold, but by operating on the periphery servicing the interests of those who did.
+Domingo Ghirardelli immigrated to California from Italy in 1849 after hearing about the discovery of gold at Sutter's Mill.
 
 ---
 
-Telugu
-
-Domingo Ghirardelli 1849లో Sutter’s Millలో gold discovery గురించి విన్న తర్వాత Italy నుంచి Californiaకి immigrate అయ్యాడు.
-
-English
-
-Domingo Ghirardelli immigrated to California from Italy in 1849 after hearing about the discovery of gold at Sutter’s Mill.
-
----
-
-Telugu
-
-ఆ మొదటి సంవత్సరాల్లో Californiaకి వచ్చిన దాదాపు అందరిలాగే అతను mining ప్రయత్నించాడు, మరియు చాలా మందిలాగే miserably fail అయ్యాడు.
-
-English
+అతను mining ను try చేసాడు, California కి first years లో వచ్చిన everyone లాగా, మరియు చాలా badly fail అయ్యాడు, also like most of them.
 
 He tried his hand at mining, like just about everyone who came to California those first years, and he failed rather miserably, also like most of them.
 
 ---
 
-Telugu
+Trading background (mercantile roots) తో, gold find చేసే fantasy ను give up చేసి, Stockton లో—San Francisco నుంచి Sierra foothills లోని nearest mining claims కి road మధ్యలో ఉన్న town—mining supplies మరియు sweets sell చేసే store open చేయాలని decide చేసాడు.
 
-Mercantile roots ఉండడంతో, gold కనుగొనే fantasyని వదిలి, Stocktonలో mining supplies మరియు sweets అమ్మే store open చేయాలని నిర్ణయించాడు.
-
-English
-
-With mercantile roots, he gave up his fantasy of finding gold and decided instead to open a store selling mining supplies and sweets in Stockton.
+With mercantile roots, he gave up his fantasy of finding gold and decided instead to open a store selling mining supplies and sweets in Stockton, a town at the midpoint on the road from San Francisco to the nearest mining claims in the Sierra foothills.
 
 ---
 
-Telugu
-
-Stockton అనేది San Francisco నుంచి Sierra foothillsలోని nearest mining claimsకి వెళ్లే road మధ్యలో ఉన్న town.
-
-English
-
-a town at the midpoint on the road from San Francisco to the nearest mining claims in the Sierra foothills.
-
----
-
-Telugu
-
-తదుపరి కొన్ని సంవత్సరాల్లో ఆ store flourish కావడంతో, అతను San Franciscoలో second store, తర్వాత hotel open చేశాడు; అది 1851లో burn down అయినప్పుడు, stand-alone confectionery build చేశాడు, అదే Ghirardelli Chocolate Companyగా మారింది.
-
-English
+తరువాతి కొన్ని years లో, ఆ store flourish అయ్యేటప్పుడు, San Francisco లో second store, తర్వాత hotel open చేసాడు, మరియు 1851 లో అది burn down అయినప్పుడు, ఒక stand-alone candy shop (confectionery) build చేసాడు, అది Ghirardelli Chocolate Company అవుతుంది.
 
 Over the next few years, as that store flourished, he opened a second one in San Francisco, then a hotel, and when that burned down in 1851, he built a stand-alone confectionery that would become the Ghirardelli Chocolate Company.
 
 ---
 
-Telugu
-
-1852లో San Francisco growthతో explode అవుతుండగా, Henry Wells మరియు William Fargo New York నుంచి వచ్చి miners and merchants banking needs service చేయడానికి Wells, Fargo & Co.ని form చేశారు.
-
-English
+1852 లో, San Francisco growth తో explode అవ్వడం start అయినప్పుడు, Henry Wells మరియు William Fargo New York నుంచి came out అయ్యి, miners and merchants alike యొక్క banking needs ను service చేయడానికి Wells, Fargo & Co. form చేసారు.
 
 In 1852, as San Francisco began to explode with growth, Henry Wells and William Fargo came out from New York to form Wells, Fargo & Co. to service the banking needs of miners and merchants alike.
 
 ---
 
-Telugu
+వాళ్లు కొన్ని years లో gold country అంతటా locations open చేసారు. చాలా banking interests యొక్క habit గా ఉన్న deposits ను New York కి తిరిగి send చేయడం కాకుండా, money ను region లో keep చేయడం మరియు local clients ను serve చేయడం మీద వాళ్ల focus, వాళ్లకి loyalty మరియు dependability కోసం reputation earn చేయడమే కాకుండా, 1855 panic ను survive చేయడానికి కూడా help చేసింది, ఇది వాళ్ల competition అంతా wipe out చేసింది.
 
-కొన్ని సంవత్సరాల్లోనే వారు gold country అంతటా locations open చేశారు.
-
-English
-
-They opened locations all over gold country within a couple years.
+They opened locations all over gold country within a couple years. Their focus on keeping money in the region and serving local clients, rather than sending deposits back east to New York as was the habit of many banking interests, not only earned them loyalty and a reputation for dependability, but it also helped them survive the panic of 1855, which wiped out virtually all of their competition.
 
 ---
 
-Telugu
+San Francisco మీద, దాన్ని build చేస్తున్న miners and merchants మీద hyper-focus చేయడం ద్వారా, Wells, Fargo కొంత time వరకు town లో only option (only game in town) అయ్యింది, ఇది వాళ్లకి local banking business లో even more control consolidate చేయడానికి, తర్వాత అక్కడ నుంచి other areas లోకి rapidly outward expand అవ్వడానికి allow చేసింది.
 
-Depositsను eastకి New Yorkకి పంపే many banking interests habitకు బదులుగా, regionలోనే money keep చేయడం మరియు local clientsకు service చేయడం మీద focus పెట్టడం వాళ్లకు loyalty, dependability reputation తెచ్చింది.
-
-English
-
-Their focus on keeping money in the region and serving local clients, rather than sending deposits back east to New York as was the habit of many banking interests, not only earned them loyalty and a reputation for dependability.
+By hyper-focusing on San Francisco, on the miners and merchants who were building it up, Wells, Fargo became the only game in town for a while, which allowed them to consolidate even more control of the local banking business and then expand rapidly outward into other areas from there.
 
 ---
 
-Telugu
-
-అదే 1855 panicను survive చేయడంలో కూడా సహాయపడింది; ఆ panic వాళ్ల competition దాదాపు అంతా wipe out చేసింది.
-
-English
-
-but it also helped them survive the panic of 1855, which wiped out virtually all of their competition.
-
----
-
-Telugu
-
-San Franciscoపై, దాన్ని build చేస్తున్న miners and merchantsపై hyper-focus చేయడం వల్ల, Wells, Fargo కొంతకాలం only game in town అయింది.
-
-English
-
-By hyper-focusing on San Francisco, on the miners and merchants who were building it up, Wells, Fargo became the only game in town for a while.
-
----
-
-Telugu
-
-దాంతో local banking businessపై మరింత control consolidate చేసుకుని, అక్కడినుంచి other areasకి rapidly expand అయ్యారు.
-
-English
-
-which allowed them to consolidate even more control of the local banking business and then expand rapidly outward into other areas from there.
-
----
-
-Telugu
-
-Levi Strauss Ghirardelli మరియు Wells, Fargo playbooks రెండింటి నుంచి ఒక page తీసుకుని, 1853లో New York నుంచి San Franciscoకి dry goods store open చేయడానికి వచ్చాడు.
-
-English
+Levi Strauss Ghirardelli మరియు Wells, Fargo playbooks నుంచి page తీసుకుని, 1853 లో New York నుంచి San Francisco కి move అయ్యి prospectors మరియు growing local population కి dry goods sell చేసే store open చేసాడు.
 
 Levi Strauss took a page out of both the Ghirardelli and Wells, Fargo playbooks and moved to San Francisco from New York in 1853 to open a store selling dry goods to prospectors and the burgeoning local population.
 
 ---
 
-Telugu
-
-త్వరగా అతను local storesకి dry goods, fabric, mining supplies wholesale చేయడం ప్రారంభించాడు, చివరికి early 1870sలో మనం ఇప్పుడు blue jeans అని పిలిచే businessలోకి వెళ్లాడు.
-
-English
+Quickly area లో other stores కి wholesale చేయడం start చేసాడు—dry goods, fabric, mining supplies—early 1870s లో finally now-called blue jeans లోకి get అయ్యేవరకు.
 
 Quickly he began wholesaling to other stores in the area—dry goods, fabric, mining supplies—before finally getting into what we now call blue jeans in the early 1870s.
 
 ---
 
-Telugu
+అది Reno, Nevada లో ఒక tailor తన denim కొంత buy చేసి, pockets మరియు zipper మీద metal rivets use చేసి దాన్ని more durable pants గా fashion చేయగల way figure out చేసి, తర్వాత Strauss ను new design మీద patents file చేయడానికి money advance (front the money) చేయమని ask చేసినప్పుడు occur అయ్యింది, వాళ్లను partners గా మరియు eventually multimillionaires గా చేస్తూ.
 
-Reno, Nevadaలోని ఒక tailor అతని denim కొని, pockets మరియు zipperపై metal rivets ఉపయోగించి durable pantsగా fashion చేసే మార్గం కనుగొన్నప్పుడు అది జరిగింది.
-
-English
-
-That occurred when a tailor in Reno, Nevada, bought some of his denim, figured out a way to fashion it into more durable pants by using metal rivets on the pockets and the zipper.
+That occurred when a tailor in Reno, Nevada, bought some of his denim, figured out a way to fashion it into more durable pants by using metal rivets on the pockets and the zipper, and then asked Strauss to front the money to file patents on the new design, making them partners and eventually multimillionaires.
 
 ---
 
-Telugu
+Founders తో talk చేసేటప్పుడు చాలా occasions మీద ఇది నన్ను struck అయ్యింది—Levi's route through gold rush తీసుకోవడం far cheaper, much less risky, మరియు mother lode కి mine చేయడానికి all in వెళ్ళడం కంటే—or modern-day entrepreneurship భాషలో, unicorn (billion-dollar startup) ను chase చేయడం కంటే—potentially just as profitable.
 
-తర్వాత ఆ tailor కొత్త designపై patents file చేయడానికి Strauss money front చేయమని అడిగాడు; దాంతో వారు partners అయ్యి, చివరికి multimillionaires అయ్యారు.
-
-English
-
-and then asked Strauss to front the money to file patents on the new design, making them partners and eventually multimillionaires.
+It has struck me on more than a few occasions when talking to founders that taking Levi's route through a gold rush is far cheaper, much less risky, and potentially just as profitable as going all in to mine for the mother lode itself—or to chase a unicorn, in the language of modern-day entrepreneurship.
 
 ---
 
-Telugu
-
-Foundersతో మాట్లాడినప్పుడు ఎన్నోసార్లు నాకు అనిపించింది: gold rushలో Levi route తీసుకోవడం mother lodeనే mine చేయడానికి all in వెళ్లడానికంటే చాలా cheaper, much less risky, మరియు potentially just as profitable.
-
-English
-
-It has struck me on more than a few occasions when talking to founders that taking Levi’s route through a gold rush is far cheaper, much less risky, and potentially just as profitable as going all in to mine for the mother lode itself.
-
----
-
-Telugu
-
-లేదా modern-day entrepreneurship భాషలో చెప్పాలంటే, unicornని chase చేయడానికంటే.
-
-English
-
-—or to chase a unicorn, in the language of modern-day entrepreneurship.
-
----
-
-Telugu
-
-Mission Street southలో office space నింపుతున్న tech companies launch చేయడానికి అవసరమైన hundreds of millions of venture dollars గురించి ఆలోచించండి.
-
-English
+Just Mission Street ను line చేసిన handful of tech companies launch చేయడానికి, Market కి south ఉన్న office space fill చేయడానికి required hundreds of millions of venture dollars గురించి ఆలోచించండి.
 
 Just think about the hundreds of millions of venture dollars required to launch the handful of tech companies lining Mission Street, filling the office space south of Market.
 
 ---
 
-Telugu
+Uber alone తన founding తర్వాత 10 years లో $20 billion raise చేసింది, మరియు yet, every Uber కి, never made it అయిన hundred Uber competitors లేదా "Uber for ________" companies ఉన్నాయి.
 
-Uber ఒక్కటే founding నుంచి పది సంవత్సరాల్లో $20 billion raise చేసింది.
-
-English
-
-Uber alone has raised $20 billion in the ten years since its founding.
+Uber alone has raised $20 billion in the ten years since its founding, and yet for every Uber, there are a hundred Uber competitors or "Uber for ________" companies that never made it.
 
 ---
 
-Telugu
-
-కానీ ప్రతి Uberకి, succeed కాలేకపోయిన వంద Uber competitors లేదా “Uber for ________” companies ఉన్నాయి.
-
-English
-
-and yet for every Uber, there are a hundred Uber competitors or “Uber for ________” companies that never made it.
-
----
-
-Telugu
-
-అలాంటి capital-intensive, winner-take-all environmentలో succeed అయ్యే possibility, massive boomకి related కానీ adjacentగా ఉన్న small nicheని కనుగొని అక్కడ business build చేయడానికంటే ఎప్పుడూ lowerగానే ఉంటుంది.
-
-English
+ఆ kind capital-intensive, winner-take-all environment లో succeed అయ్యే possibility, massive boom కి related but adjacent ఉన్న small niche find చేసి అక్కడ business build చేయడం కంటే always much lower.
 
 The possibility of succeeding in that kind of capital-intensive, winner-take-all environment has always been much lower than in finding a small niche related but adjacent to a massive boom and building a business there.
 
 ---
 
-Telugu
-
-1980s ప్రారంభంలో UCLAలో young studentగా ఉన్నప్పుడు, consumer electronics maker Belkin International founder Chet Pipkin కూడా ఇదే conclusionకు వచ్చాడు.
-
-English
+అదే Chet Pipkin, consumer electronics maker Belkin International యొక్క founder, early 1980s లో UCLA లో young student గా ఉన్నప్పుడు arrive అయిన conclusion.
 
 That was certainly the conclusion Chet Pipkin, the founder of the consumer electronics maker Belkin International, arrived at in the early 1980s when he was a young student at UCLA.
 
 ---
 
-Telugu
-
-అది first tech gold rush—personal computing revolution—ప్రారంభం, Chet ఒక good business idea కోసం computers గురించి తనకు సాధ్యమైనంత నేర్చుకుంటున్నాడు.
-
-English
+ఇది very first tech gold rush—personal computing revolution—beginning, మరియు Chet good business idea search చేస్తూ computers గురించి everything learn చేస్తున్నాడు.
 
 It was the beginning of the very first tech gold rush—the personal computing revolution—and Chet was learning everything he could about computers in search of a good business idea.
 
 ---
 
-Telugu
+PC maker అవ్వాలని ఒక minute ఆలోచించాడు, అది "pretty quickly dismissed" అయ్యింది, అతను చెప్పాడు, ఎందుకంటే "నేను imagine చేయగలిగే దానికంటే ఎక్కువ capital take అయ్యేది, మరియు ఆ space ను target చేస్తూ చాలామంది people ఉన్నట్లు seem అయ్యేది."
 
-ఒక నిమిషం PC maker అవ్వాలని ఆలోచించాడు, కానీ అది “pretty quickly dismissed,” అని అతను అన్నాడు.
-
-English
-
-He thought about becoming a PC maker for a minute, though that was “pretty quickly dismissed,” he said.
+He thought about becoming a PC maker for a minute, though that was "pretty quickly dismissed," he said, because "the amount of capital it would have taken would have been more than I could have imagined, and there seemed to be a lot of people going after that space."
 
 ---
 
-Telugu
+1982 నాటికి, IBM మరియు Commodore including, already half dozen PC manufacturers market లో machine తో ఉన్నారు. 1984 నాటికి, Apple including, ఇంకొక 4 ఉండేవి.
 
-ఎందుకంటే “the amount of capital it would have taken would have been more than I could have imagined, and there seemed to be a lot of people going after that space.”
-
-English
-
-because “the amount of capital it would have taken would have been more than I could have imagined, and there seemed to be a lot of people going after that space.”
+By 1982, there were already a half dozen PC manufacturers with a machine on the market, including IBM and Commodore. By 1984, there would be four more, including Apple.
 
 ---
 
-Telugu
+South Los Angeles లో parents తో home లో living అయ్యే 22-year-old కి అది చాలా big-time competition.
 
-1982 నాటికే IBM మరియు Commodoreతో సహా అరడజను PC manufacturers marketలో machineతో ఉన్నారు.
-
-English
-
-By 1982, there were already a half dozen PC manufacturers with a machine on the market, including IBM and Commodore.
+That's a lot of big-time competition for a twenty-two-year-old living at home with his parents in South Los Angeles.
 
 ---
 
-Telugu
+మరియు IBM just computer maker కాదు; వాళ్లు 13 years earlier Apollo moon landing mission వెనుక చాలా computing engine ను build మరియు program చేసారు.
 
-1984 నాటికి, Appleతో సహా ఇంకో నలుగురు ఉండేవారు.
-
-English
-
-By 1984, there would be four more, including Apple.
+And IBM wasn't just a computer maker; they had built and programmed the computing engine behind much of the Apollo moon landing mission thirteen years earlier.
 
 ---
 
-Telugu
+Commodore 64 కి ఆ point వరకు ఎవరూ చూసిన లేదా hear చేసిన best graphics మరియు sound ఉన్నాయి. మరియు, well, Apple ఏం అవుతుందో మనందరికీ తెలుసు.
 
-South Los Angelesలో parentsతో ఇంట్లో living చేస్తున్న twenty-two-year-oldకి అది చాలా big-time competition.
-
-English
-
-That’s a lot of big-time competition for a twenty-two-year-old living at home with his parents in South Los Angeles.
+The Commodore 64 had the best graphics and sound that anyone had ever seen or heard to that point. And, well, we all know what would become of Apple.
 
 ---
 
-Telugu
-
-IBM కేవలం computer maker మాత్రమే కాదు; పదమూడు సంవత్సరాల ముందు Apollo moon landing mission వెనుక computing engineను build చేసి programmed చేసింది.
-
-English
-
-And IBM wasn’t just a computer maker; they had built and programmed the computing engine behind much of the Apollo moon landing mission thirteen years earlier.
-
----
-
-Telugu
-
-Commodore 64 అప్పటివరకు ఎవ్వరూ చూడని లేదా వినని best graphics and sound కలిగి ఉంది.
-
-English
-
-The Commodore 64 had the best graphics and sound that anyone had ever seen or heard to that point.
-
----
-
-Telugu
-
-మరి Appleకి ఏమవుతుందో మనందరికీ తెలుసు.
-
-English
-
-And, well, we all know what would become of Apple.
-
----
-
-Telugu
-
-ఇది మీరు dip your toe చేసి lose your shirt అవ్వకుండా ఉండగల business కాదు.
-
-English
+ఇది just toe dip చేయొచ్చు మరియు lose your shirt అవ్వకుండా (lose money completely) expect చేయొచ్చు అని అనుకునే business కాదు.
 
 This was not a business you could just dip your toe into and not expect to lose your shirt.
 
 ---
 
-Telugu
-
-అది Chetకు పెద్ద concern కాదు, ఎందుకంటే nascent personal computing industryని understand చేస్తూ అతనికి వచ్చిన earliest realizationsలో ఒకటి: marketplaceలో gaps ఉంటాయి, అతనిలాంటి someone fill చేయగల gaps.
-
-English
+However, ఇది Chet కి much concern of కాదు, ఎందుకంటే తన earliest realizations లో ఒకటి, brand-new (nascent) personal computing industry ను understand చేయడానికి work చేస్తూ, marketplace లో gaps ఉంటాయి, తన లాంటి వాళ్ళు fill చేయగలవు.
 
 That was not of much concern to Chet, however, because one of his earliest realizations, as he worked to understand the nascent personal computing industry, was that there would be gaps in the marketplace that someone like him could fill.
 
 ---
 
-Telugu
+"ఇది inevitable," అతను ఆలోచించాడు, "people about which not thinking అయిన things ఉండబోతున్నాయి. వాటి exactly ఏంటో నాకు తెలియదు, కానీ నేను అలాంటి కోసం look చేస్తున్నానని తెలుసు."
 
-“ఇది inevitable,” అని అతను అనుకున్నాడు, “people ఆలోచించని things to do ఉండబోతున్నాయి.”
-
-English
-
-“It’s inevitable,” he thought, “that there were going to be things to do that people were not thinking about.
+"It's inevitable," he thought, "that there were going to be things to do that people were not thinking about. I didn't know exactly what those were, but I knew that was the kind of thing I was looking for."
 
 ---
 
-Telugu
-
-“అవి exactly ఏమిటో నాకు తెలియదు, కానీ నేను వెతుకుతున్నది అలాంటి thing అని నాకు తెలుసు.”
-
-English
-
-I didn’t know exactly what those were, but I knew that was the kind of thing I was looking for.”
-
----
-
-Telugu
-
-Sceneలో immerse అవడం, local computer storesలో hang out చేయడం ద్వారా అతను తన niche కనుగొన్నాడు.
-
-English
+Scene లో తనను తాను immerse చేసుకుని local computer stores లో hangout అవ్వడం ద్వారా తన niche find చేసాడు.
 
 He found his niche by immersing himself in the scene and hanging out at local computer stores.
 
 ---
 
-Telugu
+"నేను just watch చేసాను," అతను గుర్తు చేసుకున్నాడు, "మరియు almost day one నుంచి miss అవ్వడం impossible అయిన things లో ఒకటి—PC మరియు printer buy చేసే folks, తర్వాత 'Well, ఇది ఎలా work చేయాలి?' అని అడిగేవారు."
 
-“నేను కేవలం watched,” అని అతను గుర్తుచేసుకున్నాడు.
-
-English
-
-“I just watched,” he remembered.
+"I just watched," he remembered, "and one of the things that was impossible to miss, almost from day one, was folks who would buy a PC and a printer and then they would say, 'Well, how do I make this work?'"
 
 ---
 
-Telugu
+Today, ఆ question outdated relic (anachronism) లాగా feel అవుతుంది. మీకు reasonably new computer మరియు printer ఉంటే, plug in చేసి turn on చేస్తారు, మరియు వాళ్లు Wi-Fi మీద ఒకరిని ఒకరు find చేసి connect అవుతారు.
 
-“Day one నుంచే miss చేయలేని విషయం ఏమిటంటే, folks PC మరియు printer కొని, ‘Well, how do I make this work?’ అని అడిగేవారు.”
-
-English
-
-“and one of the things that was impossible to miss, almost from day one, was folks who would buy a PC and a printer and then they would say, ‘Well, how do I make this work?’”
+Today, that question feels like an anachronism. If you have a computer and a printer that are reasonably new, you plug them in and turn them on, and they find each other over Wi-Fi and connect.
 
 ---
 
-Telugu
+1982 లో things ఎక్కువ different గా ఉండలేకపోయేవి. "Computers ఈ different manufacturers అందరి ద్వారా make అవుతున్నాయి," Chet explain చేసాడు. "వాళ్ల మీద different connectors ఉండేవి; printers మీద different connectors ఉండేవి. Just stuff ను work చేయించుకోవడానికి try చేసే folks కి absolute nightmare."
 
-ఈరోజు ఆ question anachronismలా అనిపిస్తుంది.
-
-English
-
-Today, that question feels like an anachronism.
+Things could not have been more different in 1982. "Computers were being made by all these different manufacturers," Chet explained. "They had different connectors on them; the printers had different connectors on them. It was an absolute nightmare for folks who were just trying to get this stuff to work for them."
 
 ---
 
-Telugu
-
-మీ దగ్గర reasonably new computer మరియు printer ఉంటే, వాటిని plug in చేసి turn on చేస్తారు; అవి Wi-Fi ద్వారా ఒకదానిని ఒకటి find చేసుకుని connect అవుతాయి.
-
-English
-
-If you have a computer and a printer that are reasonably new, you plug them in and turn them on, and they find each other over Wi-Fi and connect.
-
----
-
-Telugu
-
-1982లో things పూర్తిగా differentగా ఉన్నాయి.
-
-English
-
-Things could not have been more different in 1982.
-
----
-
-Telugu
-
-“Computers అన్నీ different manufacturers తయారు చేస్తున్నాయి,” అని Chet explain చేశాడు.
-
-English
-
-“Computers were being made by all these different manufacturers,” Chet explained.
-
----
-
-Telugu
-
-“వాటికి different connectors ఉన్నాయి; printersకి different connectors ఉన్నాయి.”
-
-English
-
-“They had different connectors on them; the printers had different connectors on them.
-
----
-
-Telugu
-
-“ఈ stuff తమకు work అయ్యేలా చేయడానికి ప్రయత్నిస్తున్న folksకి అది absolute nightmare.”
-
-English
-
-It was an absolute nightmare for folks who were just trying to get this stuff to work for them.”
-
----
-
-Telugu
-
-ఇది Great Britain మరియు United Statesలో railroad early daysలాగే ఉంది; countryలో different partsలో train tracks different widthsలో, railcars different linkage mechanismsతో ఉండేవి.
-
-English
+ఇది Great Britain మరియు United States లో railroad early days లాగా ఉంది, country యొక్క different parts లో train tracks different widths లో ఉండేవి మరియు railcars ఎవరు manufacture మరియు ఎవరు own చేసారు అనే దాని మీద different linkage mechanisms ఉండేవి.
 
 It was like the early days of the railroad in Great Britain and the United States, when train tracks were of different widths in different parts of the country and railcars had different linkage mechanisms depending on who manufactured and who owned the cars.
 
 ---
 
-Telugu
+Entire giant network function చేయడానికి మరియు దాని vast economic potential reach చేయడానికి, ఆ systems అన్నీ standardized లేదా compatible చేయాలి, eventually railroad companies అదే చేసారు.
 
-ఆ giant network మొత్తం function చేసి vast economic potential reach అవ్వాలంటే, ఆ systems అన్నీ standardized చేయాలి లేదా compatible చేయాలి.
-
-English
-
-For the entire giant network to function and reach its vast economic potential, all those systems had to be either standardized or made compatible.
+For the entire giant network to function and reach its vast economic potential, all those systems had to be either standardized or made compatible, which is eventually what the railroad companies did.
 
 ---
 
-Telugu
+వాళ్లు standard set of railway gauges and widths మీద agree చేసారు, తర్వాత తమ railcars ను more easily join చేయడానికి coupling mechanisms set deploy చేయడం start చేసారు, 1873 design of enterprising American inventor Eli Janney మీద based.
 
-చివరికి railroad companies అదే చేశాయి.
-
-English
-
-which is eventually what the railroad companies did.
+They agreed on a standard set of railway gauges and widths, then started deploying a set of coupling mechanisms to more easily join their railcars, based on the 1873 design of an enterprising American inventor named Eli Janney.
 
 ---
 
-Telugu
-
-వారు railway gauges and widthsపై standard setకు agree చేసి, railcarsను సులభంగా join చేయడానికి coupling mechanisms deploy చేయడం ప్రారంభించారు.
-
-English
-
-They agreed on a standard set of railway gauges and widths, then started deploying a set of coupling mechanisms to more easily join their railcars.
-
----
-
-Telugu
-
-ఇవి 1873లో enterprising American inventor Eli Janney designపై based అయ్యాయి.
-
-English
-
-based on the 1873 design of an enterprising American inventor named Eli Janney.
-
----
-
-Telugu
-
-Customers తమ machines connect చేయడంలో struggle అవుతున్నప్పుడు Chet Pipkin చూసిన opportunity ఏమిటంటే, personal computingకి Eli Janney అయ్యే chance.
-
-English
+Customers తమ machines ను connect చేయడానికి struggle అవ్వడం చూసినప్పుడు Chet Pipkin చూసిన opportunity—personal computing యొక్క Eli Janney అవ్వడానికి chance.
 
 The opportunity Chet Pipkin saw when he watched customers struggle to make their machines connect was the chance to be the Eli Janney of personal computing.
 
 ---
 
-Telugu
+"ఈ stuff should work together చేయడానికి elegant tool provide చేయడం ఇక్కడ big void అని miss చేయలేదు," అతను అన్నాడు. తన మాటల్లో, ఇది "hardware make చేయడం కంటే even more attractive (compelling) మరియు more exciting గా look అయ్యే opportunity."
 
-“ఇక్కడ big void ఏమిటంటే, ఈ stuff work together the way that it should అయ్యేలా elegant tool provide చేయడం,” అని అతను అన్నాడు.
-
-English
-
-“There was no missing that the big void here was providing an elegant tool to make this stuff work together the way that it should,” he said.
+"There was no missing that the big void here was providing an elegant tool to make this stuff work together the way that it should," he said. It was an opportunity that, in his words, "looked even more compelling and more exciting than making the hardware."
 
 ---
 
-Telugu
+కాబట్టి అదే Chet తీసుకున్న path. తన brother మరియు తన father help తో—who was a great toolmaker—four-by-eight-foot piece of plywood మరియు laminate overlay use చేసి తన parents' garage లో makeshift workbench pull together చేసాడు, తర్వాత first generation PCs ను first generation printers తో work చేయడానికి allow చేసే cables లోకి bunch of wires మరియు prefabricated connectors ను Frankenstein-style assemble (frankensteining) చేయడం start చేసాడు.
 
-అది అతని మాటల్లో, “looked even more compelling and more exciting than making the hardware.”
-
-English
-
-It was an opportunity that, in his words, “looked even more compelling and more exciting than making the hardware.”
+So that is the path Chet took. With the help of his brother and his father, who was a great toolmaker, he pulled together a makeshift workbench in his parents' garage using a four-by-eight-foot piece of plywood and a laminate overlay, then set to frankensteining a bunch of wires and prefabricated connectors into cables that allowed the first generation of PCs to work with the first generation of printers.
 
 ---
 
-Telugu
+అవి pretty కాదు, Chet తన own admission ద్వారా, కానీ function చేసాయి, మరియు very quickly customers find చేసాయి, beginning లో buyers find చేయడానికి తను go out and actively chase deals (hustle) చేయాల్సి వచ్చినప్పటికీ.
 
-కాబట్టి Chet ఆ path తీసుకున్నాడు.
-
-English
-
-So that is the path Chet took.
+They weren't pretty, by Chet's own admission, but they functioned, and they very quickly found customers, even if he had to go out and hustle to find buyers in the beginning.
 
 ---
 
-Telugu
+Eventually, customers తనను find చేయడం start చేసారు. Belkin first ad ను Computer Dealer magazine లో run చేసినప్పుడు, Carnegie Mellon University student store నుంచి IBM PC మీద parallel port నుంచి Epson printer కి వెళ్ళే 100 cables order వచ్చింది.
 
-తన brother మరియు great toolmaker అయిన father సహాయంతో, parents’ garageలో four-by-eight-foot plywood piece మరియు laminate overlayతో makeshift workbench తయారు చేశాడు.
-
-English
-
-With the help of his brother and his father, who was a great toolmaker, he pulled together a makeshift workbench in his parents’ garage using a four-by-eight-foot piece of plywood and a laminate overlay.
+Eventually, though, customers started finding him. When he ran Belkin's first ad in Computer Dealer magazine, they got an order from the student store at Carnegie Mellon University for 100 cables that went from the parallel port on an IBM PC to an Epson printer.
 
 ---
 
-Telugu
+"అది మా biggest orders ever లో ఒకటి," Chet 1982 లో early progress గురించి అన్నాడు, ఆ point లో వాళ్ల success మీద only limiting factor (constraint), తను concerned అయినంత వరకు, cables quickly enough make చేయగల ability.
 
-తర్వాత bunch of wires మరియు prefabricated connectorsను frankensteining చేసి, first generation PCs first generation printersతో work అయ్యే cablesగా మార్చడం ప్రారంభించాడు.
-
-English
-
-then set to frankensteining a bunch of wires and prefabricated connectors into cables that allowed the first generation of PCs to work with the first generation of printers.
+"It was one of our biggest orders ever," Chet said of their early progress in 1982, at which point the only constraint on their success, as far as he was concerned, was their ability to make cables quickly enough.
 
 ---
 
-Telugu
+Chet ఆ problem ను a couple dozen people hire చేయడం ద్వారా solve చేసాడు, వాళ్లు 1983 end నాటికి sales ను $180,000 కి grow చేయడంలో help చేసారు, Belkin's first full year in business.
 
-Chet స్వయంగా ఒప్పుకున్నట్లుగా అవి pretty కాదు, కానీ function అయ్యాయి, మరియు చాలా త్వరగా customers దొరికారు.
-
-English
-
-They weren’t pretty, by Chet’s own admission, but they functioned, and they very quickly found customers.
+Chet solved that problem by hiring a couple dozen people, who helped him grow sales to $180,000 by the end of 1983, Belkin's first full year in business.
 
 ---
 
-Telugu
-
-ప్రారంభంలో buyers కనుగొనడానికి అతనే go out and hustle చేయాల్సి వచ్చినా, చివరికి customers అతన్ని find చేయడం ప్రారంభించారు.
-
-English
-
-even if he had to go out and hustle to find buyers in the beginning. Eventually, though, customers started finding him.
-
----
-
-Telugu
-
-Computer Dealer magazineలో Belkin first ad run చేసినప్పుడు, Carnegie Mellon University student store నుంచి IBM PC parallel port నుంచి Epson printerకి వెళ్లే 100 cables order వచ్చింది.
-
-English
-
-When he ran Belkin’s first ad in Computer Dealer magazine, they got an order from the student store at Carnegie Mellon University for 100 cables that went from the parallel port on an IBM PC to an Epson printer.
-
----
-
-Telugu
-
-“అది మా biggest ordersలో ఒకటి,” అని Chet 1982లో వారి early progress గురించి అన్నాడు.
-
-English
-
-“It was one of our biggest orders ever,” Chet said of their early progress in 1982.
-
----
-
-Telugu
-
-ఆ సమయంలో, అతని దృష్టిలో successపై ఉన్న only constraint, cablesను enough quickly make చేయగల ability మాత్రమే.
-
-English
-
-at which point the only constraint on their success, as far as he was concerned, was their ability to make cables quickly enough.
-
----
-
-Telugu
-
-Chet ఆ problemను couple dozen people hire చేసి solve చేశాడు; వాళ్లు 1983 చివరికి, Belkin first full yearలో, salesను $180,000కి grow చేయడంలో సహాయపడ్డారు.
-
-English
-
-Chet solved that problem by hiring a couple dozen people, who helped him grow sales to $180,000 by the end of 1983, Belkin’s first full year in business.
-
----
-
-Telugu
-
-Young industryలో tremendous growth potential కనిపిస్తున్నప్పుడు, garageలో పనిచేసే small group నుంచి వచ్చిన ఆ రకమైన early, explosive successను dismiss చేయకూడదు.
-
-English
+Tremendous growth potential చూపించే young industry లో garage లో work చేస్తున్న small group నుంచి ఆ kind early, explosive success ను dismiss చేయకూడదు.
 
 That kind of early, explosive success from a small group working out of a garage in a young industry that shows tremendous growth potential is not to be dismissed.
 
 ---
 
-Telugu
+ఇది question begs చేస్తుంది: Why wouldn't (or didn't) space లో big players ఈ opportunity ను Chet did విధంగా identify చేసి తర్వాత Belkin many years పాటు not be able to చేయగల scale లో ఆ value అంతా capture చేయడానికి move అవ్వలేదు?
 
-దాంతో question వస్తుంది: big players ఎందుకు ఈ opportunityని Chetలాగా identify చేసి, Belkinకి years తర్వాత మాత్రమే సాధ్యమయ్యే scaleలో ఆ value మొత్తం capture చేయలేదు?
-
-English
-
-Which begs the question: Why wouldn’t (or didn’t) the big players in the space identify this opportunity the way Chet did and then move to capture all that value at a scale Belkin wouldn’t be able to for a number of years?
+Which begs the question: Why wouldn't (or didn't) the big players in the space identify this opportunity the way Chet did and then move to capture all that value at a scale Belkin wouldn't be able to for a number of years?
 
 ---
 
-Telugu
-
-Chet ప్రకారం answer ఏమిటంటే, boom timeలో entrepreneurకి small nicheను find చేసి own చేయడం ఎందుకు valuable strategyో చెప్పే reasonsలో ఒకటి.
-
-English
+Answer, Chet ప్రకారం, boom time లో entrepreneur కి small niche find చేయడం మరియు own చేయడం అంత valuable strategy అవ్వడానికి ఒక reasons.
 
 The answer, according to Chet, is one of the reasons that finding and owning a small niche is such a valuable strategy for an entrepreneur during a boom time.
 
 ---
 
-Telugu
+"IBM తమ hands full enough PCs make చేయడంలో ఉన్నారు," Chet explain చేసాడు. "Years పాటు enough of them just build అవ్వలేదు, మరియు ఏ given small business or consumer ఏ printer choose చేస్తారో వాళ్లకి no idea, కాబట్టి which one thing make చేయాలో కూడా వాళ్లకి తెలియదు."
 
-“IBM had their hands full just making enough PCs,” అని Chet explain చేశాడు.
-
-English
-
-“IBM had their hands full just making enough PCs,” Chet explained.
+"IBM had their hands full just making enough PCs," Chet explained. "For years there were just not enough of them getting built, and they had no idea what printer any given small business or consumer was going to choose anyway, so they wouldn't even know which one thing to make."
 
 ---
 
-Telugu
-
-“సంవత్సరాల పాటు సరిపడా PCs build కావడం లేదు, మరియు ఏ small business లేదా consumer ఏ printer choose చేస్తారో వాళ్లకు idea లేదు; కాబట్టి ఏ one thing make చేయాలో కూడా వాళ్లకు తెలియదు.”
-
-English
-
-“For years there were just not enough of them getting built, and they had no idea what printer any given small business or consumer was going to choose anyway, so they wouldn’t even know which one thing to make.”
-
----
-
-Telugu
-
-అతని point ఏమిటంటే, ఒక వైపు IBM మరియు ఇతర PC makers తమ principal businessలో చేయాల్సిన work చాలా ఎక్కువగా ఉండడంతో, వాళ్లు too smallగా అనిపించిన opportunityని care చేయలేకపోయారు లేదా understand చేయలేకపోయారు.
-
-English
+తన point ఏమిటంటే, one hand మీద, IBM మరియు వాళ్ల లాంటి other PC makers కి principal business లో too much work ఉంది, వాళ్లు too small opportunity గా feel చేసే ఏదైనా దాని గురించి care చేయడానికి లేదా understand చేయడానికి కూడా.
 
 His point was that, on the one hand, IBM and other PC makers like them had too much work to do in their principal business to care about or even understand something they felt was too small of an opportunity.

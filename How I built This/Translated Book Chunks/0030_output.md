@@ -1,741 +1,357 @@
-Telugu
-Classలో ఒక సమయంలో, leaders తమ organizationsలో meaningful change ఎలా effect చేయగలరో Heifetz మాట్లాడుతున్నప్పుడు, అతను dance floor మరియు balcony అనే తన famous ballroom metaphorని sketch చేశాడు.
+Class లో ఒక point వద్ద, organizations లో leaders meaningful change ఎలా effect చేయగలరో about మాట్లాడుతున్నప్పుడు, అతను తన now-famous ballroom metaphor — dance floor and the balcony — sketch చేశాడు.
 
-English
 At one point in the class, as he talked about how leaders can effect meaningful change in their organizations, he sketched out his now-famous ballroom metaphor of the dance floor and the balcony.
 
 ---
 
-Telugu
-Idea ఏమిటంటే, మీరు dance floorపై ఉన్నప్పుడు, మీ focus మీ partnerపై మరియు చుట్టూ తిరుగుతున్న ఇతర dancersతో collide కాకుండా ఉండడంపైనే ఉంటుంది.
+Idea ఏంటంటే — మీరు dance floor మీద down ఉన్నప్పుడు, మీ focus usually మీ partner మీద, మీ చుట్టూ spinning అవుతున్న other dancers తో collide అవ్వకుండా ఉండటం మీద ఉంటుంది — ఇది తరచూ ballroom ని crowded, chaotic environment గా impression ఇస్తుంది — దానికి మీరు react చేయడానికి prepared గా ఉండాలి.
 
-English
-The idea is that when you’re down on the dance floor, your focus tends to be on your partner and on not colliding with other dancers spinning around you...
+The idea is that when you're down on the dance floor, your focus tends to be on your partner and on not colliding with other dancers spinning around you, which can often leave you with the impression that the ballroom is a crowded, chaotic environment to which you must be prepared to react.
 
 ---
 
-Telugu
-దాంతో ballroom ఒక crowded, chaotic environmentలా అనిపిస్తుంది, దానికి మీరు react చేయడానికి readyగా ఉండాలి అనిపిస్తుంది.
+కానీ మీరు మిమ్మల్ని తీసివేసి (remove yourself), balcony కి తోవ కనుగొని, dance floor మీద down look చేస్తే — view పూర్తిగా different గా ఉంటుంది, often మీరు ఎప్పుడూ expect చేయని ways లో.
 
-English
-...which can often leave you with the impression that the ballroom is a crowded, chaotic environment to which you must be prepared to react.
+But if you remove yourself, find your way up to the balcony, and look down on the dance floor, the view is completely different, often in ways you never could have expected.
 
 ---
 
-Telugu
-కానీ మీరు మీరే బయటకు వచ్చి, balconyకి వెళ్లి, dance floorని పై నుంచి చూస్తే, view పూర్తిగా differentగా ఉంటుంది.
+Sometimes floor ground level వద్ద feel అయినట్టు nearly అంత crowded గా ఉండదు. Other times crowded గా అవుతుంది, కానీ ఒక particular set of circumstances లో మాత్రమే.
 
-English
-But if you remove yourself, find your way up to the balcony, and look down on the dance floor, the view is completely different...
+Sometimes the floor isn't nearly as crowded as it felt at ground level. Other times it gets crowded, but only in a particular set of circumstances.
 
 ---
 
-Telugu
-అది మీరు ground levelలో ఉన్నప్పుడు expect చేయలేని waysలో differentగా ఉండొచ్చు.
+Inevitably, patterns emerge చేస్తాయి, మరియు కొద్ది కాలంలోనే మొదట్లో chaotic గా feel అయిన behavior ఇప్పుడు predictable గా అనిపిస్తుంది.
 
-English
-...often in ways you never could have expected.
+Inevitably, patterns emerge, and before long behavior that at first felt chaotic now seems predictable.
 
 ---
 
-Telugu
-కొన్ని సార్లు floor ground levelలో feel అయినంత crowdedగా అసలు ఉండదు.
+ఇది crisis, struggle and uncertainty times గుండా leadership challenges face చేయడానికి Heifetz strategy — మీరు sports play చేసినా, army command చేసినా, లేదా business run చేసినా.
 
-English
-Sometimes the floor isn’t nearly as crowded as it felt at ground level.
+This is Heifetz's strategy for facing the challenges of leadership through crisis, through times of struggle and uncertainty, whether you play sports or command an army or run a business.
 
 ---
 
-Telugu
-మరికొన్ని సార్లు అది crowded అవుతుంది, కానీ కేవలం particular set of circumstancesలో మాత్రమే.
+ఏం చేయాలో తెలుసుకోవడానికి, మీ situation యొక్క true understanding ఉండాలి.
 
-English
-Other times it gets crowded, but only in a particular set of circumstances.
-
----
-
-Telugu
-Inevitably, patterns emerge అవుతాయి.
-
-English
-Inevitably, patterns emerge...
-
----
-
-Telugu
-ముందుగా chaoticగా అనిపించిన behavior, కొంతసేపటికి predictableగా కనిపించడం ప్రారంభిస్తుంది.
-
-English
-...and before long behavior that at first felt chaotic now seems predictable.
-
----
-
-Telugu
-Crisis, struggle, uncertainty timesలో leadership challengesని face చేయడానికి Heifetz strategy ఇదే.
-
-English
-This is Heifetz’s strategy for facing the challenges of leadership through crisis, through times of struggle and uncertainty...
-
----
-
-Telugu
-మీరు sports ఆడినా, army command చేసినా, business run చేసినా — principle అదే.
-
-English
-...whether you play sports or command an army or run a business.
-
----
-
-Telugu
-ఏం చేయాలో తెలుసుకోవాలంటే, మీ situationపై true understanding ఉండాలి.
-
-English
 To know what to do, you need to have a true understanding of your situation.
 
 ---
 
-Telugu
-Heifetz రాసినట్లుగా, realityపై clearer view మరియు bigger pictureపై perspective పొందడానికి only way, fray నుంచి distance తీసుకోవడం.
+And, as Heifetz has written, "reality యొక్క clearer view, bigger picture మీద కొంత perspective — రెండూ gain చేయడానికి only way — fray (intense conflict — తీవ్రమైన పోరాటం) నుండి మిమ్మల్ని distancing (దూరం చేసుకోవడం) చేసుకోవడమే."
 
-English
-And, as Heifetz has written, “the only way you can gain both a clearer view of reality and some perspective on the bigger picture is by distancing yourself from the fray.”
+And, as Heifetz has written, "the only way you can gain both a clearer view of reality and some perspective on the bigger picture is by distancing yourself from the fray."
 
 ---
 
-Telugu
-Trick ఏమిటంటే, ఆ perspectiveని మళ్లీ dance floorకి తీసుకెళ్లి, మొదట balconyకి పంపించిన challengesకే apply చేయడం.
+The trick is ఆ perspective ని తిరిగి dance floor కి తీసుకొచ్చి, మిమ్మల్ని balcony కి పంపిన challenges కి apply చేయడం.
 
-English
 The trick is in taking that perspective back down to the dance floor with you and then applying it to the challenges that sent you up to the balcony in the first place.
 
 ---
 
-Telugu
-ఇది నిజంగా trickే, ఎందుకంటే struggleలో caught up అయినప్పుడు action నుంచి remove అవ్వడాన్ని మీ instinct resist చేస్తుంది.
+And make no mistake, ఇది ఒక trick — ఎందుకంటే మీరు struggle లో caught up అయినప్పుడు మీ instinct మిమ్మల్ని action నుండి తీసివేయడాన్ని resist చేయడం.
 
-English
-And make no mistake, it is a trick, because your instinct when you’re caught up in the struggle is to resist removing yourself from the action.
+And make no mistake, it is a trick, because your instinct when you're caught up in the struggle is to resist removing yourself from the action.
 
 ---
 
-Telugu
-ఎవరైనా లేదా ఏదైనా మిమ్మల్ని అక్కడికి తీసుకెళ్లేందుకు, మీలో just enough wherewithal ఉండాలి.
+మీకు just enough wherewithal (mental strength — మానసిక శక్తి) ఉండాలి — ఎవరో లేదా ఏదో మిమ్మల్ని అక్కడికి తీసుకెళ్ళడానికి allow చేయడానికి.
 
-English
-You’ll need to have just enough wherewithal to let someone or something take you there.
+You'll need to have just enough wherewithal to let someone or something take you there.
 
 ---
 
-Telugu
-Airbnb guysకి Y Combinatorలో Paul Graham ఉన్నాడు.
+Airbnb guys కి Y Combinator లో Paul Graham ఉన్నాడు. అతనే వాళ్ళని zoom out చేయించి, తమ biggest pool of users New York City లో ఉందని, వాళ్ళు తమ growth problems solve చేయాలంటే solution likely Silicon Valley లో కాదు, అక్కడే ఉందని recognize చేయించాడు.
 
-English
-The Airbnb guys had Paul Graham at Y Combinator.
+The Airbnb guys had Paul Graham at Y Combinator. He's the one who made them zoom out and recognize that their biggest pool of users was in New York City, and if they were going to solve their growth problems, the solution was likely there, not in Silicon Valley.
 
 ---
 
-Telugu
-వారి biggest pool of users New York Cityలో ఉందని zoom out చేసి recognize చేయించినవాడు అతనే.
+Gary Hirshberg and Samuel Kaymen కి Paul Graham లాంటి ఎవరూ లేరు, కానీ వాళ్ళకి ఉన్నది entrepreneurial version of a near-death experience (మరణం దగ్గరికి వెళ్ళి తిరిగొచ్చిన experience) — అది వాళ్ళని తమ bodies లోంచి బయటకు తీసి, Vermont dairy deal terms change చేయడం వల్ల — Stonyfield ని save చేస్తుందనుకున్న deal — conference room floor మీద bloodied and dying గా left చేసిన business carcass (corpse — శవం) ని reckon (face) చేయడానికి force చేసింది.
 
-English
-He’s the one who made them zoom out and recognize that their biggest pool of users was in New York City...
+Gary Hirshberg and Samuel Kaymen didn't have a Paul Graham, but what they did have was the entrepreneurial version of a near-death experience that took them out of their bodies and forced them to reckon with the carcass of a business that the Vermont dairy had left bloodied and dying on a conference room floor after changing the terms of the deal that was supposed to save Stonyfield.
 
 ---
 
-Telugu
-Growth problems solve చేయాలంటే solution Silicon Valleyలో కాదు, అక్కడే ఉండే అవకాశం ఉందని అతను చూపించాడు.
+Only then was there enough distance from the daily grind (everyday repetitive work — రోజువారీ exhausting పని), from the weekly payroll anxiety, to recognize the space that was there for them to build their own plant and to solve their own capacity problems.
 
-English
-...and if they were going to solve their growth problems, the solution was likely there, not in Silicon Valley.
-
----
-
-Telugu
-Gary Hirshberg మరియు Samuel Kaymenకి Paul Graham లేడు.
-
-English
-Gary Hirshberg and Samuel Kaymen didn’t have a Paul Graham...
-
----
-
-Telugu
-కానీ వాళ్లకు entrepreneurial version of a near-death experience ఉంది.
-
-English
-...but what they did have was the entrepreneurial version of a near-death experience...
-
----
-
-Telugu
-Vermont dairy deal terms మార్చిన తర్వాత, ఆ experience వాళ్లను daily grind నుంచి బయటకు తీసి, bloodied and dying business carcassని conference room floorపై చూడాల్సి వచ్చింది.
-
-English
-...that took them out of their bodies and forced them to reckon with the carcass of a business that the Vermont dairy had left bloodied and dying on a conference room floor after changing the terms of the deal that was supposed to save Stonyfield.
-
----
-
-Telugu
-ఆ దూరం వచ్చిన తర్వాతే, daily grind మరియు weekly payroll anxiety నుంచి enough distance వచ్చి, తమ own plant build చేసి capacity problems solve చేసే space కనిపించింది.
-
-English
 Only then was there enough distance from the daily grind, from the weekly payroll anxiety, to recognize the space that was there for them to build their own plant and to solve their own capacity problems.
 
 ---
 
-Telugu
-మీకు కూడా ఆ రోజు వచ్చినప్పుడు, మీరు మొదటిసారి seriously quitting గురించి ఆలోచించినప్పుడు, true perspectiveనే push forward చేయడానికి courage ఇస్తుంది.
+మీకు ఆ day వచ్చినప్పుడు, మీరు first time quitting గురించి seriously ఆలోచించినప్పుడు — true perspective get అవ్వడం — అది మిమ్మల్ని push forward చేయడానికి courage ఇచ్చేది.
 
-English
 When that day comes for you, when you think seriously about quitting for the first time, getting some true perspective is going to be the thing that gives you the courage to push forward.
 
 ---
 
-Telugu
-“A Servant to Servants” చివర్లో, Robert Frost boardinghouse heroine చివరకు తనకూ, తనతో మాట్లాడుతున్న visitorకూ admit చేస్తుంది: తాను అన్నీ వదిలి woodsలో live చేయడానికి పారిపోదు.
+"A Servant to Servants" end లో, Robert Frost's boardinghouse heroine finally తనకు, తనతో conversation చేస్తున్న visitor కి admit చేస్తుంది — తను అన్నీ వదిలి woods లో live అవ్వడానికి run away అవ్వడం లేదు అని.
 
-English
-At the end of “A Servant to Servants,” Robert Frost’s boardinghouse heroine finally admits, to herself and to the visitor with whom she is having this conversation, that she’s not going to give it all up and run away to live in the woods.
+At the end of "A Servant to Servants," Robert Frost's boardinghouse heroine finally admits, to herself and to the visitor with whom she is having this conversation, that she's not going to give it all up and run away to live in the woods.
 
 ---
 
-Telugu
-ఆమె చేయలేను. ఆమెలో అది లేదు. అది ఆమె ఎవరో కాదు.
+She can't. She doesn't have it in her. It's not who she is.
 
-English
-She can’t. She doesn’t have it in her. It’s not who she is.
+She can't. She doesn't have it in her. It's not who she is.
 
 ---
 
-Telugu
-“Bless you, of course, you’re keeping me from work,” అని ఆమె అంటుంది.
+"Bless you, of course, you're keeping me from work," ఆమె అంటుంది. "But the thing of it is, I need to be kept. There's work enough to do—there's always that."
 
-English
-“Bless you, of course, you’re keeping me from work,” she says.
+"Bless you, of course, you're keeping me from work," she says. "But the thing of it is, I need to be kept. There's work enough to do—there's always that."
 
 ---
 
-Telugu
-“But the thing of it is, I need to be kept. There’s work enough to do—there’s always that.”
+This, to me, is what unifies every successful founder — growth crucible ని survive చేసిన, trough of sorrow ని endure చేసిన, product-market fit కోసం fight చేసిన, quit అవ్వకుండా push forward అవ్వాలని choose చేసిన founders.
 
-English
-“But the thing of it is, I need to be kept. There’s work enough to do—there’s always that.”
+This, to me, is what unifies every successful founder who has survived the crucible of growth, who has endured through the trough of sorrow and fought for product-market fit, and who has chosen not to quit but to push forward.
 
 ---
 
-Telugu
-Growth crucible survive చేసిన ప్రతి successful founderని unify చేసేది ఇదే అని నాకు అనిపిస్తుంది.
+All of them have done whatever it takes to stay alive, to make it another day, to get their product on shelves, to get customers in the door, to get vendors paid, to get investors to write checks.
 
-English
-This, to me, is what unifies every successful founder who has survived the crucible of growth...
-
----
-
-Telugu
-Trough of sorrow endure చేసిన, product-market fit కోసం fight చేసిన, quit కాకుండా push forward చేసిన founders అందరిలో ఇదే common.
-
-English
-...who has endured through the trough of sorrow and fought for product-market fit, and who has chosen not to quit but to push forward.
-
----
-
-Telugu
-వాళ్లంతా stay alive కావడానికి, ఇంకో రోజు survive కావడానికి, product shelvesపై పెట్టడానికి, customers doorలోకి తీసుకురావడానికి, vendors paid అయ్యేలా చేయడానికి, investors checks రాయేలా చేయడానికి whatever it takes చేశారు.
-
-English
 All of them have done whatever it takes to stay alive, to make it another day, to get their product on shelves, to get customers in the door, to get vendors paid, to get investors to write checks.
 
 ---
 
-Telugu
-Balconyపై నిలబడి dance floorని చూస్తున్నప్పుడు, ఈరోజు చేయాల్సినది లేదా రేపు చేయాల్సి రావొచ్చని realize చేసినదే, చివరకు out and through తీసుకెళ్లే one steady pull more అవుతుందనే hopeతో.
+All in the hope that, వాళ్ళు balcony మీద నిలబడి dance floor ని survey చేస్తున్నప్పుడు, వాళ్ళు today చేయాల్సినది, లేదా tomorrow చేయాల్సి వచ్చేది, అదే one steady pull more — చివరికి వాళ్ళని బయటకి, గుండా get చేస్తుంది.
 
-English
 All in the hope that, as they stand on the balcony and survey the dance floor below, whatever they realize they have to do today, or they might have to do tomorrow, is that one steady pull more that will finally get them out and through.
 
 ---
 
-Telugu
-ప్రతి founder unicorn build చేయలేడు.
+15 Fund the Business, Part 3: Professional Money
 
-English
-Not every founder can build a unicorn.
+15 Fund the Business, Part 3: Professional Money
 
 ---
 
-Telugu
-అలా చేయాల్సిన అవసరం కూడా లేదు.
+ప్రతి founder unicorn (billion-dollar startup) build చేయలేరు. అలా చేయాల్సిన అవసరం కూడా లేదు.
 
-English
-Nor should they need to.
+Not every founder can build a unicorn. Nor should they need to.
 
 ---
 
-Telugu
-కొన్ని employeesతో small business run చేస్తూ, retire అయ్యేవరకు bootstrap చేసి, తర్వాత hand down చేయడం లేదా sell off చేయడం తప్పు కాదు.
+ఉదాహరణకి, few employees తో ఒక small business run చేస్తూ, retire అయ్యే వరకు సొంత resources తో grow చేసుకోవడం (bootstrap) లో ఏమీ wrong లేదు — తర్వాత దాన్ని hand down లేదా sell off చేయడం.
 
-English
-There’s nothing wrong, for example, with running a small business with a few employees that you bootstrap until you retire and either hand down or sell off.
+There's nothing wrong, for example, with running a small business with a few employees that you bootstrap until you retire and either hand down or sell off.
 
 ---
 
-Telugu
-అది తప్పు కాకపోవడమే కాదు, నిజానికి norm కూడా అదే.
+అది wrong కాదు మాత్రమే కాదు, నిజానికి అది norm (సాధారణం).
 
-English
-Not only is it not wrong, it’s actually the norm.
+Not only is it not wrong, it's actually the norm.
 
 ---
 
-Telugu
-American small businessesలో vast majorityకి twenty కంటే తక్కువ employees ఉంటారు, లేదా employees అసలు ఉండకపోవచ్చు.
+American small businesses లో vast majority కి twenty కంటే తక్కువ employees ఉంటారు (అసలు employees ఎవరైనా ఉంటే) మరియు annual revenues $300,000 నుండి $2 million మధ్య generate చేస్తాయి.
 
-English
-The vast majority of American small businesses have fewer than twenty employees (if they have any employees at all)...
+The vast majority of American small businesses have fewer than twenty employees (if they have any employees at all) and generate annual revenues somewhere between $300,000 and $2 million.
 
 ---
 
-Telugu
-వాటి annual revenues సాధారణంగా $300,000 మరియు $2 million మధ్య ఉంటాయి.
+Indeed, over the years నేను meet అయిన చాలామంది entrepreneurs ఈ kind of success కోసమే aim చేశారు.
 
-English
-...and generate annual revenues somewhere between $300,000 and $2 million.
+Indeed, most of the entrepreneurs I've met over the years aimed at just this kind of success.
 
 ---
 
-Telugu
-సంవత్సరాలుగా నేను కలిసిన entrepreneursలో చాలామంది ఈ kind of successనే aim చేశారు.
+వాళ్ళు scaling business తో వచ్చే all the things — limitless growth, total market disruption, loads of professional money raise చేయడం — మీద particularly focused అవ్వలేదు.
 
-English
-Indeed, most of the entrepreneurs I’ve met over the years aimed at just this kind of success.
+They weren't particularly focused on all the things that come with scaling a business, such as limitless growth, total market disruption, and raising loads of professional money.
 
 ---
 
-Telugu
-Business scale చేయడానికొచ్చే limitless growth, total market disruption, loads of professional money raise చేయడం లాంటి thingsపై వాళ్లు particularly focused కాలేదు.
+కానీ scale మీ goal అయితే, మరియు bank loans, cash flow మిమ్మల్ని అక్కడికి తీసుకెళ్ళలేకపోతే — at some point, మీరు venture capital world తో engage అవ్వడం find చేస్తారు.
 
-English
-They weren’t particularly focused on all the things that come with scaling a business, such as limitless growth, total market disruption, and raising loads of professional money.
+But if scale is your goal and bank loans and cash flow can't get you there, you will, at some point, find yourself engaging with the venture capital world.
 
 ---
 
-Telugu
-కానీ scale మీ goal అయితే, bank loans మరియు cash flow మీను అక్కడికి తీసుకెళ్లలేకపోతే, ఏదో ఒక pointలో venture capital worldతో engage కావాల్సి వస్తుంది.
+ఒక resource-intensive business ని off the ground get చేయడానికి (start చేయడానికి) ways పరిమితంగానే ఉన్నాయి, after all.
 
-English
-But if scale is your goal and bank loans and cash flow can’t get you there, you will, at some point, find yourself engaging with the venture capital world.
-
----
-
-Telugu
-Resource-intensive businessని ground నుంచి lift చేయడానికి ways అంత ఎక్కువ లేవు.
-
-English
 There are only so many ways to get a resource-intensive business off the ground, after all.
 
 ---
 
-Telugu
-చాలా entrepreneursకి ఇది daunting prospectగా ఉంటుంది.
+ఇది చాలామంది entrepreneurs కి daunting (intimidating — భయపెట్టే) prospect గా అనిపించవచ్చు — venture capital కి ఒక reputation ఉంది: both coasts (Silicon Valley, Midtown Manhattan) లోని small pockets లో operate అయ్యే closed world గా, unwritten rules and unfamiliar terminology తో — plain, clear language లో మాట్లాడడానికి accustomed (అలవాటు) అయిన ఎవరికైనా impenetrable (అర్థం చేసుకోలేనిది) గా feel అవుతుంది.
 
-English
-This can be a daunting prospect for many entrepreneurs...
+This can be a daunting prospect for many entrepreneurs, since venture capital has a reputation as being a closed world that operates in small pockets on both coasts (Silicon Valley and Midtown Manhattan) with unwritten rules and unfamiliar terminology that feels impenetrable to anyone accustomed to speaking in plain, clear language.
 
 ---
 
-Telugu
-ఎందుకంటే venture capitalకి closed world అనే reputation ఉంది — coastsపై చిన్న pocketsలో operate అయ్యే world.
+అక్కడ angels and seed rounds ఉన్నాయి; cap tables and exits; Series A, B, and C dilution and preferred shares; burn rate and run rate.
 
-English
-...since venture capital has a reputation as being a closed world that operates in small pockets on both coasts...
+There are angels and seed rounds; cap tables and exits; Series A, B, and C dilution and preferred shares; burn rate and run rate.
 
 ---
 
-Telugu
-Silicon Valley మరియు Midtown Manhattanలో unwritten rules, unfamiliar terminologyతో plain, clear language మాట్లాడే వారికి impenetrableగా అనిపించే world.
+అక్కడ VCs and PE guys ఉన్నారు; FINRA and NASD and the SEC.
 
-English
-...(Silicon Valley and Midtown Manhattan) with unwritten rules and unfamiliar terminology that feels impenetrable to anyone accustomed to speaking in plain, clear language.
-
----
-
-Telugu
-Angels, seed rounds; cap tables, exits; Series A, B, C dilution, preferred shares ఉంటాయి.
-
-English
-There are angels and seed rounds; cap tables and exits; Series A, B, and C dilution and preferred shares...
-
----
-
-Telugu
-Burn rate, run rate ఉంటాయి.
-
-English
-...burn rate and run rate.
-
----
-
-Telugu
-VCs, PE guys; FINRA, NASD, SEC ఉంటాయి.
-
-English
 There are VCs and PE guys; FINRA and NASD and the SEC.
 
 ---
 
-Telugu
-Vesting, investing, ఇంకా just plain vests కూడా ఉన్నాయి. చాలా vests!
+అక్కడ vesting, investing, and just plain vests ఉన్నాయి. So many vests! It's enough to make a founder's head spin.
 
-English
-There’s vesting, investing, and just plain vests. So many vests!
+There's vesting, investing, and just plain vests. So many vests! It's enough to make a founder's head spin.
 
 ---
 
-Telugu
-Founder head spin అవడానికి చాలు.
+And that's kind of the point. ఈ fuzzy, poorly defined terms అన్నీ deliberately vague గా left చేయబడ్డాయి — opacity (అస్పష్టత) create, maintain చేయడానికి — VCs గురించి వాళ్ళు మీకు తెలియాలని కోరుకోని ఒక thing మీరు discover చేయకూడదని: వాళ్ళు మిగతా మనందరిలాగే human, just అని.
 
-English
-It’s enough to make a founder’s head spin.
+And that's kind of the point. All these fuzzy, poorly defined terms are left deliberately vague in order to create and maintain opacity, lest you discover the one thing about VCs they don't want you to know: that they're human, just like the rest of us.
 
 ---
 
-Telugu
-మరియు అదే kind of point.
+And just like you and me, వాళ్ళు seers (future చూడగలిగే వాళ్ళు) or superheroes కాదు. In fact, most successful ones usually luckiest ones — promising businesses కి early access ఉన్నందుకు lucky, మరియు so much money కి access ఉన్నందుకు lucky — తద్వారా వాళ్ళు a lot of bad bets చేయగలరు మరియు end లో success find చేయగలరు.
 
-English
-And that’s kind of the point.
+And just like you and me, they aren't seers or superheroes. In fact, the most successful ones are usually the luckiest ones—lucky to have access to promising businesses early on, and lucky to have access to so much money that they can make a lot of bad bets and still find success in the end.
 
 ---
 
-Telugu
-ఈ fuzzy, poorly defined terms deliberateగా vagueగా వదిలేస్తారు, opacity create చేసి maintain చేయడానికి.
+To put it simply, VCs — even most experienced ones — get it right చేసే కంటే ఎక్కువ get it wrong చేస్తారు.
 
-English
-All these fuzzy, poorly defined terms are left deliberately vague in order to create and maintain opacity...
-
----
-
-Telugu
-లేకపోతే VCs గురించి వాళ్లు మీకు తెలియకూడదనుకునే ఒక విషయం మీరు discover చేస్తారు: వాళ్లు కూడా మనలాగే human.
-
-English
-...lest you discover the one thing about VCs they don’t want you to know: that they’re human, just like the rest of us.
-
----
-
-Telugu
-మీరు మరియు నేను లాగే, వాళ్లు seers లేదా superheroes కాదు.
-
-English
-And just like you and me, they aren’t seers or superheroes.
-
----
-
-Telugu
-నిజానికి, most successful ones సాధారణంగా luckiest ones.
-
-English
-In fact, the most successful ones are usually the luckiest ones...
-
----
-
-Telugu
-Promising businessesకి early access ఉండటం, మరియు ఎన్నో bad bets చేసినా చివరికి success పొందగలిగేంత money access ఉండటం వాళ్ల luck.
-
-English
-...lucky to have access to promising businesses early on, and lucky to have access to so much money that they can make a lot of bad bets and still find success in the end.
-
----
-
-Telugu
-సులభంగా చెప్పాలంటే, VCs — even the most experienced ones — right కంటే wrong ఎక్కువసార్లు అవుతారు.
-
-English
 To put it simply, VCs—even the most experienced ones—get it wrong more than they get it right.
 
 ---
 
-Telugu
-ఇది మీ mindలో doubt sow చేయడానికి కాదు, scare చేయడానికి కాదు, prepare చేయడానికి చెబుతున్నాను.
+I mention this not to sow doubt in your mind, not to scare you, but rather to prepare you.
 
-English
 I mention this not to sow doubt in your mind, not to scare you, but rather to prepare you.
 
 ---
 
-Telugu
-ఈ chapter actually professional money ఎలా raise చేయాలో గురించి కాదు.
+Because ఈ chapter actually professional money raise ఎలా చేయాలో గురించి కాదు; ఇది మీకు అది అవసరం అని determine చేసిన తర్వాత professional money raising గురించి ఎలా think చేయాలో.
 
-English
-Because this chapter isn’t actually about how to raise professional money...
+Because this chapter isn't actually about how to raise professional money; it's about how to think about raising professional money once you've determined that you might need it.
 
 ---
 
-Telugu
-Professional money అవసరం కావొచ్చని decide చేసిన తర్వాత, దాని గురించి ఎలా think చేయాలో గురించి.
+ఇది professional money world ని, professional investors mind-set ని — ఈ process గుండా వెళ్ళిన వారి perspective నుండి — understand చేయడం గురించి — తద్వారా మీరు room లోకి walk in చేసినప్పుడు ఏం expect చేయాలో మీకు తెలుసు — for better or for worse.
 
-English
-...it’s about how to think about raising professional money once you’ve determined that you might need it.
+It's about understanding the world of professional money and the mind-set of professional investors, from the perspective of those who've been through the process, so that you know what to expect when you walk in the room, for better or for worse.
 
 ---
 
-Telugu
-Professional money world మరియు professional investors mind-setని understand చేయడం గురించి.
+Like Jenn Hyman who, 2009 లో, $1.75 million seed round raise చేయడానికి బయటకి వెళ్ళింది — Rent the Runway అని ఆమె called చేసిన online designer dress rental business కోసం — ఇక్కడ women buy చేయడానికి thousands of dollars ఖరీదు అయ్యే dresses ని browse చేయగలరు, కానీ fraction of the cost కి rent చేయగలరు.
 
-English
-It’s about understanding the world of professional money and the mind-set of professional investors...
+Like Jenn Hyman who, in 2009, went out to raise a $1.75 million seed round for an online designer dress rental business she called Rent the Runway, where women could browse dresses that might cost thousands of dollars to buy, but that they could rent for a fraction of the cost.
 
 ---
 
-Telugu
-Processలోనుంచి వెళ్లిన వాళ్ల perspective నుంచి, roomలోకి walk in చేసినప్పుడు ఏమి expect చేయాలో తెలుసుకోవడానికి.
+ఒక dress customer's home కి show up అవుతుంది, ఆమె ఏ occasion కోసం site కి వచ్చిందో దానికి wear చేస్తుంది, ఆపై done అయిన తర్వాత dress తిరిగి ship చేస్తుంది.
 
-English
-...from the perspective of those who’ve been through the process, so that you know what to expect when you walk in the room, for better or for worse.
+A dress would then show up at a customer's home, she'd wear it for whatever occasion had brought her to the site to begin with, and then she'd ship the dress back when she was done with it.
 
 ---
 
-Telugu
-ఉదాహరణకు Jenn Hyman — 2009లో ఆమె Rent the Runway అనే online designer dress rental business కోసం $1.75 million seed round raise చేయడానికి వెళ్లింది.
+It was like Zipcar meets Netflix meets Zappos, with what would eventually become the country's largest dry-cleaning service on the back end.
 
-English
-Like Jenn Hyman who, in 2009, went out to raise a $1.75 million seed round for an online designer dress rental business she called Rent the Runway...
+It was like Zipcar meets Netflix meets Zappos, with what would eventually become the country's largest dry-cleaning service on the back end.
 
 ---
 
-Telugu
-ఆ siteలో women వేల డాలర్లకు కొనాల్సి వచ్చే dressesని browse చేసి, fraction of the costకి rent చేయగలరు.
+Today, Rent the Runway కి 1,200 కంటే ఎక్కువ employees ఉన్నారు, $100 million కంటే ఎక్కువ revenue చేస్తుంది — కానీ 2009 లో Jenn, ఆమె co-founder Jennifer Fleiss investors నుండి get అయిన responses less than encouraging గా, sometimes even startling (shock చేసేవి) గా ఉన్నాయి.
 
-English
-...where women could browse dresses that might cost thousands of dollars to buy, but that they could rent for a fraction of the cost.
+Today, Rent the Runway has more than 1,200 employees and does more than $100 million in revenue, but in 2009 the responses Jenn and her co-founder, Jennifer Fleiss, got from investors were less than encouraging, sometimes even startling.
 
 ---
 
-Telugu
-Dress customer homeకి వస్తుంది, ఆమె ఏ occasion కోసం siteకి వచ్చిందో దానికి wear చేస్తుంది, తర్వాత dressని తిరిగి ship చేస్తుంది.
+"మాకు several different very condescending (looking down on someone — తక్కువ చూసే) conversations ఉన్నాయి," Jenn నాకు చెప్పింది — "one in which చాలా prestigious firm లో ఒక partner నా చేతిని తన చేతిలోకి తీసుకుని అన్నాడు, 'This is so adorable. You're going to get to wear such pretty dresses. This must be so fun for you.'"
 
-English
-A dress would then show up at a customer’s home, she’d wear it for whatever occasion had brought her to the site to begin with, and then she’d ship the dress back when she was done with it.
+"We had several different very condescending conversations," Jenn told me, "one in which a partner at a very prestigious firm took my hand into his and said, 'This is so adorable. You're going to get to wear such pretty dresses. This must be so fun for you.'"
 
 ---
 
-Telugu
-Back endలో eventually country’s largest dry-cleaning service అయ్యే operationతో, అది Zipcar meets Netflix meets Zapposలాంటిది.
+వాళ్ళు ఆ investor తో, అతని firm తో మళ్ళీ ఎప్పుడూ engage అవ్వలేదు, కానీ ఆ exchange వాళ్ళు predominantly male venture capital class నుండి received అయిన responses whole set లో most egregiously (shockingly bad) arrogant and dismissive example.
 
-English
-It was like Zipcar meets Netflix meets Zappos, with what would eventually become the country’s largest dry-cleaning service on the back end.
+They did not engage with this investor or his firm ever again, but the exchange was the most egregiously arrogant and dismissive example of a whole set of responses they received from the predominantly male venture capital class.
 
 ---
 
-Telugu
-ఈరోజు Rent the Runwayకి 1,200 కంటే ఎక్కువ employees ఉన్నారు మరియు $100 millionకంటే ఎక్కువ revenue చేస్తుంది.
+"Most investors said, 'Let me talk to my wife,' 'Let me talk to my daughter,' or 'Let me talk to my admin.' Those were the three target customers that we would hear about," Jenn said.
 
-English
-Today, Rent the Runway has more than 1,200 employees and does more than $100 million in revenue...
+"Most investors said, 'Let me talk to my wife,' 'Let me talk to my daughter,' or 'Let me talk to my admin.' Those were the three target customers that we would hear about," Jenn said.
 
 ---
 
-Telugu
-కానీ 2009లో Jenn మరియు co-founder Jennifer Fleissకి investors నుంచి వచ్చిన responses encouragingగా లేవు, కొన్ని సార్లు startlingగా కూడా ఉన్నాయి.
+On the surface, ఇది ఒక reasonable response లాగా sounds, right? వాళ్ళ forties and fifties లో ఉన్న bunch of men dresses గురించి ఏం తెలుసు?
 
-English
-...but in 2009 the responses Jenn and her co-founder, Jennifer Fleiss, got from investors were less than encouraging, sometimes even startling.
+On the surface, that sounds like a reasonable response, right? What do a bunch of men in their forties and fifties know about dresses?
 
 ---
 
-Telugu
-Jenn చెప్పింది: “We had several different very condescending conversations.”
+Probably nothing, కానీ వాళ్ళు business గురించి తెలిసి ఉండాలి అని supposed — మరియు వాళ్ళు Jenn and Jennifer కి responses లో equation లోని ఆ part ని ignore చేస్తున్నారు — business model or business plan irrelevant అన్నట్టు.
 
-English
-“We had several different very condescending conversations,” Jenn told me...
+Probably nothing, but they are supposed to know about business, and they were ignoring that part of the equation in their responses to Jenn and Jennifer, as if the business model or the business plan were irrelevant.
 
 ---
 
-Telugu
-ఒక prestigious firm partner ఆమె handని తన చేతిలోకి తీసుకుని, “This is so adorable. You’re going to get to wear such pretty dresses. This must be so fun for you” అన్నాడు.
+As if Jenn's idea యొక్క business-worthiness already foreclosed (closed off — ముందే అడ్డుకోబడింది) అయినట్టు — potential investors కి underlying product తో familiarity లేనందువల్ల.
 
-English
-...“one in which a partner at a very prestigious firm took my hand into his and said, ‘This is so adorable. You’re going to get to wear such pretty dresses. This must be so fun for you.’”
+As if the business-worthiness of Jenn's idea had already been foreclosed by the potential investors' lack of familiarity with the underlying product.
 
 ---
 
-Telugu
-ఆ investor లేదా అతని firmతో వాళ్లు మళ్లీ engage కాలేదు.
+Not only that, తమ lives లోని women కి defer చేయడంలో, ఈ investors right demographic cohorts కూడా consult చేయలేదు.
 
-English
-They did not engage with this investor or his firm ever again...
+Not only that, in deferring to the women in their lives, these investors weren't even consulting the right demographic cohorts.
 
 ---
 
-Telugu
-కానీ ఆ exchange, predominantly male venture capital class నుంచి వచ్చిన responsesలో అత్యంత arrogant, dismissive example.
+"Let me tell you why each [of the 'target customers'] is problematic," Jenn said.
 
-English
-...but the exchange was the most egregiously arrogant and dismissive example of a whole set of responses they received from the predominantly male venture capital class.
+"Let me tell you why each [of the 'target customers'] is problematic," Jenn said.
 
 ---
 
-Telugu
-చాలా investors “Let me talk to my wife,” “Let me talk to my daughter,” లేదా “Let me talk to my admin” అని చెప్పారు.
+"Number one, venture capitalist యొక్క wife multimillionaire. ఆమె తనకు కావాల్సిన ఏ dress అయినా afford చేయగలదు, so ఆమె నా target customer కాదు, right?"
 
-English
-“Most investors said, ‘Let me talk to my wife,’ ‘Let me talk to my daughter,’ or ‘Let me talk to my admin.’”
+"Number one, the wife of a venture capitalist is a multimillionaire. She can afford to buy any dress she wants, so she is not my target customer, right?"
 
 ---
 
-Telugu
-Jenn చెప్పింది, “Those were the three target customers that we would hear about.”
+"Most cases లో venture capitalist's daughter దాదాపు twelve years old — ఎందుకంటే most venture capitalists, వాళ్ళ careers prime లో ఉన్నప్పుడు, forty-five to fifty range లో ఉంటారు. So వాళ్ళ daughter great target కూడా కాదు."
 
-English
-“Those were the three target customers that we would hear about,” Jenn said.
+"The daughter of a venture capitalist in most cases is about twelve, because most venture capitalists are, when they're in the prime of their careers, in the forty-five-to-fifty range. So their daughter is not a great target either."
 
 ---
 
-Telugu
-Surface మీద చూస్తే, అది reasonable responseలా sounds అవుతుంది కదా?
+"And venture capital industry లో work చేసే admins — ఇది అంత prestigious job కావడం వల్ల — often fifties and sixties లో ఉన్న women — again, నా target demo లోని women కాదు."
 
-English
-On the surface, that sounds like a reasonable response, right?
+"And the admins who work in the venture capital industry, because it's such a prestigious job, are often women who are in their fifties and sixties—again, not women who were in my target demo."
 
 ---
 
-Telugu
-Forties, fiftiesలో ఉన్న menకి dresses గురించి ఏమి తెలుసు? Probably nothing.
+ఒక investor కి product తో experience లేకపోతే, target demo లోని ఎవరూ తెలియకపోతే — idea వాళ్ళకి కోసం కాదని అనిపించేది — or, worse, idea pursue చేయడానికి worth కానిది అని.
 
-English
-What do a bunch of men in their forties and fifties know about dresses? Probably nothing...
+If an investor didn't have experience with the product and didn't know anyone in the target demo, it seemed as if the idea wasn't for them—or, worse, it wasn't an idea worth pursuing at all.
 
 ---
 
-Telugu
-కానీ వాళ్లు business గురించి తెలుసుకోవాల్సిన వాళ్లు.
+Enough of these conversations తర్వాత, Jenn and Jennifer తమ pitch కి investor responses ని altogether preempt (ముందుగానే address) చేయడం start చేశారు.
 
-English
-...but they are supposed to know about business...
-
----
-
-Telugu
-అక్కడే వాళ్లు Jenn మరియు Jennifer responsesలో equationలోని business partని ignore చేస్తున్నారు.
-
-English
-...and they were ignoring that part of the equation in their responses to Jenn and Jennifer...
-
----
-
-Telugu
-Business model లేదా business plan irrelevant అన్నట్టుగా.
-
-English
-...as if the business model or the business plan were irrelevant.
-
----
-
-Telugu
-Underlying productతో familiarity లేకపోవడం వల్ల Jenn idea business-worthy కాదని ముందుగానే foreclosed చేసినట్టుగా.
-
-English
-As if the business-worthiness of Jenn’s idea had already been foreclosed by the potential investors’ lack of familiarity with the underlying product.
-
----
-
-Telugu
-అంతేకాకుండా, తమ livesలోని womenకి defer చేస్తూ, investors సరైన demographic cohortsని consult చేయడం కూడా లేదు.
-
-English
-Not only that, in deferring to the women in their lives, these investors weren’t even consulting the right demographic cohorts.
-
----
-
-Telugu
-Jenn చెప్పింది: ప్రతి “target customer” ఎందుకు problematicో చెబుతాను.
-
-English
-“Let me tell you why each [of the ‘target customers’] is problematic,” Jenn said.
-
----
-
-Telugu
-Number one, venture capitalist wife multimillionaire; ఆమె ఏ dress కావాలన్నా కొనగలదు, కాబట్టి target customer కాదు.
-
-English
-“Number one, the wife of a venture capitalist is a multimillionaire. She can afford to buy any dress she wants, so she is not my target customer, right?”
-
----
-
-Telugu
-Venture capitalist daughter సాధారణంగా దాదాపు twelve ఉంటుంది, ఎందుకంటే VCs prime careerలో forty-five to fifty rangeలో ఉంటారు.
-
-English
-“The daughter of a venture capitalist in most cases is about twelve, because most venture capitalists are, when they’re in the prime of their careers, in the forty-five-to-fifty range.”
-
----
-
-Telugu
-కాబట్టి daughter కూడా great target కాదు.
-
-English
-“So their daughter is not a great target either.”
-
----
-
-Telugu
-VC industryలో admins prestigious job కారణంగా తరచూ fifties, sixtiesలో ఉన్న women — మళ్లీ target demoలో లేని women.
-
-English
-“And the admins who work in the venture capital industry, because it’s such a prestigious job, are often women who are in their fifties and sixties—again, not women who were in my target demo.”
-
----
-
-Telugu
-Investorకి product experience లేకపోతే, target demoలో ఎవరూ తెలియకపోతే, idea వాళ్ల కోసం కాదని — లేదా worse, pursue చేయదగ్గ idea కాదని అనిపించేది.
-
-English
-If an investor didn’t have experience with the product and didn’t know anyone in the target demo, it seemed as if the idea wasn’t for them—or, worse, it wasn’t an idea worth pursuing at all.
-
----
-
-Telugu
-ఇలాంటి conversations చాలాకొద్దీ జరిగిన తర్వాత, Jenn మరియు Jennifer investor responsesని ముందుగానే preempt చేయడం ప్రారంభించారు.
-
-English
 After enough of these conversations, Jenn and Jennifer began preempting investor responses to their pitch altogether.
 
 ---
 
-Telugu
-వాళ్లు videos చూపించారు, pop-upsకి investorsని invite చేశారు, customer ఎవరో వాళ్లకు sense రావడానికి.
+"మేము వాళ్ళకి videos చూపించాం, వాళ్ళని మా pop-ups కొన్నింటికి invite చేశాం — customer ఎవరో show చేయడానికి — తద్వారా మేము ఎవరికి catering చేస్తున్నామో వాళ్ళకి really sense వస్తుంది," Jenn said.
 
-English
-“We showed them videos and invited them to some of our pop-ups to show them who the customer was so that they really got a sense for who we were catering to,” Jenn said.
+"We showed them videos and invited them to some of our pop-ups to show them who the customer was so that they really got a sense for who we were catering to," Jenn said.
 
 ---
 
-Telugu
-ఆ pop-ups revelatoryగా మారాయి.
+The pop-ups were revelatory (eye-opening). ఈ idea కి legs (work అవ్వగల potential) ఉన్నాయని early going లో Jenn ని convince చేసినవి అవే, మరియు good number of investors తో ఈ idea click అవ్వడానికి ultimately reason అయ్యినవి కూడా అవే.
 
-English
-The pop-ups were revelatory.
+The pop-ups were revelatory. They were what convinced Jenn in the early going that this idea had legs, and they were ultimately what got the idea to click with a good number of investors.
 
 ---
 
-Telugu
-Early goingలో ఈ ideaకి legs ఉన్నాయని Jennని convince చేసినవి అవే.
+"Pop-up customers తమ dresses try on చేయడం witness చేసిన తన experience గురించి — women యొక్క facial expressions change అవ్వడం మీరు చూశారు," Jenn said.
 
-English
-They were what convinced Jenn in the early going that this idea had legs...
-
----
-
-Telugu
-చివరకు, good number of investorsకి idea click అయ్యేలా చేసినవి కూడా అవే.
-
-English
-...and they were ultimately what got the idea to click with a good number of investors.
-
----
-
-Telugu
-Jenn pop-up customers dresses try on చేస్తున్నప్పుడు, women facial expressions change అవుతున్నాయని చూసింది.
-
-English
-“You saw the facial expressions of women change,” Jenn said of her experience witnessing pop-up customers try on her dresses.
+"You saw the facial expressions of women change," Jenn said of her experience witnessing pop-up customers try on her dresses.

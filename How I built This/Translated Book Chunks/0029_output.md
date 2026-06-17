@@ -1,909 +1,387 @@
-Telugu
-ఒక సంవత్సరం తర్వాత, Stonyfield yogurt popularity ఇంకా rise అవుతూనే ఉండగా, వాళ్లు million dollars కంటే ఎక్కువ sales చేస్తున్నారు.
+ఒక year తర్వాత, Stonyfield yogurt's popularity ఇంకా rise లో ఉండగా, వాళ్ళు $1 million కంటే ఎక్కువ in sales చేస్తున్నారు, dozen different local suppliers నుండి milk buy చేస్తున్నారు, మరియు వాళ్ళు $500,000 raise చేసి expand చేసిన farm యొక్క absolute production capacity limit కి reach అయ్యారు.
 
-English
-A year later, with Stonyfield yogurt’s popularity still on the rise, they were doing more than a million dollars in sales...
+A year later, with Stonyfield yogurt's popularity still on the rise, they were doing more than a million dollars in sales, they were buying milk from a dozen different local suppliers, and they'd reached the absolute limit of the production capacity of the farm they'd raised $500,000 to expand.
 
 ---
 
-Telugu
-వాళ్లు dozen different local suppliers నుంచి milk కొనుగోలు చేస్తున్నారు, మరియు $500,000 raise చేసి expand చేసిన farm production capacity absolute limitకి చేరుకున్నారు.
+So వాళ్ళు western Massachusetts border మీద ఒక dairy తో contract చేశారు — అది unfilled capacity కలిగి ఉన్నది — production take over చేయడానికి.
 
-English
-...they were buying milk from a dozen different local suppliers, and they’d reached the absolute limit of the production capacity of the farm they’d raised $500,000 to expand.
-
----
-
-Telugu
-కాబట్టి western Massachusettsలో border దాటి ఉన్న, unfilled capacity ఉన్న ఒక dairyతో production takeover చేయడానికి contract చేసుకున్నారు.
-
-English
 So they contracted with a dairy over the border in western Massachusetts that had unfilled capacity to take over production.
 
 ---
 
-Telugu
-ఒక సంవత్సరం and a half వరకు, things greatగా జరిగాయి.
+And for a year and a half, things great గా జరిగాయి. "మనకు paved roads, regular power ఉన్నాయి, మరియు మేము really grow అవ్వడం start చేశాం," Gary said.
 
-English
-And for a year and a half, things went great.
+And for a year and a half, things went great. "We've got paved roads, regular power, and we really began to grow," Gary said.
 
 ---
 
-Telugu
-Gary చెప్పినట్లు, paved roads, regular power వచ్చాయి, మరియు వాళ్లు నిజంగా grow అవడం ప్రారంభించారు.
+Sales $1.1 million నుండి $1.7 million కి పెరిగాయి. "We thought we were coming out of the woods (కష్టాల నుండి బయటపడుతున్నాం)."
 
-English
-“We’ve got paved roads, regular power, and we really began to grow,” Gary said.
+Sales increased from $1.1 million to $1.7 million. "We thought we were coming out of the woods."
 
 ---
 
-Telugu
-Sales $1.1 million నుంచి $1.7 millionకి పెరిగాయి.
+Then the famous stock market crash of October 1987 happened. Black Monday.
 
-English
-Sales increased from $1.1 million to $1.7 million.
-
----
-
-Telugu
-వాళ్లు “coming out of the woods” అనుకున్నారు.
-
-English
-“We thought we were coming out of the woods.”
-
----
-
-Telugu
-తర్వాత October 1987 famous stock market crash జరిగింది — Black Monday.
-
-English
 Then the famous stock market crash of October 1987 happened. Black Monday.
 
 ---
 
-Telugu
-దానికి ముందు Thursday, bank Garyకి call చేసి, Massachusetts dairyకి Small Business Administration loan guarantees pull చేస్తోందని చెప్పింది.
+దానికి ముందు Thursday, bank Gary కి call చేసి చెప్పింది — Small Business Administration Massachusetts లోని dairy కోసం వాళ్ళ loan guarantees withdraw (pulling) చేస్తోంది — and అతను ఆ dairy ని buy చేయాలనుకుంటాడా అని అడిగింది.
 
-English
-The Thursday before, the bank called Gary to tell him that the Small Business Administration was pulling their loan guarantees for the dairy in Massachusetts...
+The Thursday before, the bank called Gary to tell him that the Small Business Administration was pulling their loan guarantees for the dairy in Massachusetts and asked him if he wanted to buy the dairy.
 
 ---
 
-Telugu
-అదే callలో, ఆ dairyని కొనాలనుకుంటున్నారా అని అడిగింది.
+Things were good, but they weren't "buy a dairy over the phone" good. Gary politely declined.
 
-English
-...and asked him if he wanted to buy the dairy.
+Things were good, but they weren't "buy a dairy over the phone" good. Gary politely declined.
 
 ---
 
-Telugu
-Things goodగా ఉన్నా, over the phoneలో dairy కొనగలిగేంత goodగా లేవు.
+And on Monday, as the bottom was falling out of the stock market (stock market మొత్తం collapse అవుతుండగా), bank Massachusetts dairy ని receivership (legal control of creditors) లోకి తీసుకొని Gary యొక్క cups, lids, fruit, yogurt మొత్తం inside పెట్టి front door మీద padlock వేసింది.
 
-English
-Things were good, but they weren’t “buy a dairy over the phone” good.
+And on Monday, as the bottom was falling out of the stock market, the bank put the Massachusetts dairy into receivership and slammed a padlock on the front door with an entire run of Gary's cups, lids, fruit, and yogurt inside.
 
 ---
 
-Telugu
-Gary politely decline చేశాడు.
+Then state Gary and Sam నుండి $100,000 outstanding co-packer fees (third-party manufacturer fees) ని demand చేసింది — దాన్ని out get చేయడానికి.
 
-English
-Gary politely declined...
-
----
-
-Telugu
-Mondayన, stock market bottom పడిపోతున్నప్పుడు, bank Massachusetts dairyని receivershipలో పెట్టి, front doorకి padlock వేసింది.
-
-English
-...and on Monday, as the bottom was falling out of the stock market, the bank put the Massachusetts dairy into receivership and slammed a padlock on the front door...
-
----
-
-Telugu
-ఆ padlock వెనుక Gary cups, lids, fruit, yogurt అన్నీ ఉన్నాయి.
-
-English
-...with an entire run of Gary’s cups, lids, fruit, and yogurt inside.
-
----
-
-Telugu
-తర్వాత state, వాటిని బయటకు తీసుకోవడానికి outstanding co-packer feesగా Gary మరియు Sam నుంచి $100,000 demand చేసింది.
-
-English
 Then the state demanded $100,000 from Gary and Sam in outstanding co-packer fees to get it out.
 
 ---
 
-Telugu
-ఇప్పుడు quit చేయాల్సిన సమయం అనిపిస్తుంది కదా?
+Now is when you quit, right? Not Gary. అతను తిరిగి well కి వెళ్తాడు (he goes back to the well — తన money sources కి).
 
-English
-Now is when you quit, right?
+Now is when you quit, right? Not Gary. He goes back to the well.
 
 ---
 
-Telugu
-Gary కాదు.
+అతను తన investors ని — తన mother, mother-in-law తో సహా — ఇంకా ఎక్కువ money అడుగుతాడు.
 
-English
-Not Gary.
-
----
-
-Telugu
-అతను మళ్లీ well దగ్గరకు వెళ్తాడు.
-
-English
-He goes back to the well.
-
----
-
-Telugu
-అతను తన investorsని — అందులో mother మరియు mother-in-law కూడా ఉన్నారు — ఇంకా money అడుగుతాడు.
-
-English
 He asks his investors—which include his mother and mother-in-law—for even more money.
 
 ---
 
-Telugu
-కానీ కేవలం stuff release చేయడానికి hoursలో కావాల్సిన $100,000 మాత్రమే కాదు.
+కానీ తన stuff ని hock (pawn — తాకట్టు) నుండి get out చేయడానికి $100,000 మాత్రమే కాదు — అది అతనికి hours లోనే అవసరం, లేకపోతే fruit, yogurt mix spoil అయిపోతాయి.
 
-English
-But not just the $100,000 to get his stuff out of hock, which he needs within hours so the fruit and yogurt mix don’t spoil.
+But not just the $100,000 to get his stuff out of hock, which he needs within hours so the fruit and yogurt mix don't spoil.
 
 ---
 
-Telugu
-Stonyfield Farmలోని old plantని మళ్లీ runningలోకి తీసుకురావడానికి additional $100,000 కూడా అడుగుతాడు.
+అదనపు $100,000 కూడా అడుగుతాడు — Stonyfield Farm లోని old plant ని back up and running చేయడానికి — తద్వారా అతను మరియు Sam production take over చేయగలరు.
 
-English
-He also asks for an additional $100,000 to get the old plant at Stonyfield Farm back up and running...
+He also asks for an additional $100,000 to get the old plant at Stonyfield Farm back up and running so he and Sam can take over production.
 
 ---
 
-Telugu
-దాంతో Gary మరియు Sam productionని తమ చేతుల్లోకి తిరిగి తీసుకోవచ్చు.
+"What could we do?" Gary rhetorically అడిగాడు. "We took a look at the old yogurt works up on the hilltop farm where the roosters were now living and said, 'Son of a gun, we've got to come back here.'"
 
-English
-...so he and Sam can take over production.
+"What could we do?" Gary asked rhetorically. "We took a look at the old yogurt works up on the hilltop farm where the roosters were now living and said, 'Son of a gun, we've got to come back here.'"
 
 ---
 
-Telugu
-Gary rhetoricalగా అడిగాడు: “What could we do?”
+Which is exactly what they do, despite ఇప్పుడు plant capacity కంటే 100 percent కంటే ఎక్కువ grow అయినప్పటికీ.
 
-English
-“What could we do?” Gary asked rhetorically.
-
----
-
-Telugu
-వాళ్లు hilltop farmలో roosters ఇప్పుడు living చేస్తున్న old yogurt worksని చూసి, “Son of a gun, we’ve got to come back here” అనుకున్నారు.
-
-English
-“We took a look at the old yogurt works up on the hilltop farm where the roosters were now living and said, ‘Son of a gun, we’ve got to come back here.’”
-
----
-
-Telugu
-వాళ్లు exactly అదే చేశారు, plant capacityని 100 percentకంటే ఎక్కువగా exceed చేసినప్పటికీ.
-
-English
 Which is exactly what they do, despite having now grown more than 100 percent beyond the capacity of the plant.
 
 ---
 
-Telugu
-Keep up చేయడానికి, వాళ్లు twenty-four hours a day, seven days a week produce చేయాల్సి వచ్చింది.
+"In order to keep up, మేము రోజుకి twenty-four hours, వారానికి seven days produce చేయాలి," Gary said. "Every other night, Samuel or I had to make yogurt, and this continued for twenty months."
 
-English
-“In order to keep up, we have to produce twenty-four hours a day, seven days a week,” Gary said.
+"In order to keep up, we have to produce twenty-four hours a day, seven days a week," Gary said. "Every other night, Samuel or I had to make yogurt, and this continued for twenty months."
 
 ---
 
-Telugu
-Every other night, Samuel లేదా Gary yogurt తయారు చేయాల్సి వచ్చేది; ఇది twenty months కొనసాగింది.
+Twenty months! ఇది crash వాళ్ళని time machine లో పెట్టి రెండు years back పంపినట్టు ఉంది.
 
-English
-“Every other night, Samuel or I had to make yogurt, and this continued for twenty months.”
+Twenty months! It's like the crash put them in a time machine and sent them back two years.
 
 ---
 
-Telugu
-Twenty months!
+Just because Gary and Sam తిరిగి తమ సొంత చేతులతో yogurt make చేస్తున్నారు అని మాత్రమే కాదు, వాళ్ళు పాత days లాగే cash ని burn చేయడం కూడా start చేస్తున్నారు.
 
-English
-Twenty months!
-
----
-
-Telugu
-Crash వాళ్లను time machineలో పెట్టి రెండు సంవత్సరాలు వెనక్కి పంపినట్టే.
-
-English
-It’s like the crash put them in a time machine and sent them back two years.
-
----
-
-Telugu
-Gary మరియు Sam మళ్లీ తమ చేతులతో yogurt తయారు చేయడం మాత్రమే కాదు, old daysలాగే cash కూడా burn చేయడం మొదలుపెట్టారు.
-
-English
 Not just because Gary and Sam were back to making yogurt with their own two hands again, but they were also starting to burn through cash like in the old days, too.
 
 ---
 
-Telugu
-వాళ్లు borrow చేసిన $200,000పైగా, weekకి $25,000 burn చేస్తున్నారు.
+"Twenty-five thousand dollars a week on top of the $200,000 that we had borrowed."
 
-English
-“Twenty-five thousand dollars a week on top of the $200,000 that we had borrowed.”
+"Twenty-five thousand dollars a week on top of the $200,000 that we had borrowed."
 
 ---
 
-Telugu
-Christmas నాటికి, వాళ్లు $600,000 debtలో ఉన్నారు.
+By Christmas, వాళ్ళు $600,000 in debt లో ఉన్నారు. తదుపరి year Christmas కి, ఆ number దాదాపు $2 million కి ballooned (పెరిగింది) అయ్యింది.
 
-English
-By Christmas, they were $600,000 in debt.
+By Christmas, they were $600,000 in debt. By Christmas of the following year, that number had ballooned to nearly $2 million.
 
 ---
 
-Telugu
-తర్వాతి Christmasకి, ఆ number దాదాపు $2 millionకి balloon అయింది.
+Christmas of 1989 కి, వాళ్ళు $2.7 million in the hole (loan/debt లో) లో ఉన్నారు — దాదాపు 300 very nervous individual investors questions అడగడం start చేశారు.
 
-English
-By Christmas of the following year, that number had ballooned to nearly $2 million.
-
----
-
-Telugu
-1989 Christmas నాటికి, వాళ్లు $2.7 million holeలో ఉన్నారు, మరియు nearly 300 nervous individual investors questions అడగడం ప్రారంభించారు.
-
-English
 By Christmas of 1989, they were $2.7 million in the hole, with nearly 300 very nervous individual investors starting to ask questions.
 
 ---
 
-Telugu
-ఈ tailspin మధ్యలో, అతని mother-in-law afford చేయలేని million dollarsకంటే ఎక్కువ money riskలో ఉంది.
+ఈ tailspin (uncontrollable downward spiral — control out of అయిన crash) మధ్యలో — తన mother-in-law's money లో million dollars కంటే ఎక్కువ ఉండగా, "she could never afford to lose"; Meg వాళ్ళ first son తో pregnant గా, ఈ ఉప్పెన లాంటి ఆ ups and downs (ఎత్తులు, పల్లాలు) తో her wits' end (సహనం limit) వద్ద ఉండగా — అతను మరియు Sam Vermont లోని ఒక new dairy తో production take over చేయడానికి, తమ capacity problems అన్నీ solve చేయడానికి three months negotiate చేశారు.
 
-English
-And in the middle of this tailspin—with more than a million dollars of his mother-in-law’s money that “she could never afford to lose”...
+And in the middle of this tailspin—with more than a million dollars of his mother-in-law's money that "she could never afford to lose"; with Meg pregnant with their first son and at her wits' end with all the ups and downs—he and Sam spent three months negotiating with a new dairy in Vermont to take over production and to solve all their capacity problems.
 
 ---
 
-Telugu
-Meg వారి first sonతో pregnantగా ఉంది, ups and downs వల్ల wits’ endకి చేరింది.
+కానీ very last second లో dairy deal change చేసి, basically వాళ్ళ business ని వాళ్ళ క్రింది నుండి steal చేయడానికి try చేసింది.
 
-English
-...with Meg pregnant with their first son and at her wits’ end with all the ups and downs...
+Only to have the dairy change the deal at the very last second and basically try to steal their business out from under them.
 
 ---
 
-Telugu
-అతను మరియు Sam, production takeover చేసి capacity problems solve చేయడానికి Vermontలోని new dairyతో మూడు నెలలు negotiate చేశారు.
+ఈ news ని Gary తన wife కి deliver చేయాల్సి వచ్చింది — తమ meeting-cum-ambush (meeting అని అనుకొని వెళితే ambush — దాడి — లాగా అయ్యింది) నుండి తిరిగి home రాగానే — రాత్రి early spring blizzard లో రెండు hours drive చేసి, అక్కడికి చేరిన తర్వాత ఆ రోజు yogurt batch కూడా make చేసిన తర్వాత.
 
-English
-...he and Sam spent three months negotiating with a new dairy in Vermont to take over production and to solve all their capacity problems...
+News of which Gary had to deliver to his wife upon his return home from their meeting-cum-ambush—after driving two hours at night in an early spring blizzard and making that day's batch of yogurt once they got there.
 
 ---
 
-Telugu
-కానీ last secondలో dairy dealని మార్చి, basically వారి businessని వాళ్ల కిందనుంచి steal చేయడానికి ప్రయత్నించింది.
+Okay, now has to be when you quit. ఏ right-thinking person ఈ parade of horrible events ని endure చేస్తాడు — especially baby on the way ఉన్నప్పుడు?
 
-English
-...only to have the dairy change the deal at the very last second and basically try to steal their business out from under them.
+Okay, now has to be when you quit. What right-thinking person would continue to endure this parade of horrible events, especially with a baby on the way?
 
 ---
 
-Telugu
-ఆ newsని Gary తన wifeకి చెప్పాలి — meeting-cum-ambush నుంచి తిరిగి వచ్చాక.
+"I knew it was over," Gary said — ఈ poison pill of a deal (విషం పూసిన గోళీ లాంటి deal — accept చేస్తే చావు, reject చేస్తే కష్టం) ని sign చేయాల్సి వస్తుందని realize చేసిన గురించి.
 
-English
-News of which Gary had to deliver to his wife upon his return home from their meeting-cum-ambush...
+"I knew it was over," Gary said of the realization that they would have to sign this poison pill of a deal.
 
 ---
 
-Telugu
-అదీ రాత్రి early spring blizzardలో రెండు గంటలు drive చేసి, అక్కడికి చేరుకున్నాక ఆ day’s batch of yogurt తయారు చేసిన తర్వాత.
+"This was the darkest of the dark hours. We're burning $25,000 a week. We're taking money we cannot ever pay back. We have no solution."
 
-English
-...after driving two hours at night in an early spring blizzard and making that day’s batch of yogurt once they got there.
+"This was the darkest of the dark hours. We're burning $25,000 a week. We're taking money we cannot ever pay back. We have no solution."
 
 ---
 
-Telugu
-సరే, ఇప్పుడు మాత్రం quit చేయాల్సిన సమయం కదా.
+Startup world లో, ఈ flat, desperate, profitless in-between place — Gary Hirshberg ఒక decade పాటు fight చేస్తూ ఇప్పుడు దానిలో swallowed up (మింగబడిన) అయ్యిన చోటు — దానికి ఒక పేరు ఉంది. దాన్ని "trough of sorrow" (బాధల లోయ) అంటారు.
 
-English
-Okay, now has to be when you quit.
+In the startup world, there is a name for this flat, desperate, profitless in-between place that Gary Hirshberg had spent a decade battling through and now found himself swallowed up by. It's called the "trough of sorrow."
 
 ---
 
-Telugu
-Baby on the way ఉండగా, right-thinking person ఈ horrible events paradeని ఇంకా endure చేస్తాడా?
+ఈ term ని Paul Graham coined చేశాడు — young companies product-market fit లేకపోవడం వల్ల తమను తాము ఏ period లో కనుగొంటారో — ఆ period ని describe చేయడానికి.
 
-English
-What right-thinking person would continue to endure this parade of horrible events, especially with a baby on the way?
+A term coined by Paul Graham to describe the period young companies find themselves in as a result of a lack of product-market fit.
 
 ---
 
-Telugu
-Garyకి మాత్రం, ఆ poison pill deal sign చేయాల్సిందేనని realization వచ్చినప్పుడు, “I knew it was over.”
+Marc Andreessen దాన్ని తన 2007 Guide to Startups series లో ఇలా describe చేశాడు: "customers aren't quite getting value out of the product, word of mouth isn't spreading, usage isn't growing that fast, press reviews are kind of 'blah,' sales cycle takes too long, మరియు lots of deals never close (పూర్తి అవ్వవు)."
 
-English
-“I knew it was over,” Gary said of the realization that they would have to sign this poison pill of a deal.
+This is when, as Marc Andreessen described it in his 2007 Guide to Startups series, "the customers aren't quite getting value out of the product, word of mouth isn't spreading, usage isn't growing that fast, press reviews are kind of 'blah,' the sales cycle takes too long, and lots of deals never close."
 
 ---
 
-Telugu
-అది darkest of the dark hours.
+ఇదే Airbnb 2008 Democratic National Convention తర్వాత తనను తాను కనుగొన్న place — for example. వాళ్ళు four weeks matter of లో 800 homes sign up చేశారు, bunch of bookings get అయ్యారు, మరియు ఆపై, Joe Gebbia గుర్తు చేసుకున్నట్టు, "convention ended, and all of those numbers came crashing back down."
 
-English
-“This was the darkest of the dark hours.”
+This is where Airbnb found itself after the Democratic National Convention in 2008, for example. They'd signed up 800 homes in a matter of four weeks, they got a bunch of bookings, and then, as Joe Gebbia remembered, "the convention ended, and all of those numbers came crashing back down."
 
 ---
 
-Telugu
-వాళ్లు weekకి $25,000 burn చేస్తున్నారు.
+ఇది Joe, his co-founders Brian Chesky and Nate Blecharczyk కి demoralizing (నిరుత్సాహపరిచేది) గా ఉంది — ఎందుకంటే వాళ్ళు అంతా figure out చేశామని, money raise చేసి startup ని really grow చేయడానికి prime position లో ఉన్నామని అనుకున్నారు.
 
-English
-“We’re burning $25,000 a week.”
+It was demoralizing to Joe and his co-founders, Brian Chesky and Nate Blecharczyk, because they thought they'd figured everything out and were in prime position to raise money and really grow this startup.
 
 ---
 
-Telugu
-ఎప్పటికీ pay back చేయలేని money తీసుకుంటున్నారు.
+కానీ వాళ్ళ numbers అన్నీ zero వైపు తిరిగి trending అవ్వడం — వాళ్ళ idea ని get చేయని venture capital world యొక్క sizable portion యొక్క skepticism ని validate చేసినట్టు అనిపించింది.
 
-English
-“We’re taking money we cannot ever pay back.”
+But all their numbers trending back toward zero seemed to validate the skepticism of a sizable portion of the venture capital world that didn't get their idea.
 
 ---
 
-Telugu
-వాళ్లకు solution లేదు.
+వాళ్ళు తమ pitch deck తో email చేసిన first twenty investors లో ten మాత్రమే respond అయ్యినప్పుడు, మరియు ఆ respondents లో none invest చేయడానికి choose చేయనప్పుడు — guys అప్పుడే ఈ crazy home-sharing rental concept మీద emergency escape cord (rip cord) pull చేయాలని decide చేస్తే ఎవరూ blame చేసేవారు కాదు.
 
-English
-“We have no solution.”
+When only ten of the first twenty investors they emailed with their pitch deck responded, and when none of those respondents chose to invest, I don't think anyone would have blamed the guys if they'd decided then and there to pull the rip cord on this crazy home-sharing rental concept.
 
 ---
 
-Telugu
-Startup worldలో, ఈ flat, desperate, profitless in-between placeకి ఒక పేరు ఉంది.
+Just as no one would have blamed Gary Hirshberg and Samuel Kaymen — వాళ్ళు ఆ cold April night in 1988 లో whiteout conditions గుండా farm కి తిరిగి drive చేస్తున్నప్పుడు yogurt మీద call it a day (పని ముగించాలని decide) చేసుకుంటే.
 
-English
-In the startup world, there is a name for this flat, desperate, profitless in-between place...
-
----
-
-Telugu
-దాన్ని “trough of sorrow” అంటారు.
-
-English
-It’s called the “trough of sorrow”...
-
----
-
-Telugu
-Paul Graham coined చేసిన term అది; product-market fit లేకపోవడం వల్ల young companies పడే periodని describe చేయడానికి.
-
-English
-...a term coined by Paul Graham to describe the period young companies find themselves in as a result of a lack of product-market fit.
-
----
-
-Telugu
-Marc Andreessen ప్రకారం, ఈ stageలో customers product నుంచి value పొందడం లేదు, word of mouth spread అవడం లేదు.
-
-English
-This is when, as Marc Andreessen described it ... “the customers aren’t quite getting value out of the product, word of mouth isn’t spreading...”
-
----
-
-Telugu
-Usage అంత fastగా grow అవడం లేదు, press reviews kind of “blah,” sales cycle ఎక్కువ time తీసుకుంటుంది, deals చాలావరకు close కావు.
-
-English
-“...usage isn’t growing that fast, press reviews are kind of ‘blah,’ the sales cycle takes too long, and lots of deals never close.”
-
----
-
-Telugu
-2008 Democratic National Convention తర్వాత Airbnb కూడా ఇలానే stuck అయింది.
-
-English
-This is where Airbnb found itself after the Democratic National Convention in 2008, for example.
-
----
-
-Telugu
-వాళ్లు four weeksలో 800 homes sign up చేశారు, bookings కూడా వచ్చాయి.
-
-English
-They’d signed up 800 homes in a matter of four weeks, they got a bunch of bookings...
-
----
-
-Telugu
-కానీ convention ended అయిన వెంటనే, ఆ numbers అన్నీ crashing back down అయ్యాయి.
-
-English
-...and then, as Joe Gebbia remembered, “the convention ended, and all of those numbers came crashing back down.”
-
----
-
-Telugu
-Joe మరియు co-founders Brian Chesky, Nate Blecharczykకి ఇది demoralizingగా అనిపించింది.
-
-English
-It was demoralizing to Joe and his co-founders, Brian Chesky and Nate Blecharczyk...
-
----
-
-Telugu
-ఎందుకంటే వాళ్లు everything figured out చేశామని, money raise చేసి startupని నిజంగా grow చేయడానికి prime positionలో ఉన్నామని అనుకున్నారు.
-
-English
-...because they thought they’d figured everything out and were in prime position to raise money and really grow this startup.
-
----
-
-Telugu
-కానీ numbers మళ్లీ zero వైపు trend అవడం, వారి ideaని get చేయని venture capital world skepticismని validate చేసినట్లైంది.
-
-English
-But all their numbers trending back toward zero seemed to validate the skepticism of a sizable portion of the venture capital world that didn’t get their idea.
-
----
-
-Telugu
-వాళ్లు pitch deckతో email చేసిన మొదటి twenty investorsలో ten మాత్రమే respond చేశారు.
-
-English
-When only ten of the first twenty investors they emailed with their pitch deck responded...
-
----
-
-Telugu
-ఆ respond చేసిన వాళ్లలో ఎవరూ invest చేయలేదు.
-
-English
-...and when none of those respondents chose to invest...
-
----
-
-Telugu
-ఈ crazy home-sharing rental conceptపై వాళ్లు అక్కడికక్కడే pull the rip cord చేసుంటే, ఎవరూ blame చేసేవారు కాదు.
-
-English
-I don’t think anyone would have blamed the guys if they’d decided then and there to pull the rip cord on this crazy home-sharing rental concept.
-
----
-
-Telugu
-అదేవిధంగా, Gary Hirshberg మరియు Samuel Kaymen ఆ cold April nightలో whiteout conditionsలో farmకి తిరిగి drive చేస్తూ yogurt businessని call it a day చేసినా, ఎవరూ blame చేసేవారు కాదు.
-
-English
 Just as no one would have blamed Gary Hirshberg and Samuel Kaymen if they had chosen to call it a day on yogurt as they drove back to the farm through whiteout conditions on that cold April night in 1988.
 
 ---
 
-Telugu
-అయినా, రెండు founder sets కూడా give up చేయలేదు.
+Even so, neither set of founders gave up. వాళ్ళు push forward continue చేశారు, altitude కోసం fight చేస్తూ — తమ problems కి solution దొరికే వరకు.
 
-English
-Even so, neither set of founders gave up.
+Even so, neither set of founders gave up. They continued to push forward, to fight for altitude, until they found a solution to their problems.
 
 ---
 
-Telugu
-వాళ్లు push forward చేస్తూనే ఉన్నారు, altitude కోసం fight చేస్తూనే ఉన్నారు, problemsకి solution దొరికే వరకు.
+Gary and Sam తమ solution ని Vermont నుండి తిరిగి ride home లో అక్కడే find చేశారు.
 
-English
-They continued to push forward, to fight for altitude, until they found a solution to their problems.
-
----
-
-Telugu
-Gary మరియు Sam వారి solutionని Vermont నుంచి homeకి తిరుగు ప్రయాణంలోనే కనుగొన్నారు.
-
-English
 Gary and Sam happened to find theirs right there on the ride home from Vermont.
 
 ---
 
-Telugu
-Gary Samuelని అడిగాడు: “Just for the fun of it, మన capacity cover చేసే cheapest yogurt plant ఎక్కడైనా build చేయాలంటే ఎలా ఉంటుంది?”
+"I turned to Samuel," Gary recalled, "and I said, 'Just for the fun of it, మన capacity ని actually cover చేయగల cheapest yogurt plant ఎక్కడైనా build చేయగలమంటే ఏది అవుతుంది?' And he said, 'You know, I was thinking the same thing.'"
 
-English
-“I turned to Samuel,” Gary recalled, “and I said, ‘Just for the fun of it, what would be the cheapest yogurt plant we could build somewhere that would actually cover our capacity?’”
+"I turned to Samuel," Gary recalled, "and I said, 'Just for the fun of it, what would be the cheapest yogurt plant we could build somewhere that would actually cover our capacity?' And he said, 'You know, I was thinking the same thing.'"
 
 ---
 
-Telugu
-Samuel కూడా, “You know, I was thinking the same thing” అన్నాడు.
+"So he flicked on the dome light in the car, pulled out his pad, and we started designing a yogurt plant."
 
-English
-And he said, “You know, I was thinking the same thing.”
+"So he flicked on the dome light in the car, pulled out his pad, and we started designing a yogurt plant."
 
 ---
 
-Telugu
-అతను carలో dome light on చేసి, pad తీసి, వాళ్లు yogurt plant design చేయడం ప్రారంభించారు.
+Gary and Sam ఆ రాత్రి దాదాపు 11 p.m. కి తిరిగి వచ్చారు. Gary Sam కి ఆ రోజు yogurt make చేయడంలో help చేశాడు, తర్వాత Gary home కి వెళ్ళి Meg కి news ఇచ్చాడు.
 
-English
-So he flicked on the dome light in the car, pulled out his pad, and we started designing a yogurt plant.
+Gary and Sam got back around 11 p.m. that night. Gary helped Sam make the day's yogurt, then Gary went home to give Meg the news.
 
 ---
 
-Telugu
-ఆ రాత్రి 11 p.m.కి వాళ్లు తిరిగి వచ్చారు.
+"She wakes up and says, 'So is the deal signed?' And I said, 'No, that is not going to happen . . . but we've got a much better idea!'"
 
-English
-Gary and Sam got back around 11 p.m. that night.
+"She wakes up and says, 'So is the deal signed?' And I said, 'No, that is not going to happen . . . but we've got a much better idea!'"
 
 ---
 
-Telugu
-Gary, Samకి day’s yogurt తయారుచేయడంలో help చేశాడు.
+Gary ఆ రాత్రి తన office లో alone గా slept చేశాడు, కానీ he wasn't wrong. తమ సొంత plant ని build చేయడం — తమ మారే capacity needs కి meet, adapt అవ్వగలది — అది ఒక great idea.
 
-English
-Gary helped Sam make the day’s yogurt...
+Gary slept alone in his office that night, but he wasn't wrong. Building their own plant, one that could meet and adapt to their changing capacity needs, was a great idea.
 
 ---
 
-Telugu
-తర్వాత Gary ఇంటికి వెళ్లి Megకి news చెప్పాడు.
+అది ఈ time అంతా missing గా ఉన్న వాళ్ళ entrepreneurial puzzle piece. ఈ piece build చేయడానికి eighteen months and $597,000 (New Hampshire SBA నుండి 85 percent loan guarantee తో) పట్టింది.
 
-English
-...then Gary went home to give Meg the news.
+It was the piece of their entrepreneurial puzzle that had been missing this entire time. A piece that would take eighteen months and $597,000 (with an 85 percent loan guarantee from the New Hampshire SBA) to build.
 
 ---
 
-Telugu
-Meg లేచి, “So is the deal signed?” అని అడిగింది.
+1989 end నాటికి, Stonyfield Farm Londonderry, New Hampshire లోని తన new facility నుండి operating చేస్తోంది — ఇది ఇప్పటికీ headquartered గా అక్కడే ఉంది.
 
-English
-“She wakes up and says, ‘So is the deal signed?’”
-
----
-
-Telugu
-Gary అన్నాడు: “No, that is not going to happen . . . but we’ve got a much better idea!”
-
-English
-“And I said, ‘No, that is not going to happen . . . but we’ve got a much better idea!’”
-
----
-
-Telugu
-ఆ రాత్రి Gary తన officeలో ఒంటరిగా నిద్రపోయాడు, కానీ అతను wrong కాదు.
-
-English
-Gary slept alone in his office that night, but he wasn’t wrong.
-
----
-
-Telugu
-వాళ్ల changing capacity needsని meet చేసి adapt అయ్యే own plant build చేయడం great idea.
-
-English
-Building their own plant, one that could meet and adapt to their changing capacity needs, was a great idea.
-
----
-
-Telugu
-అది వారి entrepreneurial puzzleలో missing piece.
-
-English
-It was the piece of their entrepreneurial puzzle that had been missing this entire time.
-
----
-
-Telugu
-ఆ piece build చేయడానికి eighteen months మరియు $597,000 అవసరం అయ్యాయి, New Hampshire SBA నుంచి 85 percent loan guaranteeతో.
-
-English
-A piece that would take eighteen months and $597,000 (with an 85 percent loan guarantee from the New Hampshire SBA) to build.
-
----
-
-Telugu
-1989 చివరికి, Stonyfield Farm Londonderry, New Hampshireలోని new facility నుంచి operate అవుతోంది, అక్కడే అది ఇప్పటికీ headquarteredగా ఉంది.
-
-English
 By the end of 1989, Stonyfield Farm was operating out of its new facility in Londonderry, New Hampshire, where it is still headquartered today.
 
 ---
 
-Telugu
-ఆ yearలో company $1.4 million lose చేసింది, కానీ sales $3.4 million, మరియు trend lines turnaround అవడం ప్రారంభించాయి.
+ఆ year, company $1.4 million loss అయ్యింది, కానీ అది $3.4 million in sales మీద — trend lines అప్పటికే turn around అవ్వడం start అయ్యాయి.
 
-English
 That year, the company lost $1.4 million, but it was on $3.4 million in sales, with trend lines that had already started to turn around.
 
 ---
 
-Telugu
-తర్వాతి year revenue nearly doubled అయింది, Stonyfield loss కేవలం $900,000కి తగ్గింది.
+తదుపరి year, revenue దాదాపు double అయ్యింది, మరియు Stonyfield only $900,000 loss అయ్యింది.
 
-English
 The next year, revenue nearly doubled, and Stonyfield lost only $900,000.
 
 ---
 
-Telugu
-ఆ తర్వాతి year, 1992లో, sales $10 million దాటాయి, మరియు company తన historyలో first time money made చేసింది.
+ఆ తర్వాత year, 1992, sales $10 million దాటాయి, మరియు company తన history లో మొదటిసారి actually money make చేసింది.
 
-English
 Then the following year, 1992, sales climbed past $10 million, and the company actually made money for the first time in its history.
 
 ---
 
-Telugu
-Stonyfieldలాగే, Airbnb problem founders’ idea కాదు — ఈ serviceకి market ఉంది — problem execution.
+Stonyfield లాగే, Airbnb యొక్క problem founders' idea కాదు (ఈ service కి market ఉంది); అది వాళ్ళ execution.
 
-English
-Like Stonyfield, Airbnb’s problem wasn’t the founders’ idea (there was a market for this service); it was their execution.
+Like Stonyfield, Airbnb's problem wasn't the founders' idea (there was a market for this service); it was their execution.
 
 ---
 
-Telugu
-Problem twofold: first, homes list చేస్తున్న చాలామంది crappy pictures post చేస్తున్నారు.
+Problem twofold (రెండు భాగాలు): మొదట, తమ homes list చేస్తున్న చాలామంది crappy pictures (నాణ్యత తక్కువ photos) post చేస్తున్నారు, దీని వల్ల homes ugly గా, కొంత sketchy (untrustworthy — నమ్మదగని) గా కనిపించేవి.
 
-English
-The problem was twofold: First, many people who were listing their homes were posting crappy pictures...
+The problem was twofold: First, many people who were listing their homes were posting crappy pictures, which made the homes look ugly, if not also a little sketchy.
 
 ---
 
-Telugu
-ఆ pictures homesని uglyగా, కొంచెం sketchyగా కూడా కనిపించేలా చేశాయి.
+రెండవది, renters check in చేయడానికి వచ్చినప్పుడు listers కి cash లో pay చేయడం కి uncomfortable గా feel అయ్యారు.
 
-English
-...which made the homes look ugly, if not also a little sketchy.
-
----
-
-Telugu
-Second, renters check in చేయడానికి వచ్చినప్పుడు cashలో listersకి pay చేయడం comfortableగా అనిపించలేదు.
-
-English
 Second, renters were uncomfortable paying listers in cash when they arrived to check in.
 
 ---
 
-Telugu
-Someone ఇంట్లో stay చేయడానికి wad of cash ఇవ్వడం కొంచెం weird.
+ఒకరికి cash wad (cash కట్ట) ఇచ్చి వాళ్ళ home లో stay అవ్వడానికి allow చేయించుకోవడం కొంచెం weird గా ఉంటుంది. I get it. So did Joe, Brian, and Nate.
 
-English
-Handing someone a wad of cash for allowing you to stay in their home is a little weird.
+Handing someone a wad of cash for allowing you to stay in their home is a little weird. I get it. So did Joe and Brian and Nate.
 
 ---
 
-Telugu
-నాకు అది అర్థమవుతుంది.
+వాళ్ళు త్వరగా Airbnb website కి payment system add చేశారు, ఆపై తమ earliest power users కొంతమంది కి తమ homes యొక్క good photos ఎలా take, post చేయాలో teach చేయడానికి road హిట్ చేశారు (బయటకి వెళ్ళారు).
 
-English
-I get it.
+They quickly added a payment system to the Airbnb website and then hit the road to teach some of their earliest power users how to take and post good photos of their homes.
 
 ---
 
-Telugu
-Joe, Brian, Nateకూ అర్థమైంది.
+Results fairly immediate. Marc Andreessen product-market fit యొక్క evidence గా identify చేసిన ప్రతి relevant factor positive వైపు turn అవ్వడం start అయ్యింది.
 
-English
-So did Joe and Brian and Nate.
+The results were fairly immediate. The indicators for every relevant factor that Marc Andreessen identified as evidence of product-market fit began to turn toward the positive.
 
 ---
 
-Telugu
-వాళ్లు త్వరగా Airbnb websiteకి payment system add చేశారు.
+వాళ్ళు repeat customers, referrals లో increase చూశారు; people ఈ company గురించి talking stop చేయలేకపోతున్నారు; site visits, user signups, bookings roof through (పైకి shoot అయ్యాయి); వాళ్ళకి whole new round of press coverage దొరికింది; మరియు too much later కాదు, వాళ్ళు big-time investors తో meaningful term sheets sign చేయడం start చేశారు.
 
-English
-They quickly added a payment system to the Airbnb website...
+They saw an increase in repeat customers and referrals; people couldn't stop talking about the company; site visits, user signups, and bookings went through the roof; they got a whole new round of press coverage; and not too much later, they started signing meaningful term sheets with big-time investors.
 
 ---
 
-Telugu
-తర్వాత earliest power usersలో కొందరికి homesకి మంచి photos ఎలా take చేసి post చేయాలో నేర్పడానికి roadకి వెళ్లారు.
+That's how integral product-market fit can be to the success of a young business, and how simple it can be to get to product-market fit.
 
-English
-...and then hit the road to teach some of their earliest power users how to take and post good photos of their homes.
+That's how integral product-market fit can be to the success of a young business, and how simple it can be to get to product-market fit.
 
 ---
 
-Telugu
-Results fairly immediateగా వచ్చాయి.
+Margins మీద just one or two things — user experience కి, business long-term prospects కి — both కి everything change చేయగలవు.
 
-English
-The results were fairly immediate.
-
----
-
-Telugu
-Marc Andreessen product-market fit evidenceగా చెప్పిన ప్రతి relevant factor indicators positive వైపు turn అవడం ప్రారంభించాయి.
-
-English
-The indicators for every relevant factor that Marc Andreessen identified as evidence of product-market fit began to turn toward the positive.
-
----
-
-Telugu
-Repeat customers మరియు referrals పెరిగాయి.
-
-English
-They saw an increase in repeat customers and referrals...
-
----
-
-Telugu
-People company గురించి మాట్లాడటం ఆపలేకపోయారు.
-
-English
-...people couldn’t stop talking about the company...
-
----
-
-Telugu
-Site visits, user signups, bookings went through the roof.
-
-English
-...site visits, user signups, and bookings went through the roof...
-
----
-
-Telugu
-వాళ్లకు whole new round of press coverage వచ్చింది.
-
-English
-...they got a whole new round of press coverage...
-
----
-
-Telugu
-కొంతకాలం తర్వాత, big-time investorsతో meaningful term sheets sign చేయడం ప్రారంభించారు.
-
-English
-...and not too much later, they started signing meaningful term sheets with big-time investors.
-
----
-
-Telugu
-Young business successకి product-market fit ఎంత integral అవుతుందో, దానికి చేరుకోవడం ఎంత simpleగా ఉండొచ్చో ఇదే చూపిస్తుంది.
-
-English
-That’s how integral product-market fit can be to the success of a young business, and how simple it can be to get to product-market fit.
-
----
-
-Telugu
-Marginsలోని one or two things మాత్రమే everything change చేయగలవు — user experienceకి కూడా, long-term prospectsకి కూడా.
-
-English
 Just one or two things on the margins can change everything, both for the user experience and for the long-term prospects of the business itself.
 
 ---
 
-Telugu
-Andreessen చెప్పినట్లు, మీరు ఈ things fix చేస్తే, almost everything else ignore చేయవచ్చు.
+"When you get right down to it, you can ignore almost everything else," Andreessen said, if you just fix these things.
 
-English
-“When you get right down to it, you can ignore almost everything else,” Andreessen said, if you just fix these things.
+"When you get right down to it, you can ignore almost everything else," Andreessen said, if you just fix these things.
 
 ---
 
-Telugu
-Stonyfield ఒక thing fix చేసింది: వారు తమ own yogurt plant build చేశారు.
+Stonyfield one thing fix చేసింది: వాళ్ళు తమ సొంత yogurt plant build చేశారు. వాళ్ళని trough of sorrow గుండా get చేయడానికి, product-market fit లోకి, growth rocket ship పైకి తీసుకెళ్ళడానికి అదే really all it took.
 
-English
-Stonyfield fixed one thing: they built their own yogurt plant.
+Stonyfield fixed one thing: they built their own yogurt plant. That was really all it took to get them through the trough of sorrow, into product-market fit, and onto a rocket ship of growth.
 
 ---
 
-Telugu
-Trough of sorrow నుంచి బయటపడడానికి, product-market fitలోకి రావడానికి, growth rocket shipపైకి వెళ్లడానికి అంతే సరిపోయింది.
+వాళ్ళు 1992 లో profit turn చేశారు, 1995 లో $44 million in sales చేశారు, 1998 లో $78 million చేశారు, మరియు decade ని total revenue లో $100 million hitting చేస్తూ end చేశారు.
 
-English
-That was really all it took to get them through the trough of sorrow, into product-market fit, and onto a rocket ship of growth.
+They turned a profit in 1992, they did $44 million in sales in 1995 and $78 million in 1998, and they ended the decade by hitting $100 million in total revenue.
 
 ---
 
-Telugu
-వాళ్లు 1992లో profit turn చేశారు, 1995లో $44 million sales చేశారు, 1998లో $78 million sales చేశారు.
+Airbnb రెండు tweaks (small adjustments) చేసింది — pictures and payments — మరియు only a few years matter of లో, వాళ్ళు ఒక city hotel rooms అయిపోతేనే మాత్రమే work అయ్యే weird idea ఉన్న ముగ్గురు guys నుండి — entire hospitality industry ని disrupt చేయడానికి threaten చేస్తున్న tech unicorn (billion-dollar startup) head వద్ద billionaires గా మారారు.
 
-English
-They turned a profit in 1992, they did $44 million in sales in 1995 and $78 million in 1998...
+Airbnb made two tweaks—pictures and payments—and in a matter of only a few years, they went from three guys with a weird idea that only seemed to work when a city ran out of hotel rooms, to billionaires at the head of a tech unicorn that was threatening to disrupt the entire hospitality industry.
 
 ---
 
-Telugu
-దశాబ్దం చివరికి $100 million total revenue hit చేశారు.
+Gary Hirshberg మరియు Joe Gebbia లాంటి founders తో నేను talk చేసినప్పుడు, వాళ్ళు ఈ crucible period లో ఉన్నప్పుడు చేసిన decisions తో నేను always fascinated అవుతాను.
 
-English
-...and they ended the decade by hitting $100 million in total revenue.
+When I talk to founders like Gary Hirshberg and Joe Gebbia, I'm always fascinated by the decisions they made when they were in this crucible period.
 
 ---
 
-Telugu
-Airbnb రెండు tweaks చేసింది — pictures మరియు payments.
+కానీ నాకు most intrigued (curious) గా అనిపించేది — ఏం చేయాలో వాళ్ళకి ఎలా తెలుసు అని.
 
-English
-Airbnb made two tweaks—pictures and payments...
+But what I'm most intrigued by is how they knew what to do.
 
 ---
 
-Telugu
-కొన్ని సంవత్సరాల్లోనే, hotel rooms అయిపోయినప్పుడు మాత్రమే work అయ్యే weird ideaతో ఉన్న three guys నుంచి, hospitality industryని disrupt చేసే tech unicorn leadersగా billionaires అయ్యారు.
+మీరు అడిగితే, తమకు తెలియదని వాళ్ళు చెప్తారు; ఆ moment లో ఏది sense చేస్తుందో అదే చేస్తున్నారు. తమ ముందు available options లో, వాళ్ళు least bad ones (అతి తక్కువ చెడ్డవి) ని choose చేశారు.
 
-English
-...and in a matter of only a few years, they went from three guys with a weird idea that only seemed to work when a city ran out of hotel rooms, to billionaires at the head of a tech unicorn that was threatening to disrupt the entire hospitality industry.
+If you ask them, they'll tell you they didn't know; they were just doing whatever made sense in the moment. Of the available options in front of them, they chose the least bad ones.
 
 ---
 
-Telugu
-Gary Hirshberg మరియు Joe Gebbia వంటి foundersతో మాట్లాడినప్పుడు, crucible periodలో వాళ్లు తీసుకున్న decisions నాకు ఎప్పుడూ fascinatingగా ఉంటాయి.
+కానీ నేను ఆలోచిస్తే దానికంటే ఎక్కువ ఉంది.
 
-English
-When I talk to founders like Gary Hirshberg and Joe Gebbia, I’m always fascinated by the decisions they made when they were in this crucible period.
+But I think there's more to it than that.
 
 ---
 
-Telugu
-కానీ నాకు ఇంకా intriguingగా అనిపించేది: వాళ్లకు ఏమి చేయాలో ఎలా తెలుసు?
+నేను 2008 లో Nieman Fellow గా ఉన్నప్పుడు, journalism లో నా career advancement crucible ని navigate చేయడానికి try చేస్తున్నప్పుడు (ఆ year early లో, ఒక powerful executive నాకు radio host అవ్వడానికి chops — skills — లేవని చెప్పారు), నేను Kennedy School of Government లో Ronald Heifetz అనే professor teach చేస్తున్న leadership class లో sit in చేశాను.
 
-English
-But what I’m most intrigued by is how they knew what to do.
-
----
-
-Telugu
-వాళ్లను అడిగితే, వాళ్లకు తెలియలేదని చెబుతారు; ఆ momentలో sense అయినదే చేశారు.
-
-English
-If you ask them, they’ll tell you they didn’t know; they were just doing whatever made sense in the moment.
-
----
-
-Telugu
-వాళ్ల ముందున్న available optionsలో, least bad onesని ఎంచుకున్నారు.
-
-English
-Of the available options in front of them, they chose the least bad ones.
-
----
-
-Telugu
-కానీ దానికంటే ఎక్కువ ఉందని నేను అనుకుంటాను.
-
-English
-But I think there’s more to it than that.
-
----
-
-Telugu
-2008లో నేను Nieman Fellowగా ఉన్నప్పుడు, journalismలో నా career advancement crucibleని navigate చేయడానికి ప్రయత్నిస్తున్నాను.
-
-English
-When I was a Nieman Fellow in 2008, trying to navigate my own crucible of career advancement in journalism...
-
----
-
-Telugu
-ఆ సంవత్సరం మొదట్లో, ఒక powerful executive నాకు radio host అయ్యే chops లేవని చెప్పాడు.
-
-English
-...earlier that year, I had been told by a powerful executive that I didn’t have the chops to be a radio host...
-
----
-
-Telugu
-అప్పుడు Kennedy School of Governmentలో Ronald Heifetz అనే professor taught చేసిన leadership classలో నేను sit in చేశాను.
-
-English
-...I sat in on a leadership class at the Kennedy School of Government taught by a professor named Ronald Heifetz.
+When I was a Nieman Fellow in 2008, trying to navigate my own crucible of career advancement in journalism (earlier that year, I had been told by a powerful executive that I didn't have the chops to be a radio host), I sat in on a leadership class at the Kennedy School of Government taught by a professor named Ronald Heifetz.

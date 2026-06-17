@@ -1,609 +1,297 @@
-అది అద్భుతంగా వినిపిస్తోంది, కదా?
+"అది కొంచెం confusing గా (convoluted) ఉండింది," అని Andy ఒప్పుకున్నాడు, "మరి అది అస్సలు పనిచేయలేదు." Troops కి team spirit (esprit de corps) పెరిగినట్లు అనిపించలేదు. బదులుగా, వాళ్ళు demoralized గా feel అయ్యారు.
 
-It sounds amazing, right?
+"It was kind of convoluted," Andy admitted, "and it totally didn't work." The troops didn't feel an increased sense of esprit de corps. Instead, they felt demoralized.
 
 ---
 
-కానీ ఈ దశలో, Palo Alto officeతో మాట్లాడినప్పుడు Andyకి వచ్చిన responses మరియు reactions, New York officeతో మాట్లాడినప్పుడు వచ్చినవాటితో ఎంత విస్తృతంగా భిన్నంగా ఉండేవో మీరు ఊహించవచ్చు.
+"ఒక leader నుంచి మీరు చూడాలనుకునే దానికి ఇది opposite," అని అతను చెప్పాడు. "మీరు ఎంత hard work చేస్తున్నారో అని recognize చేయబడాలని కోరుకుంటారు, enough hard work చేయట్లేదు అని scold చేయబడాలని కాదు."
 
-But you can imagine, at this point, the wide differences in responses and reactions Andy received when talking about it to the Palo Alto office versus the New York office.
+"It was the opposite of what you want to see from a leader," he said. "You want to be recognized for how hard you're working, not scolded that you're not working hard enough."
 
 ---
 
-West Coast వాళ్లు సిద్ధంగా ఉన్నారు.
+అయితే ఆ presentation ను నిజమైన flash point (tipping point) గా చేసింది ఏంటంటే, Bonobos లోపల everyone తాము company success కోసం busting their butts (very hard work) చేస్తున్నారని feel అవ్వడం మాత్రమే కాదు; కొందరు ఇతరుల కంటే ఎక్కువ busting their butts చేస్తున్నారని కూడా అనుకున్నారు.
 
-The West Coast folks were ready.
+What made the presentation a real flash point, though, wasn't just that everyone inside Bonobos felt like they were busting their butts to make the company a success (rightly, in Andy's estimation); some also thought they were busting their butts more than others.
 
 ---
 
-Company ఈ robust personalization functionality నిర్మించడంలో లోతుగా invest చేయాలని వాళ్లు బలంగా అనుకున్నారు.
+"Customer service మరి fulfillment చేసే folks around the clock work చేస్తున్నారు. Apparel folks second most work చేస్తున్నారు. మరి ఎక్కువ pay పొందుతున్న engineering team అంత hard work చేయట్లేదు అన్న perception ఉండేది," అని Andy explain చేశాడు.
 
-They felt strongly that the company should invest deeply in building this robust personalization functionality.
+"The folks who did all the customer service and fulfillment were working around the clock. The apparel folks were working the second most. And there was a perception that the engineering team, who were getting paid the most, were not working as hard," Andy explained.
 
 ---
 
-Retail side మాత్రం skeptical‌గా ఉంది—అది కూడా చాలా మృదువుగా చెప్పినట్టే.
+Retail-side employees నుండి unspoken గాను spoken గాను వచ్చిన ఈ complaint, actually Andy ను "23" presentation create చేయడానికి motivate చేసింది. Product folks దాన్ని అంతగా personally తీసుకోవడానికి కారణం కూడా అదే.
 
-The retail side, though, was skeptical, and that is being charitable.
+This complaint, which went both spoken and unspoken by the retail-side employees, was actually what motivated Andy to create the "23" presentation. And it is why the product folks took it so personally.
 
 ---
 
-“Product pageలో reviews include అయ్యేలా update చేయించుకోవచ్చా?” ఇదే New York viewpoint అని Andy గుర్తు చేసుకున్నాడు.
+వాళ్ళకి అది ఒక insult (slap in the face) లాగా అనిపించింది, ఎందుకంటే నిజంగా innovative menswear options ని market కి తీసుకురావడానికి తాము killing themselves (extreme effort) చేస్తుండగా, engineers late గా వస్తూ, early గా వెళ్తూ, ఒక్కోసారి మూడు రెట్లు ఎక్కువ earn చేస్తున్నారు.
 
-“The viewpoint in New York was, ‘Can I just get the product page updated to include reviews?’” Andy recounted.
+It felt to them like a slap in the face, since they were the ones killing themselves to bring truly innovative menswear options to market, while the engineers were strolling in late, leaving early, and earning sometimes three times as much for their trouble.
 
 ---
 
-ఆ సమయంలో Andyకి ఈ hybrid thing ఇక పనిచేయడం లేదని స్పష్టమైంది, ఏదో మారాలి.
+Short గా చెప్పాలంటే, poor morale ని indicate చేసే complaints (grumblings) ranks నుండి పైకి వస్తున్నాయి.
 
-It was clear to Andy then that this hybrid thing was no longer working and something had to change.
+In short, grumblings indicating poor morale were bubbling up from the ranks.
 
 ---
 
-“Companyలో organizational harmony ఈ cross-coastal conflict వల్ల నాశనం అవుతోంది,” అని అతను అన్నాడు.
+Andy's big miscalculation, tech side మరి fashion-product-retail side ల మధ్య ఉన్న divide వల్ల magnified అయింది. కానీ fundamentally అది మరో identity issue మీద grounded అయ్యి ఉంది.
 
-“The organizational harmony at the company was being destroyed by this cross-coastal conflict,” he said.
+Andy's big miscalculation was magnified by the divide between the tech side and the fashion-product-retail side of the business, but it was grounded fundamentally in another identity issue altogether.
 
 ---
 
-“Culture deteriorate అవుతోంది, రోజురోజుకీ అది మరింత కష్టంగా మారుతోంది.”
+ఆ presentation తరువాత, Andy మరి Brian early గా hire చేసిన ఒక brilliant ex-Zappos engineer—tech team ను lead చేయడానికి—ఇది directly Andy దృష్టికి తీసుకువచ్చాడు.
 
-“The culture was deteriorating, and it was becoming harder by the day.”
+This was brought squarely to his attention after the presentation by a brilliant, ex-Zappos engineer whom Andy and Brian had hired early on to lead the tech team.
 
 ---
 
-Andy Dunn పట్ల నాకు గొప్ప empathy మరియు admiration ఉన్నాయి.
+"అతను నాకు call చేసి అన్నాడు, 'Tony Hsieh Zappos లో create చేసిన joy spirit ని మీరు చూడగలిగితే బాగుండేది. Positivity spirit ఒక startup లో ఎంత better work environment ను actually create చేస్తుందో మీరు చూడగలిగితే బాగుండేది.'"
 
-I have great empathy and admiration for Andy Dunn.
+"He called me and said, 'I wish you could have seen the spirit of joy that Tony Hsieh created at Zappos. I wish you could see the way a spirit of positivity actually creates a much better work environment at a startup.'"
 
 ---
 
-“నేను cumulative terrible mistakes మొత్తం కలిసిన మనిషినే,” అని ఒకసారి అతను నాకు చెప్పాడు, leader‌గా తనను తాను ఎలా చూస్తాడో వివరించేటప్పుడు.
+ఈ engineer తెలియకుండానే గుర్తించినది ఏంటంటే—Bonobos చేస్తున్న business type కి, Andy వచ్చిన businesses type కి మధ్య ఉన్న disconnect.
 
-“I’m just the sum of cumulative terrible mistakes,” he once told me, describing how he views himself as a leader.
+What this engineer had landed upon without realizing it was the disconnect between the type of business Bonobos was in and the type of businesses Andy had come from.
 
 ---
 
-కానీ అతనిలో remarkable విషయం ఏమిటంటే, తన struggles గురించి reflect చేయడానికి అతనికి emotional maturity ఉంది.
+Business school కి వెళ్ళడానికి ముందు ఐదు సంవత్సరాలలో, Andy Bain లో consulting లో మరి Wind Point అన్న Chicago-based firm లో private equity లో work చేశాడు. Cardboard packaging company కి, South American airline కి projects assign చేయబడ్డాయి. Sears చేత Lands' End acquisition కి కూడా అతను assist చేశాడు.
 
-But what is remarkable about him as well is that he had the emotional maturity to reflect on his struggles.
+In the five years before going to business school, Andy had worked in consulting with Bain and in private equity with a firm out of Chicago called Wind Point. He was assigned to projects for a cardboard packaging company and a South American airline. He assisted with the Lands' End acquisition by Sears.
 
 ---
 
-అంతగా, తాను ఎవరో, నిజంగా ఏమి చేయాలనుకుంటున్నాడో తెలుసుకోవడానికి అతను therapy రూపంలో help కూడా sought చేశాడు.
+ఇవి notoriously thin margins ఉన్న industries, ఇక్కడ companies consultants ను hire చేస్తాయి లేదా private equity firms కి sell చేస్తాయి, ఎందుకంటే వాళ్ళు efficiencies విషయంలో ruthless గాను, profits మీద laser focused గాను ఉంటారు.
 
-So much so that he sought help—in the form of therapy—to help him figure out who he was and what he really wanted to do.
+These were industries with notoriously thin margins where companies hired consultants or sold to private equity firms because they were ruthless about efficiencies and laser focused on profits.
 
 ---
 
-ఆ సంవత్సరం Januaryలో, అతను Bonobos board of directors‌ను కూడగట్టి, Palo Alto office ప్రారంభించిన barely ఒక సంవత్సరం తర్వాత దాన్ని close చేయాలని నిర్ణయించుకున్నానని తెలిపాడు.
+In effect, Andy startup world కి opposite నుంచి వచ్చాడు, మరి తెలియకుండానే ఆ cutthroat sensibility (ruthless approach) ను Bonobos leadership కి తీసుకువస్తున్నాడు.
 
-In January of that year, he gathered the Bonobos board of directors and informed them that he’d decided to shutter the Palo Alto office barely a year after opening it.
+In effect, Andy had come from the opposite of the startup world and was unconsciously bringing that cutthroat sensibility to his leadership of Bonobos.
 
 ---
 
-ఆ closure, companyని multibrand technology platform‌గా మార్చడానికి ప్రయత్నిస్తూ, Bonobos ఎవరు, ఏమి చేస్తారు అన్న దాని నుంచి దూరమవుతున్నానని Andy పిలిచిన “broader error”ను resolve చేసే మొదటి step.
+Engineer's message ఒక wake-up call (eye-opener), అని Andy చెప్పాడు. "ఇది consulting లేదా private equity కాదు, where people fear తో motivate అవుతారు. ఇది ఒక startup, where people joy తో motivate అవుతారు. ఇది next rung కి చేరుకోడానికి enough hard work చేస్తున్నావా అన్నది ensure చేసుకోవడం కాదు; ఏదో create చేయడం గురించి."
 
-The closure was the first step toward resolving what Andy called a “broader error” he was making in trying to turn the company into a multibrand technology platform: getting away from who Bonobos was and what it did.
+The engineer's message was "a wake-up call," Andy said. "This isn't consulting or private equity, where people are motivated by fear. This is a startup, where people are motivated by joy. It's about creating something versus making sure that you're working hard enough to get to the next rung."
 
 ---
 
-ఒక business core చుట్టూ experiment చేయడం మరియు కొత్త core businesses‌లోకి jump చేయడం మధ్య major difference ఉందని అతను నమ్మాడు.
+ఈ realization, just wake-up call కంటే ఎక్కువ గా turn out అయింది. First, ex-Zappos engineer's point friendly advice కాదు. ఇది అతని parting thought (last word before leaving). అతను quit అయ్యి, tech team ను unguided గాను, whole business ను potentially underpowered గాను వదిలేశాడు.
 
-There is a major difference, he believed, between experimenting around the core of a business and jumping into new core businesses.
+This realization would turn out to be more than a wake-up call. First, the ex-Zappos engineer's point wasn't just a friendly piece of advice. It was his parting thought. He quit, leaving the tech team unguided and the whole business potentially underpowered.
 
 ---
 
-2012లో ప్రారంభించిన fit-to-ship Guideshops, Nordstromతో చేసిన retail partnership, dress shirts మరియు suits వంటి ఇతర menswear categories—ఇవి అన్నీ Bonobos brand చుట్టూ నిర్మించబడ్డాయి.
+ఆ time లో, Bonobos customers కి website మాత్రమే entry point. అది break అయితే, అది incredibly costly గా ఉండేది. కాబట్టి Andy similar level programming talent ను New York కి recruit చేయడం start చేశాడు. లేదా I should say, try చేశాడు.
 
-The fit-to-ship Guideshops they began opening in 2012, the retail partnership they entered into with Nordstrom, and the other categories of menswear like dress shirts and suits they developed—all of those built around the Bonobos brand.
+At the time, the website was the only entry point for Bonobos customers. If that broke down, it could be incredibly costly. So Andy started to recruit a similar level of programming talent to New York. Or I should say, he tried.
 
 ---
 
-అందుకే ఆశ్చర్యం లేకుండా, అవి మొదటి నుంచే బాగా పనిచేశాయి.
+ఇది 2010. Economy recession నుంచి బయటపడుతోంది, మరి mobile devices మరి mobile apps రూపంలో ఒక new wave technological innovation industry యొక్క పెద్ద parts ను upend చేయబోతోంది.
 
-And, unsurprisingly, did quite well from the start.
+This was 2010. The economy was coming out of the recession, and a new wave of technological innovation, in the form of mobile devices and mobile apps, was about to arrive and upend large swaths of the industry.
 
 ---
 
-కానీ West Coast tech peopleతో నిండిన high-cost Palo Alto office, Bonobos ఏమి కావాలి అన్న దానిపై వేర్వేరు ideas కలిగినది, అలాగే launch చేసిన derivative golf brand Maide మరియు women’s clothing brand AYR—ఇవి “Bonobos brand scopeకి బయట” ఉన్న experiments.
+Experienced programmer లేదా engineer కి, big action మరి opportunities clearly Silicon Valley లోనే ఉన్నాయి.
 
-The high-cost Palo Alto office filled with West Coast tech people who had different ideas for what Bonobos should be, and the derivative golf (Maide) and women’s clothing (AYR) brands they launched—those were experiments that were “outside the scope of the Bonobos brand.”
+For an experienced programmer or engineer, the big action and the opportunities were unequivocally in Silicon Valley.
 
 ---
 
-Maide 2017లో Bonobos Golf‌గా మారే వరకు కొనసాగింది.
+Computer మీద pants sell చేసే opportunity కోసం Zappos-level pedigree (background) ఉన్న engineer ని Manhattan కి lure చేయడానికి చాలా అవసరం అవుతుంది. Lead engineer వెళ్ళిన మొదటి కొన్ని months లో Andy ఇస్తున్నది clearly enough కాదు.
 
-Maide hung on to become Bonobos Golf in 2017.
+It would take a lot to lure an engineer with a Zappos-level pedigree to Manhattan for the opportunity to sell pants on the computer. Whatever Andy was offering in those first months after their lead engineer left clearly wasn't enough.
 
 ---
 
-AYR మాత్రం successfully spun out అయింది.
+కొంత కాలం, business outside technology consultants work మీద survive (subsist) అయింది, కానీ చివరికి ఈ arrangement పెట్టే challenges, దాని benefits ను దాటిపోయాయి.
 
-But AYR was successfully spun out.
+For a while, the business subsisted on the work of outside technology consultants, but eventually the challenges this arrangement presented outweighed the benefits.
 
 ---
 
-Palo Alto office యొక్క technology functions కూడా former chief technology officer Michael Hart CEOగా ఉన్న personalization SaaS companyగా spin out చేయబడ్డాయి.
+2011 చివర్లో, talent ను 3,000 miles continent అంతా persuade చేయడానికి try చేసేకన్నా, talent ఉన్న చోటికే వెళ్ళడం better అని Andy decide చేశాడు. Netflix engineering director అయిన Michael Hart ను chief technology officer గా hire చేశాడు, తర్వాత 2012 ఆరంభంలో Bonobos open చేసిన brand-new Palo Alto office లో install చేశాడు.
 
-As were the technology functions of the Palo Alto office, into a personalization SaaS (software as a service) company with their former chief technology officer, Michael Hart, as CEO.
+Near the end of 2011, Andy finally decided to go where the talent was instead of trying to coax it 3,000 miles across the continent. He hired a Netflix engineering director named Michael Hart to be chief technology officer, then installed him in a brand-new Palo Alto office that Bonobos opened at the beginning of 2012.
 
 ---
 
-2014 నాటికి Bonobos ఇప్పటికే “massively turning the corner” అవుతోంది, Andy మాటల్లో.
+ఈ decision ఎంత well-intentioned గా ఉన్నా, "ఇది ఒక catastrophic error గా turn out అయ్యింది," అని Andy చెప్పాడు.
 
-By 2014, Bonobos was already “massively turning the corner,” to use Andy’s phrase.
+As well-intentioned as this decision was, "it turned out to be a catastrophic error," Andy said.
 
 ---
 
-వాళ్లకు దాన్ని సాధించిన key mover twofold: చివరికి వారు brand ఏమిటో own చేసుకున్నారు, తర్వాత e-commerce దాటి physical brick-and-mortarలోకి Guideshops మరియు Nordstrom partnership ద్వారా multichannel అయ్యారు.
+Business యొక్క ఆ రెండు sides మధ్య already ఉన్న tribal instincts (tribe-like loyalty) ను తీసుకుని, వాటిని institutionalize చేసిన effect అది. Tech మరి retail మధ్య ఉన్న internal divide ను widen చేయడమే కాదు, ఒక్కో side తామే business కి core అన్న sense ను deepen చేసింది.
 
-The key mover that did it for them was twofold: they finally owned what the brand was, and then they took it multichannel beyond e-commerce into physical brick-and-mortar with their Guideshops and Nordstrom partnership.
+It had the effect of taking the tribal instincts already present between the two sides of the business and institutionalizing them—not just widening the internal divide between tech and retail, but deepening each side's sense that they represented the core of the business.
 
 ---
 
-“అది మరో really fun board meeting,” అని Andy అన్నాడు, business identity గురించి జరిగిన మరో debate గురించి.
+"New York office దీన్ని ఒక menswear retailer గా చూసింది," అని explain చేశాడు. "Palo Alto office దీన్ని technology తో power చేయబోయే ఒక multibrand technology platform యొక్క beginning గా చూసింది."
 
-“That was another really fun board meeting,” Andy said of yet another debate over the identity of the business.
+"The New York office saw this as a menswear retailer," he explained. "The Palo Alto office saw this as the beginning of a multibrand technology platform that they were going to power with technology."
 
 ---
 
-ఈసారి ప్రశ్న: “ఇది e-commerce companyనా, లేక menswear experience companyనా?”
+మరి ఇద్దరూ company యొక్క limited resources మీద strongest claim తమకే ఉందని believe చేశారు—ఆ resources ఒకే location బదులు రెండు locations maintain చేసే cost వల్ల, surprisingly కాదు, రోజురోజుకి ఇంకా limited గా (finite) అవుతున్నాయి.
 
-In this one, the question was: “Is this an e-commerce company, or is this a menswear experience company?”
+And both sides believed they had the strongest claim to the company's finite resources, which were being made more finite by the day, not surprisingly, as a result of the cost of maintaining and managing two locations instead of one.
 
 ---
 
-Andy వాదన ఏమిటంటే వాళ్లు అసలు e-commerce business కాదు.
+2012 నుండి continent యొక్క opposite sides లో dedicated offices ఉండడంతో, ఇప్పుడు ఒక్కో group కి protect చేయాల్సిన తమ సొంత ఇల్లు (house to protect) ఉండేది—Bonobos అనేది Hogwarts అన్నట్లుగా, వాళ్ళు Slytherin మరి Gryffindor అన్నట్లుగా!—మరి cooperate చేయడానికి very little incentive ఉన్నట్లు అనిపించేది.
 
-Andy made the case that they weren’t an e-commerce business at all.
+With dedicated offices on opposite sides of the country beginning in 2012, each group now had their own house to protect—as though Bonobos was Hogwarts and they were Slytherin and Gryffindor!—and seemingly very little incentive to cooperate.
 
 ---
 
-Google search company కాదు, search‌ను ఉపయోగించే ad sales company అని మీరు చెప్పినట్టే, Bonobos e-commerce platform‌ను ఉపయోగించే retail customer service business అని Andy అన్నాడు.
+"People అస్సలు ఒకే view లో (seeing eye to eye) లేరు," అని Andy చెప్పాడు. "Strategy ఏంటి, company ఏ గురించి అన్న differences ను resolve చేయడానికి వాళ్ళు enough interact అవ్వట్లేదు."
 
-Just as you might say Google isn’t a search company, it’s an ad sales company that uses search, Andy said Bonobos was a retail customer service business that utilized an e-commerce platform.
+"People were not seeing eye to eye at all," Andy said. "They just weren't interacting enough to resolve their differences about what the strategy was and what the company was about."
 
 ---
 
-Traditional brick-and-mortar retailerలా అదే స్థాయి fit మరియు service deliver చేసే మార్గాన్ని “invent” చేయగలిగితే, అది వాళ్లను businessగా తమ soulకి మరింత దగ్గర చేస్తుందని అతను నమ్మాడు.
+కానీ అది ఒక question ను raise చేస్తుంది: Bonobos exactly ఏ గురించి? ఎందుకంటే Andy Dunn మరి అతని team experience చేస్తున్న ఈ kind of thing—తను ఎవరో, తను ఏం చేస్తుందో తెలిసిన company లో commonly happen చేయదు.
 
-And if they could “invent a way to deliver the same level of fit and service” as a traditional brick-and-mortar retailer, then that would only get them closer to their soul as a business.
+But that raises the question: What exactly was Bonobos about? Because this kind of thing that Andy Dunn and his team were experiencing doesn't often happen in a company that knows who it is and what it does.
 
 ---
 
-Technologyని abandon చేయకుండా—అది అతని intention ఎప్పుడూ కాదు—Andy వారి retail menswear roots వైపు leaned in చేశాడు.
+తన దారి కొంచెం lost అయిన (lost its way) company, తను actually ఏ business లో ఉందో precisely తెలియని company మాత్రమే—ఇలా తనతోటి తాను fight చేసుకుంటుంది.
 
-Without abandoning technology, which was never his intention, Andy had leaned into their retail menswear roots.
+Only a company that has lost its way a little bit, that doesn't know precisely what business it's actually in, tends to fight itself like this.
 
 ---
 
-2009లో reins తీసుకున్నప్పటి నుంచి leader‌గా అతన్ని vex చేసిన challenge‌ను చివరికి solve చేశాడు.
+తన New York office కి కొంచెం north (twenty blocks uptown) లో, past కొన్ని years ముందు, ఈ worst-case scenario ఎలా look అవుతుందో చూడడానికి AOL Time Warner ను మరి 2000 లో ఆ company ను create చేసిన titanic merger ను Andy చూడాల్సింది మాత్రమే.
 
-And managed to solve the challenge that had vexed him as a leader since he first took the reins in 2009.
+Andy only needed to look twenty blocks uptown from his New York office and a few years into the past, at AOL Time Warner and the titanic merger that created the company in 2000, to see what the worst possible version of this might look like.
 
 ---
 
-చివరికి, Andy Bonobos‌ను తన మరియు Brian Spaly original investor pitch—“Ralph Lauren meets Zappos”—పై deliver చేసే స్థితిలో పెట్టాడు.
+AOL మరి Time Warner merge అయినప్పుడు, new media entity యొక్క size మరి market cap గురించి చాలా చర్చ జరిగింది. ఇద్దరు teams తాము తెచ్చిన assets ను leverage చేయడం ద్వారా create అయ్యే potential ను contemplate చేయడం కష్టం—calculate చేయడం పక్కనపెడితే.
 
-He had, at last, put Bonobos in a position to deliver on his and Brian Spaly’s original pitch to investors—it’s Ralph Lauren meets Zappos.
+When AOL and Time Warner merged, a lot was made of the new media entity's size and market cap. The potential created by both teams leveraging the assets they brought to the table was difficult to contemplate let alone calculate.
 
 ---
 
-అంతేకాదు, company లోపలైనా బయటైనా, investor అయినా customer అయినా, analyst అయినా employer అయినా—వాళ్లు ఎవరు, ఏమి చేస్తారు అన్నది అందరికీ తెలియజేసే స్థితిలో పెట్టాడు.
+Merger $165 billion గా valued అయ్యింది, కానీ అది బహుశా just ఒక guess. Business press దాన్ని describe చేయడానికి enough grand adjectives (impressively large) తీసుకురావడంలో struggle అయ్యింది.
 
-And to let everyone know—inside and outside the company, investor or customer, analyst or employer—who they are and what they do.
+The merger was valued at $165 billion, but that was probably just a guess. The business press struggled to come up with adjectives grandiose enough to describe it.
 
 ---
 
-అందరూ ఒకే pageపైకి వచ్చిన తర్వాత, పని నిజంగా pay off అవ్వడం మొదలైంది.
+అయితే merger చుట్టూ ఉన్న frenzy (excitement) లో, ఒక thing unnoticed గా—కనీసం underappreciated గా—ఉండిపోయింది: AOL Time Warner చాలా stiff headwinds (strong opposing forces) లోకి తన sails open చేసుకుంటోంది.
 
-Once everyone was on the same page, the work really began to pay off.
+In the frenzy around the merger, however, something went unnoticed, or at least underappreciated: AOL Time Warner was opening its sails into some very stiff headwinds.
 
 ---
 
-2017 ప్రారంభంలో Bonobos Walmart దృష్టిని ఆకర్షించింది.
+Dot-com bubble burst అవ్వడానికి సిద్ధంగా ఉంది. Ad sales అప్పుడు slump అవుతాయి, అది inevitable గా internet future viability మీద doubt cast చేస్తుంది. అదే time లో, true potential release చేసే one element—high-speed broadband—online రాబోతోంది, company ను guard లేకుండా catch చేస్తూ, దాని leadership ను fully broadside (పక్కనుండి దెబ్బ తీయడం) చేస్తోంది.
 
-And in early 2017 Bonobos caught the eye of Walmart.
+The dot-com bubble was about to burst. Ad sales would then slump, which would inevitably cast doubt on the future viability of the internet (whose arrival this huge merger officially signaled) right as the one element that would ultimately release its true potential—high-speed broadband—was about to come online, catching the company off guard and fully broadsiding its leadership.
 
 ---
 
-ఆ వేసవిలో Walmart ఆ businessను $300 million కంటే ఎక్కువకు కొనుగోలు చేసింది.
+తను ఏ గురించి అని తెలిసిన company ఈ obstacles ను overcome చేయగలిగేది, Andy Dunn ను paraphrase చేస్తే. Larger mission తో unify అయిన strong culture తో, అందరూ ఒకే direction లో row చేసే people తో propel అయితే—ఎదురొచ్చిన obstacles ను opportunities గా కూడా leverage చేసి ఉండేవారు.
 
-Which purchased the business that summer for more than $300 million.
+These obstacles could have been surmounted by a company that knew what it was about, to paraphrase Andy Dunn. With a strong culture unified by a larger mission and propelled by people who were all rowing in the same direction, they could have even leveraged the obstacles they faced into opportunities.
 
 ---
 
-తెలివిగా, Walmart leadership Bonobos చేసే పనిని కొనసాగించడానికి అనుమతించింది.
+కానీ AOL Time Warner లోపల ఏ unity దొరకలేదు, మరి దశాబ్దం లోపే merger dead అవుతుంది. Both companies premerger value లో 85 percent కంటే ఎక్కువ కోల్పోతాయి.
 
-Smartly, Walmart’s leadership has allowed Bonobos to continue to do what it does.
+Except inside AOL Time Warner, there was no unity to be found, and within a decade the merger would be dead. Both companies would lose more than 85 percent of their premerger value.
 
 ---
 
-ఎందుకంటే Walmart వాళ్లు తాము ఎవరో, తమ business ఏమిటో తెలుసుకున్నారు; అలాగే Bonobos గురించీ అదే విషయాన్ని పూర్తిగా అర్థం చేసుకున్నారు.
+Time Warner చివరికి తన cable business (Time Warner Cable), publishing business (Time Inc.), మరి of course AOL ను spin off చేస్తుంది. AOL radically transform అయిన digital media landscape లోకి తన former self యొక్క wandering shell (ఖాళీ రూపం) గా re-enter అవుతుంది.
 
-Because they know who they are and what business Walmart is in, and they fully understand the same thing about Bonobos.
+Time Warner would eventually spin off its cable business (Time Warner Cable), it's publishing business (Time Inc.), and, of course, AOL, which would reenter a radically transformed digital media landscape as a wandering shell of its former self.
 
 ---
 
-ధన్యవాదంగా, Andy Dunn కూడా దాన్ని అర్థం చేసుకున్నాడు.
+Smaller Time Warner తనని Warner Media గా rebrand చేసుకుంది, ఇది ultimately 2018 లో AT&T కి around $85 billion కి sell అయ్యింది.
 
-Thankfully, Andy Dunn understands that, too.
+The smaller Time Warner rebranded itself as Warner Media, which was ultimately sold to AT&T for around $85 billion in 2018.
 
 ---
 
-మరియు అతను చివరికి authentically తానే అయిన వాటిలో మరింతగా becoming చేయడంలో ఉన్న power‌ను అనుభవించగలిగాడు.
+Merger యొక్క unwinding (విడిపోవడం) aftermath లో (coincidentally ఇది, Andy మరి Brian Bonobos లో తమ partnership ను unwound చేసిన దాదాపు అదే time లో జరిగింది), analysts మరి participants ఇద్దరూ Virginia లోని AOL folks కి, New York లోని Time Warner folks కి మధ్య ఉన్న schism (విభజన) ను—dot-com recession యొక్క turbulent waters గుండా company దారి కనుక్కోలేకపోవడానికి principal reasons లో ఒకటిగా point చేశారు.
 
-And he has finally been able to experience the power of becoming more of the things that are authentically him.
+In the aftermath of the merger's unwinding (which occurred at roughly the same time Andy and Brian unwound their partnership at Bonobos, coincidentally), analysts and participants alike pointed to the schism between the AOL folks down in Virginia and the Time Warner folks up in New York as one of the principal reasons for the company's failure to find its way through the turbulent waters of the dot-com recession.
 
 ---
 
-2008 Februaryలో, popular Harvard Business School professor Noam Wasserman Harvard Business Reviewలో ఒక article publish చేశాడు.
+AOL మరి Time Warner మధ్య "synergy build చేయడం" గురించి ఎప్పుడూ great talk ఉండేది, కానీ చివరికి అది ఒక illusory (అదృశ్యమైన) goal గా turn out అయ్యింది.
 
-In February 2008, the popular Harvard Business School professor Noam Wasserman published an article in the Harvard Business Review.
+There was always great talk about "building synergy" between AOL and Time Warner, but in the end that turned out to be an illusory goal.
 
 ---
 
-కొన్ని సంవత్సరాల తర్వాత అదే పేరుతో best-selling bookకి basis అయిన ఆ article పేరు “The Founder’s Dilemma.”
+"దానిలో కొంత భాగం company లోపలి fights," అని AOL's chairman అయిన Steve Case నాకు చెప్పాడు. "ఇది different factors mix, కానీ చివరికి ఇది people గురించి మరి teams గురించి."
 
-That would become the basis for a best-selling book of the same name a few years later. It was called “The Founder’s Dilemma.”
+"Some of it was the fights within the company," Steve Case, AOL's chairman, told me. "It was a mix of different factors but at the end of the day it's about people and it's about teams."
 
 ---
 
-Wasserman వేలాది entrepreneursపై చేసిన reams of research ఆధారంగా thesis ఏమిటంటే, companies growthలో ఒక critical point వద్ద founders అందరూ రెండు competing interests మధ్య choice ఎదుర్కొంటారు—money మరియు control.
+Merger announcement యొక్క ten-year anniversary లో, "How the AOL–Time Warner Merger Went So Wrong" అన్న retrospective oral history ను New York Times run చేసింది, ఇది deal లో మరి resulting enterprise operation లో involved అయిన ఎంతో మంది executives నుండి insights ను feature చేసింది.
 
-The thesis, based on reams of research Wasserman had conducted on thousands of entrepreneurs, was that at some critical point in the growth of their companies, all founders will find themselves with a choice between two competing interests—money and control.
+On the ten-year anniversary of the announcement of the merger, the New York Times ran a retrospective oral history, titled "How the AOL–Time Warner Merger Went So Wrong," that featured insights from many of the executives involved in the deal and in the operation of the resulting enterprise.
 
 ---
 
-మరియు వారు తరచుగా poor choice చేస్తారు.
+ఇది merger time లో Time Warner president అయిన Richard Parsons తో conclude అయ్యింది. "Business model మా కింద somehow collapse అయ్యింది, తరువాత finally ఈ cultural matter," అని Parsons చెప్పాడు.
 
-And they will often choose poorly.
+It concluded with Richard Parsons, the president of Time Warner at the time of the merger. "The business model sort of collapsed under us, and then finally this cultural matter," Parsons said.
 
 ---
 
-వారు తమ self-interestకి వ్యతిరేకంగా, లేదా కొన్ని సందర్భాల్లో company best interestsకి వ్యతిరేకంగా, కొన్నిసార్లు రెండింటికీ వ్యతిరేకంగా కూడా act చేస్తారు.
+". . . Old media మరి new media culture ను ఎలా blend చేయాలో figure out చేయడం నా abilities కి మించినది. వాళ్ళు different species లాగా ఉన్నారు, in fact వాళ్ళు inherently at war ఉన్న species."
 
-They will act either against their own self-interest or, in some instances, against the best interests of their companies, and sometimes both.
+". . . It was beyond certainly my abilities to figure out how to blend the old media and the new media culture. They were like different species, and in fact, they were species that were inherently at war."
 
 ---
 
-Wasserman argumentకి backdrop fundraising landscape మరియు grow కావడానికి capital కోసం entrepreneurs చేయడానికి సిద్ధంగా లేని management trade-offs.
+AOL Time Warner sink అవ్వడం start అయ్యాక, దాన్ని save చేయడం అసాధ్యం, ఎందుకంటే ship why seaworthy కాదు అని ఒక side మరో side ను blame చేయడంలోనే ఎక్కువ interest చూపేది—hull లోని holes ను patch చేయడం, water ను bail out చేయడం, thing upright గా sailing చేయించడం కోసం కలిసి work చేయడం కంటే.
 
-The backdrop for Wasserman’s argument was the landscape of fundraising and the management trade-offs many entrepreneurs are unprepared to make in exchange for the capital they need in order to grow.
+Once AOL Time Warner started to sink, there was no saving it, because each side was more interested in blaming the other for why the ship wasn't seaworthy rather than working together to patch the holes in the hull, bail out the water, and maybe get the thing upright and sailing again.
 
 ---
 
-ప్రత్యేకంగా, investors demand చేసే control స్థాయిని వారు resist చేస్తారు.
+2013 లో Bonobos sinking ship కి దగ్గర ఎక్కడా లేదు, కానీ definitely tilting గా (listing) ఉండేది. తను ఎవరో, తను ఏం చేస్తుందో figure out చేసుకోవడంలో struggle అవుతోంది.
 
-Specifically, they resist the level of control that investors demand.
+Bonobos was nowhere close to a sinking ship in 2013, but it was definitely listing. It was struggling to figure out who it was and what it did.
 
 ---
 
-“Founders don’t let go easily,” అని Wasserman రాశాడు.
+ఆ time లో Andy's vision—Bonobos కంటే మించి brands ఒక whole portfolio ను create చేయడం, తాము effectively invented చేసిన "digitally native vertical brand model" ను ఉపయోగించి, personalization మీద heavily lean అవ్వడం. ఎందుకంటే ఎన్ని ఎక్కువ brands add చేస్తే, data sets అంత richer గా అవుతాయి, product offerings మరి services అంత better గా అవుతాయి.
 
-“Founders don’t let go easily,” Wasserman wrote.
+Andy's vision at the time was to create a whole portfolio of brands beyond Bonobos, using the "digitally native vertical brand model" they'd effectively invented and leaning heavily on personalization, since the more brands they added, the richer their data sets would be and the better their product offerings and services would become.
 
 ---
 
-అతను analyze చేసిన entrepreneursలో 80 percent మంది, leave చేయడానికి సిద్ధంగా కాకముందే, తమ founding leadership positions నుంచి forced out చేయబడ్డారు.
+"New York కి mandate—we can make the best men's clothing brand," అని అతను చెప్పాడు, "మరి California కి mandate—we can build the best technology platform."
 
-In fact, 80 percent of the entrepreneurs he analyzed were forced out of their founding leadership positions before they were ready to leave.
+"The mandate to New York was to build the best men's clothing brand we can," he said, "and the mandate to California was to build the best technology platform we can."
 
 ---
 
-మరియు “most were shocked” when it happened.
+ఒక platform—అతను hope చేశాడు—first Bonobos ను power చేస్తుంది, తరువాత time గడిచేకొద్దీ, వాళ్ళు develop చేసే ఇతర brands కి backbone గా అవుతుంది.
 
-And “most [were] shocked” when it happened.
-
----
-
-ఇది entrepreneurial personality యొక్క product అని Wasserman argued చేశాడు.
-
-This is a product of the entrepreneurial personality, Wasserman argued.
-
----
-
-Entrepreneurs తమ focusలో single-mindedగా ఉంటారు.
-
-Entrepreneurs tend to be single-minded in their focus.
-
----
-
-వాళ్లు extra passionate‌గా ఉంటారు.
-
-They are extra passionate.
-
----
-
-కొన్నిసార్లు తమ abilities కంటే ఎక్కువ confidentగా, naïveté స్థాయికి చేరుతారు.
-
-They are sometimes confident beyond their abilities, to the point of naïveté.
-
----
-
-ఇవి great startup founder attributes, కానీ business scale చేయాల్సిన CEOకి అంతగా సరిపోకపోవచ్చు.
-
-These are the attributes of a great startup founder, though less so of a CEO charged with scaling a business.
-
----
-
-అయినా professional investors లేదా తమ board of directors ఈ analysis చూపించినప్పుడు కూడా, founders సాధారణంగా “నా start-upని successకు lead చేయగలిగేది నేనే” అని నమ్ముతారు.
-
-And still, when confronted with this analysis by professional investors or even their own board of directors, “founders are usually convinced that only they can lead their start-ups to success,” Wasserman wrote.
-
----
-
-“Product ready stageకి మమ్మల్ని నేనే తీసుకొచ్చాను కాబట్టి, ఈ companyని నేను lead చేయగలనని అది వాళ్లకు చెప్పాలి” అనేది common refrain.
-
-“‘Since I’ve gotten us to the stage where the product is ready, that should tell them that I can lead this company’ is a common refrain.”
-
----
-
-ఇప్పుడు, entrepreneurs professional money raise చేయాలనుకోకపోతే raise చేయాల్సిన అవసరం లేదు.
-
-Now, entrepreneurs don’t have to raise professional money if they don’t want to.
-
----
-
-అందుబాటులో ఉన్న amountsలో లేదా valuationలో దాన్ని accept చేయాల్సిన అవసరం కూడా లేదు.
-
-They don’t have to accept it in the amounts or at the valuation that may be available to them.
-
----
-
-తమ ideasలో idleగా ఉన్న potential‌ను ఇతరులు కోరినంత త్వరగా realize చేయాల్సిన అవసరం కూడా లేదు.
-
-They don’t have to realize the potential idling within their ideas as quickly as others may want either.
-
----
-
-వాళ్లు slowగా తీసుకోవచ్చు.
-
-They can take it slow.
-
----
-
-వాళ్లు compensation defer చేయవచ్చు.
-
-They can defer compensation.
-
----
-
-చాలా డబ్బు సంపాదించడానికి వేచి ఉండవచ్చు, companyని మరింత natural paceలో grow అవ్వనివ్వవచ్చు.
-
-They can wait to make a lot of money and let the company grow at a more natural pace.
-
----
-
-ఇది చాలా entrepreneursకి unfamiliar place కాదు, ఎందుకంటే founders సాధారణంగా employees‌గా ఉంటే సంపాదించేదంతే pay చేసుకుంటారు.
-
-It wouldn’t be an unfamiliar place from which to operate for most entrepreneurs, since founders typically pay themselves about as much as they would make if they were employees.
-
----
-
-మరియు companyకి బయట నుంచి వచ్చే CEO సంపాదించే దానికంటే averageగా చాలా తక్కువ.
-
-And much less on average than a CEO would make coming into the company.
-
----
-
-Fundamentally, founderకి companyకి ఏది best, తనకు ఏది best అనిపిస్తుందో దానిపైనే ఇది ఆధారపడి ఉంటుంది.
-
-Fundamentally, it comes down to what a founder thinks is best for the company and best for themselves.
-
----
-
-“Entrepreneurs ప్రతి stepలో money making మరియు ventures managing మధ్య choiceను ఎదుర్కొంటారు,” అని Wasserman రాశాడు.
-
-“Entrepreneurs face a choice, at every step, between making money and managing their ventures,” Wasserman wrote.
-
----
-
-“ఈ fundamental tension ‘rich’ versus ‘king’ trade-offs‌ను ఉత్పత్తి చేస్తుంది.”
-
-“This fundamental tension yields ‘rich’ versus ‘king’ trade-offs.”
-
----
-
-“Rich” options companyని మరింత valuableగా మారుస్తాయి, కానీ CEO position మరియు major decisionsపై control తీసేయడం ద్వారా founderను sideline చేయవచ్చు.
-
-“The ‘rich’ options enable the company to become more valuable but [may] sideline the founder by taking away the CEO position and control over major decisions.”
-
----
-
-“King” choices founderను CEOగా ఉండి, boardపై control maintain చేసి decision making control retain చేయనిస్తాయి.
-
-“The ‘king’ choices allow the founder to retain control of decision making by staying CEO and maintaining control over the board.”
-
----
-
-కానీ తరచుగా తక్కువ valuable company నిర్మించడం ద్వారానే అది సాధ్యమవుతుంది.
-
-“But often only by building a less valuable company.”
-
----
-
-ఏ choice అయినా by definition మరొకదాని కంటే better కాదు.
-
-Neither choice is, by definition, better than the other.
-
----
-
-ఇది founder company ప్రారంభించినప్పుడు అతని goals ఏమిటి, success వచ్చిన తర్వాత ఆ goals ఎలా evolve అయ్యాయి అన్నదానిపై ఆధారపడి ఉంటుంది.
-
-It all depends on what a founder’s goals were when they started their company, and where those goals have evolved in light of their success.
-
----
-
-కానీ growing and successful business‌తో wrestle చేస్తున్నప్పుడు money మరియు control మాత్రమే మీ choices అని నేను అనుకోను.
-
-Except I don’t think money and control are your only choices when you are wrangling with a growing and successful business.
-
----
-
-Entrepreneur decision makingను motivate చేసే రెండు major forces అవే మాత్రమే అని కూడా నేను నమ్మను.
-
-I don’t believe they are the only two major forces that motivate an entrepreneur’s decision making either.
-
----
-
-మూడోది ఉందని నేను అనుకుంటాను.
-
-I think there is a third.
-
----
-
-Growthలో fundraising భాగంలో అది తక్కువ పాత్ర పోషించినా, founder తన business‌ను తాను ఊహించిన దానికంటే దూరంగా grow చేసిన తర్వాత, sell చేసే opportunity వచ్చినప్పుడు అది ప్రత్యేకంగా active అవుతుంది.
-
-A consideration that tends to play a lesser role during the fundraising part of growth, but is especially active once a founder has grown their business beyond what they ever imagined possible and the opportunity to sell presents itself.
-
----
-
-నేను happiness గురించి మాట్లాడుతున్నాను.
-
-I’m talking about happiness.
-
----
-
-Contentment గురించి.
-
-Contentment.
-
----
-
-సరైనట్టుగా అనిపించే decision తీసుకోవడం గురించి.
-
-Making a decision that feels right.
-
----
-
-2000లో, Gary Erickson మరియు అప్పటి అతని partner Lisa Thomas, Clif Barని ఒక big food companyకి sell చేయాలా వద్దా అన్న నిర్ణయం తీసుకోవాల్సి వచ్చింది.
-
-In 2000, Gary Erickson and his partner at the time, Lisa Thomas, had to make a decision about whether or not they were going to sell Clif Bar to a big food company.
-
----
-
-Nestlé PowerBarని $375 millionకి, Kraft Balance Barని $268 millionకి కొనుగోలు చేసిన తర్వాత, energy bar gameలోకి రావడానికి పెద్ద food companies కొన్ని Clif Bar చుట్టూ తిరుగుతున్నాయి.
-
-A number of them were sniffing around trying to get into the energy bar game after Nestlé bought PowerBar for $375 million and Kraft snapped up Balance Bar for $268 million earlier that year.
-
----
-
-Gary తప్పనిసరిగా sell చేయాలని చూస్తున్నాడు కాదు, కానీ వారి రెండు biggest competitors కొన్ని నెలల్లోనే quarter billion dollars కంటే ఎక్కువకు acquire కావడం Lisaపై పెద్ద impact చూపింది.
-
-Gary wasn’t necessarily looking to sell, but watching their two biggest competitors be acquired within months of each other, for more than a quarter of a billion dollars each, had a big impact on Lisa.
-
----
-
-“ఆమె నాకు call చేసి, ‘I want to sell the company’ అన్న exact moment నాకు గుర్తుంది,” Gary చెప్పాడు.
-
-“I can remember the exact moment that I got a call from her and she said, ‘I want to sell the company,’” Gary recounted.
-
----
-
-“నేను all right, బహుశా ఇదే చేసేదేమో అనుకున్నాను.”
-
-“And I said all right, I guess this is what you do.”
-
----
-
-ఇక్కడ చాలా డబ్బు సంపాదించవచ్చని వాదించలేని విషయం.
-
-It was inarguable that there was a ton of money to be made here.
-
----
-
-Clif Bar అప్పటికి ఎనిమిది సంవత్సరాలుగా businessలో ఉంది; growing staff ఉంది, annual sales $40 millionకు పైగా ఉన్నాయి.
-
-Clif Bar had been in business for eight years by then; they had a growing staff and annual sales north of $40 million.
-
----
-
-Marketలో మిగిలిన biggest privately held energy bar company వాళ్లే.
-
-They were the biggest privately held energy bar company left on the market.
-
----
-
-ఈ multinational conglomeratesలో ఏదో ఒకటి వారికి nine figures చెల్లించడం doubtలేని విషయం.
-
-One of these multinational conglomerates was going to pay nine figures for them without a doubt.
-
----
-
-కాబట్టి వారు investment banker‌ను hire చేశారు; అతను marketకి వెళ్లి companyను saleకి పెట్టాడు, తర్వాత వారు roadపైకి బయలుదేరారు.
-
-So they hired an investment banker, who went out onto the market and put the company up for sale, and then they hit the road.
-
----
-
-“మేము దేశమంతా ప్రయాణించడం మొదలుపెట్టాం, తమ portfolioలో మమ్మల్ని భాగం చేయాలనుకున్న పెద్ద companiesని visit చేస్తూ,” Gary అన్నాడు.
-
-“We started traveling all over the country, visiting these large companies that wanted us to be part of their portfolio,” Gary said.
-
----
-
-“మరియు వాటిలో ఒకటి నుంచి మాకు amazing deal వచ్చింది.”
-
-“And we got an amazing deal from one of them.”
-
----
-
-Chewy granola bars ఇప్పటికే తన portfolioలో ఉన్న Quaker Oats Company, Gary మరియు Lisaకి $120 million offer చేసింది.
-
-The Quaker Oats Company, which already had Chewy granola bars in its portfolio and was itself barely more than a year away from selling to PepsiCo, offered Gary and Lisa $120 million.
-
----
-
-అంటే వారిద్దరికీ ఒక్కొక్కరికి $60 million.
-
-That would mean $60 million for each of them.
-
----
-
-వాళ్లు walk away అయి, జీవితాంతం set అవ్వొచ్చు.
-
-They could walk away, set for life.
-
----
-
-వాళ్లు yes అన్నారు.
-
-They said yes.
-
----
-
-Papers signing April 17, 2000కి fix అయింది.
-
-The signing of the papers was set for April 17, 2000.
-
----
-
-Gary మరియు Lisa తమ employees అందరికీ చెప్పారు.
-
-Gary and Lisa informed all their employees.
-
----
-
-Investment banker, Quaker Oats వాళ్లు, lawyers అందరూ San Franciscoలో Bank of America building ముప్పయ్యవ floorలో gathered అయ్యారు.
-
-Their investment banker, the people from Quaker Oats, and the lawyers were all gathered on the thirtieth floor of the Bank of America building in San Francisco.
-
----
-
-Lisa contractలో చివరి details finalize చేస్తూ వాళ్లలో కొందరితో phoneలో ఉంది.
-
-Lisa was on the phone with some of them nailing down the last few details in the contract.
-
----
-
-“Deal essentially done అయిపోయింది,” Gary అన్నాడు.
-
-“The deal was essentially done,” Gary said.
-
----
-
-అప్పుడు, Emeryvilleలోని headquarters నుంచి Bay Bridge దాటి cityకి వెళ్లేందుకు Gary మరియు Lisa carలో ఎక్కాల్సిన సమయానికి గంటకు తక్కువ ముందే, Gary block చుట్టూ walk చేయాలని నిర్ణయించాడు.
-
-And then, less than an hour before he and Lisa were scheduled to jump in the car and drive from their headquarters in Emeryville, across the Bay Bridge, and into the city, Gary decided to take a walk around the block.
+A platform that, he hoped, would power Bonobos first but then, over time, would become the backbone of the many other brands they developed.

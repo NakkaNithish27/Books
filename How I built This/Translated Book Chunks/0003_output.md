@@ -1,977 +1,399 @@
-Telugu
-
-ఆ సమయంలో The Cosby Show television లో అత్యంత popular sitcom, మరియు African Americans కోసం arguably ever made అయిన అత్యంత important television shows లో ఒకటి.
-
-English
+The Cosby Show ఆ time లో television లో most popular sitcom, మరియు African Americans కి arguably ever made అయిన అత్యంత important television shows లో ఒకటి.
 
 The Cosby Show was then the most popular sitcom on television, and for African Americans arguably one of the most important television shows ever made.
 
 ---
 
-Telugu
+"ఇది especially incredible — African American woman గా ఉండడం, మరియు ఆ show నాకు మరియు నా family కి అర్థమైన దానికి," Lisa నాకు చెప్పారు.
 
-“ఒక African American woman గా, ఆ show నాకు మరియు నా family కి ఏమిటో చూస్తే అది particularly incredible,” అని Lisa నాకు చెప్పింది.
-
-English
-
-“It was particularly incredible being an African American woman and what that show meant to me and my family,” Lisa told me.
+"It was particularly incredible being an African American woman and what that show meant to me and my family," Lisa told me.
 
 ---
 
-Telugu
+"African Americans ను అంత positive light లో depict అవ్వడం చూడడం, మరియు నా first table read morning Huxtable kitchen లో నిలబడి cast script read చేయడం వింటూ ఉండడం — నేను ఆ point లో just floated off అవ్వగలిగేదాన్ని."
 
-African Americans అంత positive light లో depicted అవడాన్ని చూడటం, మరియు నా first table read morning లో Huxtable kitchen లో నిలబడి cast script చదువుతున్నదాన్ని వినటం — ఆ point లో నేను గాల్లో తేలిపోయేవాణ్ని.
-
-English
-
-“To see African Americans depicted in such a positive light, and for me to be standing in the Huxtable kitchen the morning of my first table read, as I’m listening to the cast read the script, I could have just floated off at that point.”
+"To see African Americans depicted in such a positive light, and for me to be standing in the Huxtable kitchen the morning of my first table read, as I'm listening to the cast read the script, I could have just floated off at that point."
 
 ---
 
-Telugu
-
-ఆ తర్వాతి సంవత్సరాల్లో, ఆమె ఏదైనా number of television production jobs వైపు వెళ్లి ఉండేది: script supervisor, production coordinator, producer.
-
-English
+తర్వాత సంవత్సరాల్లో, ఆమె ఏ number of television production jobs కి floated off అవ్వగలిగేది: script supervisor, production coordinator, producer.
 
 In the years that followed, she could have floated off to any number of television production jobs: script supervisor, production coordinator, producer.
 
 ---
 
-Telugu
+"And that is what I thought I was going to do," ఆమె recall చేసుకుంది.
 
-“నేను అదే చేయబోతున్నాను అనుకున్నాను,” అని ఆమె recalled.
-
-English
-
-“And that is what I thought I was going to do,” she recalled.
+"And that is what I thought I was going to do," she recalled.
 
 ---
 
-Telugu
-
-తర్వాత ఒకరోజు Lisa, all time greatest — మరియు apparently best-smelling — musicians లో ఒకరైన Prince గురించి article చదివింది.
-
-English
+ఒక రోజు Lisa all time greatest — and apparently best-smelling — musicians లో ఒకరి గురించి article చదివింది.
 
 Then one day Lisa read an article about one of the greatest—and apparently best-smelling—musicians of all time.
 
 ---
 
-Telugu
+"నేను huge Prince fan," Lisa అంది. "And ఆ article తను always very good గా smell అవ్వడం గురించి మాట్లాడింది. దానికి reason — తను తన bureau మీద fragrances assortment ఉంచుకునేవాడు. తను తన boots లో Chanel No. 5 వేసుకునేవాడు."
 
-“నేను huge Prince fan,” అని Lisa చెప్పింది.
-
-English
-
-“I’m a huge Prince fan,” Lisa said.
+"I'm a huge Prince fan," Lisa said. "And this article talked about how he always smelled very good. And the reason for it was he kept an assortment of fragrances on his bureau. He put Chanel No. 5 in his boots."
 
 ---
 
-Telugu
+Lisa happens to love fragrance. ఆమెకు always ఇష్టం. కానీ ఆమె fascination consumer appreciation కంటే ఎక్కువ go అవ్వలేదు.
 
-ఆ article లో అతను ఎప్పుడూ very good గా smell అవుతాడని, దానికి కారణం అతను bureau మీద fragrances assortment ఉంచేవాడని చెప్పింది.
-
-English
-
-“And this article talked about how he always smelled very good. And the reason for it was he kept an assortment of fragrances on his bureau.”
+Lisa happens to love fragrance. She always has. But her fascination had never gone much beyond the appreciation of a consumer.
 
 ---
 
-Telugu
+Prince ఆమెకు realize చేయించాడు — fragrance accessory కంటే చాలా ఎక్కువ. ఇది creative expression form. An art.
 
-అతను తన boots లో Chanel No. 5 పెట్టేవాడు.
-
-English
-
-“He put Chanel No. 5 in his boots.”
+Prince made her realize that fragrance was so much more than an accessory. It was a form of creative expression. An art.
 
 ---
 
-Telugu
+"నాకు fragrances blending చేసి ఈ unique scents create చేసే idea just loved," ఆమె reflect అయింది — Prince తో share చేసిన interest గురించి మాత్రమే కాదు (అది obviously totally cool), కానీ ఆమెకు really ball rolling గా get అయిన moment గురించి కూడా.
 
-Lisa కి fragrance అంటే ఇష్టం. ఎప్పటినుంచో.
-
-English
-
-Lisa happens to love fragrance. She always has.
+"I just loved the idea of this blending of fragrances and creating these unique scents," she said, reflecting not just on an interest that she shared with Prince (which was obviously totally cool) but also on the moment that really got the ball rolling for her.
 
 ---
 
-Telugu
-
-కానీ ఆమె fascination ఇప్పటివరకు consumer appreciation కంటే ఎక్కువగా వెళ్లలేదు.
-
-English
-
-But her fascination had never gone much beyond the appreciation of a consumer.
-
----
-
-Telugu
-
-Prince ఆమెకు fragrance అనేది accessory కంటే చాలా ఎక్కువ అని realize చేయించాడు.
-
-English
-
-Prince made her realize that fragrance was so much more than an accessory.
-
----
-
-Telugu
-
-అది creative expression యొక్క form. ఒక art.
-
-English
-
-It was a form of creative expression. An art.
-
----
-
-Telugu
-
-“Fragrances blend చేసి unique scents create చేసే idea నాకు చాలా నచ్చింది,” అని ఆమె చెప్పింది.
-
-English
-
-“I just loved the idea of this blending of fragrances and creating these unique scents,” she said.
-
----
-
-Telugu
-
-అది Prince తో share చేసిన interest మాత్రమే కాదు; నిజంగా ball rolling ప్రారంభమైన moment కూడా అదే.
-
-English
-
-Reflecting not just on an interest that she shared with Prince (which was obviously totally cool) but also on the moment that really got the ball rolling for her.
-
----
-
-Telugu
-
-తర్వాత కొన్ని సంవత్సరాలు, Lisa perfumes లోని different scent notes — top notes, heart notes, base notes — మరియు వాటిని combine చేయడం గురించి read మరియు research చేయడం మొదలుపెట్టింది.
-
-English
+తర్వాత కొన్ని సంవత్సరాల్లో, Lisa perfumes లో different kinds of scent notes — top notes, heart notes, base notes — మరియు వాటిని ఎలా combine చేయాలో read మరియు research చేయడం start చేసింది.
 
 Over the next few years, Lisa started to read and research the different kinds of scent notes in perfumes—top notes, heart notes, base notes—and how to combine them.
 
 ---
 
-Telugu
-
-ఆమె application అనే art నేర్చుకుంది.
-
-English
+ఆమె application art ను learn చేసింది.
 
 She learned the art of application.
 
 ---
 
-Telugu
+"మీ fragrance మీ body మీద last అయ్యే way — మీరు దాన్ని layer చేయడం," ఆమె నాకు casually మా conversation లో explain చేసింది, నాకంటే ముందు thousands of people కి కూడా ఆమె చేసినట్టే.
 
-“Fragrance మీ body మీద last అవ్వాలంటే, మీరు దాన్ని layer చేయాలి,” అని ఆమె casually వివరించింది.
-
-English
-
-“The way that your fragrance lasts on your body is you layer it,” she explained to me casually during our conversation.
+"The way that your fragrance lasts on your body is you layer it," she explained to me casually during our conversation, as I'm sure she'd done for thousands of people before me.
 
 ---
 
-Telugu
+"మీరు దానితో wash చేస్తారు, దానితో moisturize చేస్తారు, తర్వాత spritz చేస్తారు."
 
-“మీరు దానితో wash చేస్తారు, దానితో moisturize చేస్తారు, తర్వాత దాన్ని spritz చేస్తారు.”
-
-English
-
-“You wash with it, you moisturize with it, then you spritz it on.”
+"You wash with it, you moisturize with it, then you spritz it on."
 
 ---
 
-Telugu
-
-మొదట్లో ఆమె drugstore lotions ను తన collection లోని various fragrances తో blend చేసి scented moisturizer చేయడానికి ప్రయత్నించింది, కానీ చివరికి mess అయింది.
-
-English
+Early on ఆమె drugstore lotions ను తన collection లోని various fragrances తో blend చేసి తన సొంత scented moisturizer చేయడానికి try చేసింది, కానీ ఆమె just mess చేయడం తో end అయింది.
 
 Early on she tried blending drugstore lotions with various fragrances from her collection to make her own scented moisturizer, but she only ended up making a mess.
 
 ---
 
-Telugu
+"అవి chemistry perspective నుండి balanced కాదు, కాబట్టి things just separate అయ్యేవి," ఆమె చెప్పింది.
 
-“Chemistry perspective నుంచి అవి balanced కావు, కాబట్టి things separate అయ్యేవి,” అని ఆమె చెప్పింది.
-
-English
-
-“They weren’t balanced from a chemistry perspective, so things would just separate,” she said.
+"They weren't balanced from a chemistry perspective, so things would just separate," she said.
 
 ---
 
-Telugu
+Eventually, Brooklyn's Park Slope neighborhood లో husband తో new age bookstore shelves browse చేస్తూ ఒక Sunday afternoon, ఆమె essential oils మీద book ను chance ద్వారా find చేసింది, అందులో massage oil, hair oil, creams, balms, మరియు butters లాంటి వాటికి recipes కూడా ఉన్నాయి. Everything ఆమెకు ఇష్టం.
 
-చివరికి, ఒక Sunday afternoon Brooklyn’s Park Slope neighborhood లో తన husband తో new age bookstore shelves browse చేస్తూ, essential oils పై ఒక book ఆమెకు దొరికింది.
-
-English
-
-Eventually, browsing the shelves of a new age bookstore with her husband one Sunday afternoon in Brooklyn’s Park Slope neighborhood, she came across a book on essential oils.
+Eventually, browsing the shelves of a new age bookstore with her husband one Sunday afternoon in Brooklyn's Park Slope neighborhood, she came across a book on essential oils that also included recipes for things like massage oil, hair oil, creams, balms, and butters. Everything she liked.
 
 ---
 
-Telugu
+"నేను thought అయ్యాను, 'This is great, I can make my own lotions,'" Lisa recall చేసుకుంది.
 
-ఆ book లో massage oil, hair oil, creams, balms, butters లాంటి recipes కూడా ఉన్నాయి — ఆమెకు నచ్చిన everything.
-
-English
-
-That also included recipes for things like massage oil, hair oil, creams, balms, and butters. Everything she liked.
+"I thought, 'This is great, I can make my own lotions,'" Lisa recalled.
 
 ---
 
-Telugu
+"Recipes చాలా bare-bones గా ఉండేవి, మరియు అవి paraffin మరియు lanolin లాంటి things use చేసేవి, వాటి గురించి నేను too crazy కాదు. నేను beeswax use చేయాలనుకున్నాను, మరియు cocoa butter find చేయాలనుకున్నాను."
 
-“ఇది great, నేను నా own lotions తయారు చేయగలను,” అని Lisa recalled.
-
-English
-
-“I thought, ‘This is great, I can make my own lotions,’” Lisa recalled.
+"The recipes were very bare-bones, and they used things like paraffin and lanolin, which I wasn't too crazy about using. I wanted to use beeswax, and I wanted to find cocoa butter."
 
 ---
 
-Telugu
+"కాబట్టి నేను book లోని recipes skeleton use చేశాను, తర్వాత నా సొంత combinations add చేయడం start చేశాను. ఏదైనా runny లేదా too thick లేదా too oily లేదా too stiff గా come out అయితే, నేను go back అయి tweak చేయగలను, మరియు accordingly recipe adjust చేయగలను."
 
-Recipes చాలా bare-bones గా ఉండేవి, paraffin మరియు lanolin లాంటి things ఉపయోగించేవి, అవి ఆమెకు అంతగా నచ్చలేదు.
-
-English
-
-“The recipes were very bare-bones, and they used things like paraffin and lanolin, which I wasn’t too crazy about using.”
+"So I used the skeleton of the recipes within the book, and then I just started adding my own combinations. I could go back and tweak it if something came out runny or too thick or too oily or too stiff, and adjust the recipe accordingly."
 
 ---
 
-Telugu
+1990s early నాటికి, Lisa కి తన formulas down అయ్యాయి: ఆమె కావాలనుకున్న way లో together hold చేసే Lotions మరియు body butters. ఆమె actually use చేయగలిగే lotions.
 
-ఆమె beeswax ఉపయోగించాలనుకుంది, cocoa butter కనుగొనాలనుకుంది.
-
-English
-
-“I wanted to use beeswax, and I wanted to find cocoa butter.”
+By the early 1990s, Lisa had her formulas down: Lotions and body butters that held together just the way she wanted. Lotions she could actually use.
 
 ---
 
-Telugu
+ఇప్పుడు, Lisa first time ఈ story చెప్పినప్పుడు నాలాగే మీరూ ఉంటే, ఈ first lotions మనకు తెలిసిన Carol's Daughter empire beginning అని assume చేస్తారు. Not quite.
 
-కాబట్టి book లోని recipes skeleton ను తీసుకుని, తన own combinations add చేయడం ప్రారంభించింది.
-
-English
-
-“So I used the skeleton of the recipes within the book, and then I just started adding my own combinations.”
+Now, if you are anything like me when Lisa first told me this story, you would assume that these first lotions were the beginning of the Carol's Daughter empire as we know it. Not quite.
 
 ---
 
-Telugu
+ఆ మొదటి కొన్ని సంవత్సరాల్లో, Lisa creations ఏవీ public consumption కోసం కావు. అవి sale కోసం కావు. అవి కేవలం ఆమె కోసం మాత్రమే.
 
-ఏదైనా runny, too thick, too oily, too stiff గా వస్తే, ఆమె తిరిగి వెళ్లి tweak చేసి recipe adjust చేయగలిగేది.
-
-English
-
-“I could go back and tweak it if something came out runny or too thick or too oily or too stiff, and adjust the recipe accordingly.”
+In those first few years, none of Lisa's creations were for public consumption. They weren't for sale. They were only for her.
 
 ---
 
-Telugu
-
-Early 1990s నాటికి, Lisa తన formulas down చేసుకుంది: తనకు కావలసినట్లుగా hold together అయ్యే lotions మరియు body butters.
-
-English
-
-By the early 1990s, Lisa had her formulas down: Lotions and body butters that held together just the way she wanted.
-
----
-
-Telugu
-
-ఆమె actually use చేయగల lotions.
-
-English
-
-Lotions she could actually use.
-
----
-
-Telugu
-
-Lisa మొదట ఈ story చెప్పినప్పుడు మీరు నాతో పోలి ఉంటే, ఈ first lotions నే Carol’s Daughter empire ప్రారంభం అనుకునేవారు.
-
-English
-
-Now, if you are anything like me when Lisa first told me this story, you would assume that these first lotions were the beginning of the Carol’s Daughter empire as we know it.
-
----
-
-Telugu
-
-అలా కాదు.
-
-English
-
-Not quite.
-
----
-
-Telugu
-
-ఆ first few years లో, Lisa creations public consumption కోసం కాదు.
-
-English
-
-In those first few years, none of Lisa’s creations were for public consumption.
-
----
-
-Telugu
-
-అవి sale కోసం కాదు. అవి కేవలం ఆమెకోసమే.
-
-English
-
-They weren’t for sale. They were only for her.
-
----
-
-Telugu
-
-ఆమెకు నచ్చిన fragrances తో, ఆమె prefer చేసిన aloe vera మరియు cocoa butter లాంటి ingredients తో, ఆమె skin moisturizing needs address చేయడానికి తయారు చేసినవి.
-
-English
+అవి ఆమెకు ఇష్టమైన fragrances తో, ఆమె prefer చేసిన aloe vera మరియు cocoa butter లాంటి ingredients తో, ఆమె skin యొక్క moisturizing needs ను address చేస్తూ తయారయ్యాయి.
 
 They were made with fragrances she liked, with ingredients like aloe vera and cocoa butter that she preferred, that addressed the moisturizing needs of her skin.
 
 ---
 
-Telugu
+ఇది ఆమె hobby, after all. It was for fun. ఆమె anyone else ను please చేయడానికి try చేయలేదు. ఆమె, well, తన సొంత itch ను scratch చేస్తోంది.
 
-ఇది ఆమె hobby మాత్రమే. Fun కోసం.
-
-English
-
-This was her hobby, after all. It was for fun.
+This was her hobby, after all. It was for fun. She wasn't trying to please anyone else. She was, well, scratching her own itch.
 
 ---
 
-Telugu
+ఆమె creations ఆమె preferences కి match కాకుండా ఎందుకు ఉండాలి?
 
-ఆమె ఎవరినీ please చేయడానికి ప్రయత్నించలేదు.
-
-English
-
-She wasn’t trying to please anyone else.
+Why wouldn't her creations match her preferences?
 
 ---
 
-Telugu
+Plus, ఆమె ఈ stuff ను different life నుండి diversion గా లేదా దానికి fast track గా making చేయడం లేదు. ఆమె తన career తో very happy.
 
-ఆమె తన own itch ను scratch చేస్తోంది.
-
-English
-
-She was, well, scratching her own itch.
+Plus, it wasn't like she was making this stuff as a diversion from, or a fast track to, a different life. She was very happy with her career.
 
 ---
 
-Telugu
+"నేను ecstatic. It was wonderful," Lisa అంది.
 
-అయితే ఆమె creations ఆమె preferences కు match కాకపోవడానికి కారణమేంటి?
-
-English
-
-Why wouldn’t her creations match her preferences?
+"I was ecstatic. It was wonderful," Lisa said.
 
 ---
 
-Telugu
+"And I think ఎందుకంటే నేను work తో చేసేదంతా very happy గా ఉండేదాన్ని, నాకు downtime ఉన్నప్పుడు, మీరు 'Oh, God, I'm finally not at work, and I just want to relax and veg out' అని feel అయ్యే desperate feeling నాకు ఉండేది కాదు. కాబట్టి నేను home లో ఉన్నప్పుడు creative అయ్యేదాన్ని."
 
-అది వేరే life కి diversion గా లేదా fast track గా కూడా కాదు.
-
-English
-
-Plus, it wasn’t like she was making this stuff as a diversion from, or a fast track to, a different life.
+"And I think because I was very happy at what I was doing with work, when I had my downtime I didn't have that desperate feeling that you feel when you're like, 'Oh, God, I'm finally not at work, and I just want to relax and veg out.' So I became creative when I was at home."
 
 ---
 
-Telugu
-
-ఆమె తన career తో very happy గా ఉంది.
-
-English
-
-She was very happy with her career.
-
----
-
-Telugu
-
-“నేను ecstatic. అది wonderful,” అని Lisa చెప్పింది.
-
-English
-
-“I was ecstatic. It was wonderful,” Lisa said.
-
----
-
-Telugu
-
-Work లో చేస్తున్న దానితో happy గా ఉన్నందువల్ల, downtime లో “ఇప్పుడు finally not at work, relax అవ్వాలి” అనే desperate feeling ఆమెకు రాలేదు.
-
-English
-
-“And I think because I was very happy at what I was doing with work, when I had my downtime I didn’t have that desperate feeling that you feel when you’re like, ‘Oh, God, I’m finally not at work, and I just want to relax and veg out.’”
-
----
-
-Telugu
-
-కాబట్టి ఆమె home లో creative అయ్యింది.
-
-English
-
-“So I became creative when I was at home.”
-
----
-
-Telugu
-
-Tinkering మరియు తన creative limits stretch చేయడంలోని sheer joy, The Cosby Show 1992లో off the air అయ్యే వరకు Lisa ను sustain చేసింది.
-
-English
+Tinkering మరియు creative limits stretch చేయడంలోని sheer joy Lisa ను 1992 లో air నుండి off అయిన The Cosby Show end వరకు sustain చేసింది.
 
 The sheer joy of tinkering and stretching her creative limits sustained Lisa all the way through the end of The Cosby Show, which went off the air in 1992.
 
 ---
 
-Telugu
+తర్వాత సంవత్సరం ఆమె freelance production assistant గా గడిపింది, summer వరకు show నుండి show కి bouncing చేస్తూ, ఎప్పుడైతే New York లో television business traditionally చాలా slow అవుతుందో మరియు work dries up అవుతుందో.
 
-తర్వాత సంవత్సరం ఆమె freelance production assistant గా show నుంచి show కి bounce అవుతూ గడిపింది, summer వచ్చేవరకు.
-
-English
-
-She spent the next year as a freelance production assistant, bouncing from show to show until the summer.
+She spent the next year as a freelance production assistant, bouncing from show to show until the summer, when the television business in New York traditionally gets very slow and work dries up.
 
 ---
 
-Telugu
+అప్పుడే ఆమె mother, Carol, Lisa తన lotions మరియు creams ను church upcoming flea market లో అమ్మడానికి try చేయమని suggest చేసింది.
 
-New York లో television business summer లో traditionally slow అవుతుంది, work dries up అవుతుంది.
-
-English
-
-When the television business in New York traditionally gets very slow and work dries up.
+That's when her mother, Carol, suggested Lisa try to sell her lotions and creams at their church's upcoming flea market.
 
 ---
 
-Telugu
-
-అప్పుడే ఆమె mother Carol, church upcoming flea market లో తన lotions మరియు creams అమ్మాలని Lisa కి suggest చేసింది.
-
-English
-
-That’s when her mother, Carol, suggested Lisa try to sell her lotions and creams at their church’s upcoming flea market.
-
----
-
-Telugu
-
-అది May 1993, summer lull సమయంలో household expenses కి కొంచెం contribute చేయడానికి money సంపాదిస్తే nice అనిపించింది Lisa కి.
-
-English
+అది May 1993, మరియు Lisa కి summer lull లో కొంత money make చేసి household expenses కి ఎక్కువ contribute చేయడం nice గా ఉంటుందని thought.
 
 It was May 1993, and Lisa thought it would be nice to make some money and contribute more toward household expenses during the summer lull.
 
 ---
 
-Telugu
+కానీ ఆమె ఇంకా skeptical గా ఉంది: "నేను అన్నాను, 'Really, Mommy? Do you think people would pay for this?'"
 
-కాని ఆమె ఇంకా skeptical: “Really, Mommy? People దీనికి pay చేస్తారని మీరు అనుకుంటున్నారా?”
-
-English
-
-But still she was skeptical: “I said, ‘Really, Mommy? Do you think people would pay for this?’”
+But still she was skeptical: "I said, 'Really, Mommy? Do you think people would pay for this?'"
 
 ---
 
-Telugu
+ఆ question కి answer ఇప్పుడు మాకు తెలుసు, మరియు hindsight తో అది self-evident గా అనిపిస్తుంది. కానీ ఆ moment లో, first time తన personal creation ను other people కి marketed product గా think చేయమని అడిగిన person కి Lisa's worried or nervous feeling (apprehension) totally reasonable reaction అయ్యేది. As a business idea.
 
-ఇప్పుడు ఆ question కు answer మనకు తెలుసు, hindsight తో అది self-evident గా కనిపిస్తుంది.
-
-English
-
-We know the answer to that question now, and with hindsight it seems self-evident.
+We know the answer to that question now, and with hindsight it seems self-evident. But in the moment, Lisa's apprehension would have been a totally reasonable reaction for someone who, for the first time, was being asked to think about her personal creation as a product marketed to other people. As a business idea.
 
 ---
 
-Telugu
-
-కాని ఆ moment లో, Lisa apprehension పూర్తిగా reasonable reaction.
-
-English
-
-But in the moment, Lisa’s apprehension would have been a totally reasonable reaction.
-
----
-
-Telugu
-
-ఎందుకంటే మొదటిసారి ఆమె తన personal creation ను other people కోసం marketed product గా, business idea గా think చేయమని అడగబడుతోంది.
-
-English
-
-For someone who, for the first time, was being asked to think about her personal creation as a product marketed to other people. As a business idea.
-
----
-
-Telugu
-
-ఈ విధంగా, entrepreneurial stories లో Lisa Price మిగతా మన అందరికి చాలా దగ్గరగా ఉంటుంది.
-
-English
+ఈ way లో, at least entrepreneurial stories go ప్రకారం, Lisa Price మనలో అందరిలాగే most.
 
 In this way, at least as entrepreneurial stories go, Lisa Price is the most like the rest of us.
 
 ---
 
-Telugu
+ఆమె తను చేసే దాని గురించి అంత passionate గా ఉంది, అది just an activity గా intrinsically rewarding గా ఉంది, ఆమెకు తన idea తో next step తీసుకోవాలి — దాన్ని అమ్మాలి, లేదా business గా turn చేయాలి — అన్న idea కూడా రాలేదు.
 
-ఆమె చేస్తున్నదాని పట్ల అంత passionate గా ఉండి, ఆ activity అంత intrinsically rewarding గా ఉండటంతో, idea తో next step తీసుకోవడం ఆమెకు అసలు occur కాలేదు.
-
-English
-
-She was so passionate about what she did, it was so intrinsically rewarding just as an activity, that it didn’t even occur to her to take the next step with her idea.
+She was so passionate about what she did, it was so intrinsically rewarding just as an activity, that it didn't even occur to her to take the next step with her idea—to sell it, or to turn it into a business.
 
 ---
 
-Telugu
-
-దాన్ని sell చేయడం, లేదా business గా turn చేయడం ఆమెకు ఊహలోకే రాలేదు.
-
-English
-
-To sell it, or to turn it into a business.
-
----
-
-Telugu
-
-ఆమె mother కి ఇచ్చిన response చూపినట్లుగా, other people interested ఉంటారని ఆలోచించడం కూడా ఆమెకు almost weird గా అనిపించింది.
-
-English
+ఆమె mother కి తన response clearly illustrate చేసినట్టు, other people interested అవుతారని ఆమెకు think చేయడం almost weird.
 
 It was almost weird for her, as her response to her mother clearly illustrates, to even think other people would be interested.
 
 ---
 
-Telugu
+ఈ story యొక్క numerous variations నేను number of entrepreneurs నుండి విన్నాను. నేను కూడా దాన్ని myself live చేశాను — podcast growing popularity కి nod గా, show ను road మీద తీసుకెళ్లాలని మరియు big theaters లో live interviews చేయాలని decide చేసినప్పుడు.
 
-నేను అనేక entrepreneurs నుంచి ఈ story యొక్క numerous variations విన్నాను.
-
-English
-
-I’ve heard numerous variations of this story from a number of entrepreneurs.
+I've heard numerous variations of this story from a number of entrepreneurs. I even lived it myself when, in a nod to the growing popularity of the podcast, we decided to take the show on the road and do live interviews in big theaters.
 
 ---
 
-Telugu
+I mean, నా career majority కి, నేను audiences కి disembodied voice గా వాళ్ల car radio speakers లేదా earbuds ద్వారా వచ్చాను. No one wanted to see me, I thought.
 
-Podcast popularity పెరుగుతున్నప్పుడు, show ను road మీదకు తీసుకెళ్లి big theaters లో live interviews చేయాలని decide చేసినప్పుడు, నేను కూడా ఇదే అనుభవించాను.
-
-English
-
-I even lived it myself when, in a nod to the growing popularity of the podcast, we decided to take the show on the road and do live interviews in big theaters.
+I mean, for the majority of my career, I have come to audiences as a disembodied voice through their car radio speakers or their earbuds. No one wanted to see me, I thought.
 
 ---
 
-Telugu
-
-నా career లో ఎక్కువ భాగం, నేను audiences దగ్గరకు car radio speakers లేదా earbuds ద్వారా disembodied voice గా వచ్చాను.
-
-English
-
-I mean, for the majority of my career, I have come to audiences as a disembodied voice through their car radio speakers or their earbuds.
-
----
-
-Telugu
-
-“నన్ను see చేయాలని ఎవరూ అనుకోరు,” అని నేను అనుకున్నాను.
-
-English
-
-No one wanted to see me, I thought.
-
----
-
-Telugu
-
-Weeks, often months పాటు, early live events ముందు, fans రెండు people stage మీద talk చేయడాన్ని watch చేయడానికి interested ఉంటారా అని నేను worry అయ్యేవాడిని.
-
-English
+ఈ initial live events ముందు weeks, often months, ఎక్కువగా రెండు people stage మీద మాట్లాడడం చూడడానికి మా fans లో enough మంది interested అవుతారా అని నేను worry చేసేవాడిని.
 
 For weeks, often months, before each of these initial live events, I worried whether enough of our fans would be interested in watching two people talk onstage.
 
 ---
 
-Telugu
-
-Lisa Price తన mother ను అడిగినట్లే, నేను కూడా వినే ఎవరితోనైనా aloud wonder అయ్యేవాడిని — people actually దీనికి pay చేస్తారా?
-
-English
+Lisa Price తన mother కి చేసినట్టే, నేను వినే ఎవరికైనా aloud wonder చేశాను — people actually దీని కోసం pay చేస్తారా అని.
 
 I wondered aloud to anyone who would listen, much as Lisa Price did to her mother, whether people would actually pay for this.
 
 ---
 
-Telugu
-
-Ticket కోసం $50 మాత్రమే కాదు, childcare, parking, theater night తో వచ్చే other things అన్నింటికీ కూడా.
-
-English
+ఇది ticket కోసం $50 మాత్రమే కాదు, childcare మరియు parking మరియు theater లో రాత్రి తో పాటు వచ్చే అన్ని other things cost కూడా.
 
 And not just the $50 for a ticket, but also the cost of childcare and parking and all the other things that go along with a night at the theater.
 
 ---
 
-Telugu
-
-Luck తో, ఆ early live shows లో దాదాపు అన్నీ sold out అయ్యాయి, ప్రతి సారి అది నాకు genuine shock.
-
-English
+As luck would have it, ఆ early live shows లో దాదాపు ప్రతిదాన్నీ మేము sold out చేశాము, మరియు ప్రతిసారి అలా happen అయినప్పుడు, నాకు genuine shock గా ఉండేది.
 
 As luck would have it, we sold out nearly every one of those early live shows, and each time it happened, it was a genuine shock to me.
 
 ---
 
-Telugu
+ఎందుకంటే మీరు good business idea కోసం looking లో లేనప్పుడు, ఒకటి మిమ్మల్ని find చేసినప్పుడు అది real గా అనిపించదు, proof మీ face మీద staring చేస్తున్నా.
 
-ఎందుకంటే మీరు good business idea కోసం looking చేయకపోతే, అది మిమ్మల్ని find చేసినప్పుడు కూడా అది real గా అనిపించదు — proof మీ face ముందే ఉన్నప్పటికీ.
-
-English
-
-Because when you’re not looking for a good business idea, it just doesn’t seem real when one finds you, even when the proof is staring you in the face.
+Because when you're not looking for a good business idea, it just doesn't seem real when one finds you, even when the proof is staring you in the face.
 
 ---
 
-Telugu
-
-Lisa తో talking లో నేను నేర్చుకున్నది ఏమిటంటే, consumer product involve అయినప్పుడు ఇది especially true.
-
-English
+ఇది especially Lisa తో మాట్లాడుతున్నప్పుడు నేను learn చేశాను — idea consumer product తో involve అయినప్పుడు.
 
 This is especially true, I learned in talking with Lisa, when the idea involves a consumer product.
 
 ---
 
-Telugu
+Products అంటే stores shelves మీద labels మరియు bar codes తో, మరియు ".99" తో end అయ్యే prices తో ఉండే things.
 
-Products అంటే stores shelves మీద labels, bar codes, “.99” తో ముగిసే prices ఉన్న things.
-
-English
-
-Products are things on shelves in stores, with labels and bar codes on them, and prices that end in “.99.”
+Products are things on shelves in stores, with labels and bar codes on them, and prices that end in ".99."
 
 ---
 
-Telugu
-
-1993లో Lisa ఇవి తన kitchen లో తయారు చేసి, cupboard లో ఉన్న Tupperware containers లో store చేస్తోంది.
-
-English
+1993 లో, Lisa ఈ lotions ను తన kitchen లో making చేస్తోంది మరియు తన cupboard లో ఉన్న Tupperware containers లో store చేస్తోంది.
 
 In 1993, Lisa was making these lotions in her kitchen and storing them in Tupperware containers she had in the cupboard.
 
 ---
 
-Telugu
+ఆమెకు వాటికి names లేవు — అవి just whatever they were. మరియు ఆమె flea market లో table set up చేయాలన్న ఈ crazy idea ను తన mom నుండి take up చేస్తే, ఆమె వాటిని ఏ container లో అమ్మబోతోంది?
 
-వాటికి names కూడా లేవు — అవి just whatever they were.
-
-English
-
-She didn’t have names for them—they were just whatever they were.
+She didn't have names for them—they were just whatever they were. And let's say she took her mom up on this crazy idea to set up a table at the flea market, what was she going to sell them in?
 
 ---
 
-Telugu
+Of course, ఆ అంశాలేవీ really important కావు. కొంత time మరియు ingenuity తో ఆ issues address చేయడం easy enough (for example, ఆమె early days లో packaging గా old baby food jars use చేసింది).
 
-ఆమె mom crazy idea తీసుకుని flea market లో table set up చేస్తే, వాటిని ఏ containers లో sell చేస్తుంది?
-
-English
-
-And let’s say she took her mom up on this crazy idea to set up a table at the flea market, what was she going to sell them in?
+Of course, none of that was really important. Those issues would be easy enough to address with a little bit of time and ingenuity (for example, she used old baby food jars as packaging in the early days).
 
 ---
 
-Telugu
-
-అవేమీ నిజంగా important కాదు.
-
-English
-
-Of course, none of that was really important.
-
----
-
-Telugu
-
-కొంచెం time మరియు ingenuity తో ఆ issues address చేయడం easy enough — ఉదాహరణకు early days లో ఆమె old baby food jars ను packaging గా ఉపయోగించింది.
-
-English
-
-Those issues would be easy enough to address with a little bit of time and ingenuity (for example, she used old baby food jars as packaging in the early days).
-
----
-
-Telugu
-
-Important విషయం Carol understand చేసింది, Lisa మాత్రం ఇంకా consider చేయలేదు: her stuff really worked.
-
-English
+What was important — Carol understand చేసి Lisa ఎప్పుడూ really consider చేయని something: ఆమె stuff really worked.
 
 What was important was something Carol understood that Lisa had never really considered: her stuff really worked.
 
 ---
 
-Telugu
+And Carol would know. Lisa తన mother కోసం మరియు younger siblings కోసం specifically number of lotions produce చేసింది, మరియు అవి brilliantly worked.
 
-Carol కి అది తెలుసు.
-
-English
-
-And Carol would know.
+And Carol would know. Lisa produced a number of lotions specifically for her mother and for her younger siblings, and they worked brilliantly.
 
 ---
 
-Telugu
+Carol's skin ఎప్పుడూ better గా look కాలేదు, మరియు ఆమె kids యొక్క dry, irritated skin ఎప్పుడూ better గా feel కాలేదు.
 
-Lisa తన mother మరియు younger siblings కోసం specifically కొన్ని lotions తయారు చేసింది, అవి brilliantly worked.
-
-English
-
-Lisa produced a number of lotions specifically for her mother and for her younger siblings, and they worked brilliantly.
+Carol's skin had never looked better, and her kids' dry, irritated skin had never felt better.
 
 ---
 
-Telugu
+ఈ lotions Lisa కి creative outlet ఇచ్చిన personal passion project గా start అయ్యాయి, కానీ soon enough అవి greater purpose serve చేశాయి. అవి real problems solve చేశాయి: ఆమెవి, ఆమె mom వి, మరియు ఆమె siblings వి.
 
-Carol skin ఎప్పుడూ ఇంత better గా కనిపించలేదు, ఆమె kids dry, irritated skin ఎప్పుడూ ఇంత better గా feel కాలేదు.
-
-English
-
-Carol’s skin had never looked better, and her kids’ dry, irritated skin had never felt better.
+These lotions may have started as a personal passion project that gave Lisa a creative outlet, but soon enough they served a greater purpose. They solved real problems: hers, her mom's, and her siblings'.
 
 ---
 
-Telugu
-
-ఈ lotions ఒక personal passion project గా మొదలై Lisa కి creative outlet ఇచ్చినా, త్వరలోనే అవి greater purpose serve చేశాయి.
-
-English
-
-These lotions may have started as a personal passion project that gave Lisa a creative outlet, but soon enough they served a greater purpose.
-
----
-
-Telugu
-
-అవి real problems solve చేశాయి: ఆమెవి, ఆమె mom వి, ఆమె siblings వి.
-
-English
-
-They solved real problems: hers, her mom’s, and her siblings’.
-
----
-
-Telugu
-
-Carol నమ్మినట్లుగా customers బయట ఉంటే, వాళ్లు కూడా Lisa products నుంచి much the same ways లో benefit పొందుతారు.
-
-English
+ఆమె customers, Carol believe చేసినట్టు అక్కడ ఉంటే, ఆమె products నుండి అదే same ways లో benefit అయ్యేవారు.
 
 Her customers, if they were out there as Carol believed, would benefit from her products in much the same ways.
 
 ---
 
-Telugu
-
-మీరు actively idea hunt లో ఉన్నా, లేక possibility కి open గా ఉన్నా, idea కనుగొనడంలో key ఇదే.
-
-English
+మరియు అదే idea find చేయడానికి key — మీరు actively దాని hunt మీద ఉన్నా, లేదా simply possibility కి open గా ఉన్నా.
 
 And that is the key to finding an idea, whether you are actively on the hunt for one or simply open to the possibility.
 
 ---
 
-Telugu
+మీరు ఏ kind of business start చేయాలని think చేస్తున్నా — product అయినా service అయినా, side hustle అయినా main thing అయినా, men లేదా women కోసం అయినా, kids లేదా adults కోసం అయినా — personal passion మరియు problem solving intersection — అదే good ideas పుట్టే place మరియు lasting businesses build అయ్యే place.
 
-మీరు start చేయాలని ఆలోచిస్తున్న business product అయినా service అయినా, side hustle అయినా main thing అయినా, men, women, kids, adults కోసం అయినా — personal passion మరియు problem solving intersection లోనే good ideas born అవుతాయి.
-
-English
-
-No matter what kind of business you are thinking of starting—whether it’s a product or a service, whether it’s your side hustle or your main thing, whether it’s for men or women, kids or adults—the intersection of personal passion and problem solving is where good ideas are born.
+No matter what kind of business you are thinking of starting—whether it's a product or a service, whether it's your side hustle or your main thing, whether it's for men or women, kids or adults—the intersection of personal passion and problem solving is where good ideas are born and lasting businesses are built.
 
 ---
 
-Telugu
+తన mother instincts ను trust చేస్తూ, Lisa materials, table rental, మరియు decoration కోసం flowers కోసం $100 invest చేసింది, తర్వాత తన items first time అమ్మకానికి పెట్టింది.
 
-అక్కడే lasting businesses build అవుతాయి.
-
-English
-
-And lasting businesses are built.
+Trusting her mother's instincts, Lisa invested $100 in materials, table rental, and flowers for decoration, and then put her items up for sale for the first time.
 
 ---
 
-Telugu
-
-తన mother instincts ను trust చేసి, Lisa materials, table rental, decoration flowers కోసం $100 invest చేసి, తన items ను first time sale కి పెట్టింది.
-
-English
-
-Trusting her mother’s instincts, Lisa invested $100 in materials, table rental, and flowers for decoration, and then put her items up for sale for the first time.
-
----
-
-Telugu
-
-మరి guess what? ఆమె sold out అయ్యింది.
-
-English
+And guess what? She sold out.
 
 And guess what? She sold out.
 
 ---
 
-Telugu
+కానీ ఆ point వరకు creative process లాగానే, ఇది కూడా all about fun. It still wasn't a business.
 
-కానీ creative process అప్పటి వరకు ఎలా fun గా ఉందో, ఇదీ అలాగే fun మాత్రమే.
-
-English
-
-But just like the creative process up to that point, this, too, was all about fun.
+But just like the creative process up to that point, this, too, was all about fun. It still wasn't a business.
 
 ---
 
-Telugu
+తర్వాత, ఆ సంవత్సరం August లో, Lisa TV screen మీద something revelatory — possibly fated — appeared.
 
-ఇది ఇంకా business కాదు.
-
-English
-
-It still wasn’t a business.
+Then, in August of that year, something revelatory—possibly fated—appeared on Lisa's TV screen.
 
 ---
 
-Telugu
+నేను దాన్ని ఆమె describe చేయనిస్తాను, ఎందుకంటే అది entirety లో share చేయకుండా ఉండడానికి too good.
 
-తర్వాత అదే year August లో, Lisa TV screen మీద revelatory — possibly fated — ఏదో కనిపించింది.
-
-English
-
-Then, in August of that year, something revelatory—possibly fated—appeared on Lisa’s TV screen.
+I'll let her describe it, because it's too good not to share in its entirety.
 
 ---
 
-Telugu
+"నేను The Oprah Winfrey Show episode చూస్తున్నాను, మరియు ఆమె little or no money తో businesses start చేసిన people తో మాట్లాడుతోంది, మరియు ఒక person చెప్పారు, 'Well, you have to know that you're passionate about what you do. If you're not passionate about it, you will quit before you make any money.'"
 
-ఆమెనే describe చేయనిద్దాం, ఎందుకంటే అది entirety లో share చేయకపోవడానికి too good.
-
-English
-
-I’ll let her describe it, because it’s too good not to share in its entirety.
+"I was watching an episode of The Oprah Winfrey Show, and she was talking to people who had started businesses with little or no money and one person said, 'Well, you have to know that you're passionate about what you do. If you're not passionate about it, you will quit before you make any money.'"
 
 ---
 
-Telugu
+"And I remember thinking, 'I'm really passionate about this stuff. I like doing this.'"
 
-“నేను The Oprah Winfrey Show episode చూస్తున్నాను, ఆమె little or no money తో businesses start చేసిన people తో మాట్లాడుతోంది.”
-
-English
-
-“I was watching an episode of The Oprah Winfrey Show, and she was talking to people who had started businesses with little or no money.”
+"And I remember thinking, 'I'm really passionate about this stuff. I like doing this.'"
 
 ---
 
-Telugu
+"And then somebody else said she would define passion as, if someone woke you up out of your bed in the middle of the night, would you go and do this thing? And I honestly could answer yes to that question."
 
-ఒక person చెప్పింది: “మీరు చేసే దాని పట్ల passionate గా ఉండాలని తెలుసుకోవాలి. Passion లేకపోతే, money సంపాదించేలోపే quit చేస్తారు.”
-
-English
-
-“And one person said, ‘Well, you have to know that you’re passionate about what you do. If you’re not passionate about it, you will quit before you make any money.’”
+"And then somebody else said she would define passion as, if someone woke you up out of your bed in the middle of the night, would you go and do this thing? And I honestly could answer yes to that question."
 
 ---
 
-Telugu
+"And I remember sitting on the edge of my bed and saying, 'Wait a minute. Maybe this could be a business.' And that day was the day that I realized this just doesn't have to be a hobby. This can be more."
 
-“నేను ఈ stuff పట్ల నిజంగా passionate. నాకు ఇది చేయడం ఇష్టం,” అని ఆమె ఆలోచించింది.
-
-English
-
-“And I remember thinking, ‘I’m really passionate about this stuff. I like doing this.’”
+"And I remember sitting on the edge of my bed and saying, 'Wait a minute. Maybe this could be a business.' And that day was the day that I realized this just doesn't have to be a hobby. This can be more."
 
 ---
 
-Telugu
+Actually, a lot more. Summer close అవుతుండగా, church flea market లో తన success చేత supporting or lifting effect (buoyed) గా feel అవుతూ, Lisa ఆ fall లో తన marketing ను street fairs, arts and crafts festivals, మరియు city's five boroughs అంతటి ఇతర flea markets కి expand చేసింది.
 
-తర్వాత ఇంకొకరు passion ను ఇలా define చేశారు: ఎవరో middle of the night లో మీ bed నుంచి wake up చేస్తే, మీరు వెళ్లి ఆ thing చేస్తారా?
-
-English
-
-“And then somebody else said she would define passion as, if someone woke you up out of your bed in the middle of the night, would you go and do this thing?”
-
----
-
-Telugu
-
-Lisa ఆ question కు honestly yes అని answer చేయగలిగింది.
-
-English
-
-“And I honestly could answer yes to that question.”
-
----
-
-Telugu
-
-ఆమె bed edge మీద కూర్చుని, “Wait a minute. Maybe this could be a business,” అని చెప్పుకుంది.
-
-English
-
-“And I remember sitting on the edge of my bed and saying, ‘Wait a minute. Maybe this could be a business.’”
-
----
-
-Telugu
-
-ఆ రోజు ఆమె realize చేసింది: ఇది hobby మాత్రమే కావాల్సిన అవసరం లేదు. ఇది more కావచ్చు.
-
-English
-
-“And that day was the day that I realized this just doesn’t have to be a hobby. This can be more.”
-
----
-
-Telugu
-
-Actually, చాలా more.
-
-English
-
-Actually, a lot more.
-
----
-
-Telugu
-
-Summer close అవుతుండగా, church flea market success తో buoyed అయి, Lisa ఆ fall లో street fairs, arts and crafts festivals, మరియు city’s five boroughs అంతటా flea markets కు marketing expand చేసింది.
-
-English
-
-As the summer drew to a close, and buoyed by her success at the church flea market, Lisa expanded her marketing that fall to street fairs, arts and crafts festivals, and other flea markets throughout the city’s five boroughs.
+Actually, a lot more. As the summer drew to a close, and buoyed by her success at the church flea market, Lisa expanded her marketing that fall to street fairs, arts and crafts festivals, and other flea markets throughout the city's five boroughs.

@@ -1,805 +1,322 @@
-Telugu
-2012 లో Stewart Butterfield కు కూడా అలాంటి పరిస్థితి వచ్చింది, Glitch అనే massively multiplayer online game ను shut down చేయాలనే బాధాకరమైన నిర్ణయం తీసుకున్నప్పుడు.
-
-English
+అది 2012 లో Stewart Butterfield case — అతను Glitch అనే massively multiplayer online game ను shut down చేయడానికి excruciating (బాధాకరమైన) decision తీసుకున్నప్పుడు.
 That was the case for Stewart Butterfield in 2012, when he made the excruciating decision to shut down a massively multiplayer online game called Glitch.
 
 ---
 
-Telugu
-అతను కొన్ని సంవత్సరాలుగా venture capital సహాయంతో, engineers, designers, coders team తో ఆ game ను develop చేస్తున్నాడు.
-
-English
-He’d been developing the game for a few years with the help of venture capital and a team of engineers, designers, and coders.
+కొన్ని years గా అతను venture capital మరియు engineers, designers, coders team సహాయంతో game ను develop చేస్తూ వచ్చాడు — money, manpower రెండూ — online photo-sharing service Flickr co-founder గా అతని reputation strength తో secure చేసుకున్నాడు — Flickr ను 2005 లో Yahoo! acquire చేసింది.
+He'd been developing the game for a few years with the help of venture capital and a team of engineers, designers, and coders—all of which, money and manpower alike, he'd secured on the strength of his reputation as the successful co-founder of the online photo-sharing service Flickr, which had been acquired by Yahoo! in 2005.
 
 ---
 
-Telugu
-ఆ money మరియు manpower అన్నీ అతని reputation వల్ల వచ్చాయి; Flickr అనే online photo-sharing service successful co-founder గా అతను పేరుపొందాడు, అది 2005 లో Yahoo! చేత acquired అయింది.
-
-English
-all of which, money and manpower alike, he’d secured on the strength of his reputation as the successful co-founder of the online photo-sharing service Flickr, which had been acquired by Yahoo! in 2005.
+అది itself — Stewart 2002 లో online game design చేయడానికి చేసిన first attempt నుంచి pivot — ఒక never-ending massively multiplayer online game, పేరు . . . wait for it . . . Game Neverending.
+That was in itself a pivot from Stewart's first attempt at designing an online game in 2002—a never-ending massively multiplayer online game he called . . . wait for it . . . Game Neverending.
 
 ---
 
-Telugu
-అది కూడా Stewart 2002 లో online game design చేయడానికి చేసిన first attempt నుండి వచ్చిన pivot—అతను దానికి Game Neverending అని పేరు పెట్టాడు.
-
-English
-That was in itself a pivot from Stewart’s first attempt at designing an online game in 2002—a never-ending massively multiplayer online game he called . . . wait for it . . . Game Neverending.
+Emmett Shear కి లాగే, gaming Stewart యొక్క true passion, మరియు Justin.tv దాని time లో ఉన్నట్టు, Game Neverending Web 2.0 early days కి incredibly innovative గా ఉండేది.
+As it was for Emmett Shear, gaming was Stewart's true passion, and like Justin.tv in its time, Game Neverending was incredibly innovative for the early days of Web 2.0.
 
 ---
 
-Telugu
-Emmett Shear కు ఎలా gaming true passion అయితే, Stewart కు కూడా అలాగే gaming true passion.
-
-English
-As it was for Emmett Shear, gaming was Stewart’s true passion.
+పది years తర్వాత, Glitch కోసం Stewart ambitions same.
+Ten years later, Stewart's ambitions for Glitch were the same.
 
 ---
 
-Telugu
-Justin.tv తన కాలంలో ఎంత innovative గా ఉందో, Game Neverending కూడా Web 2.0 early days లో అంతే innovative గా ఉంది.
-
-English
-and like Justin.tv in its time, Game Neverending was incredibly innovative for the early days of Web 2.0.
+"It was completely different than anything that anyone had ever seen before," Stewart said. "It was much more open-ended and cooperative. The look was kind of like Dr. Seuss meets Monty Python meets modern-day graphic novels, where we really tried to encourage individual creativity."
+"It was completely different than anything that anyone had ever seen before," Stewart said. "It was much more open-ended and cooperative. The look was kind of like Dr. Seuss meets Monty Python meets modern-day graphic novels, where we really tried to encourage individual creativity."
 
 ---
 
-Telugu
-పది సంవత్సరాల తర్వాత, Glitch కోసం Stewart ambitions కూడా అదే విధంగా ఉన్నాయి.
-
-English
-Ten years later, Stewart’s ambitions for Glitch were the same.
-
----
-
-Telugu
-“అది ఎవ్వరూ ముందెప్పుడూ చూడని దానికంటే పూర్తిగా వేరుగా ఉండేది,” అని Stewart అన్నాడు.
-
-English
-“It was completely different than anything that anyone had ever seen before,” Stewart said.
-
----
-
-Telugu
-“అది చాలా open-ended మరియు cooperative గా ఉండేది.”
-
-English
-“It was much more open-ended and cooperative.
-
----
-
-Telugu
-“Look అంటే Dr. Seuss, Monty Python, modern-day graphic novels కలయికలాగా ఉండేది; మేము individual creativity ను నిజంగా encourage చేయడానికి ప్రయత్నించాం.”
-
-English
-The look was kind of like Dr. Seuss meets Monty Python meets modern-day graphic novels, where we really tried to encourage individual creativity.”
-
----
-
-Telugu
-వారి encouragement పనిచేసింది.
-
-English
+వాళ్ల encouragement effective గా పనిచేసింది.
 Their encouragement was effective.
 
 ---
 
-Telugu
-Dedicated gamers లో వేలల్లో ఉన్న population, Glitch ను మొదటి నుంచే ప్రేమించింది, 2009–2010 లోని earliest iterations నుంచే.
-
-English
+Dedicated gamers population — thousands, Stewart estimate చేశాడు — Glitch ను beginning నుంచే love చేశారు, 2009–2010 earliest iterations నుండి కూడా.
 A population of dedicated gamers—in the thousands, Stewart estimated—loved Glitch right from the beginning, even its earliest iterations in 2009–2010.
 
 ---
 
-Telugu
-“మాకు చాలా positive early indications వచ్చాయి, కాబట్టి మేము people దగ్గర money charge చేశాం,” అని అతను అన్నాడు.
-
-English
-“We had a bunch of really positive early indications, so we charged people money,” he said.
+"We had a bunch of really positive early indications, so we charged people money," he said. "The average person was paying $70 a year."
+"We had a bunch of really positive early indications, so we charged people money," he said. "The average person was paying $70 a year."
 
 ---
 
-Telugu
-“Average person సంవత్సరానికి $70 చెల్లిస్తున్నాడు.”
-
-English
-“The average person was paying $70 a year.”
-
----
-
-Telugu
-వారు game try చేయడానికి hundreds of thousands of people ను sign up చేయించారు.
-
-English
+Game try చేయడానికి hundreds of thousands of people sign up కూడా చేశారు.
 They also got hundreds of thousands of people to sign up to try the game.
 
 ---
 
-Telugu
-Paradoxically, ఇక్కడే ఆ early positive indications negative వైపు తిరగడం ప్రారంభించాయి.
-
-English
-This, paradoxically, is where those early positive indications started to tip negative.
+ఇది, paradoxically (విడ్డూరంగా), ఆ early positive indications negative side కి tip అవ్వడం start చేసిన చోటు — ఎందుకంటే వాళ్ల game లో interest significant portion actually online games general మీద increased fascination product అయ్యింది.
+This, paradoxically, is where those early positive indications started to tip negative, because a significant portion of the interest in their game was actually just a product of an increased fascination with online games in general.
 
 ---
 
-Telugu
-ఎందుకంటే వారి game పై వచ్చిన significant portion of interest, actually online games generally పై పెరిగిన fascination వల్లే వచ్చింది.
-
-English
-because a significant portion of the interest in their game was actually just a product of an increased fascination with online games in general.
+"Simultaneously and totally independent of us, FarmVille and Zynga and all of these casual games became a huge thing," Stewart said.
+"Simultaneously and totally independent of us, FarmVille and Zynga and all of these casual games became a huge thing," Stewart said.
 
 ---
 
-Telugu
-“అదే సమయంలో, మాతో completely independent గా, FarmVille, Zynga, ఇంకా ఈ casual games అన్నీ huge thing అయ్యాయి,” Stewart అన్నాడు.
-
-English
-“Simultaneously and totally independent of us, FarmVille and Zynga and all of these casual games became a huge thing,” Stewart said.
+Upside ఏంటంటే — online games "became a thing that investors really believed in. It was suddenly worth billions and billions of dollars," — అంటే gaming entrepreneur మరియు Flickr creator కోసం VC money secure చేయడం no sweat (పెద్ద కష్టం కాదు).
+The upside was that online games "became a thing that investors really believed in. It was suddenly worth billions and billions of dollars," which meant that securing VC money was no sweat for the gaming entrepreneur and creator of Flickr.
 
 ---
 
-Telugu
-Upside ఏమిటంటే, online games “investors నిజంగా believe చేసే thing అయ్యాయి.”
-
-English
-The upside was that online games “became a thing that investors really believed in.
-
----
-
-Telugu
-“అది suddenly billions and billions of dollars worth అయింది,” కాబట్టి gaming entrepreneur మరియు Flickr creator కు VC money secure చేయడం కష్టం కాలేదు.
-
-English
-It was suddenly worth billions and billions of dollars,” which meant that securing VC money was no sweat for the gaming entrepreneur and creator of Flickr.
-
----
-
-Telugu
-అతను పెద్ద కష్టం లేకుండా $17.5 million raise చేశాడు.
-
-English
+అతను $17.5 million ను too much trouble లేకుండానే raise చేశాడు.
 He raised $17.5 million without too much trouble.
 
 ---
 
-Telugu
-Downside ఏమిటంటే, online gaming పై ఈ interest surge వచ్చినప్పుడు, massive sustained success పొందుతున్న games Glitch కంటే చాలా down the middle గా ఉన్నాయి.
-
-English
+Downside ఏంటంటే — online gaming కోసం interest surge తో, massive sustained success find అవుతున్న games రకాలు Glitch కంటే చాలా down the middle (mainstream గా) గా ఉన్నాయి.
 The downside was that with this surge in interest for online gaming, the kinds of games that were finding massive sustained success were much more down the middle than Glitch.
 
 ---
 
-Telugu
-“మా game మొదటి కొన్ని minutes కూడా people go through చేయించడం చాలా hard అయింది, ఎందుకంటే అది చాలా different మరియు weird గా ఉండేది,” Stewart అన్నాడు.
-
-English
-“It was really hard for us to get people even to go through the first few minutes of the game because it was just so different and so weird,” Stewart said.
+"It was really hard for us to get people even to go through the first few minutes of the game because it was just so different and so weird," Stewart said. "Most people who tried it were like, 'What the hell is this?' and they would leave after three minutes."
+"It was really hard for us to get people even to go through the first few minutes of the game because it was just so different and so weird," Stewart said. "Most people who tried it were like, 'What the hell is this?' and they would leave after three minutes."
 
 ---
 
-Telugu
-“Most people దాన్ని try చేసి, ‘What the hell is this?’ అని అనుకుని మూడు minutes తర్వాత leave చేసేవారు.”
-
-English
-“Most people who tried it were like, ‘What the hell is this?’ and they would leave after three minutes.”
+వాళ్ల solid sales funnel commonly "leaky bucket" అని called అయ్యేదాని లాగా మారింది.
+Their solid sales funnel had turned into what's commonly called a "leaky bucket."
 
 ---
 
-Telugu
-వారి solid sales funnel, commonly called “leaky bucket” గా మారిపోయింది.
-
-English
-Their solid sales funnel had turned into what’s commonly called a “leaky bucket.”
+మరియు leaky bucket work అవ్వట్లేదు.
+And the leaky bucket wasn't working.
 
 ---
 
-Telugu
-ఆ leaky bucket పని చేయడం లేదు.
-
-English
-And the leaky bucket wasn’t working.
+Funnel ఎలా work అవ్వాలి అనేది ఇలా — "First people hear about your thing, then they go to the website, then they sign up, then they play the game a little bit. In each of those stages, some people fall out of the process—that's why it's called the funnel—but then some end up paying you."
+This is how the funnel was supposed to work: "First people hear about your thing, then they go to the website, then they sign up, then they play the game a little bit. In each of those stages, some people fall out of the process—that's why it's called the funnel—but then some end up paying you."
 
 ---
 
-Telugu
-Funnel పని చేయాల్సిన విధానం ఇలా: మొదట people మీ thing గురించి hear చేస్తారు, తర్వాత website కి వెళ్తారు, తర్వాత sign up చేస్తారు, తర్వాత game కొంచెం play చేస్తారు.
-
-English
-This is how the funnel was supposed to work: “First people hear about your thing, then they go to the website, then they sign up, then they play the game a little bit.
+కానీ Glitch leaky bucket తో, people funnel top నుంచే fall out అయ్యేవారు — pay చేయగలిగే process place కి దగ్గరికి కూడా రాకముందే.
+But with Glitch's leaky bucket, people were falling out of the top of the funnel before they even got close to a place in the process where they could pay if they wanted to.
 
 ---
 
-Telugu
-ఆ stages ప్రతి దాంట్లో కొంతమంది process నుండి fall out అవుతారు—అందుకే దాన్ని funnel అంటారు—కానీ చివరికి కొంతమంది మీకు pay చేస్తారు.
-
-English
-In each of those stages, some people fall out of the process—that’s why it’s called the funnel—but then some end up paying you.”
+"Not enough of them made it all the way through," Stewart said. "It was always the next thing that was going to fix it—the next game dynamic we added, the next bit of customization. But as we continued to try those things, we never found the magic formula that would make them stick with it."
+"Not enough of them made it all the way through," Stewart said. "It was always the next thing that was going to fix it—the next game dynamic we added, the next bit of customization. But as we continued to try those things, we never found the magic formula that would make them stick with it."
 
 ---
 
-Telugu
-కానీ Glitch leaky bucket లో, people funnel top నుంచే బయటకు పడిపోతున్నారు; వారు pay చేయాలనుకున్నా చేయగలిగే process స్థాయికి దగ్గర పడకముందే.
-
-English
-But with Glitch’s leaky bucket, people were falling out of the top of the funnel before they even got close to a place in the process where they could pay if they wanted to.
+2012 నాటికి, Glitch work అవ్వదని Stewart realize చేశాడు.
+By 2012, Stewart realized Glitch wasn't going to work.
 
 ---
 
-Telugu
-“వారిలో సరిపడా మంది all the way through రాలేదు,” Stewart అన్నాడు.
-
-English
-“Not enough of them made it all the way through,” Stewart said.
+"It was never going to become the kind of business that would justify $17.5 million of venture capital investment," he said pointedly.
+"It was never going to become the kind of business that would justify $17.5 million of venture capital investment," he said pointedly.
 
 ---
 
-Telugu
-“దాన్ని fix చేసేది always next thing అనే భావన ఉండేది—the next game dynamic, the next bit of customization.”
-
-English
-“It was always the next thing that was going to fix it—the next game dynamic we added, the next bit of customization.
-
----
-
-Telugu
-“కానీ ఆ things try చేస్తూనే ఉన్నా, వాళ్లు దానితో stick అవ్వే magic formula మాకు ఎప్పుడూ దొరకలేదు.”
-
-English
-But as we continued to try those things, we never found the magic formula that would make them stick with it.”
-
----
-
-Telugu
-2012 నాటికి Stewart కు Glitch work కాదని అర్థమైంది.
-
-English
-By 2012, Stewart realized Glitch wasn’t going to work.
-
----
-
-Telugu
-“$17.5 million venture capital investment ను justify చేసే kind of business గా అది ఎప్పటికీ మారదు,” అని అతను pointedly అన్నాడు.
-
-English
-“It was never going to become the kind of business that would justify $17.5 million of venture capital investment,” he said pointedly.
-
----
-
-Telugu
-కాబట్టి ఒక రాత్రి అతను తన co-founders మరియు Glitch board of directors కు తన decision తెలియజేయడానికి letter draft చేశాడు.
-
-English
+కాబట్టి ఒక night అతను తన co-founders కి మరియు Glitch board of directors కి తన decision చెప్పడానికి letter draft చేశాడు.
 So one night he drafted a letter to his co-founders and to the Glitch board of directors to inform them of his decision.
 
 ---
 
-Telugu
-మరుసటి ఉదయం office కి వెళ్లి all-hands meeting పిలిచాడు.
-
-English
+మరుసటి morning అతను office లోకి వెళ్లి all-hands meeting call చేశాడు.
 The next morning he went in to the office and called an all-hands meeting.
 
 ---
 
-Telugu
-“మొదటి sentence మొదటి half కూడా చెప్పకముందే, నేను crying చేస్తున్నాను,” అని అతను అన్నాడు.
-
-English
-“Before I could even get the first half of the first sentence out, I was crying,” he said.
+"Before I could even get the first half of the first sentence out, I was crying," he said. "Almost everyone in the room I had personally convinced they should come work at this company, that they should accept our stock options, that they should believe in the project, that they should believe in me. There was a real sense that I had failed all these people."
+"Before I could even get the first half of the first sentence out, I was crying," he said. "Almost everyone in the room I had personally convinced they should come work at this company, that they should accept our stock options, that they should believe in the project, that they should believe in me. There was a real sense that I had failed all these people."
 
 ---
 
-Telugu
-“Room లో ఉన్న almost everyone ను నేను personally convince చేశాను—ఈ company లో work చేయాలని, stock options accept చేయాలని, project ను believe చేయాలని, నన్ను believe చేయాలని.”
-
-English
-“Almost everyone in the room I had personally convinced they should come work at this company, that they should accept our stock options, that they should believe in the project, that they should believe in me.
+Stacy Madison and Mark Andrus కి — Dunkin' Donuts, Starbucks లాంటి company లు తమ fate ను seal చేయక ముందే perceived (గమనించి) move చేసిన; Jane Wurwand market లో gap ను చూసి, ఆమెకి uniquely suit అయ్యేది; లేదా Kevin Systrom and Mike Krieger — photos అనేవి Burbn ను interesting గా చేస్తున్నాయని, check-in functionality కాదు అని తెలిసిన వాళ్లకు లాగా కాకుండా — Stewart Butterfield కి idea లేదు — Glitch end చేసిన తర్వాత తనకు ఏం మిగిలిందో, except millions of frames of game-specific animation మరియు దానికి accompany చేయడానికి intended hundreds of hours original music.
+Unlike Stacy Madison and Mark Andrus, who read the writing on the wall and made their move before their fate was sealed by the Dunkin' Donuts and Starbucks of the world; or Jane Wurwand, who saw a gap in the market that she was uniquely suited to move into; or even Kevin Systrom and Mike Krieger, who knew photos were what made Burbn interesting, not the check-in functionality, Stewart Butterfield had no idea what, if anything, he had left to show for himself after he ended Glitch besides millions of frames of game-specific animation and hundreds of hours of original music intended to accompany it.
 
 ---
 
-Telugu
-“ఈ people అందరినీ నేను fail చేశాననే real sense ఉండేది.”
-
-English
-There was a real sense that I had failed all these people.”
-
----
-
-Telugu
-Stacy Madison మరియు Mark Andrus తమ fate Dunkin’ Donuts మరియు Starbucks చేత seal అవ్వకముందే writing on the wall చదివి move చేసినట్టుగా కాదు.
-
-English
-Unlike Stacy Madison and Mark Andrus, who read the writing on the wall and made their move before their fate was sealed by the Dunkin’ Donuts and Starbucks of the world;
-
----
-
-Telugu
-Jane Wurwand తనకు uniquely suited అయిన market gap చూసి move చేసినట్టుగా కాదు.
-
-English
-or Jane Wurwand, who saw a gap in the market that she was uniquely suited to move into;
-
----
-
-Telugu
-Kevin Systrom మరియు Mike Krieger, Burbn లో interesting thing check-in functionality కాదు, photos అని తెలిసినట్టుగా కూడా కాదు.
-
-English
-or even Kevin Systrom and Mike Krieger, who knew photos were what made Burbn interesting, not the check-in functionality,
-
----
-
-Telugu
-Stewart Butterfield కు Glitch ముగిసిన తర్వాత తనకు ఏమి మిగిలిందో—millions of frames of game-specific animation మరియు hundreds of hours of original music తప్ప—ఏదైనా ఉందా లేదా అన్నది తెలియదు.
-
-English
-Stewart Butterfield had no idea what, if anything, he had left to show for himself after he ended Glitch besides millions of frames of game-specific animation and hundreds of hours of original music intended to accompany it.
-
----
-
-Telugu
-ఆ stuff తో అతను ఏమి చేయగలడు?
-
-English
+ఆ stuff తో అతను ఏం చేయగలడు?
 What could he possibly do with any of that stuff?
 
 ---
 
-Telugu
-వాళ్ల దగ్గర నిజంగా ఏముంది అనేది figure out చేయడానికి అతనికి దాదాపు ఒక వారం పట్టింది.
-
-English
+Really ఏం ఉందో figure out చేయడానికి అతనికి దాదాపు week పట్టింది.
 It took him about a week to figure out what they really had.
 
 ---
 
-Telugu
-“Glitch గురించి interesting thing ఏమిటంటే,” Stewart అన్నాడు, “business గా అది successful కాకపోయినా, మేము extraordinarily productive గా ఉన్నాం, ఎందుకంటే మేము develop చేసిన internal communication system ఉంది.”
-
-English
-“So the interesting thing about Glitch,” Stewart said, “was that while it wasn’t successful as a business, we were extraordinarily productive because of this system for internal communication that we had developed.”
+"So the interesting thing about Glitch," Stewart said, "was that while it wasn't successful as a business, we were extraordinarily productive because of this system for internal communication that we had developed."
+"So the interesting thing about Glitch," Stewart said, "was that while it wasn't successful as a business, we were extraordinarily productive because of this system for internal communication that we had developed."
 
 ---
 
-Telugu
-ఆ system కు పేరు లేదు.
-
-English
-This system didn’t have a name.
+ఈ system కి పేరు లేదు. వాళ్లు దాన్ని ఎప్పుడూ దాని మీద occur అయ్యే communication నుంచి separate గా discuss చేయలేదు.
+This system didn't have a name. They never discussed it as something separate from the communication that occurred on it.
 
 ---
 
-Telugu
-దానిపై జరిగే communication నుండి వేరుగా దాన్ని ఒక separate thing గా వారు ఎప్పుడూ discuss చేయలేదు.
-
-English
-They never discussed it as something separate from the communication that occurred on it.
+"We didn't even think about it as a thing," Stewart said.
+"We didn't even think about it as a thing," Stewart said.
 
 ---
 
-Telugu
-“దాన్ని thing గా కూడా మేము ఆలోచించలేదు,” Stewart అన్నాడు.
-
-English
-“We didn’t even think about it as a thing,” Stewart said.
+అది just వాళ్లు own purposes కోసం build చేసుకున్నది — channel concept చుట్టూ — typical interoffice communication యొక్క "inversion (తలకిందులు రూపం)" — ఏ employee అయినా company workflow-related conversations మొత్తం history కి access కలిగి ఉండేలా చేసేది — వాళ్లు company లో ఎప్పుడు join అయినా.
+It was just something they'd built for their own purposes, around the concept of a channel, that was "an inversion of the typical interoffice communication," that gave any employee access to the entire history of the company's workflow-related conversations, regardless of when they joined the company.
 
 ---
 
-Telugu
-అది వారు తమ purposes కోసం build చేసినదే; channel అనే concept చుట్టూ build అయింది.
-
-English
-It was just something they’d built for their own purposes, around the concept of a channel.
-
----
-
-Telugu
-అది typical interoffice communication కు “an inversion”; employee ఎప్పుడు company లో join అయినా, company workflow-related conversations మొత్తం history కు access ఇస్తుంది.
-
-English
-that was “an inversion of the typical interoffice communication,” that gave any employee access to the entire history of the company’s workflow-related conversations, regardless of when they joined the company.
-
----
-
-Telugu
-Standard email-based communication systems లో అది possible కాదు; మీరు company join అయినప్పుడు basically inbox zero నుంచే start అవుతారు.
-
-English
+Standard email-based communication systems తో possible కానిది — అక్కడ ఒక company join అయితే, basically in-box zero దగ్గర start అవుతారు.
 Something that was not possible with standard email-based communication systems where, when you joined a company, you basically started at in-box zero.
 
 ---
 
-Telugu
-“Game shut down చేయాలని decide చేసిన తర్వాతే, ఇలాంటి system లేకుండా మేము మళ్లీ ఎప్పుడూ work చేయలేమని గ్రహించాం; బహుశా other people కూడా దీన్ని like చేస్తారేమో అనుకున్నాం,” Stewart observed.
-
-English
-“It was only once we decided to shut down the game that we realized we would never work without a system like this again and thought maybe other people would like it, too,” Stewart observed.
+"It was only once we decided to shut down the game that we realized we would never work without a system like this again and thought maybe other people would like it, too," Stewart observed.
+"It was only once we decided to shut down the game that we realized we would never work without a system like this again and thought maybe other people would like it, too," Stewart observed.
 
 ---
 
-Telugu
-ఈ system, లేదా idea, Slack గా మారింది; ఇది నేడు multibillion-dollar cloud-based collaboration software business.
-
-English
+ఈ system లేదా idea — Slack గా మారింది, ఇవ్వాళ multibillion-dollar cloud-based collaboration software business.
 This system, or idea, would become Slack, which today is a multibillion-dollar cloud-based collaboration software business.
 
 ---
 
-Telugu
-కానీ ఆ సమయంలో prospective enterprise customers కు ఈ concept pitch చేయడం Stewart మరియు అతని team కు కష్టం అయింది.
-
-English
-But at the time, it was difficult for Stewart and his team to pitch this concept to prospective enterprise customers.
+కానీ ఆ time లో, Stewart మరియు team కి prospective enterprise customers కి ఈ concept ను pitch చేయడం difficult గా ఉండింది — ఎందుకంటే ఈ idea, at its core, organic pivot అని వాళ్లు really understand చేయలేకపోయారు.
+But at the time, it was difficult for Stewart and his team to pitch this concept to prospective enterprise customers because they didn't really understand how this idea was, at its core, an organic pivot.
 
 ---
 
-Telugu
-ఎందుకంటే ఈ idea core లో organic pivot అని వాళ్లు నిజంగా అర్థం చేసుకోలేదు.
-
-English
-because they didn’t really understand how this idea was, at its core, an organic pivot.
-
----
-
-Telugu
-వాళ్లు దాన్ని original business కు side లో ఉన్న ancillary thing గా, connected అయినా philosophically unrelated గా భావించారు.
-
-English
+అది just వాళ్ల original business కి side లో connected గా ఉన్న ancillary (అదనపు) thing అని, but philosophically (philosophy పరంగా) unrelated అని వాళ్లు అనుకున్నారు.
 They thought it was just this ancillary thing over to the side, connected to their original business but unrelated to it philosophically.
 
 ---
 
-Telugu
-అది understandable.
-
-English
-It’s understandable.
+అది understandable. ఒక complicated online game మరియు enterprise middleware piece మధ్య through line (పంచుకునే connecting line) ను ఎలా construct చేస్తారు?
+It's understandable. How do you construct a through line between a complicated online game and a piece of enterprise middleware?
 
 ---
 
-Telugu
-ఒక complicated online game మరియు enterprise middleware మధ్య through line ఎలా construct చేస్తారు?
-
-English
-How do you construct a through line between a complicated online game and a piece of enterprise middleware?
+Truth ఏంటంటే — వాళ్లు దాన్ని construct చేయాల్సిన అవసరం లేదు, ఎందుకంటే అది already there — Stewart Butterfield చేసిన ప్రతిదాని వెనుక ఉన్న true motivating force రూపంలో — 2002 లో Vancouver, British Columbia లో అతను start అయిన చోటు నుంచి.
+The truth was, they didn't need to construct it, because it was already there in the form of the true motivating force behind everything Stewart Butterfield had done, beginning all the way back in 2002, in Vancouver, British Columbia, where he got his start.
 
 ---
 
-Telugu
-Truth ఏమిటంటే, వాళ్లు దాన్ని construct చేయాల్సిన అవసరం లేదు, ఎందుకంటే అది ఇప్పటికే అక్కడ ఉంది.
-
-English
-The truth was, they didn’t need to construct it, because it was already there.
+"There were two massively multiplayer games," Stewart said of Game Neverending and Glitch, "and there was massively multiplayer photo-sharing with Flickr. Slack is just massively multiplayer communications at work."
+"There were two massively multiplayer games," Stewart said of Game Neverending and Glitch, "and there was massively multiplayer photo-sharing with Flickr. Slack is just massively multiplayer communications at work."
 
 ---
 
-Telugu
-Stewart Butterfield 2002 లో Vancouver, British Columbia లో start చేసినప్పటి నుండి చేసిన ప్రతిదాని వెనుక ఉన్న true motivating force రూపంలో అది ఉంది.
-
-English
-in the form of the true motivating force behind everything Stewart Butterfield had done, beginning all the way back in 2002, in Vancouver, British Columbia, where he got his start.
-
----
-
-Telugu
-“రెండు massively multiplayer games ఉన్నాయి,” Stewart Game Neverending మరియు Glitch గురించి అన్నాడు, “మరియు Flickr తో massively multiplayer photo-sharing ఉంది.”
-
-English
-“There were two massively multiplayer games,” Stewart said of Game Neverending and Glitch, “and there was massively multiplayer photo-sharing with Flickr.
-
----
-
-Telugu
-“Slack అనేది work లో massively multiplayer communications మాత్రమే.”
-
-English
-Slack is just massively multiplayer communications at work.”
-
----
-
-Telugu
-Stewart pursue చేసిన ideas యొక్క real seed అదే: massively multiplayer collaborative systems.
-
-English
+అది Stewart pursue చేసిన ideas యొక్క real seed — massively multiplayer collaborative systems.
 That was the real seed of the ideas Stewart pursued: massively multiplayer collaborative systems.
 
 ---
 
-Telugu
-అతను చేసిన ప్రతి pivot core లో ఆ seed ఉంది.
-
-English
+అతను ever made ప్రతి pivot కి దాని core లో ఆ seed ఉండింది.
 Every pivot he ever made had that seed at its core.
 
 ---
 
-Telugu
-అదే Glitch founding team ను together ఉంచింది, layoffs ఎదుర్కొన్న Glitch employees లో చాలామందిని తిరిగి fold లోకి draw చేసింది.
-
-English
-It’s also what kept the Glitch founding team together and what eventually drew so many of the employees who faced layoffs at Glitch back into the fold.
+అదే Glitch founding team ను together ఉంచింది మరియు చివరికి Glitch లో layoffs face చేసిన చాలా మంది employees ను తిరిగి fold లోకి draw చేసింది.
+It's also what kept the Glitch founding team together and what eventually drew so many of the employees who faced layoffs at Glitch back into the fold.
 
 ---
 
-Telugu
-“నాకు software చేయడం ఇష్టం, మరియు ఈ other people తో కలిసి చేయడం ఇష్టం,” Stewart అన్నాడు.
-
-English
-“I just like making software, and I like doing it with these other people,” Stewart said.
+"I just like making software, and I like doing it with these other people," Stewart said. "They all like making software as well. And the more we worked, the more we realized this all actually totally makes sense."
+"I just like making software, and I like doing it with these other people," Stewart said. "They all like making software as well. And the more we worked, the more we realized this all actually totally makes sense."
 
 ---
 
-Telugu
-“వాళ్లందరికీ కూడా software చేయడం ఇష్టం.”
-
-English
-“They all like making software as well.
-
----
-
-Telugu
-“మేము ఇంకా work చేయడంతో, ఇది అంతా actually totally makes sense అని మరింత realize చేశాం.”
-
-English
-And the more we worked, the more we realized this all actually totally makes sense.”
-
----
-
-Telugu
-మీరు lead చేస్తున్న business, ఆ business మొదట build అయిన idea కంటే bigger మరియు more important అని గుర్తించడానికి immense emotional maturity అవసరం.
-
-English
+మీరు ఎంత పెద్ద వయసులో ఉన్నా — మీరు lead చేస్తున్న business అది originally build అయిన idea కంటే (మీ idea!) bigger మరియు more important అని recognize చేయడానికి immense emotional maturity కావాలి.
 It takes an immense amount of emotional maturity, no matter how old you are, to recognize that the business you are leading is bigger and more important than the idea (your idea!) on which that business was originally built.
 
 ---
 
-Telugu
-Idea itself మీరు అనుకున్నది కాకపోవచ్చు, లేదా మీరు దాని మీద పెరుగుతున్న business manage చేస్తూ ఉండగా అది gradually, then suddenly, మీరు intended చేసిన దిశ నుండి evolve అయ్యి ఉండొచ్చు అని accept చేయడానికి humility అవసరం.
-
-English
-It takes humility to accept that the idea itself maybe isn’t what you thought it was, or that it has evolved gradually, then suddenly, away from what you intended it to become while you were busy managing the business growing on top of it.
+Idea itself మీరు అనుకున్నది కాదేమో అని accept చేయడానికి, లేదా అది gradually, then suddenly మీరు intend చేసిన దాని నుండి away గా evolve అయ్యిందని — మీరు దాని పైన grow అవుతున్న business ను manage చేయడంలో busy గా ఉండగానే — accept చేయడానికి humility (వినయం) కావాలి.
+It takes humility to accept that the idea itself maybe isn't what you thought it was, or that it has evolved gradually, then suddenly, away from what you intended it to become while you were busy managing the business growing on top of it.
 
 ---
 
-Telugu
-Familiar నుండి new వైపు move చేయడానికి real courage అవసరం—ప్రత్యేకంగా మీ good idea అంత good గా కనిపించకపోయే సందర్భాల్లో.
-
-English
-And it takes real courage to make that move away from the familiar and toward the new—especially in those instances where your good idea is starting to look not so good.
+మరియు familiar నుంచి new వైపుకు move చేయడానికి real courage కావాలి — ముఖ్యంగా మీ good idea not so good గా look అవ్వడం మొదలయ్యే instances లో, మరియు మీరు తీసుకువెళ్లడానికి business కి remotely related గా ఏదీ లేనట్టు అనిపించే situations లో.
+And it takes real courage to make that move away from the familiar and toward the new—especially in those instances where your good idea is starting to look not so good, and it doesn't appear as if you have anywhere to go or anything even remotely related to your business to take with you.
 
 ---
 
-Telugu
-మరియు వెళ్లడానికి ఎక్కడా లేదని, మీ business తో remotely related గా తీసుకెళ్లడానికి ఏమీ లేదని అనిపించే సమయంలో కూడా.
-
-English
-and it doesn’t appear as if you have anywhere to go or anything even remotely related to your business to take with you.
+PART III THE DESTINATION
+PART III THE DESTINATION
 
 ---
 
-Telugu
-Entrepreneurship లో చాలా విధాలుగా scariest part success.
-
-English
+చాలా ways లో, entrepreneurship యొక్క scariest part success.
 IN MANY WAYS, the scariest part of entrepreneurship is success.
 
 ---
 
-Telugu
-అది మీ destination, మీ objective చేరుకోవడం.
-
-English
-It’s reaching your destination, your objective.
+అది మీ destination, మీ objective కి reach అవ్వడం. ఎందుకంటే అప్పుడే real work start అవుతుంది.
+It's reaching your destination, your objective. Because that's when the work really starts.
 
 ---
 
-Telugu
-ఎందుకంటే work నిజంగా అప్పుడు ప్రారంభమవుతుంది.
-
-English
-Because that’s when the work really starts.
+మీరు decide చేయాల్సిన time: What now? What next? మళ్లీ keep moving చేస్తారా, మళ్లీ చేస్తారా? Stick around (అదే చోట ఉండిపోతారా)? Build చేస్తారా? ఏం build చేస్తారు? ఎంత big? దేనితో? మరియు ఎందుకు?
+When you've got to decide: What now? What next? Do you keep moving and do it again? Do you stick around? Do you build? What do you build? How big? With what? And why?
 
 ---
 
-Telugu
-అప్పుడు మీరు decide చేయాలి: ఇప్పుడు ఏమిటి? తర్వాత ఏమిటి?
-
-English
-When you’ve got to decide: What now? What next?
+ఇక్కడికి రావడం itself difficult గా ఉండింది. Continued success responsibility తో వచ్చే anxiety things ను easier గా చేయట్లేదు.
+Getting here was difficult enough. The anxiety that comes with the responsibility of continued success isn't making things any easier.
 
 ---
 
-Telugu
-మీరు move చేస్తూనే ఉండి మళ్లీ చేస్తారా? లేక అక్కడే ఉంటారా? build చేస్తారా?
-
-English
-Do you keep moving and do it again? Do you stick around? Do you build?
-
----
-
-Telugu
-ఏం build చేస్తారు? ఎంత పెద్దగా? దేనితో? మరియు ఎందుకు?
-
-English
-What do you build? How big? With what? And why?
-
----
-
-Telugu
-ఇక్కడికి రావడం చాలు difficult గా ఉంది.
-
-English
-Getting here was difficult enough.
-
----
-
-Telugu
-Continued success responsibility తో వచ్చే anxiety విషయాలను సులభం చేయడం లేదు.
-
-English
-The anxiety that comes with the responsibility of continued success isn’t making things any easier.
-
----
-
-Telugu
-ఈ అన్నింటిని మీరే మీకు ఎందుకు మళ్లీ మళ్లీ కలిగించుకోవాలి?
-
-English
+మిమ్మల్ని ఎందుకు మళ్లీ ఇదంతా through పెట్టుకోవాలి?
 Why continue to put yourself through all this?
 
 ---
 
-Telugu
-ఈ questions కు answer ఇవ్వడం difficult.
-
-English
-These questions are difficult to answer.
+ఈ questions difficult to answer. Answers often exactly right గా చేయడం hard.
+These questions are difficult to answer. And the answers are often hard to get exactly right.
 
 ---
 
-Telugu
-మరియు answers ను exactly right గా పొందడం తరచూ కష్టం.
-
-English
-And the answers are often hard to get exactly right.
+ఎందుకంటే beginning లో, మీరు worry చేసేదంతా survive అవ్వడం గురించే. మీరు perfection aim చేయట్లేదు; just pitfalls (అడ్డంకులు) avoid చేయాలని hope చేస్తున్నారు. మీరు legacy గురించి thinking చేయట్లేదు; just unknown across quest లో మరో day last అవ్వడం మీద focus చేస్తున్నారు.
+Because in the beginning, all you're worried about is trying to survive. You're not aiming for perfection; you're just hoping to avoid pitfalls. You're not thinking about legacy; you're just focused on lasting one more day in your quest across the unknown.
 
 ---
 
-Telugu
-ఎందుకంటే beginning లో, మీరు worry అయ్యేది survive అవ్వడమే.
-
-English
-Because in the beginning, all you’re worried about is trying to survive.
+చివరికి, మీరు time test ను stand అయ్యే business build చేయాలంటే ఈ questions paramount (అత్యంత ముఖ్యం) అవుతాయి. Beginning లో మిమ్మల్ని drive చేసిన idea కోసం just vessel కంటే ఎక్కువ ఏదైనా. మీ mission మరియు మీ values reflect చేసేది, మీరు పెట్టిన work మొత్తాన్ని honor చేసేది, ఇక్కడికి రావడానికి help చేసిన people ను బాగా treat చేసేది.
+Eventually, though, these questions will become paramount if you want to build a business that stands the test of time. Something more than just a vessel for the idea that drove you in the beginning. Something that reflects your mission and your values, that honors all the work you put in, and that treats the people who helped you get here well.
 
 ---
 
-Telugu
-మీరు perfection కోసం aim చేయడం లేదు; pitfalls avoid చేయాలని మాత్రమే hope చేస్తున్నారు.
-
-English
-You’re not aiming for perfection; you’re just hoping to avoid pitfalls.
+ఈ questions కి మీ answers figure out చేయడమే మిమ్మల్ని successful గా feel అయ్యేలా చేస్తుంది — మీ next move ఏదైనా: మీరు stay చేసి build చేసి lead చేసినా, మీరు వెళ్లినా, మీరు move on అయ్యి మరో area లో మీ success repeat చేయడానికి try చేసినా.
+Figuring out your answers to these questions is also what will make you feel successful, no matter what your next move is: whether you stay and build and lead, whether you go, whether you move on and try to repeat your success in another area.
 
 ---
 
-Telugu
-మీరు legacy గురించి ఆలోచించడం లేదు; unknown across మీ quest లో ఇంకో రోజు last అవ్వడంపైనే focused గా ఉన్నారు.
-
-English
-You’re not thinking about legacy; you’re just focused on lasting one more day in your quest across the unknown.
+మీరు దాన్ని authentically (నిజంగా) మీవైన reasons కోసం చేయట్లేదంటే, మొదటి days లో మిమ్మల్ని inspire చేసిన దాన్ని మీరు sight (దృష్టి) తప్పిపోతే — మీరు just endure చేసిన long, arduous (శ్రమతో కూడిన) entrepreneurial journey మిమ్మల్ని regret తో fill చేయొచ్చు. Promise unfulfilled (నెరవేరని వాగ్దానం) లాగా.
+If you're not doing it for reasons that are authentically yours, if you've lost sight of what inspired you from those very first days, then the long, arduous entrepreneurial journey you just endured might very well fill you with regret. Like promise unfulfilled.
 
 ---
 
-Telugu
-Eventually, అయితే, time test నిలబడే business build చేయాలంటే ఈ questions paramount అవుతాయి.
-
-English
-Eventually, though, these questions will become paramount if you want to build a business that stands the test of time.
+Successful feel అవ్వడం forget చేయండి. Wrong reasons తో right place కి reach అయితే — మీ దగ్గర ఎంత money ఉన్నా — మీరు downright failure లాగా feel అవ్వొచ్చు.
+Forget feeling successful. You can feel like a downright failure when you get to the right place for the wrong reasons, no matter how much money you have.
 
 ---
 
-Telugu
-Beginning లో మిమ్మల్ని drive చేసిన idea కు vessel కంటే ఎక్కువగా ఉండే something.
-
-English
-Something more than just a vessel for the idea that drove you in the beginning.
+ఎందుకంటే true entrepreneurial success path strictly profit గురించి కాదు; deeper purpose ను find చేసి, fulfill చేయడం గురించి కూడా.
+That's because the path to true entrepreneurial success is not strictly about profit; it's also about finding and fulfilling a deeper purpose.
 
 ---
 
-Telugu
-మీ mission మరియు values ను reflect చేసే something.
-
-English
-Something that reflects your mission and your values.
-
----
-
-Telugu
-మీరు చేసిన work అంతా honor చేసే, మీకు ఇక్కడికి రావడంలో help చేసిన people ను well గా treat చేసే something.
-
-English
-that honors all the work you put in, and that treats the people who helped you get here well.
-
----
-
-Telugu
-ఈ questions కు మీ answers figure out చేయడం కూడా, మీరు successful గా feel అవ్వడానికి కారణం అవుతుంది—మీ next move ఏదైనా సరే.
-
-English
-Figuring out your answers to these questions is also what will make you feel successful, no matter what your next move is:
-
----
-
-Telugu
-మీరు stay చేసి build చేసి lead చేసినా, go అయినా, move on అయ్యి another area లో success repeat చేయడానికి ప్రయత్నించినా.
-
-English
-whether you stay and build and lead, whether you go, whether you move on and try to repeat your success in another area.
-
----
-
-Telugu
-మీరు authentically yours అయిన reasons కోసం చేయకపోతే, very first days నుండి మిమ్మల్ని inspire చేసినది sight లో లేకపోతే, మీరు endure చేసిన long, arduous entrepreneurial journey regret తో నిండిపోవచ్చు.
-
-English
-If you’re not doing it for reasons that are authentically yours, if you’ve lost sight of what inspired you from those very first days, then the long, arduous entrepreneurial journey you just endured might very well fill you with regret.
-
----
-
-Telugu
-Promise unfulfilled లాగా.
-
-English
-Like promise unfulfilled.
-
----
-
-Telugu
-Forget feeling successful.
-
-English
-Forget feeling successful.
-
----
-
-Telugu
-మీ వద్ద ఎంత money ఉన్నా, wrong reasons కోసం right place కి చేరుకున్నప్పుడు downright failure లాగా feel కావచ్చు.
-
-English
-You can feel like a downright failure when you get to the right place for the wrong reasons, no matter how much money you have.
-
----
-
-Telugu
-ఎందుకంటే true entrepreneurial success path strictly profit గురించి మాత్రమే కాదు; అది deeper purpose ను find చేసి fulfill చేయడం గురించీ కూడా.
-
-English
-That’s because the path to true entrepreneurial success is not strictly about profit; it’s also about finding and fulfilling a deeper purpose.
-
----
-
-Telugu
-అదే destination all along.
-
-English
+అది all along destination.
 That has been the destination all along.
 
 ---
 
-Telugu
-దాన్ని తెలుసుకోవడం, మీరు దానికి చేరుకున్నప్పుడు recognize చేయడం—అప్పుడే rewards నిజంగా accrue అవడం ప్రారంభమవుతుంది.
-
-English
-Knowing that, and recognizing when you’ve reached it, is when the rewards truly begin to accrue.
+అది తెలుసుకోవడం, మీరు దానికి reach అయ్యారని recognize చేయడం — అప్పుడే rewards truly accrue (సేకరించడం) start అవుతాయి.
+Knowing that, and recognizing when you've reached it, is when the rewards truly begin to accrue.
 
 ---
 
-Telugu
-March 2008 లో ఒక వారం కంటే కొంచెం ఎక్కువ కాలంలో, United States లో fifth-largest investment bank అయిన Bear Stearns, mortgage-backed securities పై చేసిన massive bets weight కింద finally collapsed అయింది.
+19 It Can't Be All About the Money
+19 It Can't Be All About the Money
 
-English
+---
+
+March 2008 లో little more than a week course లో — United States లో fifth-largest investment bank అయిన Bear Stearns — చివరికి తన massive bets on mortgage-backed securities weight కింద collapse అయ్యింది.
 Over the course of little more than a week in March 2008, the fifth-largest investment bank in the United States, Bear Stearns, finally collapsed under the weight of its massive bets on mortgage-backed securities.

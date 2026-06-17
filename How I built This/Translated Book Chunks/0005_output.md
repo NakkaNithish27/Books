@@ -1,1147 +1,321 @@
-Telugu
+అదే time లో, అతను already future luminaries quartet తో పాటు work చేశాడు: young Mitt Romney; thirtysomething Benjamin Netanyahu; soon-to-be-legendary business school professor and author Clayton Christensen, ఎవరి seminal work The Innovator's Dilemma twenty-first-century entrepreneurship ను shape చేయడంలో help చేసిందో; మరియు future hedge fund billionaire John Paulson, ఎవరు twenty-five years తర్వాత credit default swaps తో subprime lending market కి against bet చేస్తూ virtually overnight తన fortune make చేస్తాడో.
 
-అదే సమయంలో, Jim ఇప్పటికే future luminaries గా మారబోయే quartet తో alongside పని చేశాడు.
-
-English
-
-At the same time, he had already worked alongside a quartet of future luminaries.
+At the same time, he had already worked alongside a quartet of future luminaries: a young Mitt Romney; a thirtysomething Benjamin Netanyahu; the soon-to-be-legendary business school professor and author Clayton Christensen, whose seminal work, The Innovator's Dilemma, helped shape twenty-first-century entrepreneurship; and future hedge fund billionaire John Paulson, who would make his fortune virtually overnight betting against the subprime lending market with credit default swaps some twenty-five years later.
 
 ---
 
-Telugu
+Jim Koch కూడా slouch కాదు. అతను triple Harvard (BA, JD, MBA), మరియు attention pay చేస్తున్న ఎవరికైనా — BCG's founder, దాని current CEO, మరియు next in line man తో సహా — Cincinnati east side నుండి వచ్చిన ఈ kid కి sky was the limit.
 
-యువ Mitt Romney, thirtysomething Benjamin Netanyahu, త్వరలో legendary business school professor మరియు author అవబోయే Clayton Christensen, మరియు future hedge fund billionaire John Paulson.
-
-English
-
-A young Mitt Romney; a thirtysomething Benjamin Netanyahu; the soon-to-be-legendary business school professor and author Clayton Christensen; and future hedge fund billionaire John Paulson.
+Jim Koch was no slouch either. He's triple Harvard (BA, JD, MBA), and to anyone who was paying attention—which included BCG's founder, its current CEO, and the man who would be next in line—the sky was the limit for this kid from the east side of Cincinnati.
 
 ---
 
-Telugu
+"It was a great job for a while," Jim trademark understatement తో చెప్పాడు.
 
-Clayton Christensen యొక్క seminal work, The Innovator’s Dilemma, twenty-first-century entrepreneurship ను shape చేయడంలో help చేసింది.
-
-English
-
-Whose seminal work, The Innovator’s Dilemma, helped shape twenty-first-century entrepreneurship.
+"It was a great job for a while," Jim said with trademark understatement.
 
 ---
 
-Telugu
+For a while? Jim's salary తో, stock options ఇంకా ahead లో ఉండగా, అతను "pay off your parents' mortgage and start a foundation" territory కి closing in అవుతున్నాడు. ఒక person job నుండి ఇంకేం కావాలి?
 
-John Paulson, కొన్ని twenty-five years later, subprime lending market పై credit default swaps తో bet చేసి virtually overnight fortune సంపాదించబోయేవాడు.
-
-English
-
-John Paulson, who would make his fortune virtually overnight betting against the subprime lending market with credit default swaps some twenty-five years later.
+For a while? At Jim's salary, with the stock options still ahead of him, he was closing in on "pay off your parents' mortgage and start a foundation" territory. What more could one person possibly want from a job?
 
 ---
 
-Telugu
+Well, Jim Koch కి, అది more గురించి కాదు; different గురించి.
 
-Jim Koch కూడా no slouch కాదు.
-
-English
-
-Jim Koch was no slouch either.
+Well, for Jim Koch, it wasn't about more; it was about different.
 
 ---
 
-Telugu
+BCG లో beginning లో, Jim కి business strategy, product categories, organizational issues, మరియు business problems గురించి learn అవ్వడానికి pay చేసేవారు. కానీ ఒక్కసారి అతను management లోకి entered అయ్యాక, తన job . . . well . . . boring అయింది.
 
-అతను triple Harvard — BA, JD, MBA.
-
-English
-
-He’s triple Harvard (BA, JD, MBA).
+In the beginning at BCG, Jim was being paid to learn about business strategy, product categories, organizational issues, and business problems. But once he entered management, his job became . . . well . . . boring.
 
 ---
 
-Telugu
+అతను problems లోకి dive అవుతూ solutions find చేయడం కంటే BCG services అమ్ముతున్నాడు. "The learning stopped," అతను చెప్పాడు.
 
-BCG founder, current CEO, మరియు next in line అవబోయే person సహా ఎవరు attention ఇచ్చారో వాళ్లందరికీ, Cincinnati east side నుంచి వచ్చిన ఈ kid కు sky was the limit.
-
-English
-
-And to anyone who was paying attention—which included BCG’s founder, its current CEO, and the man who would be next in line—the sky was the limit for this kid from the east side of Cincinnati.
+He was selling BCG's services rather than diving into problems and finding solutions. "The learning stopped," he said.
 
 ---
 
-Telugu
+"And then I had this epiphany. I asked myself, 'Do I want to do this the rest of my life?' And the answer came back: 'No.' And the corollary to that was, 'Well, if I don't want to do it for the rest of my life, I probably don't want to do it tomorrow.'"
 
-“కొంతకాలం అది great job,” అని Jim తన trademark understatement తో అన్నాడు.
-
-English
-
-“It was a great job for a while,” Jim said with trademark understatement.
+"And then I had this epiphany. I asked myself, 'Do I want to do this the rest of my life?' And the answer came back: 'No.' And the corollary to that was, 'Well, if I don't want to do it for the rest of my life, I probably don't want to do it tomorrow.'"
 
 ---
 
-Telugu
-
-కొంతకాలం?
-
-English
-
-For a while?
-
----
-
-Telugu
-
-Jim salary తో, ఇంకా stock options ముందున్నప్పుడు, అతను “parents’ mortgage pay off చేసి foundation start చేసే” territory కి దగ్గరగా ఉన్నాడు.
-
-English
-
-At Jim’s salary, with the stock options still ahead of him, he was closing in on “pay off your parents’ mortgage and start a foundation” territory.
-
----
-
-Telugu
-
-ఒక person job నుంచి ఇంకా ఏమి కోరుకోగలడు?
-
-English
-
-What more could one person possibly want from a job?
-
----
-
-Telugu
-
-కానీ Jim Koch కోసం విషయం more గురించి కాదు; different గురించి.
-
-English
-
-Well, for Jim Koch, it wasn’t about more; it was about different.
-
----
-
-Telugu
-
-BCG లో beginning లో, Jim business strategy, product categories, organizational issues, business problems గురించి learn చేయడానికి paid అవుతున్నాడు.
-
-English
-
-In the beginning at BCG, Jim was being paid to learn about business strategy, product categories, organizational issues, and business problems.
-
----
-
-Telugu
-
-కానీ management లోకి వెళ్లిన తర్వాత, అతని job . . . well . . . boring అయింది.
-
-English
-
-But once he entered management, his job became . . . well . . . boring.
-
----
-
-Telugu
-
-Problems లో dive చేసి solutions find చేయడం కాకుండా, అతను BCG services sell చేస్తున్నాడు.
-
-English
-
-He was selling BCG’s services rather than diving into problems and finding solutions.
-
----
-
-Telugu
-
-“Learning stopped,” అని అతను అన్నాడు.
-
-English
-
-“The learning stopped,” he said.
-
----
-
-Telugu
-
-“తర్వాత నాకు epiphany వచ్చింది. నేను నన్నే అడిగాను, ‘Do I want to do this the rest of my life?’”
-
-English
-
-“And then I had this epiphany. I asked myself, ‘Do I want to do this the rest of my life?’”
-
----
-
-Telugu
-
-“Answer came back: ‘No.’”
-
-English
-
-“And the answer came back: ‘No.’”
-
----
-
-Telugu
-
-“దానికి corollary: ‘Well, నేను దీన్ని rest of my life చేయాలనుకోకపోతే, probably tomorrow కూడా చేయాలనుకోను.’”
-
-English
-
-“And the corollary to that was, ‘Well, if I don’t want to do it for the rest of my life, I probably don’t want to do it tomorrow.’”
-
----
-
-Telugu
-
-Harvard నుంచి మూడు degrees ఉన్న, తన job security మరియు creature comforts లో wrap అయ్యేందుకు every reason ఉన్న వ్యక్తికి ఇది pretty abrupt turn.
-
-English
+Three degrees from Harvard తో మరియు ప్రపంచంలో ఏ reason అయినా తన job security మరియు creature comforts లో తనను wrap చేసుకోవడానికి ఉన్న person కి ఇది pretty abrupt turn.
 
 It was a pretty abrupt turn for someone who had three degrees from Harvard and every reason in the world to wrap himself in the security and the creature comforts of his job.
 
 ---
 
-Telugu
+అయినా ఏదో change అవ్వాలి. "I knew I did not want to work in the corporate world anymore," అతను చెప్పాడు. కాబట్టి అతను quitting గురించి think చేయడం start చేశాడు.
 
-అయినా ఏదో change కావాల్సిందే.
-
-English
-
-Yet something had to change.
+Yet something had to change. "I knew I did not want to work in the corporate world anymore," he said. So he started to think about quitting.
 
 ---
 
-Telugu
+తర్వాత, Lisa Price తో happen అయినదానిలాగే, San Francisco లో Anchor Brewery అనే small but successful craft brewery గురించి Inc. magazine లో fortuitously timed article, Jim లో something trigger చేసింది, మరియు అది ఒక idea గా develop అయింది: new craft beer.
 
-“Corporate world లో ఇక పని చేయాలని నాకు లేదు అని నాకు తెలుసు,” అని అతను అన్నాడు.
-
-English
-
-“I knew I did not want to work in the corporate world anymore,” he said.
+Then, not unlike what happened with Lisa Price, a fortuitously timed article, this one in Inc. magazine, about a small but successful craft brewery in San Francisco called Anchor Brewery, triggered something in Jim, and it developed into an idea: a new craft beer.
 
 ---
 
-Telugu
+Like any good consultant, Jim beer industry current state మీద research చేశాడు, మరియు దాన్ని తను pursue చేయాలనుకున్న very thing గా settle అయ్యాక, తన brewery start చేయాలన్న plan గురించి తన father కి చెప్పడానికి అతను home visit చేశాడు.
 
-కాబట్టి అతను quitting గురించి think చేయడం మొదలుపెట్టాడు.
-
-English
-
-So he started to think about quitting.
+Like any good consultant, Jim did his research into the current state of the beer industry, and once he settled on that as the very thing he wanted to pursue, he went home to visit his father to tell him of his plan to start a brewery.
 
 ---
 
-Telugu
+అతని father response unequivocal: "He looked at me and he said, 'Jim, you have done some really stupid things in your life. This is the stupidest.'"
 
-Lisa Price తో జరిగినట్లే, fortuitously timed article — ఈసారి Inc. magazine లో, San Francisco లోని small but successful craft brewery Anchor Brewery గురించి — Jim లో ఏదో trigger చేసింది.
-
-English
-
-Then, not unlike what happened with Lisa Price, a fortuitously timed article, this one in Inc. magazine, about a small but successful craft brewery in San Francisco called Anchor Brewery, triggered something in Jim.
+His father's response was unequivocal: "He looked at me and he said, 'Jim, you have done some really stupid things in your life. This is the stupidest.'"
 
 ---
 
-Telugu
+మరియు Jim father కి తెలుసు, ఎందుకంటే beer Koch family business.
 
-అది ఒక idea గా develop అయింది: new craft beer.
-
-English
-
-And it developed into an idea: a new craft beer.
+And Jim's father would know, because beer was the Koch family business.
 
 ---
 
-Telugu
+Jim Koch father fifth-generation brewmaster. Five generations of eldest Koch sons brewers గా ఉన్నారు. Jim ఆరవవాడు అవుతాడు — తన father అతన్ని talk out చేయలేకపోతే.
 
-ఏ good consultant లాగే, Jim beer industry యొక్క current state గురించి research చేశాడు.
-
-English
-
-Like any good consultant, Jim did his research into the current state of the beer industry.
+Jim Koch's father was a fifth-generation brewmaster. Five generations of eldest Koch sons had been brewers. Jim would be the sixth—if his father wasn't able to talk him out of it.
 
 ---
 
-Telugu
+మరియు అతను అలా చేయడానికి ample reason ఉంటుంది. Jim dad 1948 లో brewmaster school నుండి out అయినప్పుడు, United States అంతటా thousand breweries ఉన్నాయి. By 1984, ఆ number fifty కి dwindled అయింది.
 
-అది pursue చేయాల్సిన very thing అని settle అయిన తర్వాత, brewery start చేయాలనే తన plan గురించి father కి చెప్పడానికి home కి వెళ్లాడు.
-
-English
-
-And once he settled on that as the very thing he wanted to pursue, he went home to visit his father to tell him of his plan to start a brewery.
+And there would be ample reason for him to do that. When Jim's dad got out of brewmaster school in 1948, there were a thousand breweries all over the United States. By 1984, that number had dwindled to fifty.
 
 ---
 
-Telugu
+Intervening years లో, breweries close అవుతుండగా అతని father family ను town to town move చేయవలసి వచ్చింది, చివరికి brewing industry ను entirely విడిచిపెట్టే ముందు.
 
-అతని father response unequivocal: “Jim, నువ్వు నీ life లో కొన్ని really stupid things చేశావు. ఇది stupidest.”
-
-English
-
-His father’s response was unequivocal: “He looked at me and he said, ‘Jim, you have done some really stupid things in your life. This is the stupidest.’”
+In the intervening years, his father had to move the family from town to town as breweries closed, before finally leaving the brewing industry entirely.
 
 ---
 
-Telugu
+"My dad told me that it was a miserable way to make a living," Jim చెప్పాడు. "The last thing that he wanted for me to do was to go back into brewing."
 
-Jim father కి అది తెలిసే ఉంటుంది, ఎందుకంటే beer Koch family business.
-
-English
-
-And Jim’s father would know, because beer was the Koch family business.
+"My dad told me that it was a miserable way to make a living," Jim said. "The last thing that he wanted for me to do was to go back into brewing."
 
 ---
 
-Telugu
+Jim married, రెండు small children తో. అతను good living చేస్తున్నాడు. That much was undeniable. Now leave అవ్వడం, everything looking up గా ఉండగా? It was too risky. Too scary. Or was it?
 
-Jim Koch father fifth-generation brewmaster.
-
-English
-
-Jim Koch’s father was a fifth-generation brewmaster.
+Jim was married with two small children. He was making a good living. That much was undeniable. To leave now, with everything looking up? It was too risky. Too scary. Or was it?
 
 ---
 
-Telugu
+ఇప్పుడు, fear and risk విషయంలో Jim Koch గురించి thing ఏమిటంటే: safe, familiar path నుండి significant jump తీసుకోవడం ఇది మొదటి సారి కాదు.
 
-Koch eldest sons యొక్క ఐదు generations brewers గా ఉన్నారు.
-
-English
-
-Five generations of eldest Koch sons had been brewers.
+Now, here's the thing about Jim Koch when it comes to fear and risk: this was not the first time he had taken a significant jump away from the safe, familiar path.
 
 ---
 
-Telugu
-
-Jim sixth అవుతాడు — father అతన్ని talk out చేయలేకపోతే.
-
-English
-
-Jim would be the sixth—if his father wasn’t able to talk him out of it.
-
----
-
-Telugu
-
-అతన్ని ఆపడానికి father కి ample reason ఉంది.
-
-English
-
-And there would be ample reason for him to do that.
-
----
-
-Telugu
-
-1948లో Jim’s dad brewmaster school నుంచి వచ్చినప్పుడు, United States అంతటా thousand breweries ఉన్నాయి.
-
-English
-
-When Jim’s dad got out of brewmaster school in 1948, there were a thousand breweries all over the United States.
-
----
-
-Telugu
-
-1984 నాటికి, ఆ number fifty కి dwindled అయింది.
-
-English
-
-By 1984, that number had dwindled to fifty.
-
----
-
-Telugu
-
-ఆ మధ్య సంవత్సరాల్లో, breweries close అవుతుండగా, అతని father family ను town to town move చేయాల్సి వచ్చింది.
-
-English
-
-In the intervening years, his father had to move the family from town to town as breweries closed.
-
----
-
-Telugu
-
-చివరికి brewing industry ను పూర్తిగా leave చేశాడు.
-
-English
-
-Before finally leaving the brewing industry entirely.
-
----
-
-Telugu
-
-“Brewing miserable way to make a living అని నా dad నాకు చెప్పాడు,” అని Jim అన్నాడు.
-
-English
-
-“My dad told me that it was a miserable way to make a living,” Jim said.
-
----
-
-Telugu
-
-“నాకు brewing లోకి తిరిగి వెళ్లడం అతను చివరిగా కోరుకున్న thing.”
-
-English
-
-“The last thing that he wanted for me to do was to go back into brewing.”
-
----
-
-Telugu
-
-Jim married, ఇద్దరు small children ఉన్నారు.
-
-English
-
-Jim was married with two small children.
-
----
-
-Telugu
-
-అతను good living సంపాదిస్తున్నాడు.
-
-English
-
-He was making a good living.
-
----
-
-Telugu
-
-అది undeniable.
-
-English
-
-That much was undeniable.
-
----
-
-Telugu
-
-ఇప్పుడు leave చేయాలా, అన్నీ looking up ఉన్నప్పుడు?
-
-English
-
-To leave now, with everything looking up?
-
----
-
-Telugu
-
-అది too risky. Too scary.
-
-English
-
-It was too risky. Too scary.
-
----
-
-Telugu
-
-లేక నిజంగా అలా కాదా?
-
-English
-
-Or was it?
-
----
-
-Telugu
-
-Fear మరియు risk విషయానికి వస్తే, Jim Koch గురించి విషయం ఇదే: safe, familiar path నుంచి significant jump తీసుకోవడం అతనికి ఇది first time కాదు.
-
-English
-
-Now, here’s the thing about Jim Koch when it comes to fear and risk: this was not the first time he had taken a significant jump away from the safe, familiar path.
-
----
-
-Telugu
-
-Midtwenties లో, joint JD and MBA pursue చేస్తూ, అతను Harvard drop out అయ్యి Outward Bound instructor అయ్యాడు.
-
-English
+తన midtwenties లో, joint JD మరియు MBA pursue చేస్తూ, Outward Bound instructor అవ్వడానికి Harvard నుండి dropped out అయ్యాడు.
 
 In his midtwenties, while pursuing a joint JD and MBA, he dropped out of Harvard to become an Outward Bound instructor.
 
 ---
 
-Telugu
+"I just didn't want to make decisions that would bind me for the rest of my life [while still] having more to do," అతను explain చేశాడు. "And I also realized that there are things you can do in your twenties that if you don't do them then, you will never be able to do them."
 
-“ఇంకా చేయాల్సింది ఉండగానే, rest of my life ను bind చేసే decisions తీసుకోవాలని నాకు లేదు,” అని అతను explain చేశాడు.
-
-English
-
-“I just didn’t want to make decisions that would bind me for the rest of my life [while still] having more to do,” he explained.
+"I just didn't want to make decisions that would bind me for the rest of my life [while still] having more to do," he explained. "And I also realized that there are things you can do in your twenties that if you don't do them then, you will never be able to do them."
 
 ---
 
-Telugu
+తర్వాత మూడున్నర సంవత్సరాలు, Jim తన life ను outdoors లో గడిపాడు, rock climbing, kayaking, backpacking, తన parents ను half to death scare చేసే adventurous things చేస్తూ.
 
-“Twenties లో చేయగల things ఉంటాయి; అప్పుడే చేయకపోతే, తర్వాత ఎప్పుడూ చేయలేరు అని కూడా realize చేశాను.”
-
-English
-
-“And I also realized that there are things you can do in your twenties that if you don’t do them then, you will never be able to do them.”
+For the next three and a half years, Jim spent his life outdoors, rock climbing, kayaking, backpacking, doing adventurous things that probably scared his parents half to death.
 
 ---
 
-Telugu
+కానీ వాటిని చేస్తూ అతను learn చేశాడు — "you don't need that much to live on if you're really enjoying what you're doing."
 
-తర్వాత three and a half years పాటు, Jim outdoors లోనే జీవించాడు — rock climbing, kayaking, backpacking, adventurous things.
-
-English
-
-For the next three and a half years, Jim spent his life outdoors, rock climbing, kayaking, backpacking, doing adventurous things.
+But in doing them he learned that "you don't need that much to live on if you're really enjoying what you're doing."
 
 ---
 
-Telugu
-
-అవి అతని parents ను probably half to death scared చేసి ఉండవచ్చు.
-
-English
-
-Adventurous things that probably scared his parents half to death.
-
----
-
-Telugu
-
-కాని వాటి ద్వారా అతను నేర్చుకున్నది: “మీరు చేస్తున్నది నిజంగా enjoy చేస్తే, live on చేయడానికి అంత ఎక్కువ అవసరం లేదు.”
-
-English
-
-But in doing them he learned that “you don’t need that much to live on if you’re really enjoying what you’re doing.”
-
----
-
-Telugu
-
-అలాగే nothing is permanent అని, different path run its course అయిన తర్వాత మీరు always go back చేయగలరని నేర్చుకున్నాడు.
-
-English
+అతను ఇంకా learn చేశాడు — nothing is permanent మరియు different path run its course అయ్యాక మీరు always go back అవ్వగలరు.
 
 He also learned that nothing is permanent and that you can always go back once a different path has run its course.
 
 ---
 
-Telugu
+ఇది Jim life ను change చేసిన experience. ఇది తన entire perspective ను shape చేసింది — ten years later తన father advice ను ignore చేసి, Boston Consulting Group job ను leave చేసి, Sam Adams మరియు Boston Beer Company అయ్యే brewery ను create చేయాలన్న decision మీద.
 
-ఆ experience Jim life ను change చేసింది.
-
-English
-
-It was an experience that changed Jim’s life.
+It was an experience that changed Jim's life. It shaped his entire perspective on the decision, some ten years later, to ignore his father's advice, to leave his job at Boston Consulting Group, and to create Sam Adams and the brewery that would become Boston Beer Company.
 
 ---
 
-Telugu
-
-దాదాపు ten years later, father advice ignore చేసి, Boston Consulting Group job leave చేసి, Sam Adams మరియు Boston Beer Company గా మారబోయే brewery create చేయాలనే decision పై అతని entire perspective ను అది shape చేసింది.
-
-English
-
-It shaped his entire perspective on the decision, some ten years later, to ignore his father’s advice, to leave his job at Boston Consulting Group, and to create Sam Adams and the brewery that would become Boston Beer Company.
-
----
-
-Telugu
-
-Risk aversion కొద్దిగా అయినా ఉన్న ఎవరికైనా — నాకూ సహా — outside నుంచి చూస్తే ఇది terrifying decision లా కనిపిస్తుంది.
-
-English
+Even a modicum of risk aversion ఉన్న ఎవరికైనా — myself included — ఇది outside నుండి terrifying decision గా seem అవుతుంది.
 
 For anyone who possesses even a modicum of risk aversion, myself included, this seems from the outside like it must have been a terrifying decision.
 
 ---
 
-Telugu
+పాత proverb గురించి think చేయండి — "A bird in the hand is worth two in the bush." Well, Jim చేతిలో ఉన్న bird just any bird కాదు. ఇది golden goose. ఇది money, power, మరియు influence provide చేసింది. అతను అదంతా fly away అవ్వనివ్వబోతున్నాడా? Beer brew చేయడానికి? తన father మరియు grandfather కు ఉన్న same job చేయడానికి? వాళ్లు అతనికి ఎప్పుడూ better life కోరుకున్నప్పుడే?
 
-Old proverb గుర్తు చేసుకోండి: “A bird in the hand is worth two in the bush.”
-
-English
-
-Think of the old proverb “A bird in the hand is worth two in the bush.”
+Think of the old proverb "A bird in the hand is worth two in the bush." Well, the bird in Jim's hand wasn't just any bird. It was a golden goose. It provided money and power and influence. He was going to let all that fly away? To brew beer? To have the same job that his father and grandfather had had? When precisely what they had always wanted for him was a better life?
 
 ---
 
-Telugu
+Jim mind కి, మాత్రం, ఆ golden goose ఎక్కువగా golden handcuffs లాగా look అయింది.
 
-Jim hand లో ఉన్న bird ordinary bird కాదు.
-
-English
-
-Well, the bird in Jim’s hand wasn’t just any bird.
+To Jim's mind, though, that golden goose looked more like golden handcuffs.
 
 ---
 
-Telugu
+BCG ను leave అవ్వడం risk carry చేయలేదు; staying chose carry చేస్తోంది.
 
-అది golden goose.
-
-English
-
-It was a golden goose.
+It wasn't leaving BCG that carried all the risk; it was staying.
 
 ---
 
-Telugu
+"It is the difference in life between things that are scary and things that are dangerous. There are plenty of things that are scary but aren't dangerous. And there are things that are dangerous but not scary. And those are the things that get you," Jim explanation way గా చెప్పాడు.
 
-అది money, power, influence provide చేసింది.
-
-English
-
-It provided money and power and influence.
+"It is the difference in life between things that are scary and things that are dangerous. There are plenty of things that are scary but aren't dangerous. And there are things that are dangerous but not scary. And those are the things that get you," Jim said by way of explanation.
 
 ---
 
-Telugu
-
-అతను ఆ అంతా fly away అయ్యేలా చేయబోతున్నాడా?
-
-English
-
-He was going to let all that fly away?
-
----
-
-Telugu
-
-Beer brew చేయడానికి?
-
-English
-
-To brew beer?
-
----
-
-Telugu
-
-తన father మరియు grandfather చేసిన same job చేయడానికి?
-
-English
-
-To have the same job that his father and grandfather had had?
-
----
-
-Telugu
-
-వాళ్లు ఎప్పుడూ అతనికి కోరుకున్నది precisely better life అయినప్పుడు?
-
-English
-
-When precisely what they had always wanted for him was a better life?
-
----
-
-Telugu
-
-కాని Jim mind లో, ఆ golden goose ఎక్కువగా golden handcuffs లా కనిపించింది.
-
-English
-
-To Jim’s mind, though, that golden goose looked more like golden handcuffs.
-
----
-
-Telugu
-
-Risk మొత్తం BCG leave చేయడంలో లేదు; staying లో ఉంది.
-
-English
-
-It wasn’t leaving BCG that carried all the risk; it was staying.
-
----
-
-Telugu
-
-“Life లో scary things మరియు dangerous things మధ్య difference అదే,” అని Jim explained.
-
-English
-
-“It is the difference in life between things that are scary and things that are dangerous,” Jim said by way of explanation.
-
----
-
-Telugu
-
-“Scary అయినా dangerous కాని things చాలా ఉన్నాయి.”
-
-English
-
-“There are plenty of things that are scary but aren’t dangerous.”
-
----
-
-Telugu
-
-“Dangerous అయినా scary కాని things కూడా ఉన్నాయి.”
-
-English
-
-“And there are things that are dangerous but not scary.”
-
----
-
-Telugu
-
-“అవే మిమ్మల్ని get you చేసే things.”
-
-English
-
-“And those are the things that get you.”
-
----
-
-Telugu
-
-అతను చెప్పింది theory లో నాకు అర్థమైంది, కానీ నిజంగా drive it home చేయడానికి తన Outward Bound days నుంచి climbing analogy ఇచ్చాడు.
-
-English
+అతను theory లో ఏం చెప్తున్నాడో నేను understand చేశాను, కానీ తన Outward Bound days నుండి climbing analogy ఇచ్చి really drive home చేశాడు.
 
 I understood in theory what he was saying, but he offered a climbing analogy from his Outward Bound days to really drive it home.
 
 ---
 
-Telugu
+"One of the things we taught people to do was rappel off a cliff. It is a very scary thing to do, but you are also held by a belay rope, and that rope would hold a car. So walking off the cliff backwards is scary, but it's not dangerous."
 
-“మేము people కు cliff నుంచి rappel చేయడం teach చేసేవాళ్లం.”
-
-English
-
-“One of the things we taught people to do was rappel off a cliff.”
+"One of the things we taught people to do was rappel off a cliff. It is a very scary thing to do, but you are also held by a belay rope, and that rope would hold a car. So walking off the cliff backwards is scary, but it's not dangerous."
 
 ---
 
-Telugu
+"Walking across a thirty-five-degree-angle snowfield on a beautiful late May afternoon with bright blue sky, on the other hand, is not scary at all, but it is very dangerous, because the snow is melting, eventually it is going to find a layer of ice, the water will lubricate that ice, and then you have an avalanche. That is dangerous but not scary."
 
-“అది చాలా scary thing, కానీ belay rope మీను hold చేస్తుంది, ఆ rope ఒక car ను hold చేస్తుంది.”
-
-English
-
-“It is a very scary thing to do, but you are also held by a belay rope, and that rope would hold a car.”
+"Walking across a thirty-five-degree-angle snowfield on a beautiful late May afternoon with bright blue sky, on the other hand, is not scary at all, but it is very dangerous, because the snow is melting, eventually it is going to find a layer of ice, the water will lubricate that ice, and then you have an avalanche. That is dangerous but not scary."
 
 ---
 
-Telugu
-
-“కాబట్టి cliff నుంచి backwards walk off చేయడం scary, కానీ dangerous కాదు.”
-
-English
-
-“So walking off the cliff backwards is scary, but it’s not dangerous.”
-
----
-
-Telugu
-
-“మరొకవైపు, beautiful late May afternoon లో bright blue sky కింద thirty-five-degree-angle snowfield మీద walk చేయడం scary కాదు.”
-
-English
-
-“Walking across a thirty-five-degree-angle snowfield on a beautiful late May afternoon with bright blue sky, on the other hand, is not scary at all.”
-
----
-
-Telugu
-
-“కాని అది very dangerous, ఎందుకంటే snow melting అవుతోంది; eventually అది ice layer ను find చేస్తుంది, water ఆ ice ను lubricate చేస్తుంది, తర్వాత avalanche.”
-
-English
-
-“But it is very dangerous, because the snow is melting, eventually it is going to find a layer of ice, the water will lubricate that ice, and then you have an avalanche.”
-
----
-
-Telugu
-
-“అది dangerous but not scary.”
-
-English
-
-“That is dangerous but not scary.”
-
----
-
-Telugu
-
-Jim, James Fallows తన readers కు కొన్ని years earlier వివరించిన అదే kind of comparative scenario ను నాకు describe చేస్తున్నాడు.
-
-English
+Jim కొన్ని years earlier James Fallows తన readers కి present చేసిన exact same kind of comparative scenario ను నాకు describe చేస్తున్నాడు.
 
 Jim was describing to me the exact same kind of comparative scenario that James Fallows had for his readers a few years earlier.
 
 ---
 
-Telugu
+మనం weather beautiful గా ఉన్నప్పుడు walks వెళ్లాం. Of course it's safe! కానీ మనలో ఎంతమంది cliff నుండి rappel చేశారు? More than once ఎంతమంది? Whole thing just dangerous గా sound అవుతుంది.
 
-Weather beautiful గా ఉన్నప్పుడు మనమందరం walks కి వెళ్లాం.
-
-English
-
-We’ve all gone on walks when the weather is beautiful.
+We've all gone on walks when the weather is beautiful. Of course it's safe! But how many of us have rappelled off a cliff? And how many more than once? The whole thing just sounds dangerous.
 
 ---
 
-Telugu
+Ocean లో swim చేయడం లాగా — rappelling లాగా, మీరు bottom ను really see చేయలేరు.
 
-Of course అది safe!
-
-English
-
-Of course it’s safe!
+Like swimming in the ocean where, similar to rappelling, you can't really see the bottom.
 
 ---
 
-Telugu
+Except Jim Koch కి అక్కడ ఏం ఉందో — లేదా more likely, లేదో — తెలుసుకోవడానికి bottom చూడవలసిన అవసరం లేదు, మరియు hit అవ్వడం గురించి అతను concerned కూడా కాదు.
 
-కాని మనలో ఎంతమంది cliff నుంచి rappel చేశాం? ఒక్కసారి కంటే ఎక్కువ ఎన్ని మంది?
-
-English
-
-But how many of us have rappelled off a cliff? And how many more than once?
+Except Jim Koch didn't need to see the bottom to know what was there—or, more likely, not there—and he wasn't at all concerned about hitting it.
 
 ---
 
-Telugu
+"In my situation," అతను చెప్పాడు, "staying at BCG that was dangerous but not scary. The danger was continuing to do something that didn't make me happy and getting to sixty-five years old and looking back and going, 'Oh my God, I wasted my life.'"
 
-ఆ whole thing just sounds dangerous.
-
-English
-
-The whole thing just sounds dangerous.
+"In my situation," he said, it was "staying at BCG that was dangerous but not scary. The danger was continuing to do something that didn't make me happy and getting to sixty-five years old and looking back and going, 'Oh my God, I wasted my life.'"
 
 ---
 
-Telugu
+Failing is scary. Wasting your life is dangerous.
 
-Ocean లో swimming లా — rappelling లాగే, మీరు bottom ను నిజంగా see చేయలేరు.
-
-English
-
-Like swimming in the ocean where, similar to rappelling, you can’t really see the bottom.
+Failing is scary. Wasting your life is dangerous.
 
 ---
 
-Telugu
+Great irony, of course, ఏమిటంటే — modern entrepreneurship history లో founders stories అన్నీ ఉన్నాయి, ఈ రోజు మనం roundly celebrate చేస్తాం success ను, కానీ initial లో వారి loved ones Jim worry చేసిన దాని గురించే worry చేశారు — వాళ్ల life waste అవుతుందని — కానీ వాళ్లు తమ ideas pursue చేయడం కోసం leap తీసుకుంటే మాత్రమే.
 
-కాని Jim Koch కి bottom see చేయాల్సిన అవసరం లేదు; అక్కడ ఏముంది — లేదా ఎక్కువగా, ఏమిలేదు — అని అతనికి తెలుసు.
-
-English
-
-Except Jim Koch didn’t need to see the bottom to know what was there—or, more likely, not there.
+The great irony, of course, is that the history of modern entrepreneurship is littered with the stories of founders whose success we roundly celebrate today but whose loved ones worried in the beginning about the same thing that Jim did—that they'd waste their lives—but only if they did take that leap in pursuit of their ideas.
 
 ---
 
-Telugu
+Steve Jobs మరియు Bill Gates 1972 మరియు 1975 లో college dropped out అయి Apple మరియు Microsoft found చేసినప్పుడు, వాళ్ల parents ఆ first years లో high-fiving లేదా soundly sleeping కావు అని మీరు sure గా ఉండొచ్చు, generation later Mark Zuckerberg parents Facebook start చేయడానికి school leave చేసినప్పుడు లాగానే.
 
-అది hit చేయడం గురించి అతను concern కాలేదు.
-
-English
-
-And he wasn’t at all concerned about hitting it.
+When Steve Jobs and Bill Gates dropped out of college in 1972 and 1975, respectively, to go on to found Apple and Microsoft, you can be sure their parents weren't high-fiving and sleeping soundly those first years, just as Mark Zuckerberg's parents weren't a generation later when he left school to start Facebook.
 
 ---
 
-Telugu
+లేదా Evan Williams parents, అతను University of Nebraska ను సంవత్సరం మరియు half తర్వాత leave చేసి nascent tech startup sector లో work చేసి eventually Blogger మరియు Twitter మరియు తర్వాత Medium found చేయడానికి.
 
-“నా situation లో,” అని అతను అన్నాడు, “BCG లో staying dangerous but not scary.”
-
-English
-
-“In my situation,” he said, it was “staying at BCG that was dangerous but not scary.”
+Or Evan Williams's parents, when he left the University of Nebraska after a year and a half to work in the nascent tech startup sector before eventually founding Blogger and Twitter and then Medium.
 
 ---
 
-Telugu
+Stable, well-paying career ను leave అవ్వడం లేదా prestigious university నుండి drop out అవ్వడం — life లో successful అవ్వాలనుకుంటే, world-altering idea ఉన్నా, simply ఎప్పుడూ చేయవలసిన పని కాదు.
 
-“Danger ఏమిటంటే, నన్ను happy చేయని thing చేస్తూనే ఉండటం.”
-
-English
-
-“The danger was continuing to do something that didn’t make me happy.”
+Leaving a stable, well-paying career or dropping out of a prestigious university has simply never been something you did if you wanted to be successful in life, even if you did have a world-altering idea.
 
 ---
 
-Telugu
-
-“Sixty-five years old అయ్యాక వెనక్కి చూసి, ‘Oh my God, I wasted my life’ అనుకోవడం.”
-
-English
-
-“And getting to sixty-five years old and looking back and going, ‘Oh my God, I wasted my life.’”
-
----
-
-Telugu
-
-Failing scary.
-
-English
-
-Failing is scary.
-
----
-
-Telugu
-
-Wasting your life dangerous.
-
-English
-
-Wasting your life is dangerous.
-
----
-
-Telugu
-
-Great irony ఏమిటంటే, modern entrepreneurship history లో success ను మనం celebrate చేసే founders stories చాలా ఉన్నాయి.
-
-English
-
-The great irony, of course, is that the history of modern entrepreneurship is littered with the stories of founders whose success we roundly celebrate today.
-
----
-
-Telugu
-
-కాని beginning లో వాళ్ల loved ones కూడా Jim worry చేసిన అదే విషయం గురించి worry అయ్యారు — వాళ్లు lives waste చేస్తారేమో అని — కానీ తమ ideas pursue చేస్తూ leap తీసుకుంటే మాత్రమే.
-
-English
-
-But whose loved ones worried in the beginning about the same thing that Jim did—that they’d waste their lives—but only if they did take that leap in pursuit of their ideas.
-
----
-
-Telugu
-
-Steve Jobs మరియు Bill Gates 1972 మరియు 1975లో respectively college drop out చేసి Apple మరియు Microsoft found చేసినప్పుడు, వారి parents first years లో high-fiving చేయలేదని, soundly sleep చేయలేదని sure.
-
-English
-
-When Steve Jobs and Bill Gates dropped out of college in 1972 and 1975, respectively, to go on to found Apple and Microsoft, you can be sure their parents weren’t high-fiving and sleeping soundly those first years.
-
----
-
-Telugu
-
-ఒక generation later, Mark Zuckerberg school leave చేసి Facebook start చేసినప్పుడు అతని parents కూడా అలాగే.
-
-English
-
-Just as Mark Zuckerberg’s parents weren’t a generation later when he left school to start Facebook.
-
----
-
-Telugu
-
-Evan Williams parents కూడా అలాగే, అతను University of Nebraska ను year and a half తర్వాత leave చేసి nascent tech startup sector లో work చేసి, తర్వాత Blogger, Twitter, Medium found చేశాడు.
-
-English
-
-Or Evan Williams’s parents, when he left the University of Nebraska after a year and a half to work in the nascent tech startup sector before eventually founding Blogger and Twitter and then Medium.
-
----
-
-Telugu
-
-Stable, well-paying career leave చేయడం లేదా prestigious university నుంచి drop out అవడం, successful life కావాలనుకుంటే చేయాల్సిన thing గా ఎప్పుడూ కనిపించలేదు.
-
-English
-
-Leaving a stable, well-paying career or dropping out of a prestigious university has simply never been something you did if you wanted to be successful in life.
-
----
-
-Telugu
-
-World-altering idea ఉన్నా కూడా.
-
-English
-
-Even if you did have a world-altering idea.
-
----
-
-Telugu
-
-Contrary success stories మరియు cap and gown ధరించని self-made billionaires laundry list ఉన్నప్పటికీ, ఈ conceit today కూడా 1984లో ఉన్నంత true.
-
-English
+Despite many success stories to the contrary మరియు cap and gown ఎప్పుడూ donn చేయని self-made billionaires laundry list ఉన్నా, ఈ conceit ఈ రోజు 1984 లాగానే true.
 
 Despite many success stories to the contrary and a laundry list of self-made billionaires who never donned a cap and gown, this conceit is as true today as it was in 1984.
 
 ---
 
-Telugu
+మరియు only Jim Koch కోసం కాదు, University of Texas లో Michael Dell అనే eighteen-year-old freshman కోసం కూడా, అతను just తన parents నుండి Jim ఆ spring later తన father నుండి receive చేయబోయే talking-to యొక్క harsher version endured అయ్యాడు.
 
-ఇది Jim Koch కోసం మాత్రమే కాదు.
-
-English
-
-And not just for Jim Koch.
+And not just for Jim Koch, but also for an eighteen-year-old freshman at the University of Texas named Michael Dell, who had just endured from his parents a harsher version of the talking-to that Jim was about to receive from his father later that spring.
 
 ---
 
-Telugu
-
-University of Texas లో eighteen-year-old freshman Michael Dell కోసం కూడా true.
-
-English
-
-But also for an eighteen-year-old freshman at the University of Texas named Michael Dell.
-
----
-
-Telugu
-
-ఆ spring లో Jim తన father నుంచి receive చేయబోయే talking-to కంటే harsher version ను Michael తన parents నుంచి ఇప్పటికే endured చేశాడు.
-
-English
-
-Who had just endured from his parents a harsher version of the talking-to that Jim was about to receive from his father later that spring.
-
----
-
-Telugu
-
-Jim brewers long line నుంచి వచ్చినట్లే, Michael physicians long line నుంచి వచ్చాడు.
-
-English
+Jim long line of brewers నుండి వచ్చినట్టుగానే, Michael long line of physicians నుండి వచ్చాడు.
 
 Just as Jim came from a long line of brewers, Michael came from a long line of physicians.
 
 ---
 
-Telugu
+"I was a premed major," Michael నాకు చెప్పాడు, "and some of this was [a result of] the programming from my parents, because my father was a doctor, my older brother was a doctor, a lot of my cousins were doctors, and I always thought I'd be a doctor."
 
-“నేను premed major,” అని Michael అన్నాడు.
-
-English
-
-“I was a premed major,” Michael told me.
+"I was a premed major," Michael told me, "and some of this was [a result of] the programming from my parents, because my father was a doctor, my older brother was a doctor, a lot of my cousins were doctors, and I always thought I'd be a doctor."
 
 ---
 
-Telugu
-
-“ఇందులో కొంత నా parents programming result, ఎందుకంటే నా father doctor, నా older brother doctor, చాలా cousins doctors.”
-
-English
-
-“And some of this was [a result of] the programming from my parents, because my father was a doctor, my older brother was a doctor, a lot of my cousins were doctors.”
-
----
-
-Telugu
-
-“నేను ఎప్పుడూ doctor అవుతానని అనుకున్నాను.”
-
-English
-
-“And I always thought I’d be a doctor.”
-
----
-
-Telugu
-
-కాని Michael junior high school student గా కొన్ని years earlier computers discover చేశాడు, అవి త్వరగా అతని passion అయ్యాయి.
-
-English
+Except Michael several years earlier — junior high school student గా — computers ను discover చేశాడు, మరియు అవి quickly తన passion అయ్యాయి.
 
 Except Michael had discovered computers several years earlier as a junior high school student, and they had quickly become his passion.
 
 ---
 
-Telugu
+అతను తన మొదటి computer, Apple II ను fifteen years old వయసులో కొన్నాడు, మరియు అది ఎలా work అవుతుందో see చేయడానికి whole thing ను తీసి apart చేశాడు. అతను ఆ kids లో ఒకడు.
 
-Fifteen years old ఉన్నప్పుడు, అతను తన first computer, Apple II, కొనుగోలు చేసి, అది ఎలా work చేస్తుందో చూడడానికి whole thing apart తీసేశాడు.
-
-English
-
-He bought his first computer, an Apple II, when he was fifteen years old, and he took the whole thing apart to see how it worked.
+He bought his first computer, an Apple II, when he was fifteen years old, and he took the whole thing apart to see how it worked. He was one of those kids.
 
 ---
 
-Telugu
-
-అతను those kids లో ఒకడు.
-
-English
-
-He was one of those kids.
-
----
-
-Telugu
-
-తర్వాత, premed freshman గా, dorm room నుంచి off-the-shelf computers upgrade చేయడం ప్రారంభించాడు.
-
-English
+తర్వాత, premed freshman గా, అతను తన dorm room నుండి off-the-shelf computers upgrade చేయడం start చేశాడు.
 
 Then, as a premed freshman, he started upgrading off-the-shelf computers out of his dorm room.
 
 ---
 
-Telugu
+"It was just sort of a fun thing to do, a way to make some money," అతను చెప్పాడు. "I was buying new computers and souping them up and then reselling them. I would upgrade them with more memory, and that actually became the main business—putting hard drives in those machines."
 
-“అది just sort of fun thing, కొంత money make చేసే way,” అని అతను అన్నాడు.
-
-English
-
-“It was just sort of a fun thing to do, a way to make some money,” he said.
+"It was just sort of a fun thing to do, a way to make some money," he said. "I was buying new computers and souping them up and then reselling them. I would upgrade them with more memory, and that actually became the main business—putting hard drives in those machines."
 
 ---
 
-Telugu
+Today, మనం memory మరియు computing power ను granted గా take చేస్తాం. Companies conferences లో swag గా two-gigabyte thumb drives ను breath mints లాగా ఇస్తాయి.
 
-“నేను new computers కొనుగోలు చేసి, వాటిని soup up చేసి resell చేసేవాడిని.”
-
-English
-
-“I was buying new computers and souping them up and then reselling them.”
+Today, we take memory and computing power for granted. Companies give away two-gigabyte thumb drives as swag at conferences like they are breath mints.
 
 ---
 
-Telugu
+కానీ late 1983 మరియు early 1984 లో, Michael Dell freshman గా ఉన్నప్పుడు, original IBM microcomputers లాంటి machines కి hard disk drives కూడా లేవు.
 
-“నేను వాటిని more memory తో upgrade చేసేవాడిని, చివరికి అదే main business అయింది — hard drives putting in those machines.”
-
-English
-
-“I would upgrade them with more memory, and that actually became the main business—putting hard drives in those machines.”
-
----
-
-Telugu
-
-ఈరోజు memory మరియు computing power ను మనం take for granted చేస్తాం.
-
-English
-
-Today, we take memory and computing power for granted.
-
----
-
-Telugu
-
-Companies conferences లో two-gigabyte thumb drives ను breath mints లా swag గా give away చేస్తాయి.
-
-English
-
-Companies give away two-gigabyte thumb drives as swag at conferences like they are breath mints.
-
----
-
-Telugu
-
-కాని late 1983 మరియు early 1984లో, Michael Dell freshman ఉన్నప్పుడు, original IBM microcomputers వంటి machines లో hard disk drives కూడా లేవు.
-
-English
-
-But in late 1983 and early 1984, when Michael Dell was a freshman, machines like the original IBM microcomputers didn’t even have hard disk drives.
+But in late 1983 and early 1984, when Michael Dell was a freshman, machines like the original IBM microcomputers didn't even have hard disk drives.

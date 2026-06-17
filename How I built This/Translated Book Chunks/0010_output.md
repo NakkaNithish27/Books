@@ -1,845 +1,393 @@
-Telugu
-మూడు సంవత్సరాల్లోనే, వారు million pieces అమ్మారు.
+మూడు సంవత్సరాల్లోనే, వాళ్ళు ఒక million pieces sell చేశారు. Wow.
 
-English
-Within three years, they sold a million pieces.
+Within three years, they sold a million pieces. Wow.
 
 ---
 
-Telugu
-Wow.
+In many ways, ఇది creativity కోసం model—మీరు company లో employee గా ఉన్నా, industry outsider గా good idea, entrepreneurship కోసం itch ఉన్న వ్యక్తి అయినా.
 
-English
-Wow.
+In many ways, this is a model for creativity, whether you are inside a company as an employee or you're an industry outsider with a good idea and an itch for entrepreneurship.
 
 ---
 
-Telugu
-చాలా విధాలుగా, ఇది creativity కోసం ఒక model — మీరు company లో employee గా ఉన్నా, లేక good idea మరియు entrepreneurship itch ఉన్న industry outsider అయినా.
+ఇది innovation playbook—మీరు ఎవరైనా, ఏం build చేయాలనుకున్నా.
 
-English
-In many ways, this is a model for creativity, whether you are inside a company as an employee or you’re an industry outsider with a good idea and an itch for entrepreneurship.
-
----
-
-Telugu
-మీరు ఎవరు అయినా, ఏమి build చేయాలనుకున్నా, ఇది innovation కోసం ఒక playbook.
-
-English
 It is a playbook for innovation, no matter who you are or what you want to build.
 
 ---
 
-Telugu
-స్పష్టంగా చెప్పాలంటే, ఇది Jen మరియు Steph తామే రాసుకున్న playbook కాదు.
+ఈ playbook ని Jen and Steph తామే రాశారు అని కాదు, sure. తమ research తో data-driven product development లో new heights reach చేయాలని వాళ్ళు try చేస్తున్నట్లు కాదు.
 
-English
-This is not a playbook Jen and Steph wrote themselves, to be sure.
+This is not a playbook Jen and Steph wrote themselves, to be sure. It's not as if they were trying to reach new heights in data-driven product development with their research.
 
 ---
 
-Telugu
-వాళ్లు తమ research తో data-driven product development లో కొత్త heights reach చేయాలని ప్రయత్నించినట్టు కాదు.
+కానీ వాళ్ళ research nature వాళ్ళ story ని ఇంత inspiring, relevant గా చేయట్లేదు; relatability అది చేస్తోంది.
 
-English
-It’s not as if they were trying to reach new heights in data-driven product development with their research.
+But the nature of their research is not what makes their story so inspiring and relevant; it's the relatability.
 
 ---
 
-Telugu
-కానీ వారి research nature కాదు వారి story ని inspiring మరియు relevant చేసేది; అది relatability.
+Daymond John FUBU early days లో local silk-screen printers and embroidery shops help ని enlist చేసినప్పుడు, ఎక్కడికి వెళ్ళాలో, ఏం చేయాలో అతనికి తెలియలేదు. అతను Queens నుంచి waiter.
 
-English
-But the nature of their research is not what makes their story so inspiring and relevant; it’s the relatability.
+When Daymond John enlisted the help of local silk-screen printers and embroidery shops in the early days of FUBU, he didn't know where to go or what to do. He was a waiter from Queens.
 
 ---
 
-Telugu
-FUBU early days లో Daymond John local silk-screen printers మరియు embroidery shops help తీసుకున్నప్పుడు, ఎక్కడికి వెళ్లాలి, ఏమి చేయాలి అతనికి తెలియదు.
+So అతను yellow pages (గుర్తుందా?) తీసి, find చేయగల ప్రతి listing కి cold-call చేశాడు. వాటిని research చేశాడు.
 
-English
-When Daymond John enlisted the help of local silk-screen printers and embroidery shops in the early days of FUBU, he didn’t know where to go or what to do.
+So he pulled out the yellow pages (remember those?) and cold-called every listing he could find. He researched them.
 
 ---
 
-Telugu
-అతను Queens నుంచి వచ్చిన waiter.
+తర్వాత ప్రతి morning 6 a.m. కి లేచి New Jersey కి train తీసుకొని వెళ్ళేవాడు—ఆ time లో self-proclaimed 'embroidery capital of the world'—తన budget, needs కి సరిపోయే ఒకటి దొరికే వరకు అన్ని shops check out చేస్తూ.
 
-English
-He was a waiter from Queens.
+Then he got up every morning at 6 a.m. and took the train to New Jersey—which was the self-proclaimed 'embroidery capital of the world' at the time—checking out all the shops until he found the right one for his budget and his needs.
 
 ---
 
-Telugu
-కాబట్టి అతను yellow pages తీసుకున్నాడు — అవి గుర్తున్నాయా? — దొరికిన ప్రతి listing కి cold-call చేశాడు.
+Decade earlier కంటే కొంచెం ఎక్కువ ముందు, Ben Cohen and Jerry Greenfield తమ 'little shop' open చేయాలని decide చేసినప్పుడు, వాళ్ళు 'business running of different aspects మీద thirty SBA [Small Business Administration] pamphlets కోసం send away చేశారు,' అని Ben గుర్తు చేసుకున్నాడు.
 
-English
-So he pulled out the yellow pages (remember those?) and cold-called every listing he could find.
+Little more than a decade earlier, when Ben Cohen and Jerry Greenfield decided to open their 'little shop,' they 'sent away for thirty SBA [Small Business Administration] pamphlets on all the different aspects of running a business,' Ben recalled.
 
 ---
 
-Telugu
-అతను వాళ్లను research చేశాడు.
+వాళ్ళ shop ice cream serve చేయాలని decide చేసినప్పుడు (ఎందుకంటే bagel-making equipment—వాళ్ళ other idea—too expensive), most of their time 'ice cream shop కోసం business plan మీద lot of research . . . , ice cream ఎలా make చేయాలో అనే correspondence course తీసుకోవడం' లో spent చేశారు.
 
-English
-He researched them.
+When they decided their shop would serve ice cream (because bagel-making equipment—their other idea—was too expensive), they spent most of their time 'doing a lot of research on a business plan for an ice cream shop . . . and taking this correspondence course in how to make ice cream.'
 
 ---
 
-Telugu
-తర్వాత ప్రతిరోజూ ఉదయం 6 గంటలకు లేచి New Jersey కి train ఎక్కేవాడు — ఆ సమయంలో అది self-proclaimed “embroidery capital of the world.”
+Daymond లాగా, వాళ్ళు 'yellow pages తో lot of time spent చేశారు.'
 
-English
-Then he got up every morning at 6 a.m. and took the train to New Jersey—which was the self-proclaimed “embroidery capital of the world” at the time.
+Like Daymond, they 'spent a lot of time with the yellow pages.'
 
 ---
 
-Telugu
-తన budget మరియు needs కి సరిపోయే shop దొరికే వరకు shops అన్నీ check out చేశాడు.
+Daymond phone book లో 'E' and 'S' sections march తర్వాత twenty years తర్వాత, New Zealand నుంచి Tim Brown అనే professional soccer player—simple, clean, comfortable lace-up sneaker make చేయడానికి తన quest లో very similar thing చేశాడు.
 
-English
-Checking out all the shops until he found the right one for his budget and his needs.
+Twenty years after Daymond's march through the 'E' and 'S' sections of the phone book, a professional soccer player from New Zealand named Tim Brown did something very similar in his quest to make a simple, clean, comfortable lace-up sneaker.
 
 ---
 
-Telugu
-దానికి కొంచెం ఎక్కువగా decade ముందు, Ben Cohen మరియు Jerry Greenfield తమ “little shop” open చేయాలని నిర్ణయించుకున్నప్పుడు, business నడపడానికి ఉన్న different aspects మీద thirty SBA pamphlets పంపించమని అడిగారు.
+'Solve చేయాల్సినట్లుగా feel అయ్యే creative problem,' అని Tim చెప్పినట్లు, shoes ఎలా make అవుతాయో ins and outs learn చేయడానికి visit చేయనిచ్చే footwear factory search లో అతన్ని send చేసింది.
 
-English
-Little more than a decade earlier, when Ben Cohen and Jerry Greenfield decided to open their “little shop,” they “sent away for thirty SBA [Small Business Administration] pamphlets on all the different aspects of running a business,” Ben recalled.
+'A creative problem that feels like it needs to be solved,' as Tim put it, sent him in search of a footwear factory that would let him visit so he could learn the ins and outs of how shoes are made.
 
 ---
 
-Telugu
-వారి shop ice cream serve చేస్తుందని నిర్ణయించుకున్నప్పుడు — ఎందుకంటే వారి other idea అయిన bagel-making equipment చాలా expensive — వారు ice cream shop business plan మీద చాలా research చేశారు.
+'ఇది university application process లాంటిది: నేను spraying and praying ఉన్నాను.'
 
-English
-When they decided their shop would serve ice cream (because bagel-making equipment—their other idea—was too expensive), they spent most of their time “doing a lot of research on a business plan for an ice cream shop.”
+'It was like the university application process: I was spraying and praying.'
 
 ---
 
-Telugu
-మరియు ice cream ఎలా తయారు చేయాలో correspondence course కూడా తీసుకున్నారు.
+Eventually, Indonesia లో factory ఒకటి Tim కోసం doors open చేసింది, అతను 'intriguing, surprisingly complicated, work అయ్యే way లో incredibly old-fashioned గా ఉన్న ఈ world లోకి walked in.'
 
-English
-“And taking this correspondence course in how to make ice cream.”
+Eventually, a factory in Indonesia opened its doors to Tim, and he 'walked into this world that was intriguing and surprisingly complicated and incredibly old-fashioned in the way that it worked.'
 
 ---
 
-Telugu
-Daymond లాగే, వాళ్లు కూడా yellow pages తో చాలా time గడిపారు.
+'నాకు realize అయింది, నా innovation alarm going off ఉంది—ఎందుకంటే నేను really, really simple questions ask చేస్తుంటే, no one clear answer ఇవ్వలేకపోయారు.'
 
-English
-Like Daymond, they “spent a lot of time with the yellow pages.”
+'And I realized my innovation alarm was going off, because I'd ask these really, really simple questions, and no one could give me a clear answer.'
 
 ---
 
-Telugu
-Daymond phone book లో “E” మరియు “S” sections గుండా march చేసిన ఇరవై సంవత్సరాల తర్వాత, New Zealand కు చెందిన professional soccer player Tim Brown కూడా తన quest లో చాలా similar పని చేశాడు.
+Jen and Steph లాగా, Tim ఈ creative problem solve చేసే వ్యక్తి తానే అవ్వాలని, shoe manufacturers answer ఇవ్వలేని questions కి answer ఇవ్వాలని decide చేశాడు.
 
-English
-Twenty years after Daymond’s march through the “E” and “S” sections of the phone book, a professional soccer player from New Zealand named Tim Brown did something very similar in his quest to make a simple, clean, comfortable lace-up sneaker.
+Like Jen and Steph, Tim decided he was going to be the one to solve this creative problem and answer the questions the shoe manufacturers couldn't.
 
 ---
 
-Telugu
-Tim మాటల్లో, “solve చేయాల్సిన creative problem లాగా అనిపించిన” ఆ idea, shoes ఎలా తయారవుతాయో ins and outs నేర్చుకోవడానికి footwear factory కోసం వెతికేలా అతన్ని పంపింది.
+Five years later, idea ని Kickstarter మీద launch చేశాడు.
 
-English
-“A creative problem that feels like it needs to be solved,” as Tim put it, sent him in search of a footwear factory that would let him visit so he could learn the ins and outs of how shoes are made.
-
----
-
-Telugu
-“అది university application process లాంటిది: నేను spraying and praying చేస్తున్నాను,” Tim అన్నాడు.
-
-English
-“It was like the university application process: I was spraying and praying.”
-
----
-
-Telugu
-చివరికి Indonesia లో ఒక factory Tim కు doors open చేసింది.
-
-English
-Eventually, a factory in Indonesia opened its doors to Tim.
-
----
-
-Telugu
-అతను “intriguing, surprisingly complicated, మరియు incredibly old-fashioned గా పనిచేసే world” లోకి అడుగుపెట్టాడు.
-
-English
-And he “walked into this world that was intriguing and surprisingly complicated and incredibly old-fashioned in the way that it worked.”
-
----
-
-Telugu
-తర్వాత అతనికి తన innovation alarm off అవుతోందని అర్థమైంది, ఎందుకంటే అతను really simple questions అడిగినా, ఎవరూ clear answer ఇవ్వలేకపోయారు.
-
-English
-“And I realized my innovation alarm was going off, because I’d ask these really, really simple questions, and no one could give me a clear answer.”
-
----
-
-Telugu
-Jen మరియు Steph లాగే, Tim ఈ creative problem ని solve చేసి, shoe manufacturers answer చేయలేని questions కి answer ఇవ్వబోయేది తానే అని నిర్ణయించుకున్నాడు.
-
-English
-Like Jen and Steph, Tim decided he was going to be the one to solve this creative problem and answer the questions the shoe manufacturers couldn’t.
-
----
-
-Telugu
-ఐదు సంవత్సరాల తర్వాత, అతను ఆ idea ని Kickstarter మీద launch చేశాడు.
-
-English
 Five years later, he launched the idea on Kickstarter.
 
 ---
 
-Telugu
-దానికి రెండు సంవత్సరాల తర్వాత, Away తన first 2,000 suitcases deliver చేసిన barely a month తర్వాత, Tim తన partner Joey Zwillinger తో కలిసి ఆ idea ని Allbirds అనే company గా మార్చాడు.
+Two years తర్వాత, Away first 2,000 suitcases deliver చేసిన ఒక month కే, Tim—ఇప్పుడు Joey Zwillinger అనే partner తో—ఆ idea ని Allbirds అనే company గా turn చేశాడు.
 
-English
 Two years after that, barely a month after Away delivered its first 2,000 suitcases, Tim, now with a partner named Joey Zwillinger, turned that idea into a company called Allbirds.
 
 ---
 
-Telugu
-మరింత రెండు సంవత్సరాల తర్వాత, అది $1.4 billion worth అయ్యింది.
+Two years later, ఇది $1.4 billion worth అయింది.
 
-English
 And two years after that, it was worth $1.4 billion.
 
 ---
 
-Telugu
-Apparel. Ice cream. Footwear. Luggage.
+Apparel. Ice cream. Footwear. Luggage. అన్నీ different, కానీ అన్నీ same.
 
-English
-Apparel. Ice cream. Footwear. Luggage.
+Apparel. Ice cream. Footwear. Luggage. They're all different, but they're all the same.
 
 ---
 
-Telugu
-ఇవి అన్నీ different, కానీ అన్నీ same.
+ఈ industries ఏ ఒక్కటి కూడా new entrants కి లేదా disruption కి uniquely suited గా చేసే special ఏదీ లేదు.
 
-English
-They’re all different, but they’re all the same.
-
----
-
-Telugu
-ఈ industries లో ఏదీ new entrants లేదా disruption కి uniquely suited అవ్వడానికి special కాదు.
-
-English
 There is nothing special about any of these industries that makes them uniquely suited for new entrants or for disruption.
 
 ---
 
-Telugu
-అలాగే, Jen మరియు Steph లో, Daymond లేదా Tim లో, Ben మరియు Jerry లో creators గా తమ respective blocks లో new kids కావడానికి uniquely suited చేసే innate thing ఏదీ లేదు.
+Similarly, Jen and Steph, Daymond, Tim, Ben and Jerry—వాళ్ళలో innate ఏదీ లేదు—వాళ్ళని creators గా their respective blocks మీద new kids గా uniquely suited గా చేసేది.
 
-English
-Similarly, there isn’t anything innate in Jen and Steph, or Daymond or Tim, or Ben and Jerry, that made them uniquely suited as creators to be the new kids on their respective blocks.
+Similarly, there isn't anything innate in Jen and Steph, or Daymond or Tim, or Ben and Jerry, that made them uniquely suited as creators to be the new kids on their respective blocks.
 
 ---
 
-Telugu
-కానీ వారు తమ understanding లోని gaps fill చేయడానికి homework చేసిన founders కి fantastic examples.
+కానీ వాళ్ళు founders fantastic examples—వాళ్ళు తమ homework చేశారు, తమ understanding లో gaps fill చేయడానికి—తాము build చేయాలనుకున్నవి sturdy foundation lack of వలన topple అవ్వకుండా.
 
-English
-But they are fantastic examples of founders who did their homework to fill in the gaps in their understanding.
+But they are fantastic examples of founders who did their homework to fill in the gaps in their understanding, so that the things they set out to build did not topple for lack of a sturdy foundation.
 
 ---
 
-Telugu
-అలా చేసినందువల్ల, వారు build చేయాలనుకున్న things sturdy foundation లేక topple కాలేదు.
+వాళ్ళు research మీద rely అయ్యారు—plane ఎలా build చేయాలో teach చేయడానికి—ఇది వాళ్ళకి తమ instincts మీద lean అవ్వడానికి, తాము ఏ kind of plane build చేసి fly చేయాలో decide చేయాల్సిన time వచ్చినప్పుడు తమ creative visions ని trust చేయడానికి confidence ఇచ్చింది.
 
-English
-So that the things they set out to build did not topple for lack of a sturdy foundation.
+They relied on research to teach them how to build a plane—which gave them the confidence to lean on their instincts and trust their creative visions when it came time to decide exactly what kind of plane they wanted to build and fly.
 
 ---
 
-Telugu
-వాళ్లు research మీద rely చేసి plane ఎలా build చేయాలో నేర్చుకున్నారు.
+ఇది new ideas history లో countless times winning combination గా ఉంది.
 
-English
-They relied on research to teach them how to build a plane.
-
----
-
-Telugu
-దానివల్ల, ఏ kind of plane build చేసి fly చేయాలో decide చేయాల్సినప్పుడు instincts మీద lean చేయడానికి, creative visions trust చేయడానికి confidence వచ్చింది.
-
-English
-Which gave them the confidence to lean on their instincts and trust their creative visions when it came time to decide exactly what kind of plane they wanted to build and fly.
-
----
-
-Telugu
-New ideas history లో ఈ winning combination countless times పని చేసింది.
-
-English
 This has been a winning combination countless times in the history of new ideas.
 
 ---
 
-Telugu
-మనము కొత్తదాన్ని create చేయాలనుకున్నప్పుడు, entrepreneurship cliff నుండి మన leap తీసుకోవాలని నిర్ణయించినప్పుడు, మనలో ఎవ్వరైనా commit చేయగల combination ఇదే.
+ఇది మనలో ఎవరికైనా new ఏదైనా create చేయాలని set out అయినప్పుడు—entrepreneurship cliff నుంచి మన own leap తీసుకోవాలని decide చేసినప్పుడు—commit అవ్వగలది.
 
-English
-It’s one any of us can commit to when we set out to create something new—when we decide to take our own leap off the cliff of entrepreneurship.
+It's one any of us can commit to when we set out to create something new—when we decide to take our own leap off the cliff of entrepreneurship.
 
 ---
 
-Telugu
-“Find Your Co-founder” — మీ co-founder ని కనుగొనండి.
+5 Find Your Co-founder
 
-English
-Find Your Co-founder
+5 Find Your Co-founder
 
 ---
 
-Telugu
-మన famous modern companies founding గురించి ఆలోచించినప్పుడు, ఎంత తరచుగా కొన్ని names మాత్రమే mind కి వస్తాయో ఆశ్చర్యంగా ఉంటుంది: Zuckerberg. Jobs. Bezos. Musk. Gates. Ellison.
+మన most famous modern companies founding గురించి think చేసినప్పుడు, ఎంత often కేవలం కొన్ని names మాత్రమే mind కి వస్తాయో అది amazing: Zuckerberg. Jobs. Bezos. Musk. Gates. Ellison.
 
-English
-When we think about the founding of our most famous modern companies, it’s amazing how often only a handful of names come to mind: Zuckerberg. Jobs. Bezos. Musk. Gates. Ellison.
+When we think about the founding of our most famous modern companies, it's amazing how often only a handful of names come to mind: Zuckerberg. Jobs. Bezos. Musk. Gates. Ellison.
 
 ---
 
-Telugu
-సత్యం ఏమిటంటే, మనకు origin stories ఎంత ఇష్టమో, heroes మరియు singular exceptionalism idea కూడా అంతే ఇష్టం.
+Truth ఏంటంటే, మనం heroes, singular exceptionalism idea ని love చేసినంత origin stories ని కూడా love చేస్తాం.
 
-English
 The truth is, we love origin stories almost as much as we love heroes and the idea of singular exceptionalism.
 
 ---
 
-Telugu
-అందుకే మన modern founders లో చాలామందిని exalt చేస్తాం.
+So మన modern founders చాలా మందిని exalt చేస్తాం. వాళ్ళని unique ability కల్గిన mythical figures గా regard చేస్తాం.
 
-English
-So we tend to exalt many of our modern founders.
+So we tend to exalt many of our modern founders. We regard them as mythical figures of unique ability.
 
 ---
 
-Telugu
-వారిని unique ability ఉన్న mythical figures గా regard చేస్తాం.
+Super successful అయినప్పుడు వాళ్ళ companies ని unicorns అని call కూడా చేస్తాం.
 
-English
-We regard them as mythical figures of unique ability.
-
----
-
-Telugu
-వారి companies super successful అయినప్పుడు వాటిని unicorns అని కూడా పిలుస్తాం.
-
-English
 We even call their companies unicorns when they become super successful.
 
 ---
 
-Telugu
-అయినా, time and again, wonderful things చేసిన amazing company founder ని కలిసినప్పుడు, నేను వింటున్నది singular brilliance నుంచి పుట్టిన great idea story కంటే, perfect partnership చేతుల్లో good idea triumph అయిన కథ.
+And yet, time and again, నేను wonderful things చేసిన amazing company founder ని meet చేసినప్పుడు, నేను singular brilliance నుంచి born అయిన great idea story కంటే—perfect partnership hands లో ఉన్న good idea triumph ని ఎక్కువగా listening చేస్తుంటాను.
 
-English
 And yet, time and again, when I meet the founder of an amazing company that has done wonderful things, I find myself listening not so much to the story of a great idea born of singular brilliance, but to the triumph of a good idea in the hands of a perfect partnership.
 
 ---
 
-Telugu
-నా experience లో, partnerships rule గానే ఉన్నాయి, exception కాదు.
+నా experience లో, partnerships rule గా ఉన్నాయి, exception కాదు; Paul Graham startups ని kill చేసే mistakes గురించి famous 2006 essay లో రాసినట్లు ('single founder' number one), 'ఇది coincidence అని seems unlikely.'
 
-English
-In my experience, it seems that partnerships have been the rule, not the exception.
+In my experience, it seems that partnerships have been the rule, not the exception; and as Paul Graham wrote in his famous 2006 essay about the mistakes that kill startups ('single founder' being number one), 'It seems unlikely this is a coincidence.'
 
 ---
 
-Telugu
-Paul Graham 2006 famous essay లో startups ని kill చేసే mistakes గురించి రాసినప్పుడు, “single founder” number one mistake అని చెప్పాడు; “ఇది coincidence అయ్యే అవకాశం లేదు” అన్నాడు.
+మనం solitary creatures కాదు అని consider చేస్తే ఇది makes sense. Human beings social animals. మనం groups లో live చేస్తాం. Teams లో work చేస్తాం. Pairs లో mate అవుతాం. మనం together ఉన్నప్పుడే thrive అవుతాం.
 
-English
-And as Paul Graham wrote in his famous 2006 essay about the mistakes that kill startups (“single founder” being number one), “It seems unlikely this is a coincidence.”
+It makes sense when you consider that we are not solitary creatures. Human beings are social animals. We live in groups. We work in teams. We mate in pairs. We thrive when we are together.
 
 ---
 
-Telugu
-మనము solitary creatures కాదని consider చేస్తే ఇది sense అవుతుంది.
+Life లో ఎంత true అయితే business లో అంత true.
 
-English
-It makes sense when you consider that we are not solitary creatures.
-
----
-
-Telugu
-Human beings social animals.
-
-English
-Human beings are social animals.
-
----
-
-Telugu
-మనము groups లో జీవిస్తాం.
-
-English
-We live in groups.
-
----
-
-Telugu
-Teams లో పని చేస్తాం.
-
-English
-We work in teams.
-
----
-
-Telugu
-Pairs లో mate అవుతాం.
-
-English
-We mate in pairs.
-
----
-
-Telugu
-Together ఉన్నప్పుడు మనము thrive అవుతాం.
-
-English
-We thrive when we are together.
-
----
-
-Telugu
-ఇది life లో నిజమైనట్టే business లో కూడా నిజం.
-
-English
 It is as true in life as it is in business.
 
 ---
 
-Telugu
-“Oracle లాంటి one founder company అని మీరు అనుకునేవి కూడా సాధారణంగా more founders ఉన్నట్టే turn out అవుతాయి,” Graham రాశాడు.
+'మీరు Oracle లాగా one founder ఉన్న companies అని think చేసే వాటిలో కూడా usually more మంది ఉండడం turn out అవుతుంది,' అని Graham రాశాడు.
 
-English
-“Even companies you think of as having one founder, like Oracle, usually turn out to have more,” Graham wrote.
+'Even companies you think of as having one founder, like Oracle, usually turn out to have more,' Graham wrote.
 
 ---
 
-Telugu
-Indeed, truth ఏమిటంటే virtually no company single individual creation కాదు; అది partnership లేదా group of co-founders product.
+Indeed, truth ఏంటంటే virtually no company single individual creation కాదు, rather partnership product, లేదా co-founders group కూడా.
 
-English
 Indeed, the truth is that virtually no company is the creation of a single individual, but rather the product of a partnership, or even a group of co-founders.
 
 ---
 
-Telugu
-ఇప్పటివరకు మనం కలిసిన entrepreneurs ని చూడండి.
+ఇప్పటి వరకు మనం meet చేసిన entrepreneurs ని just look at చేయండి.
 
-English
-Just look at the entrepreneurs we’ve met so far.
+Just look at the entrepreneurs we've met so far.
 
 ---
 
-Telugu
-Jen Rubio కి first Away bag design చేయడానికి Steph Korey అవసరం లేకపోయి ఉండొచ్చు.
+Jen Rubio probably first Away bag design చేయడానికి Steph Korey ని need అవ్వలేదు. After all, marketing and design sensibility తో ఉన్నది Jen.
 
-English
-Jen Rubio probably didn’t need Steph Korey to design the first Away bag.
+Jen Rubio probably didn't need Steph Korey to design the first Away bag. After all, Jen was the one with the marketing and design sensibility.
 
 ---
 
-Telugu
-ఎందుకంటే marketing మరియు design sensibility ఉన్నది Jen.
+It's possible bag ని manufactured చేయడానికి కూడా Jen Steph ని need అవ్వలేదు. కానీ scale లో manufactured చేయడానికి? Right price point లో? Seamlessly directly to consumers distributed చేయడానికి? Well, అది అంతా Steph.
 
-English
-After all, Jen was the one with the marketing and design sensibility.
+It's possible Jen didn't even need Steph to get the bag made. But to get it manufactured at scale? At the right price point? And distributed seamlessly directly to consumers? Well, that was all Steph.
 
 ---
 
-Telugu
-Bag తయారుచేయించుకోవడానికి కూడా Jen కి Steph అవసరం లేకపోయి ఉండొచ్చు.
+Heck, Steph కూడా probably Jen ని need అవ్వలేదు.
 
-English
-It’s possible Jen didn’t even need Steph to get the bag made.
+Heck, Steph probably didn't need Jen either.
 
 ---
 
-Telugu
-కానీ scale లో manufacture చేయించడానికి? సరైన price point వద్ద? Directly consumers కి seamlessly distribute చేయడానికి?
+Jen ఒకసారి నాతో joke చేసింది—2015 లో Billy McFarland Jen ని recruit చేసే బదులు Steph ని recruit చేసుంటే, Steph తన logistics acumen తో infamous Fyre Festival ని save చేసి ఉండేది.
 
-English
-But to get it manufactured at scale? At the right price point? And distributed seamlessly directly to consumers?
-
----
-
-Telugu
-అవి అన్నీ Steph.
-
-English
-Well, that was all Steph.
-
----
-
-Telugu
-Steph కి కూడా Jen అవసరం లేకపోయి ఉండొచ్చు.
-
-English
-Heck, Steph probably didn’t need Jen either.
-
----
-
-Telugu
-Jen ఒకసారి joke చేసింది: 2015 లో Billy McFarland Jen బదులు Steph ని recruit చేసి ఉంటే, Steph తన logistics acumen తో infamous Fyre Festival ను save చేసి ఉండేది.
-
-English
 Jen once joked to me that if Billy McFarland had recruited Steph in 2015 instead of Jen recruiting her, Steph probably would have saved the infamous Fyre Festival with her logistics acumen.
 
 ---
 
-Telugu
-Regardless, Jen లేకపోతే bag ఉండేది కాదు.
+Regardless, Jen లేకుండా bag ఉండేది కాదు. Steph లేకుండా distribution model ఉండేది కాదు. ఇద్దరూ లేకుండా Away ఉండేది కాదు, period.
 
-English
-Regardless, without Jen there would be no bag.
+Regardless, without Jen there would be no bag. And without Steph there would be no distribution model. And without both of them there would be no Away, period.
 
 ---
 
-Telugu
-Steph లేకపోతే distribution model ఉండేది కాదు.
+Lisa Price fantastic lotions and butters make చేసింది, కానీ తన mother ఆవిడని వాళ్ళ church flea market లో table set up చేయాలని push చేసే వరకు వాటిని products గా sell చేయడం గురించి కూడా think చేయలేదు.
 
-English
-And without Steph there would be no distribution model.
+Lisa Price made fantastic lotions and butters, but she didn't even think about selling them as products until her mother pushed her to set up a table at their church flea market.
 
 ---
 
-Telugu
-ఇద్దరూ లేకపోతే Away అసలు ఉండేది కాదు, period.
+And ఆ fledgling business probably 'sister-girl network' లో traction దొరికే వరకు Lisa's husband Gordon లేకుండా ever వచ్చేది కాదు—అతను Lisa first, core market గా వాళ్ళని identify చేయడంలో help చేయడమే కాకుండా, ఆవిడ fulfill చేయగలిగేలా answering machine నుంచి orders scribble చేయడంలో hard work చేశాడు.
 
-English
-And without both of them there would be no Away, period.
+And the fledgling business probably never would have gotten the traction it needed within the 'sister-girl network' without Lisa's husband, Gordon, who not only helped Lisa identify them as her first, core market, but also worked hard in scribbling down orders off their answering machine so she could fulfill them.
 
 ---
 
-Telugu
-Lisa Price fantastic lotions మరియు butters తయారు చేసింది, కానీ వాటిని products గా sell చేయాలని ఆమె mother church flea market లో table set up చేయమని push చేసే వరకు ఆలోచించలేదు.
+Jim Koch కి five generations of brewers' wisdom మీద lean అవ్వడానికి ఉండేది, Samuel Adams Boston Lager create చేస్తూ tinker చేయడానికి old family recipe కూడా ఉండేది—కానీ startup business గా Sam Adams లో secret ingredient Boston Consulting Group లో అతని twenty-three-year-old assistant Rhonda Kallman రూపంలో వచ్చింది.
 
-English
-Lisa Price made fantastic lotions and butters, but she didn’t even think about selling them as products until her mother pushed her to set up a table at their church flea market.
+Jim Koch had five generations of brewers' wisdom to lean on as well as an old family recipe to tinker with as he created Samuel Adams Boston Lager, but the secret ingredient in Sam Adams as a startup business came in the form of Rhonda Kallman, his twenty-three-year-old assistant at Boston Consulting Group.
 
 ---
 
-Telugu
-ఆ fledgling business “sister-girl network” లో traction పొందడానికి Lisa husband Gordon లేకపోతే కష్టమే.
+First glance లో, management consultant and assistant తమ jobs quit చేసి company start చేయడం Hollywood romantic comedy logline నుంచి తీసిన దానిలా sounds. దీనికి very Jerry Maguire vibe ఉంది.
 
-English
-And the fledgling business probably never would have gotten the traction it needed within the “sister-girl network” without Lisa’s husband, Gordon.
+At first glance, a management consultant and an assistant quitting their jobs to start a company together sounds like something yanked straight out of the logline of a Hollywood romantic comedy. It has a very Jerry Maguire vibe to it.
 
 ---
 
-Telugu
-Gordon ఆమె first core market ని identify చేయడంలో help చేశాడు, అలాగే answering machine మీద orders scribble down చేసి Lisa fulfill చేయడానికి hard work చేశాడు.
+In reality, Jim knew చేసిన all people లో, ఈ entrepreneurial journey మీద Jim ని join అవ్వడానికి Rhonda కంటే better suited ఎవ్వరూ లేరు.
 
-English
-Who not only helped Lisa identify them as her first, core market, but also worked hard in scribbling down orders off their answering machine so she could fulfill them.
-
----
-
-Telugu
-Jim Koch Samuel Adams Boston Lager create చేసినప్పుడు, అతనికి lean on చేయడానికి five generations of brewers’ wisdom మరియు tinker చేయడానికి old family recipe ఉన్నాయి.
-
-English
-Jim Koch had five generations of brewers’ wisdom to lean on as well as an old family recipe to tinker with as he created Samuel Adams Boston Lager.
-
----
-
-Telugu
-కానీ Sam Adams startup business లో secret ingredient Rhonda Kallman రూపంలో వచ్చింది — Boston Consulting Group లో అతని twenty-three-year-old assistant.
-
-English
-But the secret ingredient in Sam Adams as a startup business came in the form of Rhonda Kallman, his twenty-three-year-old assistant at Boston Consulting Group.
-
----
-
-Telugu
-First glance లో, management consultant మరియు assistant jobs quit చేసి company start చేయడం Hollywood romantic comedy logline నుంచి తీసినట్టుగా అనిపిస్తుంది.
-
-English
-At first glance, a management consultant and an assistant quitting their jobs to start a company together sounds like something yanked straight out of the logline of a Hollywood romantic comedy.
-
----
-
-Telugu
-దానికి చాలా Jerry Maguire vibe ఉంది.
-
-English
-It has a very Jerry Maguire vibe to it.
-
----
-
-Telugu
-Reality లో, Jim తెలిసిన వారిలో Rhonda కంటే ఈ entrepreneurial journey లో join అవ్వడానికి better suited ఎవరూ లేరు.
-
-English
 In reality, of all the people Jim knew, there was no one better suited than Rhonda to join him on this entrepreneurial journey.
 
 ---
 
-Telugu
-“BCG చుట్టూ చూశాను, top business schools నుంచి వచ్చిన best and brightest తో నిండిన place,” Jim recalled.
+'నేను BCG around look చేశాను, top business schools నుంచి best and brightest తో full,' అని Jim గుర్తు చేసుకున్నాడు, 'realize అయింది—ఇక్కడ energetic, talented, resourceful, great people person—నాకు లేని all skills ఆవిడకి ఉన్నాయి. ఆవిడ నా secretary. మేము perfect complement.'
 
-English
-“I looked around BCG, full of the best and the brightest from the top business schools,” Jim recalled.
+'I looked around BCG, full of the best and the brightest from the top business schools,' Jim recalled, 'and I realized there was this person here who was energetic, talented, resourceful, a great people person—she had all of the skills I don't really have. She was my secretary. We were the perfect complement.'
 
 ---
 
-Telugu
-“అప్పుడు ఇక్కడ energetic, talented, resourceful, great people person ఒకరు ఉన్నారని realize చేశాను — నాకు నిజంగా లేని skills అన్నీ ఆమె దగ్గర ఉన్నాయి.”
+Jim brewmaster; Rhonda practical one. Together వాళ్ళు Boston Beer Company founded చేశారు, ఇది very first month నుంచే profitable.
 
-English
-“And I realized there was this person here who was energetic, talented, resourceful, a great people person—she had all of the skills I don’t really have.”
+Jim was the brewmaster; Rhonda was the practical one. Together they founded Boston Beer Company, which was profitable from its very first month.
 
 ---
 
-Telugu
-“ఆమె నా secretary. మేము perfect complement.”
+Whether అతనికి అప్పుడు తెలిసినా లేదా తెలియకపోయినా, Jim—idea ఉండి business start చేయాలని think చేస్తున్న ప్రతి entrepreneur co-founder ని ఎందుకు find చేయాలి అన్న most powerful reason దగ్గరికి arrive అయ్యాడు: మీ skill set ని complement చేసే partner మీకు need.
 
-English
-“She was my secretary. We were the perfect complement.”
+Whether he knew it at the time or not, Jim had arrived at the most powerful reason every entrepreneur should look for a co-founder when they have an idea and are thinking about starting a business: You need a partner whose skill set complements yours.
 
 ---
 
-Telugu
-Jim brewmaster; Rhonda practical one.
+మీ vision ని share చేయడమే కాకుండా elevate చేసి, దానికి మిమ్మల్ని accountable గా hold చేసే వ్యక్తి; మీరు చేయలేని దాన్ని చేసే వ్యక్తి; మీరు think చేయని, see చేయని way లో things ని think and see చేసే వ్యక్తి; మీ weaknesses కి వాళ్ళ strengths compensate చేసే వ్యక్తి, and vice versa.
 
-English
-Jim was the brewmaster; Rhonda was the practical one.
+Someone who not only shares your vision but elevates it and holds you accountable to it; who does what you cannot; who thinks and sees things in a way you don't; whose strengths compensate for your weaknesses, and vice versa.
 
 ---
 
-Telugu
-కలిసి వారు Boston Beer Company founded చేశారు, అది first month నుంచే profitable అయ్యింది.
+ఈ yin-yang approach all the time happen అవుతుంది.
 
-English
-Together they founded Boston Beer Company, which was profitable from its very first month.
-
----
-
-Telugu
-Jim కు అప్పట్లో తెలుసో తెలియదో, కానీ idea ఉన్న entrepreneur business start చేయాలని ఆలోచించినప్పుడు co-founder కోసం look చేయాల్సిన most powerful reason కి అతను చేరుకున్నాడు.
-
-English
-Whether he knew it at the time or not, Jim had arrived at the most powerful reason every entrepreneur should look for a co-founder when they have an idea and are thinking about starting a business.
-
----
-
-Telugu
-మీ skill set ని complement చేసే partner మీకు అవసరం.
-
-English
-You need a partner whose skill set complements yours.
-
----
-
-Telugu
-మీ vision share చేయడమే కాక దాన్ని elevate చేసి, దానికి accountable గా ఉంచే వ్యక్తి.
-
-English
-Someone who not only shares your vision but elevates it and holds you accountable to it.
-
----
-
-Telugu
-మీరు చేయలేనిది చేసే వ్యక్తి.
-
-English
-Who does what you cannot.
-
----
-
-Telugu
-మీలా కాకుండా వేరే విధంగా think చేసి see చేసే వ్యక్తి.
-
-English
-Who thinks and sees things in a way you don’t.
-
----
-
-Telugu
-ఎవరి strengths మీ weaknesses ని compensate చేస్తాయో, అలాగే మీ strengths వారి weaknesses ని compensate చేస్తాయో అలాంటి వ్యక్తి.
-
-English
-Whose strengths compensate for your weaknesses, and vice versa.
-
----
-
-Telugu
-ఈ kind of yin-yang approach తరచూ జరుగుతుంది.
-
-English
 This kind of yin-yang approach happens all the time.
 
 ---
 
-Telugu
-ఉదాహరణకు, Adam Lowry మరియు Eric Ryan కంటే different అయినా complementary people కనుగొనడం కష్టం.
+For example, Adam Lowry and Eric Ryan కంటే more different yet complementary people ని మీరు find చేయలేరు.
 
-English
 For example, you could not find two more different yet complementary people than Adam Lowry and Eric Ryan.
 
 ---
 
-Telugu
-వాళ్లు household cleaning product manufacturer Method co-founders.
+వాళ్ళు household cleaning product manufacturer Method co-founders—దాని teardrop-shaped soap bottle famous—అది counter మీద out ఉంచడానికి pretty enough గా ఉంది, sink కింద other industrial-strength cleansers తో hide చేయడానికి కాదు.
 
-English
-They’re the co-founders of the household cleaning product manufacturer Method.
+They're the co-founders of the household cleaning product manufacturer Method, which is famous for its teardrop-shaped soap bottle that's pretty enough to keep out on the counter instead of hidden away under the sink with all the other industrial-strength cleansers.
 
 ---
 
-Telugu
-Method teardrop-shaped soap bottle వల్ల famous — అది counter మీదే ఉంచడానికి pretty enough, sink కింద industrial-strength cleansers తో దాచాల్సిన అవసరం లేదు.
+Grosse Pointe, Michigan నుంచి childhood friends, Adam and Eric very different purposes కోసం country opposite sides లో college కి వెళ్ళారు—Adam Stanford కి chemical engineering కోసం, Eric Rhode Island కి business కోసం—ఆ తర్వాత 1990s late లో San Francisco లో entirely by chance reunite అయ్యారు.
 
-English
-Which is famous for its teardrop-shaped soap bottle that’s pretty enough to keep out on the counter instead of hidden away under the sink with all the other industrial-strength cleansers.
+Childhood friends from Grosse Pointe, Michigan, Adam and Eric went to college on opposite sides of the country for very different purposes—Adam to Stanford for chemical engineering, Eric to Rhode Island for business—before reuniting in San Francisco in the late 1990s, entirely by chance.
 
 ---
 
-Telugu
-Grosse Pointe, Michigan నుంచి childhood friends అయిన Adam మరియు Eric, very different purposes కోసం country opposite sides లో college కి వెళ్లారు.
+'ఒక year Thanksgiving, maybe 1997 or 1998. నేను plane మీదకి walk on అవుతాను, Eric ని see చేస్తాను,' అని Adam holiday కి home వెళ్తున్న వాళ్ళ encounter గురించి నాకు చెప్పాడు.
 
-English
-Childhood friends from Grosse Pointe, Michigan, Adam and Eric went to college on opposite sides of the country for very different purposes.
+'It was Thanksgiving one year, maybe 1997 or 1998. I walk onto the plane, and I see Eric,' Adam told me of their encounter on the way home for the holiday.
 
 ---
 
-Telugu
-Adam chemical engineering కోసం Stanford కి, Eric business కోసం Rhode Island కి.
+'అతను a couple of weeks prior San Francisco కి move అయ్యాడు. Open seat ఒకటి ఉంది. నేను plane లో అతని పక్కన కూర్చున్నాను, five hours all caught up అయ్యాము. Turned out—మేము exact same block లో living ఉన్నాము.'
 
-English
-Adam to Stanford for chemical engineering, Eric to Rhode Island for business.
+'He'd only moved to San Francisco a couple weeks prior. There was an open seat. I ended up sitting next to him on the plane, and for five hours we got all caught up. It turned out we were living on the exact same block.'
 
 ---
 
-Telugu
-తర్వాత 1990s late లో San Francisco లో, పూర్తిగా chance వల్ల, మళ్లీ కలిశారు.
+Within a year, వాళ్ళు roommates అయ్యారు, Eric Adam and three other guys తో ఒక house లో join అయ్యాడు—Adam ఆ house ని 'exactly as clean as you would expect it to be' అని describe చేశాడు.
 
-English
-Before reuniting in San Francisco in the late 1990s, entirely by chance.
+Within a year, they were roommates, Eric joining Adam and three other guys in a house that Adam described as 'exactly as clean as you would expect it to be.'
 
 ---
 
-Telugu
-“ఒక Thanksgiving, బహుశా 1997 లేదా 1998. నేను plane లోకి ఎక్కాను, Eric కనిపించాడు,” Adam ఆ holiday కోసం home కి వెళ్తున్న సందర్భం గురించి చెప్పాడు.
+Still, వాళ్ళ lives convergence despite, వాళ్ళ career paths different directions లో continued అయ్యాయి.
 
-English
-“It was Thanksgiving one year, maybe 1997 or 1998. I walk onto the plane, and I see Eric,” Adam told me of their encounter on the way home for the holiday.
-
----
-
-Telugu
-“అతను San Francisco కి కేవలం కొన్ని weeks ముందే move అయ్యాడు. ఒక open seat ఉంది. నేను అతని పక్కనే కూర్చున్నాను, ఐదు గంటలు పూర్తిగా catch up అయ్యాం.”
-
-English
-“He’d only moved to San Francisco a couple weeks prior. There was an open seat. I ended up sitting next to him on the plane, and for five hours we got all caught up.”
-
----
-
-Telugu
-“మేము exact same block లో living చేస్తున్నామని తేలింది.”
-
-English
-“It turned out we were living on the exact same block.”
-
----
-
-Telugu
-ఒక సంవత్సరంలోనే, వారు roommates అయ్యారు.
-
-English
-Within a year, they were roommates.
-
----
-
-Telugu
-Eric, Adam మరియు ఇంకో ముగ్గురు guys ఉన్న house లో join అయ్యాడు; Adam దాన్ని “మీరు expect చేసేంత clean గా ఉన్న house” అని describe చేశాడు.
-
-English
-Eric joining Adam and three other guys in a house that Adam described as “exactly as clean as you would expect it to be.”
-
----
-
-Telugu
-వారి lives converge అయినప్పటికీ, career paths మాత్రం different directions లోనే కొనసాగాయి.
-
-English
 Still, despite the convergence of their lives, their career paths continued in different directions.
 
 ---
 
-Telugu
-Adam Carnegie Institution for Science లో environmental issues మీద పని చేస్తున్నాడు.
+Adam Carnegie Institution for Science లో environmental issues మీద work చేస్తున్నాడు. Eric Hal Riney & Partners అనే advertising agency లో product campaigns మీద work చేస్తున్నాడు.
 
-English
-Adam was at the Carnegie Institution for Science working on environmental issues.
+Adam was at the Carnegie Institution for Science working on environmental issues. Eric was at an advertising agency called Hal Riney & Partners working on product campaigns.
 
 ---
 
-Telugu
-Eric Hal Riney & Partners అనే advertising agency లో product campaigns మీద పని చేస్తున్నాడు.
+Entrepreneurship మీద వాళ్ళ perspectives equally dissimilar.
 
-English
-Eric was at an advertising agency called Hal Riney & Partners working on product campaigns.
-
----
-
-Telugu
-Entrepreneurship పై వారి perspectives కూడా equally dissimilar.
-
-English
 Their perspectives on entrepreneurship were equally dissimilar.
 
 ---
 
-Telugu
-“Third grade నుంచే నేను entrepreneur అవ్వాలనుకున్నాను,” Eric అన్నాడు.
+'మూడవ grade నుంచే నాకు entrepreneur అవ్వాలని తెలుసు,' అని Eric చెప్పాడు. 'నేను annoying neighborhood kid—buttons లేదా sell చేయగల anything else constantly sell చేస్తూ. So company start చేయాలని ఎప్పుడూ తెలుసు.'
 
-English
-“I knew since the third grade I wanted to be an entrepreneur,” Eric said.
+'I knew since the third grade I wanted to be an entrepreneur,' Eric said. 'I was the annoying neighborhood kid who was constantly selling buttons or anything else I could. So I always knew I wanted to start a company.'
 
 ---
 
-Telugu
-“నేను buttons లేదా ఇంకేదైనా constant గా sell చేసే annoying neighborhood kid.”
+ఇది college తర్వాత advertising and branding వైపు gravitate అవ్వడానికి big part of reason.
 
-English
-“I was the annoying neighborhood kid who was constantly selling buttons or anything else I could.”
-
----
-
-Telugu
-“అందుకే company start చేయాలని ఎప్పటినుంచో తెలుసు.”
-
-English
-“So I always knew I wanted to start a company.”
-
----
-
-Telugu
-College తర్వాత advertising మరియు branding వైపు gravitate అవడానికి ఇదే పెద్ద reason.
-
-English
 Which was a big part of the reason he gravitated toward advertising and branding after college.
 
 ---
 
-Telugu
-Adam path అయితే, అతను చెప్పినట్టుగా, “less predestined.”
+Adam path, however, 'decided in advance (predestined)' కంటే less, as he put it.
 
-English
-Adam’s path, however, was “less predestined,” as he put it.
+Adam's path, however, was 'less predestined,' as he put it.

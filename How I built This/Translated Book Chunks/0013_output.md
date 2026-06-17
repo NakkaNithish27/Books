@@ -1,573 +1,297 @@
-డబ్బు లేకుండా, Joe చెప్పినట్టు “half a shoestring” మీద వాళ్లు పని చేశారు.
-
-With no money. On “half a shoestring,” as Joe said.
-
----
-
-Conference కి just in time గా, వాళ్లు six listings తో site launch చేశారు.
-
-They launched the site with six listings, just in time for the conference.
-
----
-
-దురదృష్టవశాత్తూ, ఇద్దరు మాత్రమే book చేశారు — అందులో ఒకరు Brian തന്നే.
-
-Unfortunately, only two people booked. And one of them was Brian.
-
----
-
-Joe కి అది completely demoralizing గా అనిపించింది: వాళ్లు అంత excited గా ఉన్న idea ను ఎవరూ నిజంగా తీసుకోలేదు.
-
-“It was completely demoralizing,” Joe said. “Here was this idea that we were so excited about, and nobody took us up on the idea.”
-
----
-
-కానీ ఆ process లో వాళ్లు రెండు key things గ్రహించారు.
-
-But they realized a couple key things in the process.
-
----
-
-మొదటిది: ఒకరి home లో, in person money exchange చేయడం చాలా weird గా ఉంటుంది; అందుకే financial transaction online లో ఉండాలి.
+"Money పూర్తిగా, especially home లో, in person exchange చేయడం really weird," — so financial transaction piece online లో ఉండాలని వాళ్లు realize అయ్యారు.
 
 One was that exchanging money in person, especially in a home, is really weird, so they should probably have the financial transaction piece online.
 
 ---
 
-రెండవది: conferences కోసం మాత్రమే కాకుండా, ఇతర reasons తో travel చేసే people కూడా ఎవరో ఇంట్లో stay చేయాలనే idea కి interested ఉండొచ్చు.
+రెండోది — conferences కంటే other reasons తో travel చేసేవాళ్ళు కూడా ఎవరో ఒక person home లో stay చేయడం idea లో interest కలిగి ఉండొచ్చు — air mattress తో అయినా, లేకుండా అయినా — so ఈ idea ని just conference sites తో tied గా ఉంచకూడదు.
 
-The second was that there may be people who like to travel for reasons other than conferences, who are also interested in the idea of staying in someone’s home—with or without the air mattress, ostensibly.
-
----
-
-అందుకే ఈ idea conference sites కి మాత్రమే tied కాకూడదనుకున్నారు.
-
-so maybe this idea shouldn’t just be tied to conference sites.
+The second was that there may be people who like to travel for reasons other than conferences, who are also interested in the idea of staying in someone’s home—with or without the air mattress, ostensibly—so maybe this idea shouldn’t just be tied to conference sites.
 
 ---
 
-వాళ్లు payments add చేసి, దీన్ని travel site గా మార్చాలని నిర్ణయించారు.
+"‘Well, payments add చేద్దాం, దీన్ని travel site గా చేద్దాం,’ అని Joe అన్నాడు. ‘అప్పుడే మాకు ఒక idea వచ్చింది — ఈ service యొక్క new version ని ఒక tidal wave of press (press hype) crest మీద relaunch చేయడం.’"
 
-“We said, ‘Well, let’s add payments, and let’s make this a travel site,” Joe said.
-
----
-
-తర్వాత press అనే tidal wave crest వద్ద కొత్త version launch చేయాలనే idea వచ్చింది.
-
-“And that’s when we had an idea, which was to relaunch this new version of our service at the crest of a tidal wave of press.”
+“We said, ‘Well, let’s add payments, and let’s make this a travel site,” Joe said. “And that’s when we had an idea, which was to relaunch this new version of our service at the crest of a tidal wave of press.”
 
 ---
 
-2008 లో Barack Obama presidential candidacy చుట్టూ దేశమంతా tsunami లాంటి attention వ్యాపిస్తోంది.
+2008 లో country అంతా spreading అయ్యే tsunami of attention ఉంది. ఇది United States presidency కోసం Barack Obama యొక్క historically seismic candidacy ని following చేస్తూ ఉంది, ఆ summer Denver, Colorado లో Democratic National Convention లో crash అవ్వడానికి set అయి ఉంది — అక్కడే Obama speak చేసి Democratic nomination for president accept చేయబోతున్నాడు.
 
-In 2008, there was a tsunami of attention spreading across the country. It was following the historically seismic candidacy of Barack Obama for the presidency of the United States.
-
----
-
-ఆ summer లో ఆ attention Denver, Colorado లోని Democratic National Convention కి చేరబోతోంది, అక్కడ Obama Democratic nomination accept చేయబోతున్నాడు.
-
-and that summer it was set to crash into Denver, Colorado, at the Democratic National Convention, where Obama was going to speak and accept the Democratic nomination for president.
+In 2008, there was a tsunami of attention spreading across the country. It was following the historically seismic candidacy of Barack Obama for the presidency of the United States, and that summer it was set to crash into Denver, Colorado, at the Democratic National Convention, where Obama was going to speak and accept the Democratic nomination for president.
 
 ---
 
-ఇది వారికి unique opportunity ఇచ్చింది.
+ఇది ఒక unique opportunity present చేసింది. "Obama speak చేయడం చూడడానికి one hundred thousand people anticipated, but 30,000 కంటే తక్కువ hotel rooms ఉన్నాయి, అందులో most delegates picked up చేసేశారు," అని Joe గుర్తు చేసుకున్నాడు.
 
-This presented a unique opportunity.
-
----
-
-Obama speech చూడడానికి లక్ష మంది రావచ్చని అంచనా, కానీ hotel rooms ముప్పై వేల కన్నా తక్కువ, వాటిలో ఎక్కువ delegates తీసుకున్నారు.
-
-“A hundred thousand people were anticipated to see Obama speak, and there were less than 30,000 hotel rooms, most of which were picked up by delegates,” Joe remembered.
+This presented a unique opportunity. “A hundred thousand people were anticipated to see Obama speak, and there were less than 30,000 hotel rooms, most of which were picked up by delegates,” Joe remembered.
 
 ---
 
-అది నిజమైన housing crisis.
+ఇది legitimate housing crisis. ఒక point లో Denver mayor city parks ని campers కోసం open చేయడం కూడా consider చేసాడు.
 
-It was a legitimate housing crisis.
-
----
-
-ఒక దశలో Denver mayor city parks ను campers కోసం open చేయాలని కూడా ఆలోచించాడు.
-
-At one point, Denver’s mayor even considered opening the city’s parks to campers.
+It was a legitimate housing crisis. At one point, Denver’s mayor even considered opening the city’s parks to campers.
 
 ---
 
-అకస్మాత్తుగా, Joe, Brian, Nate సృష్టించడానికి ప్రయత్నిస్తున్న service కి real need కనిపించింది.
+Suddenly, Joe, Brian, Nate try చేస్తున్న service కోసం real need ఉంది. Just word out చేయాలి.
 
-Suddenly, there was a real need for the service that Joe, Brian, and Nate were trying to bring into being.
-
----
-
-వాళ్లు చేయాల్సిందల్లా word out చేయడం మాత్రమే.
-
-They just had to get the word out.
+Suddenly, there was a real need for the service that Joe, Brian, and Nate were trying to bring into being. They just had to get the word out.
 
 ---
 
-DNC సమయంలో service relaunch చేస్తే, Obama press coattails ను ride చేసి marketplace గురించి awareness తీసుకురాగలమని వాళ్లు అనుకున్నారు.
+"‘DNC సమయంలో మన service relaunch ని time చేస్తే? అన్ని Obama press coattails ride చేసుకుంటూ (ride the coattails — others success use చేసుకుని leverage పొందడం), ఈ marketplace కి a lot of awareness bring చేయొచ్చు అని thought,’" అని Joe అన్నాడు.
 
 “We thought what if we timed the relaunch of our service during the DNC? We can ride the coattails of all the Obama press to bring a lot of awareness to this marketplace,” Joe said.
 
 ---
 
-అదే వాళ్లు చేశారు.
+అదే exactly వాళ్లు చేసారు. Nate website ని conference orientation నుంచి travel focus కి shift చేస్తూ, online payment function add చేస్తూ work చేస్తుండగా, Joe and Brian Denver కి fly అయ్యారు.
 
-So that’s exactly what they did.
-
----
-
-Nate website ను conference orientation నుండి travel focus కి shift చేస్తూ, online payment function add చేస్తుండగా, Joe మరియు Brian Denver కి వెళ్లారు.
-
-While Nate worked on shifting the website from its conference orientation to a travel focus and then adding an online payment function, Joe and Brian flew to Denver.
+So that’s exactly what they did. While Nate worked on shifting the website from its conference orientation to a travel focus and then adding an online payment function, Joe and Brian flew to Denver.
 
 ---
 
-వాళ్లు పది నిమిషాలు ఇచ్చే ఎవరికైనా మాట్లాడారు, చివరకు traction మొదలైంది.
+వాళ్లు ten minutes time ఇచ్చే anyone తో talk చేసారు, finally కొంత traction get అవ్వడం start అయింది. "మాకు local press వచ్చింది, అది regional press గా మారింది, అది national press గా మారింది," అని Joe అన్నాడు.
 
-They talked to anyone who would give them ten minutes until they finally started to get some traction.
-
----
-
-Local press వచ్చింది, అది regional press గా మారింది, తర్వాత national press గా మారింది.
-
-“We got local press, which turned into the regional press, which turned into national press,” Joe said.
+They talked to anyone who would give them ten minutes until they finally started to get some traction. “We got local press, which turned into the regional press, which turned into national press,” Joe said.
 
 ---
 
-Joe మరియు Brian తమ living room నుండే CNN తో live interview కూడా చేశారు.
+Joe and Brian వాళ్ల living room నుండి CNN తో ఒక live interview కూడా చేసారు.
 
 Joe and Brian even did a live interview with CNN from their living room.
 
 ---
 
-Convention తర్వాత నాలుగు వారాల్లో, వారు website కి 800 homes add చేసి, 100 bookings process చేశారు.
+Convention తరువాత four weeks లోనే వాళ్లు తమ website కి 800 homes add చేయడంలో, 100 bookings process చేయడంలో manage చేసారు. "ఇదే (this was it) అని నేను అనుకున్నాను," అని Joe అన్నాడు. "ఇది మా rocket ship to the moon."
 
-Within a matter of four weeks after the convention, they managed to add 800 homes to their website and process 100 bookings.
-
----
-
-Joe కి ఇదే rocket ship to the moon అనిపించింది.
-
-“I thought that this was it,” Joe said. “This was our rocket ship to the moon.”
+Within a matter of four weeks after the convention, they managed to add 800 homes to their website and process 100 bookings. “I thought that this was it,” Joe said. “This was our rocket ship to the moon.”
 
 ---
 
-అందులోని గొప్ప విషయం ఏమిటంటే, వాళ్లు మొత్తం thing ను bootstrap చేశారు.
+ఇది అంతా వాళ్లు bootstrapped చేసారు. అంతేకాకుండా, వాళ్లు proof of concept show చేసారు; smart, agile entrepreneurs గా తమ own worthiness evince (clearly show) చేసారు; మరియు best of all, business లో 100 percent control వాళ్ల దగ్గరే ఉంది.
 
-And they’d bootstrapped the entire thing.
-
----
-
-అదికాక, వాళ్లు proof of concept చూపించారు, smart agile entrepreneurs గా తమ worthiness చూపించారు, మరియు business మీద 100 percent control ఉంచుకున్నారు.
-
-More than that, they’d shown proof of concept; they’d evinced their own worthiness as smart, agile entrepreneurs; and best of all, they controlled 100 percent of the business.
+And they’d bootstrapped the entire thing. More than that, they’d shown proof of concept; they’d evinced their own worthiness as smart, agile entrepreneurs; and best of all, they controlled 100 percent of the business.
 
 ---
 
-కొత్త venture stratosphere వైపు వెళ్తున్నట్టు అనిపిస్తున్నప్పుడు, helm వద్ద control మీ దగ్గరే ఉన్నప్పుడు, investment pursue చేయడానికి దానికంటే మంచి సమయం ఏముంటుంది?
+మీ new venture stratosphere వైపు headed అవుతున్నట్టు feel అవుతున్నప్పుడు, helm వద్ద మీరు control లో ఉన్నప్పుడు — Method guys చేసినట్టు investment pursue చేయడానికి better time ఏముంటుంది?
 
-What better time to pursue investment than when it feels like your new venture is headed into the stratosphere and you’re in control at the helm?
-
----
-
-San Francisco connections ద్వారా, Joe మరియు Brian ఇరవై Sand Hill Road investors కి introduce అయ్యారు.
-
-Through their connections in San Francisco, Joe and Brian were introduced to twenty different investors from Sand Hill Road.
+What better time to pursue investment (like the Method guys did) than when it feels like your new venture is headed into the stratosphere and you’re in control at the helm?
 
 ---
 
-వాళ్లు ప్రతి investor కి pitch deck email చేశారు.
+San Francisco లో వాళ్ల connections through, Joe and Brian Sand Hill Road నుండి twenty different investors కి introduce చేయబడ్డారు. ప్రతీ ఒక్కరికి తమ pitch deck email చేసారు. కానీ అది great గా జరగలేదు.
 
-They emailed each one of them their pitch deck.
-
----
-
-కానీ అది బాగా జరగలేదు.
-
-But it didn’t go great.
+Through their connections in San Francisco, Joe and Brian were introduced to twenty different investors from Sand Hill Road. They emailed each one of them their pitch deck. But it didn’t go great.
 
 ---
 
-ఇరవై మందిలో పది మంది email కి reply చేశారు, ఐదుగురు coffee కోసం కలిశారు, కానీ ఒక్కరూ invest చేయలేదు.
+"ఇందులో ten మంది మా email కి reply చేసారు. Five మంది మాతో coffee కి meet అయ్యారు. Zero invested." Joe ఆ decreasing cascade of increasingly horrible numbers ని తన entrepreneurial DNA లో stitched అయినట్టు rattle off చేసాడు.
 
-“Ten of them reply to our email. Five of them meet us for coffee. Zero invested in us.”
-
----
-
-Joe ఆ తగ్గుతూ వచ్చిన horrible numbers ను తన entrepreneurial DNA లో stitch అయినట్టు చెప్పాడు.
-
-Joe rattled off the decreasing cascade of increasingly horrible numbers like they’d been stitched into his entrepreneurial DNA.
+“Ten of them reply to our email. Five of them meet us for coffee. Zero invested in us.” Joe rattled off the decreasing cascade of increasingly horrible numbers like they’d been stitched into his entrepreneurial DNA.
 
 ---
 
-Joe జీవితంలో ఈ business తప్ప మరేం లేదు; credible investors ముందు పెట్టి, వారు నేరుగా “Well, this is weird” అని చెప్పడం అతనికి చాలా కఠినంగా అనిపించింది.
+"నా life లో దీని తప్ప ఏమీ లేదు. దీన్ని very credible investors ముందు పెట్టి — Googles, PayPals, YouTubes ని pick చేసిన guys — వాళ్లు మీ కళ్ళలోకి సరిగ్గా చూస్తూ, ‘Well, ఇది weird గా ఉంది’ అని అనడం," అని Joe అన్నాడు, voice trail off అవుతూ. "2008 నా life లో worst year."
 
-“I didn’t have anything else going on in my life except this. And to put it in front of very credible investors—the guys who have picked the Googles and PayPals and YouTubes of the world—and have them look you square in the eye and go, ‘Well, this is weird,’” Joe said.
-
----
-
-2008 Joe జీవితంలో worst year అయింది.
-
-“Two thousand eight was the worst year of my life.”
+“I didn’t have anything else going on in my life except this. And to put it in front of very credible investors—the guys who have picked the Googles and PayPals and YouTubes of the world—and have them look you square in the eye and go, ‘Well, this is weird,’” Joe said, his voice trailing off. “Two thousand eight was the worst year of my life.”
 
 ---
 
-Theory ప్రకారం, ఇది Airbedandbreakfast.com కి end కావాలి.
+Theory లో, ఇది Airbedandbreakfast.com కి end అవ్వాలి. ఒక way లో, అదే అయింది. లేదా at least, end కి beginning అయింది.
 
-In theory, this should have been the end of Airbedandbreakfast.com.
-
----
-
-ఒక విధంగా అది end అయింది — లేదా కనీసం end ప్రారంభమైంది.
-
-And in a way, it was. Or at least it was the beginning of the end.
+In theory, this should have been the end of Airbedandbreakfast.com. And in a way, it was. Or at least it was the beginning of the end.
 
 ---
 
-ఎందుకంటే ఎనిమిది నెలల్లో name Airbnb గా shorten అయింది, ముగ్గురు co-founders Y Combinator లో accepted అయ్యారు, graduate అయ్యారు, మరియు website కి 10,000 users, 2,500 listings వచ్చాయి.
+ఎందుకంటే, eight months లోనే, name shortened to Airbnb అవుతుంది; trio of co-founders Y Combinator startup incubator లోకి accepted అయి, graduate అవుతారు; మరియు వాళ్ల fledgling (కొత్తగా start అయిన) website 10,000 users and 2,500 listings తో ఉంటుంది.
 
 That’s because within eight months, the name would be shortened to Airbnb; the trio of co-founders would be accepted to, and then graduate from, the Y Combinator startup incubator; and their fledgling website would have 10,000 users and 2,500 listings.
 
 ---
 
-వింతగా, ఇవన్నీ రెండు cereal boxes మరియు credit cards తో నిండిన binder వల్ల జరిగాయి.
+ఇది ironically, రెండు cereal boxes మరియు ఒక binder full of credit cards వల్లనే happen అయింది.
 
 This all happened, ironically, all because of two boxes of cereal and a binder full of credit cards.
 
 ---
 
-Joe baseball cards పెట్టుకునే binders లాంటిదే తన దగ్గర ఉందని చెప్పాడు, కానీ అందులో baseball cards కాదు, credit cards ఉండేవి.
+"Baseball cards keep చేసే ఆ binders తెలుసా?" Joe నన్ను అడిగాడు, investors తో strike out అయిన తరువాత వాళ్లు ఎలా continue చేయగలిగారో curious గా అడిగితే. "నా దగ్గర అలాంటిది ఒకటి ఉంది, but అందులో baseball cards లేవు. Credit cards ఉన్నాయి. మేము Visa తరువాత Visa, Mastercard, finally Amex through వెళ్లాము, just credit cards max out చేస్తూ. అలాగే మేము self-fund చేసుకున్నాం."
 
-“You know those binders where you keep baseball cards?” Joe asked me. “I had one of those, except there weren’t baseball cards in it. There were credit cards.”
-
----
-
-వాళ్లు Visa నుండి Visa కి, Mastercard కి, చివరకు Amex కి వెళ్తూ credit cards max out చేస్తూ తమను తాము fund చేసుకున్నారు.
-
-“We would go through Visa after Visa to Mastercard and finally to Amex, just maxing out the credit cards. And that’s how we funded ourselves.”
+“You know those binders where you keep baseball cards?” Joe asked me when I was curious how they managed to keep going after striking out with investors. “I had one of those, except there weren’t baseball cards in it. There were credit cards. We would go through Visa after Visa to Mastercard and finally to Amex, just maxing out the credit cards. And that’s how we funded ourselves.”
 
 ---
 
-దానికి వాళ్లు “the Visa round” అని పేరు పెట్టారు.
+దాన్ని "the Visa round" అని call చేసేవారు. ఇది lights on, servers running ఉంచింది, but అంతే.
 
-They called it “the Visa round.”
-
----
-
-అది lights on గా, servers running గా ఉంచింది, కానీ అంతకంటే ఎక్కువ కాదు.
-
-It kept the lights on and the servers running, but that was about it.
+They called it “the Visa round.” It kept the lights on and the servers running, but that was about it.
 
 ---
 
-Credit card statement ఎప్పటికీ పైకే వెళ్తూ, దాన్ని pay down చేసే hope లేకపోవడం కన్నా worse feeling లేదని Joe అన్నాడు.
+"Credit card statement only up వెళ్తూ, దాన్ని pay down చేసే hope లేకుండా get అవ్వడం కంటే worst feeling ఏదీ లేదు," అని Joe అన్నాడు.
 
 “There’s no worse feeling than getting a credit card statement that’s only going up, with no hope of ever paying it down,” Joe said.
 
 ---
 
-2008 presidential election lead-up సమయంలో, ఒక late night Joe మరియు Brian kitchen లో కూర్చుని, service కి value add చేసే ways గురించి spitball చేస్తుండారు.
+తరువాత 2008 presidential election lead-up లో, ఒక late night లో, Joe and Brian వాళ్ల kitchen లో కూర్చుని, service కి value add చేయడానికి ways spitball (ideas casually throw around) చేస్తున్నారు. Airbedandbreakfast.com లో "bed" part handle చేశారని వాళ్లు figure అయ్యారు — but "breakfast" part గురించి ఏంటి?
 
-Then late one night, during the lead-up to the 2008 presidential election, Joe and Brian were sitting in their kitchen, spitballing ways to add value to their service.
-
----
-
-Airbedandbreakfast.com లో “bed” part handle చేశామని వాళ్లు అనుకున్నారు; కానీ “breakfast” part గురించి ఏం చేశారు?
-
-They’d handled the “bed” part of Airbedandbreakfast.com, they figured, but what about the “breakfast” part?
+Then late one night, during the lead-up to the 2008 presidential election, Joe and Brian were sitting in their kitchen, spitballing ways to add value to their service. They’d handled the “bed” part of Airbedandbreakfast.com, they figured, but what about the “breakfast” part?
 
 ---
 
-Maybe hosts తమ guests కి ఇవ్వడానికి breakfast cereal ఇస్తే ఎలా ఉంటుందని Joe అన్నాడు.
+ఆ end మీద actually ఏం చేసారు? "Maybe మన hosts కి guests కి ఇవ్వడానికి some breakfast cereal ఇద్దాం," అని Joe తన Brian తో conversation recapitulate చేసాడు. "Politically themed అయితే funny గా ఉంటుంది కదా? ‘Obama O’s: The Breakfast of Change’ అని call చేయొచ్చు. లేదా ‘Captain McCain’s: A Maverick in Every Bite.’"
 
-“Maybe we give our hosts some breakfast cereal to give to their guests,” Joe said.
-
----
-
-అది politically themed గా ఉంటే funny గా ఉంటుంది: “Obama O’s: The Breakfast of Change” లేదా “Captain McCain’s: A Maverick in Every Bite.”
-
-“Wouldn’t it be funny if it was politically themed? We could call it ‘Obama O’s: The Breakfast of Change.’ Or maybe ‘Captain McCain’s: A Maverick in Every Bite.’”
+What had they really done on that end? “Maybe we give our hosts some breakfast cereal to give to their guests,” Joe said, recapitulating his conversation with Brian. “Wouldn’t it be funny if it was politically themed? We could call it ‘Obama O’s: The Breakfast of Change.’ Or maybe ‘Captain McCain’s: A Maverick in Every Bite.’”
 
 ---
 
-ఇది focused brainstorming session కంటే 2 a.m. pity party product లా అనిపిస్తే, మీరు కరెక్ట్.
+ఇది focused brainstorming session కంటే 2 a.m. pity party product లాగా sound అవుతుందని మీరు అనుకుంటే, right. "ఈ point లో మేము just each other’s spirits up keep చేయడానికి try చేస్తున్నాం," అని Joe అన్నాడు.
 
-If you think that sounds more like the product of a 2 a.m. pity party than a focused brainstorming session, you’re right.
-
----
-
-ఆ సమయంలో వాళ్లు కేవలం ఒకరినొకరు spirits up చేసుకోవడానికి ప్రయత్నిస్తున్నారు.
-
-“We were just trying to keep each other’s spirits up at this point,” Joe said.
+If you think that sounds more like the product of a 2 a.m. pity party than a focused brainstorming session, you’re right. “We were just trying to keep each other’s spirits up at this point,” Joe said.
 
 ---
 
-కానీ ఒక చిన్న detail ఉంది: వాళ్లు నిజంగానే breakfast cereal తయారు చేశారు.
+కానీ ఒక small detail except: వాళ్లు actually forth వెళ్లి breakfast cereal తయారు చేసారు!
 
 Except for one small detail: they actually went forth and made the breakfast cereal!
 
 ---
 
-వాళ్లు cereal తయారు చేయడమే కాదు, దాన్ని merchandise చేసి promote కూడా చేశారు.
+వాళ్లు just cereal తయారు చేయలేదు. దాన్ని merchandise చేసి promote కూడా చేసారు. Brian వెళ్లి 500 bags of generic cereal కొన్నాడు. Joe art-direct చేసి illustrator ని hire చేసాడు — మళ్ళీ వాళ్ల network నుండి — RISD alum, ఒక favor గా commission మీద work చేస్తాడు.
 
-They didn’t just make the cereal either. They merchandised and promoted it.
-
----
-
-Brian 500 bags generic cereal కొనుగోలు చేశాడు.
-
-Brian went out and bought 500 bags of generic cereal.
+They didn’t just make the cereal either. They merchandised and promoted it. Brian went out and bought 500 bags of generic cereal. Joe art-directed and hired an illustrator, again from their network—a RISD alum who would work on commission as a favor.
 
 ---
 
-Joe art-directed చేసి, తన network లోని RISD alum illustrator ను commission/favor basis పై hire చేశాడు.
+ఇప్పుడు తమ చేతిలో limited edition series ఉందని realize చేసుకుని, ప్రతి cereal brand కి ఒక website build చేసారు; Democratic National Convention లో press coverage ఇచ్చిన outlets తో సహా, contact information ఉన్న ప్రతి media outlet కి 100 boxes పంపారు; boxes ని 1 to 500 number చేసారు; మరియు online లో ఒక్కో box ని $40 కి sell చేసారు.
 
-Joe art-directed and hired an illustrator, again from their network—a RISD alum who would work on commission as a favor.
-
----
-
-ఇది limited edition series అవుతుందని గ్రహించి, వారు ప్రతి cereal brand కోసం website నిర్మించారు.
-
-Realizing that they had a limited edition series on their hands now, they built a website for each brand of cereal.
+Realizing that they had a limited edition series on their hands now, they built a website for each brand of cereal; sent 100 boxes to every media outlet they had contact information for, including the ones they’d gotten press coverage from during the Democratic National Convention a month earlier; numbered the boxes 1 to 500; and then sold them online for $40 apiece.
 
 ---
 
-వాళ్లు contact information ఉన్న ప్రతి media outlet కి 100 boxes పంపారు, DNC సమయంలో press coverage ఇచ్చిన outlets కూడా అందులో ఉన్నాయి.
-
-sent 100 boxes to every media outlet they had contact information for, including the ones they’d gotten press coverage from during the Democratic National Convention a month earlier.
-
----
-
-Boxes ను 1 నుండి 500 వరకు number చేసి, online లో ఒక్కోటి $40 కి అమ్మారు.
-
-numbered the boxes 1 to 500; and then sold them online for $40 apiece.
-
----
-
-Idea పనిచేసింది: వాళ్లకు ton of press వచ్చింది, cereal అంతా అమ్మేశారు.
+Idea work అయింది. వాళ్లకి ton of press వచ్చింది, మరియు cereal మొత్తం sell చేసారు.
 
 The idea worked. They got a ton of press and they sold all the cereal.
 
 ---
 
-Airbnb story లోని ఈ భాగం author ను absolutely blown away చేసింది, కానీ ఒక question వచ్చింది: point ఏమిటి?
+Airbnb story లోని ఈ part తో నేను deeply impressed (absolutely blown away) అయ్యాను. But ఇది ఒక question trigger చేసింది: ఇందులో point ఏంటి? ఇది Airbedandbreakfast.com కి really ఎలా help చేయబోతుంది?
 
-I was absolutely blown away by this part of the Airbnb story. But it triggered a question: What was the point?
-
----
-
-ఇది నిజంగా Airbedandbreakfast.com కి ఎలా help చేయబోతుంది?
-
-How was this really going to help Airbedandbreakfast.com?
+I was absolutely blown away by this part of the Airbnb story. But it triggered a question: What was the point? How was this really going to help Airbedandbreakfast.com?
 
 ---
 
-Joe answer: ఇది help చేయదు — లేదా, మరింత ఖచ్చితంగా చెప్పాలంటే, అది matter కాదు.
+Joe answer ఏంటంటే — అది help చేయదు. లేదా more precisely, అది really matter కాదు. "$40 a box times 500 boxes, మేము breakfast cereal తో $20,000 make చేసాము," అని Joe explain చేసాడు, "which was just enough to pay off our credit cards."
 
-Joe’s answer was that it wasn’t. Or, more precisely, that it didn’t really matter.
-
----
-
-$40 per box times 500 boxes అంటే, breakfast cereal ద్వారా వాళ్లు $20,000 సంపాదించారు.
-
-“At $40 a box times 500 boxes, we made $20,000 in breakfast cereal,” Joe explained.
+Joe’s answer was that it wasn’t. Or, more precisely, that it didn’t really matter. “At $40 a box times 500 boxes, we made $20,000 in breakfast cereal,” Joe explained, “which was just enough to pay off our credit cards.”
 
 ---
 
-అది వారి credit cards pay off చేయడానికి సరిపడింది.
-
-“which was just enough to pay off our credit cards.”
-
----
-
-Obama O’s మరియు Cap’n McCain’s Airbnb rocket ship ను fuel చేయలేదు, కానీ Y Combinator winter class లో accept అయ్యేంతవరకు వాళ్లను కొనసాగించాయి.
+Obama O’s, Cap’n McCain’s Airbnb rocket ship ki fuel ఇవ్వలేదు, but ఆ year వాళ్లకి Y Combinator winter class లో place get చేయడానికి enough long time వరకు వాళ్లని going గా keep చేసింది.
 
 Obama O’s and Cap’n McCain’s didn’t fuel the Airbnb rocket ship, but it kept them going long enough for them to get accepted into Y Combinator’s winter class that year.
 
 ---
 
-వాస్తవానికి, cereal తయారు చేయడంలో వాళ్లు చూపించిన ingenuity, Airbnb idea కంటే, Paul Graham ను program లో వాళ్లకు place ఇవ్వడానికి convince చేసింది.
+Actually, Y Combinator co-founder Paul Graham ki program లో వాళ్లకి place find చేయమని convince చేసింది వాళ్ల Airbnb idea కాదు — cereal making లో display చేసిన ingenuity (creative cleverness).
 
 In fact, it was the ingenuity they displayed in making the cereal, not actually their Airbnb idea, that convinced Y Combinator co-founder Paul Graham to find a place for them in the program.
 
 ---
 
-Breakfast cereal ద్వారా వాళ్లు hustle మరియు grit ఉన్నవాళ్లమని prove చేశారు.
+"Breakfast cereal through, మాకు hustle ఉందని, grit (పట్టుదల) ఉందని అతనికి prove చేసాము," అని Joe అన్నాడు. "Breakfast cereal ని $40 a box కి ఎలా sell చేయాలో figure out చేయగలిగితే, మా website work చేయించడం కూడా figure out చేయగలము."
 
-“Through the breakfast cereal, we had proven to him that we had hustle, we had grit,” Joe said.
-
----
-
-$40 box breakfast cereal అమ్మగలిగితే, website work చేయించడం కూడా figure out చేయగలమని వాళ్లు చూపించారు.
-
-“If we could figure out how to sell breakfast cereal for $40 a box, we could figure out how to make our website work.”
+“Through the breakfast cereal, we had proven to him that we had hustle, we had grit,” Joe said. “If we could figure out how to sell breakfast cereal for $40 a box, we could figure out how to make our website work.”
 
 ---
 
-Graham guidance తో వాళ్లు ఇంకా grittier, scrappier అయ్యారు.
+Graham guidance తో, వాళ్లు మరింత gritty (కష్టపడే), మరింత scrappy (resourceful and tough) గా అయ్యారు. వాళ్ల growth కి way లో standing అవుతున్న immediate problems solve చేయడానికి scale చేయని things చేయడానికి అతను permission ఇచ్చాడు.
 
-With Graham’s guidance, they got even grittier, even scrappier.
-
----
-
-Growth అడ్డుకుంటున్న immediate problems solve చేయడానికి scale కాని things చేయడానికి Graham వాళ్లకు permission ఇచ్చాడు.
-
-He gave them permission to do things that didn’t scale in order to solve the immediate problems that were standing in the way of their growth.
+With Graham’s guidance, they got even grittier, even scrappier. He gave them permission to do things that didn’t scale in order to solve the immediate problems that were standing in the way of their growth.
 
 ---
 
-మొదటగా, వాళ్లు website search results లోకి dig చేసి, exploit చేయగల positive trends మరియు nip in the bud చేయగల negative trends కోసం చూశారు.
+వాళ్ల website search results లో digging start చేసారు, exploit చేయగలిగే positive trends, nip in the bud (start లోనే stop చేయడం) చేయగలిగే negative trends వెతుకుతూ.
 
 They began by digging into the website’s search results, looking for positive trends they could exploit and negative trends they could nip in the bud.
 
 ---
 
-వాళ్లు గుర్తించిన మొదటి pattern: poorest performing listings కి worst photos ఉండేవి.
+వాళ్లు recognize చేసిన first pattern ఏంటంటే — poorest perform చేసే listings worst photos కలిగి ఉండేవి.
 
 The first pattern they recognized was that the listings that did the poorest tended to have the worst photos.
 
 ---
 
-People camera phones తో, రాత్రి సమయంలో homes photos తీస్తున్నారు; homes ను stay చేయాలనిపించేలా merchandise చేయడం లేదు.
+"People వాళ్ల camera phones use చేస్తున్నారు. Night లో వాళ్ల homes photos తీస్తున్నారు. People stay చేయాలి అనిపించేలా వాళ్ల home ని merchandise చేయడం లేదు, so no one was booking them," అని Joe అన్నాడు.
 
-“People were using their camera phones. They were taking pictures of their homes at night. They were not merchandising their home in a way that made people want to stay there,” Joe said.
-
----
-
-అందుకే ఎవరూ ఆ listings book చేయడం లేదు.
-
-so no one was booking them.
+“People were using their camera phones. They were taking pictures of their homes at night. They were not merchandising their home in a way that made people want to stay there, so no one was booking them,” Joe said.
 
 ---
 
-Picture issues ఎక్కువగా New York City listings లో కనిపించాయి, అప్పుడు అది వారి biggest market.
+ఎక్కువ picture issues New York City లోని listings తో occur అవుతున్నాయి, ఆ time లో అది వాళ్ల biggest market.
 
 Most of the picture issues were occurring with listings in New York City, which, at the time, was their biggest market.
 
 ---
 
-ఇది negative trend cut off చేస్తూనే positive one పై build చేయడానికి unique opportunity ఇచ్చింది.
+ఇది positive trend మీద build చేస్తూ negative trend ని cut off చేయడానికి ఒక unique opportunity present చేసింది.
 
 This presented them with a unique opportunity to cut off a negative trend while building on a positive one.
 
 ---
 
-Joe RISD లో ఉండగా photography classes తీసుకున్నాడు.
+Joe RISD లో enrolled అయినప్పుడు కొన్ని photography classes తీసుకున్నాడు. "Just ఒక weekend కోసం అక్కడికి fly అయితే, మేము probably some nicer photos తీయగలుగుతామని bet చేయడానికి willing గా ఉన్నాను. మేము charge చేయము. For free చేస్తాము."
 
-Joe had taken some photography classes while he was enrolled at RISD.
-
----
-
-వాళ్లు weekend కోసం అక్కడికి fly చేసి nicer photos తీస్తే, అది పని చేస్తుందని Joe bet చేయడానికి సిద్ధంగా ఉన్నాడు.
-
-He was “willing to bet that if we just flew out there for a weekend, we could probably take some nicer photos.”
+Joe had taken some photography classes while he was enrolled at RISD. He was “willing to bet that if we just flew out there for a weekend, we could probably take some nicer photos. We wouldn’t charge them for it. We’d do it for free.”
 
 ---
 
-వాళ్లు hosts నుండి charge చేయరు; free గా చేస్తారు.
+So Brian, Joe New York కి plane ఎక్కారు, really nice camera rent చేసారు, వాళ్ల thirty New York City-based hosts అందరికీ తమ offer తో email చేసారు, తరువాత city ఐదు boroughs across door-to-door వెళ్లారు: Brian and Joe as Airbnb co-founders. Joe also as their professional in-house photographer.
 
-“We wouldn’t charge them for it. We’d do it for free.”
-
----
-
-అందుకే Brian మరియు Joe New York కి plane ఎక్కి, nice camera rent చేసి, New York City లోని thirty hosts కు offer email చేశారు.
-
-So Brian and Joe got on a plane to New York, rented a really nice camera, emailed all thirty of their New York City–based hosts with their offer.
+So Brian and Joe got on a plane to New York, rented a really nice camera, emailed all thirty of their New York City–based hosts with their offer, and then went door-to-door across the city’s five boroughs: Brian and Joe as Airbnb co-founders. Joe also as their professional in-house photographer.
 
 ---
 
-తర్వాత వారు city’s five boroughs అంతా door-to-door తిరిగారు: Brian మరియు Joe Airbnb co-founders గా, Joe professional in-house photographer గా.
+అతను తీసిన photos very good గా వచ్చాయి. "నేను lighting correct చేస్తున్నాను, composition. Place ని కొంచెం stage చేస్తున్నాను, camera back మీద photos show చేస్తున్నాను, ఈ hosts ‘Oh my God, my apartment looks amazing, I can’t believe it! Do you want to stay for some tea or coffee?’ అని అంటున్నారు."
 
-and then went door-to-door across the city’s five boroughs: Brian and Joe as Airbnb co-founders. Joe also as their professional in-house photographer.
-
----
-
-Joe తీసిన photos చాలా మంచివి అయ్యాయి.
-
-And the photos he ended up taking were very good.
+And the photos he ended up taking were very good. “I’m getting the lighting right, the composition,” he explained. “I’m kind of staging the place a little bit, and I show the photos on the back of the camera, and these hosts are like, ‘Oh my God, my apartment looks amazing, I can’t believe it! Do you want to stay for some tea or coffee?’”
 
 ---
 
-Lighting, composition సరిగ్గా పెట్టి, place ను కొంచెం staging చేసి, camera back లో photos చూపించేవాడు.
+Of course వాళ్లు yes అని అంటారు, మరియు కొన్ని cases లో, వాళ్ల earliest adopters homes లో hours spending end అయ్యేవారు — వాళ్ల lives, website తో experiences గురించి మాట్లాడుతూ.
 
-“I’m getting the lighting right, the composition,” he explained. “I’m kind of staging the place a little bit, and I show the photos on the back of the camera.”
-
----
-
-Hosts తమ apartment amazing గా కనిపిస్తోందని ఆశ్చర్యపడి, tea లేదా coffee కోసం ఉండమని అడిగేవారు.
-
-“and these hosts are like, ‘Oh my God, my apartment looks amazing, I can’t believe it! Do you want to stay for some tea or coffee?’”
+Of course they’d say yes, and end up spending, in some cases, hours in the homes of their earliest adopters, talking to them about their lives and their experiences with the website.
 
 ---
 
-వాళ్లు অবশ্য yes అని చెప్పి, కొన్నిసార్లు earliest adopters homes లో గంటల తరబడి గడిపారు.
-
-Of course they’d say yes, and end up spending, in some cases, hours in the homes of their earliest adopters.
-
----
-
-వాళ్ల lives గురించి, website తో experiences గురించి వాళ్లతో మాట్లాడారు.
-
-talking to them about their lives and their experiences with the website.
-
----
-
-ఇది Brian మరియు Joe ను Joe చెప్పిన “design research mode” లోకి నెట్టింది.
+ఇది Brian and Joe ని Joe call చేసిన "design research mode" లోకి push చేసింది.
 
 It pushed Brian and Joe right into what Joe called “design research mode.”
 
 ---
 
-Living room లో hosts laptop తీస్తే, calendar ఎలా check చేస్తారో, guests తో message ఎలా చేస్తారో చూపించమని Joe అడిగేవాడు.
+"So here we are in the living room, they pull out their laptop, and I say, ‘Could you show me how you check your calendar?’ ‘Show me how you message with guests?’" అని Joe గుర్తు చేసుకున్నాడు. "మరియు ఆ moments లో, మా perfectly designed interface completely and utterly fail అవుతుందో మేము చూస్తున్నాం. మాకు రెండు లేదా మూడు clicks అని అనిపించినది, people కి ten లేదా twelve clicks అవసరమయ్యాయి. వాళ్లు మా own website లో stumble అవుతూ, lost అవుతున్నారు."
 
-“So here we are in the living room, they pull out their laptop, and I say, ‘Could you show me how you check your calendar?’ ‘Show me how you message with guests?’” Joe recalled.
-
----
-
-ఆ moments లో, వాళ్ల perfectly designed interface పూర్తిగా failed అయిందని వాళ్లు చూశారు.
-
-“And in those moments, we see how our perfectly designed interface completely and utterly failed.”
+“So here we are in the living room, they pull out their laptop, and I say, ‘Could you show me how you check your calendar?’ ‘Show me how you message with guests?’” Joe recalled. “And in those moments, we see how our perfectly designed interface completely and utterly failed. What we thought took only two or three clicks, people needed ten or twelve clicks [to accomplish]. They were stumbling around, getting lost within our own website.”
 
 ---
 
-వాళ్లు two or three clicks అనుకున్నది, people కు accomplish చేయడానికి ten or twelve clicks అవసరమైంది.
-
-“What we thought took only two or three clicks, people needed ten or twelve clicks [to accomplish].”
-
----
-
-Users వారి own website లోనే stumbling around చేస్తూ, lost అవుతున్నారు.
-
-“They were stumbling around, getting lost within our own website.”
-
----
-
-Worst part ఏమిటంటే, New York weekend వరకూ Joe, Brian, Nate కు ఇది issue అని తెలియదు.
+Joe, Brian, Nate ki worst of all ఏంటంటే — 2009 first cold months లో ఆ fateful weekend New York లోకి వరకు, ఇది ఒక issue అని వాళ్లకి idea లేదు.
 
 Worst of all for Joe, Brian, and Nate was that up until that fateful weekend in New York, in the first cold months of 2009, they had no idea this was an issue.
 
 ---
 
-కానీ ఒకసారి తెలుసుకున్నాక, అది jackpot లాంటిదైంది.
+"But once we did, it was like a jackpot," అని Joe అన్నాడు. "Discoveries అన్నీ తీసుకుని వచ్చి వాటి కోసం design చేసాము, second week లో మా numbers $200 a week in fees నుండి — ఇది ఆరు months గా make చేస్తున్నది, not sustainable — three guys San Francisco లో దాన్ని live చేయలేరు — to $400 in one week."
 
-“But once we did, it was like a jackpot,” Joe said.
-
----
-
-వాళ్లు discoveries తో తిరిగి వచ్చి, వాటి కోసం design చేశారు.
-
-“We came back with all of our discoveries and designed for them.”
+“But once we did, it was like a jackpot,” Joe said. “We came back with all of our discoveries and designed for them, and our numbers that second week went from $200 a week in fees, which is what we were making for six months and was not sustainable—three guys cannot live off of that in San Francisco—to $400 in one week.”
 
 ---
 
-ఆ second week లో numbers $200 per week fees నుండి $400 కు doubled అయ్యాయి.
-
-“and our numbers that second week went from $200 a week in fees, which is what we were making for six months and was not sustainable—three guys cannot live off of that in San Francisco—to $400 in one week.”
-
----
-
-వారి numbers doubled అయ్యాయి.
+వాళ్ల numbers double అయ్యాయి.
 
 Their numbers doubled.

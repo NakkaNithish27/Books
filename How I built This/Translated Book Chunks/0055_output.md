@@ -1,141 +1,50 @@
-Telugu
-చివరికి, 2015 lateలో, How I Built This idea‌ను NPR’s head of programming Anya Grundmann‌కి pitch చేశాను — podcasting worldలో true visionary, NPR’s podcast revolution architect.
-
-English
-Finally, in late 2015, I pitched the idea for How I Built This to NPR’s head of programming, Anya Grundmann—a true visionary in the world of podcasting and the architect of NPR’s podcast revolution.
-
+Finally, late 2015 లో, NPR's head of programming Anya Grundmann కి—podcasting world లో true visionary (దూరదృష్టి కలిగిన), NPR's podcast revolution architect (నిర్మాత)—How I Built This idea ని నేను pitch చేశాను.
+Finally, in late 2015, I pitched the idea for How I Built This to NPR's head of programming, Anya Grundmann—a true visionary in the world of podcasting and the architect of NPR's podcast revolution.
 ---
-
-Telugu
-Ramtin Arablouei అనే DJ-producer సహాయంతో నేను nights మరియు weekends‌లో showపై work చేశాను.
-
-English
+నేను show మీద Ramtin Arablouei అన్న DJ-producer help తో—nights మరియు weekends లో work చేశాను.
 I worked on the show at night and on weekends with the help of a DJ-producer named Ramtin Arablouei.
-
 ---
-
-Telugu
-Ramtin ఇప్పుడు NPRకి చెందిన another program, Throughline, co-host చేస్తున్నాడు.
-
-English
+(Ramtin ఇప్పుడు మరో NPR program Throughline ని co-host చేస్తున్నాడు.)
 (Ramtin now co-hosts another NPR program, Throughline.)
-
 ---
-
-Telugu
-నా editor Neva Grant, నా raw interviews‌ను episodes‌గా craft చేయడంలో మాకు help చేసింది.
-
-English
+నా editor Neva Grant, నా raw interviews ని episodes గా craft చేయడంలో మాకు help చేసింది.
 My editor, Neva Grant, helped us craft my raw interviews into episodes.
-
 ---
-
-Telugu
-మా senior producer Jeff Rogers మాకు crucial feedback మరియు support ఇచ్చారు, నా longtime collaborator Sanaz Meshkinpourతో పాటు, producers Casey Herman మరియు Rund Abdelfatahతో పాటు.
-
-English
-Jeff Rogers, our senior producer, gave us crucial feedback and support, along with my longtime collaborator Sanaz Meshkinpour, and producers Casey Herman and Rund Abdelfatah
-
+Senior producer Jeff Rogers, longtime collaborator Sanaz Meshkinpour తో పాటు, మరి producers Casey Herman మరియు Rund Abdelfatah (NPR's Throughline co-host) crucial feedback మరియు support ఇచ్చారు.
+Jeff Rogers, our senior producer, gave us crucial feedback and support, along with my longtime collaborator Sanaz Meshkinpour, and producers Casey Herman and Rund Abdelfatah (the other co-host of NPR's Throughline).
 ---
-
-Telugu
-Rund Abdelfatah NPR’s Throughline యొక్క other co-host.
-
-English
-(the other co-host of NPR’s Throughline).
-
----
-
-Telugu
-Show work అవుతుందా, దానికి shot ఇవ్వాలా అన్న విషయంలో NPRలో healthy — మరియు justified — skepticism ఉండేది.
-
-English
+Show work అవుతుందో లేదో, దానికి chance ఇవ్వాలో లేదో అని NPR లోపల healthy (and justified) skepticism (సందేహం) ఉంది.
 There was healthy (and justified) skepticism within NPR over whether the show would work and whether to give it a shot.
-
 ---
-
-Telugu
-కానీ దాదాపు ఒక సంవత్సరం earnestగా ఆ ideaను pursue చేసిన తర్వాత, మేము showను get off the ground చేయగలిగాం.
-
-English
+కానీ ఆ idea ని earnest గా (పూర్తి seriousness తో) దాదాపు ఒక year pursue చేశాక, మేము show ని ground నుంచి బయటకి తీయగలిగాం (అంటే launch చేయగలిగాం).
 But after almost a year of pursuing the idea in earnest, we were able to get the show off the ground.
-
 ---
-
-Telugu
-2016లో debut అయిన నాలుగు సంవత్సరాల తర్వాత, How I Built Thisకు incredibly talented team మరియు millions of weekly listeners ఉన్నారు.
-
-English
+Today, 2016 debut నుంచి four years తర్వాత, How I Built This కి incredibly talented team మరియు millions of weekly listeners ఉన్నారు.
 Today, four years since its debut in 2016, How I Built This has an incredibly talented team and millions of weekly listeners.
-
 ---
-
-Telugu
-మీరు నా voice మరియు నా interviews విన్నప్పటికీ, podcast మరియు live events వెనుక ఉన్న amazing team — past and present — Jed Anderson, Sequoia Carrillo, Elaine Coates, James Delahoussaye, Rachel Faulkner, Jessica Goldstein, J. C. Howard, John Isabella, Candice Lim, Diba Mohtasham, Allie Prescott, Daniel Shukhin, మరియు Jinae West‌లను కూడా కలిగి ఉంది.
-
-English
+మీరు నా voice, నా interviews వింటారు—కానీ podcast మరియు live events వెనుక ఉన్న amazing team (past and present) లో Jed Anderson, Sequoia Carrillo, Elaine Coates, James Delahoussaye, Rachel Faulkner, Jessica Goldstein, J. C. Howard, John Isabella, Candice Lim, Diba Mohtasham, Allie Prescott, Daniel Shukhin, మరియు Jinae West ఉన్నారు.
 Though you hear my voice and my interviews, the amazing team (past and present) behind the podcast and our live events includes Jed Anderson, Sequoia Carrillo, Elaine Coates, James Delahoussaye, Rachel Faulkner, Jessica Goldstein, J. C. Howard, John Isabella, Candice Lim, Diba Mohtasham, Allie Prescott, Daniel Shukhin, and Jinae West.
-
 ---
-
-Telugu
 Books lots of help లేకుండా happen కావు.
-
-English
-Books don’t happen without lots of help.
-
+Books don't happen without lots of help.
 ---
-
-Telugu
-నా dear friend and mentor Sara Sarasohn‌కి, ఆమె wife Ellen Evangeliste‌కి, వారి daughter Ruth‌కి, అలాగే Yangchen Dolma‌కి నేను ఎంతో thankfulగా ఉన్నాను; గత రెండు సంవత్సరాల్లో ఎన్నో occasionsలో వాళ్లు మాకు తోడుగా ఉన్నారు.
-
-English
-I’m so thankful for my dear friend and mentor Sara Sarasohn; her wife, Ellen Evangeliste; and their daugther, Ruth; along with Yangchen Dolma, who have been there for us on so many occasions over the past two years.
-
+నా dear friend and mentor Sara Sarasohn; ఆమె wife Ellen Evangeliste; మరియు వాళ్ల daughter Ruth; Yangchen Dolma తో పాటు—past two years లో అనేక occasions లో మాకోసం ఉన్న వీళ్లకి నేను so thankful.
+I'm so thankful for my dear friend and mentor Sara Sarasohn; her wife, Ellen Evangeliste; and their daughter, Ruth; along with Yangchen Dolma, who have been there for us on so many occasions over the past two years.
 ---
-
-Telugu
-నా mom and dad‌కి కూడా thanks.
-
-English
+నా mom మరియు dad కి కూడా thanks.
 Thanks also to my mom and dad.
-
 ---
-
-Telugu
-వాళ్లు early 1970sలో ఈ countryకి better life build చేయాలనే dreamతో వచ్చారు.
-
-English
+Better life build చేయాలన్న dream తో early 1970s లో వాళ్లు ఈ country కి వచ్చారు.
 They came to this country in the early 1970s with a dream to build a better life.
-
 ---
-
-Telugu
-వాళ్లు four kids‌ను raise చేశారు, మాకు independence tools అన్నీ ఇచ్చారు, nurturing childhood support ఇచ్చారు.
-
-English
+వాళ్లు ఇద్దరు boys తో పాటు మొత్తం నలుగురు kids ని పెంచారు, independence యొక్క tools మరియు nurturing childhood (పెంపొందించే, ప్రేమతో పెంచిన childhood) యొక్క support అన్నీ మాకు ఇచ్చారు.
 They raised four kids and gave us all the tools of independence and the support of a nurturing childhood.
-
 ---
-
-Telugu
-చివరికి, ఈ process అంతటా నా wife Hannahకి మరియు నా boys Henry, Bram‌కి వారి love మరియు understanding కోసం నా deepest thanks.
-
-English
+చివరికి, ఈ process అంతటిలో love and understanding ఇచ్చిన నా wife Hannah, నా boys Henry మరియు Bram కి నా deepest thanks.
 Finally, my deepest thanks to my wife, Hannah, and my boys, Henry and Bram, for their love and understanding throughout this process.
-
 ---
-
-Telugu
-ఈ bookలో నేను రాసినట్టుగా, నేను luck‌పై big believerను.
-
-English
-As I’ve written in this book, I’m a big believer in luck.
-
+ఈ book లో నేను రాసినట్లుగా, నేను luck మీద big believer.
+As I've written in this book, I'm a big believer in luck.
 ---
-
-Telugu
-మరియు నా lifeలో luckiest day, నేను Hannahని meet చేసిన day.
-
-English
+మరి నా life లో luckiest day—Hannah ని నేను met చేసిన day.
 And the luckiest day of my life was the day I met Hannah.

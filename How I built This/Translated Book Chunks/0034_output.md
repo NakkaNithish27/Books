@@ -1,861 +1,377 @@
-Telugu
-Initial injunction 1999 లో circumventable అయిన సమయం నుండి litigation 2006 లో conclude అయ్యే వరకు, Dippin’ Dots leaps and bounds గా grow అయింది.
-
-English
-Between the time the initial injunction became circumventable in 1999 and the litigation concluded in 2006, Dippin’ Dots grew by leaps and bounds.
+1999 లో initial injunction circumventable (పక్కకి తప్పించుకోగలిగేది) అయిన time నుంచి 2006 లో litigation conclude అయ్యే వరకు, Dippin' Dots leaps and bounds (extremely fast steps) తో grew అయ్యింది.
+Between the time the initial injunction became circumventable in 1999 and the litigation concluded in 2006, Dippin' Dots grew by leaps and bounds.
 
 ---
 
-Telugu
-అప్పటికి, Curt patent ను flagrantly exploit చేస్తున్న ఒక్క competitor Dippin’ Dots పై పెద్దగా ప్రభావం చూపుతున్నట్టుగా కనిపించలేదు.
-
-English
-By then, one competitor flagrantly exploiting Curt’s patent didn’t seem to be affecting Dippin’ Dots much at all.
+అప్పటికి, ఒక competitor flagrantly (openly and shamelessly) Curt patent ని exploit చేస్తున్నా అది Dippin' Dots ని much affect చేస్తున్నట్టు అనిపించలేదు.
+By then, one competitor flagrantly exploiting Curt's patent didn't seem to be affecting Dippin' Dots much at all.
 
 ---
 
-Telugu
-మరియు business గా దాని sturdiness దాదాపు పూర్తిగా brand strength వల్లనే వచ్చిందని నేను argue చేస్తాను.
-
-English
+అలాగే ఒక business గా దాని sturdiness (strong durability)—almost entirely brand strength వల్లే అని నేను argue చేస్తాను.
 And its sturdiness as a business, I would argue, was due almost entirely to its strength as a brand.
 
 ---
 
-Telugu
-అదీ leading brand.
-
-English
+A leading brand, no less.
 A leading brand, no less.
 
 ---
 
-Telugu
-ఇదే Randy Hetrick sue చేసిన decision ను Curt decision నుండి differentiate చేస్తుంది.
-
-English
-This is what differentiates Randy Hetrick’s decision to sue from Curt’s.
+ఇది Randy Hetrick sue చేయాలని decision ని Curt decision నుండి differentiate (వేరుగా చూపించడం) చేసేది.
+This is what differentiates Randy Hetrick's decision to sue from Curt's.
 
 ---
 
-Telugu
-Curt కూడా Randy లాగే తన intellectual property ను defend చేస్తున్నాడు, అది rightfully so.
-
-English
-While Curt was defending his intellectual property just like Randy was, and rightfully so.
+Curt, Randy లాగే తన intellectual property defend చేస్తున్నాడు—rightfully so—కానీ existential threat (ఉనికినే threaten చేసే ముప్పు) నుండి defend చేసుకోకుండా, తను actually build చేసిన thing—brand, business—ని existential risk కి expose చేశాడు. Randy మాత్రం existential threat నుండి defend చేసుకున్నాడు.
+While Curt was defending his intellectual property just like Randy was, and rightfully so, he ended up exposing the thing he actually built—the brand, the business—to an existential risk instead of defending it from an existential threat, as Randy did.
 
 ---
 
-Telugu
-కానీ చివరికి, అతను నిజంగా build చేసిన thing — brand, business — ను existential risk కు expose చేశాడు.
-
-English
-He ended up exposing the thing he actually built—the brand, the business—to an existential risk.
-
----
-
-Telugu
-Randy చేసినట్లుగా existential threat నుండి defend చేయడం బదులుగా.
-
-English
-Instead of defending it from an existential threat, as Randy did.
-
----
-
-Telugu
-Best intentions తో కూడా, Curt ఎందుకు sue చేస్తున్నాడో, నిజంగా protect చేయాల్సింది ఏమిటో sight కోల్పోయాడు.
-
-English
+Best of intentions తోనే Curt—తను ఎందుకు sue చేస్తున్నాడో, actually protection ఏది అవసరమో—lost sight (కంటి ముందు ఉండే విషయాన్ని miss చేయడం) అయ్యాడు.
 With the best of intentions, Curt lost sight of why he was suing and what actually needed protection.
 
 ---
 
-Telugu
-ఇక్కడ key విషయం ఇదే: Curt ఇంకా ఈ storm ను weather చేసి, hindsight లో strategic misstep అయిన దాన్ని survive చేయగలిగేవాడు.
-
-English
-Now here’s the key: Curt still could have weathered this storm and survived what in hindsight was a strategic misstep.
+Now here's the key: Curt ఇంకా ఈ storm ని weather (కష్టమైన పరిస్థితి తట్టుకొని పక్కకు పోవడం) చేయగలిగే వాడు, hindsight (తరువాత చూస్తే) లో strategic misstep (వ్యూహాత్మక తప్పడుగు) అయిన దాన్ని survive చేసేవాడు.
+Now here's the key: Curt still could have weathered this storm and survived what in hindsight was a strategic misstep.
 
 ---
 
-Telugu
-2006 లో, lawsuit conclude అయిన అదే year, Dippin’ Dots తన best year to date చేసింది, $47 million sales తో.
-
-English
-In 2006, the year the lawsuit concluded, Dippin’ Dots had its best year to date, doing $47 million in sales.
+2006—lawsuit conclude అయిన year—Dippin' Dots తన best year to date కలిగి ఉంది, $47 million sales doing.
+In 2006, the year the lawsuit concluded, Dippin' Dots had its best year to date, doing $47 million in sales.
 
 ---
 
-Telugu
-కానీ తర్వాత అతని చుట్టూ ఉన్న world unravel అవడం ప్రారంభమైంది.
-
-English
+Except then అతని చుట్టూ ఉన్న ప్రపంచం unravel (gradually undo) అవ్వడం start అయ్యింది.
 Except then the world around him started to unravel.
 
 ---
 
-Telugu
-Milk prices 34 percent పెరిగాయి.
-
-English
-Milk prices went up by 34 percent.
+Milk prices 34 percent పెరిగాయి. Fuel prices పెరిగాయి. Liquid nitrogen prices కూడా 10 percent పెరిగాయి.
+Milk prices went up by 34 percent. Fuel prices went up. Even liquid nitrogen prices increased by 10 percent.
 
 ---
 
-Telugu
-Fuel prices పెరిగాయి.
-
-English
-Fuel prices went up.
+"All of a sudden, almost అదే sales మీద—last year మాదిరి—మేము నికర two లేదా three million dollars in profits నుండి loss కి వచ్చాము," అని Curt అన్నాడు.
+"All of a sudden, on almost the same sales we had the year before, we went from a net of two or three million dollars in profits to a loss," Curt said.
 
 ---
 
-Telugu
-Liquid nitrogen prices కూడా 10 percent పెరిగాయి.
-
-English
-Even liquid nitrogen prices increased by 10 percent.
+దాని పైన, వాళ్ళు ఇప్పుడు $13 లేదా $14 million debt load (అప్పుల మోత) carry చేస్తున్నారు—వాళ్ళు normally carry చేసే debt కి రెండింతలు—lawyers' fees ఇంకా pay చేయాలి కాబట్టి.
+On top of that, they now carried a $13 or $14 million debt load—twice the amount of debt they normally carried, thanks to the lawyers' fees they still had to pay.
 
 ---
 
-Telugu
-Curt చెప్పినట్లుగా, “అదే previous year sales దగ్గర ఉండగానే, రెండు లేదా మూడు million dollars profit నుండి loss కు వెళ్లిపోయాం.”
-
-English
-“All of a sudden, on almost the same sales we had the year before, we went from a net of two or three million dollars in profits to a loss,” Curt said.
-
----
-
-Telugu
-అదికాక, lawyers’ fees వల్ల వాళ్లకు ఇంకా pay చేయాల్సిన $13 లేదా $14 million debt load ఉండేది.
-
-English
-On top of that, they now carried a $13 or $14 million debt load—twice the amount of debt they normally carried, thanks to the lawyers’ fees they still had to pay.
-
----
-
-Telugu
-అప్పుడు global financial crisis hit అయింది, ఆ note due అవుతున్న సమయానికే.
-
-English
+తరువాత global financial crisis hit అయ్యింది—ఆ note due అవుతున్న time లోనే.
 Then the global financial crisis hit, just as that note came due.
 
 ---
 
-Telugu
-Curt సంవత్సరాలుగా పని చేస్తున్న local bank, debt pay off చేయడానికి లేదా restructure చేయడానికి మూడు నెలల extension ఇచ్చింది.
-
-English
-The local bank Curt had been working with for years gave Dippin’ Dots a three-month extension to figure out a way to either pay off or restructure the debt.
+Curt years గా work చేస్తున్న local bank, debt ని pay off చేయడానికి లేదా restructure చేయడానికి way figure out చేయడానికి Dippin' Dots కి మూడు నెలల extension ఇచ్చింది.
+The local bank Curt had been working with for years gave Dippin' Dots a three-month extension to figure out a way to either pay off or restructure the debt.
 
 ---
 
-Telugu
-కానీ ఆ మూడు నెలల్లో financial crisis మరింత worse అయింది.
-
-English
-But during those three months, the financial crisis got appreciably worse.
+కానీ ఆ మూడు నెలల్లో financial crisis appreciably worse అయ్యింది. ఆ environment లో, ప్రతిదీ upside down (తలకిందులు) అవుతున్నా, bank తన purse strings (డబ్బు పెట్టె ముడులు) tighten చేయాలని decide చేసింది—open, helping hand గా ఉండేదాన్ని ఒక fist (పిడికిలి) గా close చేసి, దానితో Curt ని gut (కడుపు) లో punch చేసింది.
+But during those three months, the financial crisis got appreciably worse, and in that environment, with everything going upside down, the bank decided to tighten its purse strings and close what used to be an open, helping hand into a fist, with which it punched Curt right in the gut.
 
 ---
 
-Telugu
-ఆ environment లో, అన్నీ upside down అవుతుండగా, bank తన purse strings tighten చేసి, open helping hand ను fist గా మార్చి Curt ను gut లో punch చేసింది.
-
-English
-And in that environment, with everything going upside down, the bank decided to tighten its purse strings and close what used to be an open, helping hand into a fist, with which it punched Curt right in the gut.
+1987 stock market crash wake లో Gary Hirshberg and Stonyfield Farm కి జరిగినట్టు, Dippin' Dots extension expire అయ్యి, payment due అయిన రోజు, Curt's bank తనకు default లో ఉన్నాడని, అందువల్ల bank తో ఉన్న ఇతర అన్ని loans కూడా default లో ఉన్నాయని email పంపింది.
+Not unlike what happened to Gary Hirshberg and Stonyfield Farm in the wake of the 1987 stock market crash, the day Dippin' Dots' extension expired and the payment was due, Curt's bank sent an email informing him that he was in default and that therefore all his other loans with the bank were also in default.
 
 ---
 
-Telugu
-Dippin’ Dots extension expire అయి payment due అయిన రోజున, bank email పంపి, అతను default లో ఉన్నాడని, అందువల్ల bank తో ఉన్న అతని other loans కూడా default లో ఉన్నాయని తెలిపింది.
-
-English
-The day Dippin’ Dots’ extension expired and the payment was due, Curt’s bank sent an email informing him that he was in default and that therefore all his other loans with the bank were also in default.
-
----
-
-Telugu
-Curt తర్వాతి మూడు సంవత్సరాలు పోరాడాడు.
-
-English
+Curt next మూడు years fight చేశాడు.
 Curt fought for the next three years.
 
 ---
 
-Telugu
-Creditors తో పోరాడాడు.
-
-English
-He fought creditors.
+అతను creditors తో fight చేశాడు. Sales decline అవుతున్నప్పుడు market తో fight చేశాడు.
+He fought creditors. He fought the market as sales declined.
 
 ---
 
-Telugu
-Sales decline అవుతున్న market తో పోరాడాడు.
-
-English
-He fought the market as sales declined.
+People వాళ్ళ own loans default అవ్వడం గురించి worry చేయవలసిన time లో, వాళ్ళు అంత novelty (కొత్తరకం) ice cream buy చేయలేదు.
+People didn't buy as much novelty ice cream when they had to worry about their own loans defaulting.
 
 ---
 
-Telugu
-People తమ స్వంత loans default అవుతాయేమో అని worry చేస్తున్నప్పుడు novelty ice cream అంతగా కొనలేదు.
-
-English
-People didn’t buy as much novelty ice cream when they had to worry about their own loans defaulting.
-
----
-
-Telugu
-అతను bank కు pay చేయగలిగినంత pay చేశాడు, తరచుగా exorbitant credit-card–style interest rates వద్ద.
-
-English
+అతను bank కి తనకు సాధ్యమైన amount pay చేశాడు—often exorbitant (అతిగా ఎక్కువ) credit-card-style interest rates మీద.
 He paid what he could to the bank, often at exorbitant credit-card–style interest rates.
 
 ---
 
-Telugu
-Company alive గా ఉంచడానికి చేయగలిగిన ప్రతిదీ చేశాడు.
-
-English
+Company ని alive గా ఉంచడానికి తను చేయగలిగినది అన్నీ చేశాడు.
 He did whatever he could to keep the company alive.
 
 ---
 
-Telugu
-Curt చెప్పినట్లుగా, “మేము walk away అయి okay గా ఉండగలిగేవాళ్లం.”
-
-English
-“We could’ve walked away and been okay,” Curt said.
+"We could've walked away and been okay," అని Curt అన్నాడు, "కానీ Illinois state లో second-poorest county లో ఉన్న farm మీద నేను grow up అయ్యాను. ఆ area లో మీరు farming చేయకపోతే, teacher గా ఉండొచ్చు, లేదా prison లో work చేయొచ్చు, but not much else. మాకు 200 employees ఉన్నారు. ఆ area కి 200 jobs మేము provide చేశాము. So things bad అయినప్పుడు, మేము company ని alive గా ఉంచడానికి మా personal assets లో చాలా back into the business పెట్టాము. 'ఈ time ని just దాటాలి, everything's going to be better' అని thinking అని guess చేస్తున్నాను."
+"We could've walked away and been okay," Curt said, "but I grew up on a farm in the second-poorest county in the state of Illinois. In that area, if you weren't farming, you could be a teacher or you could work at the prison, but not much else. We had 200 employees. We provided 200 jobs for that area. So when things got bad, we put a lot of our personal assets back into the business to keep it alive. I guess we were thinking, 'We've just got to get through this, and everything's going to be better.'"
 
 ---
 
-Telugu
-కానీ అతను Illinois లో రెండవ పేద county లో farm పై పెరిగాడు; ఆ area లో farming కాకపోతే teacher అవ్వాలి, prison లో పని చేయాలి, అంతకంటే చాలా options లేవు.
-
-English
-“But I grew up on a farm in the second-poorest county in the state of Illinois. In that area, if you weren’t farming, you could be a teacher or you could work at the prison, but not much else.”
-
----
-
-Telugu
-వారికి 200 employees ఉన్నారు.
-
-English
-“We had 200 employees.”
-
----
-
-Telugu
-ఆ area కి వారు 200 jobs ఇచ్చారు.
-
-English
-“We provided 200 jobs for that area.”
-
----
-
-Telugu
-అందుకే things bad అయ్యినప్పుడు, business alive గా ఉంచడానికి వారు తమ personal assets లో చాలా పెట్టారు.
-
-English
-“So when things got bad, we put a lot of our personal assets back into the business to keep it alive.”
-
----
-
-Telugu
-వాళ్లు అనుకున్నది: “ఇది somehow get through అవ్వాలి, తర్వాత అన్నీ better అవుతాయి.”
-
-English
-“I guess we were thinking, ‘We’ve just got to get through this, and everything’s going to be better.’”
-
----
-
-Telugu
-కొంతకాలం, అది నిజమే అవుతుందేమో అనిపించింది.
-
-English
+For a while, అలా అవుతుందని అనిపించింది.
 For a while, it seemed like it would.
 
 ---
 
-Telugu
-Curt చెప్పినట్లుగా, late 2007 నుండి recession మరియు low sales ఉన్న hardest times దాటి 2010 వరకు వారు actually survive చేశారు.
-
-English
-“We had actually survived from late 2007, during some of the hardest times with the recession and low sales [through 2010],” he said.
+"మేము actually late 2007 నుంచి—recession అత్యంత hard time లో, low sales తో [2010 వరకు]—survive అయ్యాము," అని అతను అన్నాడు.
+"We had actually survived from late 2007, during some of the hardest times with the recession and low sales [through 2010]," he said.
 
 ---
 
-Telugu
-2011 లో, వారు నిజంగా ఈ స్థితి నుండి dig their way out అవుతామని అనిపించింది.
-
-English
-“In 2011, we actually felt like we were going to dig our way out of this.”
+"2011 లో, మేము actually మన dig our way out of this (కష్టం నుంచి బయటకు రావడం) చేయగలమని feel అయ్యాము."
+"In 2011, we actually felt like we were going to dig our way out of this."
 
 ---
 
-Telugu
-అప్పుడు bank వారిని foreclosure లోకి పెట్టింది.
-
-English
-And then the bank put them into foreclosure.
+అప్పుడే bank వాళ్ళను foreclosure (default loan వల్ల property తీసుకోవడం) లోకి పెట్టింది. ఇది Curt మరియు Dippin' Dots ని Chapter 11 bankruptcy file చేయమని force చేసింది—pride and principle మీద తన debts pay చేసే old-school guy గా, Curt తను ఎప్పటికీ చేయనని అనుకున్నది.
+And then the bank put them into foreclosure, which forced Curt and Dippin' Dots to file for Chapter 11 bankruptcy—something, as an old-school guy who paid his debts as a matter of pride and principle, Curt thought he would never do.
 
 ---
 
-Telugu
-దాంతో Curt మరియు Dippin’ Dots Chapter 11 bankruptcy file చేయాల్సి వచ్చింది.
-
-English
-Which forced Curt and Dippin’ Dots to file for Chapter 11 bankruptcy.
-
----
-
-Telugu
-తన debts ను pride మరియు principle గా pay చేసే old-school guy అయిన Curt, తాను ఎప్పుడూ చేయనని అనుకున్న పని అది.
-
-English
-Something, as an old-school guy who paid his debts as a matter of pride and principle, Curt thought he would never do.
-
----
-
-Telugu
-అప్పుడే company Curt నుండి నిజంగా slip away అవడం ప్రారంభమైంది, Ballbarrow James Dyson నుండి gradually slip away అయినట్లే.
-
-English
+అప్పుడే company really Curt నుండి slip away (నెమ్మదిగా జారిపోవడం) అవ్వడం start అయ్యింది—Ballbarrow James Dyson నుండి gradually slip away అయిన మాదిరి.
 It was then that the company really began to slip away from Curt, much the way Ballbarrow gradually slipped away from James Dyson.
 
 ---
 
-Telugu
-Dippin’ Dots bankruptcy protection file చేసిన మూడు రోజులకు, Mark మరియు Scott Fischer అనే father-son duo investors గా రావాలనే interest చూపించారు.
-
-English
-Three days after Dippin’ Dots filed for bankruptcy protection, a father-son duo named Mark and Scott Fischer reached out to express interest in coming aboard as investors.
+Dippin' Dots bankruptcy protection file చేసిన మూడు రోజులకి, Mark and Scott Fischer అన్న father-son duo investors గా రావాలని interest express చేస్తూ reach out అయ్యారు.
+Three days after Dippin' Dots filed for bankruptcy protection, a father-son duo named Mark and Scott Fischer reached out to express interest in coming aboard as investors.
 
 ---
 
-Telugu
-వారికి Chaparral Energy అనే family oil concern ఉంది.
-
-English
-They owned a family oil concern called Chaparral Energy.
+వాళ్ళకి Chaparral Energy అన్న family oil concern ఉండేది, దాని నుండి కొంత divest (పెట్టుబడి తీసివేయడం) చేసి, ఆ money ని ఇతర places లో పెట్టుబడి పెట్టాలని వాళ్ళు plan చేస్తున్నారు.
+They owned a family oil concern called Chaparral Energy, and they were planning on divesting from it a bit and putting some of that money to work in other places.
 
 ---
 
-Telugu
-దాని కొంత భాగం divest చేసి, ఆ money ను ఇతర places లో put to work చేయాలని వారు plan చేస్తున్నారు.
-
-English
-And they were planning on divesting from it a bit and putting some of that money to work in other places.
-
----
-
-Telugu
-Bankruptcy లో తనను తాను ఎప్పుడూ imagine చేయని, bank years గా sell చేయమని badger చేస్తున్న Curt కు, Fischers fifty-fifty partners గా రావడం very attractive గా అనిపించింది.
-
-English
+Curt కి—తను ఎప్పుడూ bankruptcy లో ఉండుతానని imagine చేయని, bank చేత sell చేయమని years గా badgered (continuously pestered) చేయబడ్డ వ్యక్తికి—Fischers fifty-fifty partners గా రావడం very attractive గా ఉంది.
 To Curt, who had never imagined himself in bankruptcy, who had been getting badgered by the bank for years to sell, the Fischers coming in as fifty-fifty partners was very attractive.
 
 ---
 
-Telugu
-కానీ అది అంత simple అయితే బాగుండేది.
-
-English
+If only it were that simple.
 If only it were that simple.
 
 ---
 
-Telugu
-Curt చెప్పినట్లుగా, Chapter 11 తో వచ్చే restructuring process ద్వారా continue చేయడంలో చాలా positive reasons ఉండేవి.
-
-English
-“There would’ve been a lot of positive reasons to just stick with what I was doing,” Curt said of continuing through the restructuring process that comes with Chapter 11.
+"Chapter 11 తో వచ్చే restructuring process ద్వారా continue అవ్వడంలో చాలా positive reasons ఉండి ఉండేవి," అని Curt అన్నాడు ఆ continuing process గురించి, "కానీ ఇది ఇలా అనిపించింది—Fischers partners గా రావడమే కాదు, వాళ్ళు company లో more money పెట్టడం గురించి, దాన్ని faster గా grow చేయడం గురించి talk చేశారు. వాళ్ళు చాలా right things చెప్పారు."
+"There would've been a lot of positive reasons to just stick with what I was doing," Curt said of continuing through the restructuring process that comes with Chapter 11, "but this seemed like not only would the Fischers come in and be partners, they talked about putting more money into the company, growing it faster. They said a lot of the right things."
 
 ---
 
-Telugu
-కానీ Fischers partners గా రావడమే కాకుండా, company లో మరింత money పెట్టి, దాన్ని faster grow చేయాలనే మాటలు చెప్పడం attractive గా కనిపించింది.
-
-English
-“But this seemed like not only would the Fischers come in and be partners, they talked about putting more money into the company, growing it faster.”
-
----
-
-Telugu
-వారు చాలా right things చెప్పారు.
-
-English
-“They said a lot of the right things.”
-
----
-
-Telugu
-చాలా కాలం కాకముందే, ఆ right things లో చాలావి wrong అయ్యాయి.
-
-English
+Before long, ఆ right things చాలా wrong అయ్యాయి.
 Before long, many of those right things went wrong.
 
 ---
 
-Telugu
-Curt గుర్తు చేసుకున్నట్లుగా, వారి deal worse and worse అవుతూ వచ్చింది.
-
-English
-“My deal with them kept getting worse and worse.”
+"వాళ్ళతో నా deal worse and worse అవుతూ వచ్చింది. Fifty-fifty partner గా ఉండడానికి బదులు, వాళ్ళు ఎక్కువ ownership తీసుకున్నారు—ఎందుకంటే వాళ్ళు కొంత financial risk తీసుకుంటున్నారు," అని Curt Fischers' ఆ time rationale (కారణం) గుర్తుచేస్తూ recall చేశాడు.
+"My deal with them kept getting worse and worse. Instead of being a fifty-fifty partner, they took more of the ownership because they were going to be taking on some of the financial risk," Curt recalled of the Fischers' rationale at the time.
 
 ---
 
-Telugu
-Fifty-fifty partner అవ్వడం బదులుగా, వారు financial risk తీసుకుంటున్నారనే rationale తో ownership లో ఎక్కువ భాగం తీసుకున్నారు.
-
-English
-“Instead of being a fifty-fifty partner, they took more of the ownership because they were going to be taking on some of the financial risk,” Curt recalled of the Fischers’ rationale at the time.
+"అలాగే ఆరు నెలల period లో, deal లో నాకు really no ownership తో end అయ్యాను. వాళ్ళు basically debt కి company ని buy చేశారు, నన్ను మూడు years CEO గా continue చేశారు."
+"And so over about a six-month period, I ended up with really no ownership in the deal. They basically bought the company for the debt and kept me on as CEO for three years."
 
 ---
 
-Telugu
-సుమారు ఆరు నెలల్లో, Curt కు deal లో ownership దాదాపు లేకుండా పోయింది.
-
-English
-“And so over about a six-month period, I ended up with really no ownership in the deal.”
+Curt కి ownership earn-back provisions (తిరిగి earn చేసే రూపం) include చేసిన మూడు-year agreement చివర, Dippin' Dots new owners deal ని renew చేయకూడదని decide చేశారు. Curt officially out (బయట) అయ్యాడు.
+At the end of the three-year agreement, which included ownership earn-back provisions for Curt, Dippin' Dots' new owners chose not to renew the deal. Curt was officially out.
 
 ---
 
-Telugu
-వారు basically debt కోసం company కొనుగోలు చేసి, Curt ను CEO గా మూడు సంవత్సరాలు ఉంచారు.
-
-English
-“They basically bought the company for the debt and kept me on as CEO for three years.”
+మీరు build చేసిన దాన్ని outside threats నుండి protect చేయడం incredibly difficult.
+It's incredibly difficult to protect what you've built from outside threats.
 
 ---
 
-Telugu
-Curt కోసం ownership earn-back provisions ఉన్న three-year agreement ముగిసినప్పుడు, Dippin’ Dots కొత్త owners deal renew చేయకూడదని నిర్ణయించారు.
-
-English
-At the end of the three-year agreement, which included ownership earn-back provisions for Curt, Dippin’ Dots’ new owners chose not to renew the deal.
+Threats inside నుండి వచ్చినప్పుడు—మీకు అత్యంత అవసరం ఉన్న times లో assistance promises తో మీ trust gain చేసుకున్న partners నుండి—అది ఇంకా difficult—ఎందుకంటే వాళ్ళు తరచూ guardian angels (కాపు దేవదూతలు) లాగా, saviors (రక్షకులు) లాగా feel అవ్వగలరు.
+It's even harder when the threats come from the inside, from partners who gain your trust with promises of assistance at times when you need it most, because they can often feel like guardian angels, like saviors.
 
 ---
 
-Telugu
-Curt officially out అయ్యాడు.
-
-English
-Curt was officially out.
-
----
-
-Telugu
-మీరు build చేసినదాన్ని outside threats నుండి protect చేయడం చాలా difficult.
-
-English
-It’s incredibly difficult to protect what you’ve built from outside threats.
-
----
-
-Telugu
-కానీ threats లోపలినుంచి, మీకు అత్యవసరంగా help కావాల్సినప్పుడు assistance promises తో మీ trust గెలిచిన partners నుండి వస్తే, అది ఇంకా harder.
-
-English
-It’s even harder when the threats come from the inside, from partners who gain your trust with promises of assistance at times when you need it most.
-
----
-
-Telugu
-ఎందుకంటే వారు guardian angels లాగా, saviors లాగా అనిపించవచ్చు.
-
-English
-Because they can often feel like guardian angels, like saviors.
-
----
-
-Telugu
-మిమ్మల్ని save చేయడానికి వచ్చిన వ్యక్తి నుండి మీరు ఎలా defend అవుతారు?
-
-English
+మిమ్మల్ని save చేయడానికి వచ్చిన వాడిని ఎలా defend చేయగలరు?
 And how do you defend against someone who has come to save you?
 
 ---
 
-Telugu
-Curt కి తెలియలేదు.
-
-English
-Curt didn’t know.
+Curt కి తెలియదు.
+Curt didn't know.
 
 ---
 
-Telugu
-అతను restructuring process గుండా వెళ్లి ఉంటే, తన company తో బయటకు వచ్చే very good chance ఉండేదని అన్నాడు.
-
-English
-“Had I gone through the restructuring process, I probably would’ve had a very good chance of coming out with my company,” he said.
+"Restructuring process ద్వారా నేను వెళ్ళి ఉండి ఉంటే, నా company తో నేను బయటకి వచ్చే very good chance probably ఉండేది," అని అతను అన్నాడు.
+"Had I gone through the restructuring process, I probably would've had a very good chance of coming out with my company," he said.
 
 ---
 
-Telugu
-కానీ గుర్తుంచుకోండి: వారు చాలా right things చెప్పారు.
-
-English
-But remember: They said a lot of the right things.
+కానీ remember: వాళ్ళు చాలా right things చెప్పారు. మరియు unfortunately, ఆ things ఏదీ చివరికి అతనిని include చేయలేదు.
+But remember: They said a lot of the right things. And unfortunately, none of those things ended up including him.
 
 ---
 
-Telugu
-దురదృష్టవశాత్తూ, ఆ things లో ఏదీ చివరికి అతన్ని include చేయలేదు.
-
-English
-And unfortunately, none of those things ended up including him.
+Business world ఎంత uncertain గా ఉన్నా, మీరు grow, scale అవ్వడానికి prime గా ఉన్న great thing build చేశారని తెలుసుకునే ఒక surefire (definite) way—మీ competitors మిమ్మల్ని copy చేయడం లేదా sue చేయడం—కొన్నిసార్లు రెండూ.
+As uncertain as the business world can be, one surefire way to know you've built something great that is primed to grow and scale is when your competitors start either copying you or suing you, sometimes both.
 
 ---
 
-Telugu
-Business world ఎంత uncertain అయినా, మీరు grow and scale కావడానికి primed అయిన great thing build చేశారని తెలుసుకునే surefire way ఒకటి ఉంది.
-
-English
-As uncertain as the business world can be, one surefire way to know you’ve built something great that is primed to grow and scale is when your competitors start either copying you or suing you, sometimes both.
-
----
-
-Telugu
-లేక Jenn Hyman కు good times లో, Curt Jones కు bad times లో జరిగినట్లుగా, investors unsolicited గా మీ door knock చేయడం.
-
-English
+లేదా Jenn Hyman good times లో, Curt Jones bad ones లో మాదిరి, investors check write చేయడానికి ready గా unsolicited (అడగకుండానే) మీ door knock చేయడం.
 Or like Jenn Hyman in good times, and Curt Jones in bad ones, when investors come knocking on your door unsolicited, ready to write a check.
 
 ---
 
-Telugu
-ఆ రెండూ జరిగితే, founder గా మీరు balcony పైకి వెళ్లి dance floor ను పై నుండి చూసి, ఏమి protect చేయాలి, ఎలా protect చేయాలి అనేది తెలుసుకోవాలి.
-
-English
+ఆ రెండు instances లోనూ, founder గా మీకు ఒక balcony మీద పైకి get up అయ్యి dance floor కి down look చేయగల ability ఉండాలి—what needs to be protected and how best to protect it అని తెలుసుకోవడానికి.
 In both of those instances, as the founder you need to be able to get up on the balcony and look down on the dance floor to know what needs to be protected and how best to protect it.
 
 ---
 
-Telugu
-మీ disposal లో ఉన్న weapons ను ఎప్పుడు pull the trigger చేయాలో, ఎప్పుడు holster చేయాలో తెలుసుకోవాలి.
-
-English
+Trigger pull (action తీసుకోవడం) ఎప్పుడు చేయాలో, weapons ని holster (పక్కకు పెట్టడం) ఎప్పుడు చేయాలో మీకు తెలియాలి.
 You need to know when to pull the trigger and when to holster the weapons at your disposal.
 
 ---
 
-Telugu
-అది తెలుసుకోవడం లేదా చేయడం easy కాదు.
-
-English
-It’s not an easy thing to know or to do.
+అది తెలుసుకోవడానికి లేదా చేయడానికి easy thing కాదు, కానీ great business build చేయడం కూడా easy కాదు.
+It's not an easy thing to know or to do, but neither is building a great business.
 
 ---
 
-Telugu
-కానీ great business build చేయడమూ easy కాదు.
-
-English
-But neither is building a great business.
-
----
-
-Telugu
-మీరు అది figure out చేయగలిగితే, దీన్నీ figure out చేయగలరు.
-
-English
+అది figure out చేయగలిగితే, ఇది కూడా figure out చేయగలరు.
 And if you can figure that out, you can figure this out, too.
 
 ---
 
-Telugu
-1982 లోకి వెళ్తున్నప్పుడు, pharmaceutical giant Johnson & Johnson కు great year వచ్చేలా కనిపిస్తోంది.
+17 When Catastrophe Strikes
+17 When Catastrophe Strikes
 
-English
+---
+
+1982 వైపు వెళ్తూ, pharmaceutical giant Johnson & Johnson ఒక great year track మీద ఉంది.
 Heading into 1982, the pharmaceutical giant Johnson & Johnson was on track for a great year.
 
 ---
 
-Telugu
-Country recession లోకి slide అవుతున్నప్పటికీ, profits previous year కంటే 16 percent కంటే ఎక్కువగా up అయ్యాయి.
-
-English
+Country recession లోకి slide అవ్వడం start అయినప్పటికీ, last year కంటే profits 16 percent పైగా up అయ్యాయి.
 Profits were up more than 16 percent from the year before, even as the country began to slide into a recession.
 
 ---
 
-Telugu
-140 కంటే ఎక్కువ companies portfolio లో, market లో కనీసం అంతే products తో ఉన్న multibillion-dollar multinational conglomerate అయిన Johnson & Johnson thriving గా ఉంది.
-
-English
-A multibillion-dollar, multinational conglomerate with more than 140 companies in its portfolio and at least that many products on the market, Johnson & Johnson was thriving.
+ఒక multibillion-dollar, multinational conglomerate—portfolio లో 140 కి పైగా companies, market లో అదే మాదిరి products తో—Johnson & Johnson thriving (వెల్లివిరిసి) గా ఉండడానికి no small part—ఒక product performance: over-the-counter pain reliever Tylenol.
+A multibillion-dollar, multinational conglomerate with more than 140 companies in its portfolio and at least that many products on the market, Johnson & Johnson was thriving in no small part because of the performance of one product: the over-the-counter pain reliever Tylenol.
 
 ---
 
-Telugu
-దానికి no small part లో కారణం ఒక product performance: over-the-counter pain reliever Tylenol.
-
-English
-In no small part because of the performance of one product: the over-the-counter pain reliever Tylenol.
+1981 లో, several years steady promotion తర్వాత, Tylenol analgesic market లో one-third కి పైగా share మరియు $500 million కి పైగా sales capture చేయగలిగింది—Johnson & Johnson total profits లో దాదాపు 20 percent account చేస్తూ.
+In 1981, after several years of steady promotion, Tylenol had managed to capture more than one-third of the analgesic market and more than $500 million in sales, accounting for nearly 20 percent of Johnson & Johnson's total profits.
 
 ---
 
-Telugu
-1981 లో, several years steady promotion తర్వాత, Tylenol analgesic market లో more than one-third capture చేసింది.
-
-English
-In 1981, after several years of steady promotion, Tylenol had managed to capture more than one-third of the analgesic market.
+Company లో executives దాని growth potential కి no immediate end చూశారు. ఐదు years లో Tylenol market లో 50 percent ఉంటుందని వాళ్ళు expect చేశారు.
+Executives within the company saw no immediate end to its growth potential. They expected Tylenol to have 50 percent of the market within five years.
 
 ---
 
-Telugu
-అది $500 million కంటే ఎక్కువ sales చేసింది, Johnson & Johnson total profits లో nearly 20 percent account చేసింది.
-
-English
-And more than $500 million in sales, accounting for nearly 20 percent of Johnson & Johnson’s total profits.
-
----
-
-Telugu
-Company executives Tylenol growth potential కు immediate end లేదని చూశారు.
-
-English
-Executives within the company saw no immediate end to its growth potential.
-
----
-
-Telugu
-వారు five years లో Tylenol market లో 50 percent కలిగి ఉంటుందని expected చేశారు.
-
-English
-They expected Tylenol to have 50 percent of the market within five years.
-
----
-
-Telugu
-అప్పుడే, 1982 fall లో, Chicago area లో seven people కొన్ని రోజుల్లో mysteriously died అయ్యారు.
-
-English
+తరువాత, 1982 fall లో, Chicago area లో ఏడు మంది మిస్టీరియస్ గా ఒకరికి ఒకరి few days లోనే చనిపోయారు.
 Then, in the fall of 1982, seven people in the Chicago area mysteriously died within a few days of one another.
 
 ---
 
-Telugu
-Investigation త్వరలో victims మధ్య common denominator recent use of Tylenol products sold in capsule form అని కనుగొంది.
-
-English
+ఒక investigation soon found—victims మధ్య common denominator (సాధారణ ఉమ్మడి అంశం) recent use of Tylenol products in capsule form.
 An investigation soon found that the common denominator among the victims was the recent use of Tylenol products sold in capsule form.
 
 ---
 
-Telugu
-Tylenol bottles testing and tracking ద్వారా, ఎవరో area drugstores మరియు grocery stores నుండి bottles కొనుగోలు చేసి, capsules కొన్ని తెరిచి, లోపల acetaminophen కు cyanide lace చేసి tamper చేశారని తెలిసింది.
-
-English
+Tylenol bottles ని test చేసి, track చేసిన ఫలితంగా—ఎవరో area drugstores మరియు grocery stores నుండి కొన్ని bottles purchase చేసి, కొన్ని capsules ని open చేసి, లోపల ఉన్న acetaminophen ని cyanide తో lace (కలిపేయడం) చేశారని తేలింది.
 Testing and tracking of the Tylenol bottles revealed that they had been tampered with by someone who had purchased a number of bottles from area drugstores and grocery stores, had opened up some of the capsules, and had then laced the acetaminophen inside with cyanide.
 
 ---
 
-Telugu
-Poisoning వార్త panic set off చేసింది.
-
-English
+Poisoning news ఒక panic ని set off (స్ఫోటించడం) చేసింది.
 News of the poisoning set off a panic.
 
 ---
 
-Telugu
-Law enforcement agencies metro Chicago streets లో loudspeakers ద్వారా residents తమ medicine cabinets లోని Tylenol use చేయవద్దని warn చేశాయి.
-
-English
+Law enforcement agencies metro Chicago streets లో drive చేస్తూ, residents కి loudspeakers ద్వారా medicine cabinets లో Tylenol use చేయొద్దని warn చేశారు.
 Law enforcement agencies rode the streets of metro Chicago warning residents through loudspeakers not to use the Tylenol in their medicine cabinets.
 
 ---
 
-Telugu
-రెండు రోజుల్లో, Chicago mayor people తమ Tylenol ను local police and fire departments కి turn in చేయమని urged చేసింది.
-
-English
+రెండు రోజుల్లో, Chicago mayor people ని తమ Tylenol ని local police, fire departments కి turn in (అప్పగించడం) చేయమని urge చేసింది.
 Within two days, the mayor of Chicago was urging people to turn their Tylenol in to their local police and fire departments.
 
 ---
 
-Telugu
-మరిన్ని రెండు రోజులకు, ఆమె city stores లో Tylenol ను altogether ban చేసింది.
-
-English
-Two days after that, she banned Tylenol from the city’s stores altogether.
+తరువాత రెండు రోజుల తర్వాత, ఆమె city stores నుండి altogether Tylenol ని ban చేసింది.
+Two days after that, she banned Tylenol from the city's stores altogether.
 
 ---
 
-Telugu
-ఇతర cities మరియు states త్వరగా follow suit చేశాయి.
-
-English
+ఇతర cities, states quickly follow suit (అదే చేయడం) చేశాయి.
 Other cities and states quickly followed suit.
 
 ---
 
-Telugu
-ఆ story six weeks పాటు every day news lead చేసింది.
-
-English
-The story led the news every day for six weeks.
+Story six weeks news కి daily lead అయ్యింది. Tylenol sales 80 percent వరకు dropped అయ్యాయి.
+The story led the news every day for six weeks. Tylenol sales dropped by as much as 80 percent.
 
 ---
 
-Telugu
-Tylenol sales as much as 80 percent drop అయ్యాయి.
-
-English
-Tylenol sales dropped by as much as 80 percent.
-
----
-
-Telugu
-ఇది Johnson & Johnson కు unqualified disaster.
-
-English
+Johnson & Johnson కి ఇది unqualified (పూర్తి, పక్షపాత రహిత) disaster.
 It was an unqualified disaster for Johnson & Johnson.
 
 ---
 
-Telugu
-తర్వాత జరిగినది, Johnson & Johnson CEO James Burke చేసిన leadership మరియు crisis management యొక్క masterwork.
-
-English
-What followed, however, was a masterwork of leadership and crisis management by Johnson & Johnson’s CEO, James Burke.
+అయితే, ఆ తర్వాత ఏం జరిగిందో—Johnson & Johnson CEO James Burke leadership, crisis management masterwork—40 years తర్వాత కూడా business schools లో ఇప్పటికీ teach అవుతోంది.
+What followed, however, was a masterwork of leadership and crisis management by Johnson & Johnson's CEO, James Burke, that is still taught in business schools nearly forty years later.
 
 ---
 
-Telugu
-అది nearly forty years later కూడా business schools లో taught అవుతోంది.
-
-English
-That is still taught in business schools nearly forty years later.
-
----
-
-Telugu
-కొన్ని days లోనే, Burke nationwide అన్ని Tylenol capsule products recall చేశాడు — total 31 million bottles.
-
-English
+Days లోనే, Burke దేశవ్యాప్తంగా అన్ని Tylenol capsule products ని—total 31 million bottles—recall చేశాడు.
 Within days, Burke recalled all Tylenol capsule products nationwide—31 million bottles in total.
 
 ---
 
-Telugu
-అదనంగా, customers return చేసిన అన్ని Tylenol capsules ను safer tablet form తో free of charge replace చేస్తామని announced చేశాడు.
-
-English
+అదనంగా, customers తిరిగి returned చేసిన అన్ని Tylenol capsules ని safer tablet form తో Johnson & Johnson free of charge replace చేస్తుందని announce చేశాడు.
 In addition, he announced that Johnson & Johnson would replace all Tylenol capsules returned by customers with the safer tablet form, free of charge.
 
 ---
 
-Telugu
-ఒక month లోపల, Burke Tylenol capsule products store shelves కు తిరిగి రావడానికి plan unveil చేశాడు.
-
-English
-Within a month, Burke unveiled Johnson & Johnson’s plan to return Tylenol’s capsule products to store shelves.
+ఒక నెలలో, Burke—Tylenol capsule products ని store shelves కి return చేయాలని Johnson & Johnson plan unveil చేశాడు—కానీ ఇప్పుడు new "triple-seal" tamper-proof (పాడుచేయలేని) packaging తో—glued box, plastic neck seal, cap కింద foil seal, మరియు foil seal break అయితే product తిరిగి return చేయమని printed warning include చేసి.
+Within a month, Burke unveiled Johnson & Johnson's plan to return Tylenol's capsule products to store shelves, but now in new, "triple-seal" tamper-proof packaging that included a glued box, a plastic neck seal, a foil seal under the cap, and a printed warning to return the product if the foil seal was broken upon opening.
 
 ---
 
-Telugu
-కానీ ఇప్పుడు అవి new “triple-seal” tamper-proof packaging లో ఉండాలి.
-
-English
-But now in new, “triple-seal” tamper-proof packaging.
-
----
-
-Telugu
-అందులో glued box, plastic neck seal, cap కింద foil seal, మరియు foil seal broken అయితే product return చేయమని printed warning ఉన్నాయి.
-
-English
-That included a glued box, a plastic neck seal, a foil seal under the cap, and a printed warning to return the product if the foil seal was broken upon opening.
-
----
-
-Telugu
-ఈ tamper-proof packaging market లో first of its kind.
-
-English
+Market లో ఈ tamper-proof packaging దాని kind లో మొదటిది.
 This tamper-proof packaging was the first of its kind on the market.
 
 ---
 
-Telugu
-Story six weeks news లో ఉండడానికి big reasons లో ఒకటి Burke major national media outlets news directors తో constant, almost daily contact లో ఉండటం.
-
-English
-One of the big reasons the story remained in the news for six weeks was that Burke was in constant, almost daily, contact with the news directors of every major national media outlet.
+Story six weeks news లో remain అవ్వడానికి big reasons లో ఒకటి—Burke ప్రతి major national media outlet news directors తో constant, almost daily contact లో ఉండడం—public కి most up-to-date information అన్ని ఉండేలా ensure చేయడానికి.
+One of the big reasons the story remained in the news for six weeks was that Burke was in constant, almost daily, contact with the news directors of every major national media outlet to make sure the public had all the most up-to-date information.
 
 ---
 
-Telugu
-Public కు most up-to-date information అందేలా చూసేందుకు.
-
-English
-To make sure the public had all the most up-to-date information.
+ఈ రోజు, Burke తీసుకున్న ఈ steps అలాంటి corporate calamities (విపత్తులు) face చేసేటప్పుడు standard practice లాగా అనిపిస్తాయి. కానీ 1982 లో, అవి common ఏ మాత్రం కాదు.
+Today, these steps taken by Burke seem like standard practice in the face of such corporate calamities. But in 1982, they were anything but common.
 
 ---
 
-Telugu
-ఈ రోజు, ఇలాంటి corporate calamities ముందు Burke తీసుకున్న steps standard practice లాగా కనిపిస్తాయి.
-
-English
-Today, these steps taken by Burke seem like standard practice in the face of such corporate calamities.
+"1982 కి ముందు, ఎవరూ ఏదీ recall చేయలేదు," అని crisis time లో Johnson & Johnson కి advice ఇచ్చిన ఒక public relations executive 2002 anniversary piece కి New York Times కి చెప్పాడు—piece subtitle: "The Recall That Started Them All."
+"Before 1982, nobody ever recalled anything," one public relations executive who advised Johnson & Johnson during the crisis told the New York Times in a 2002 anniversary piece subtitled "The Recall That Started Them All."
 
 ---
 
-Telugu
-కానీ 1982 లో, అవి common కాదు.
-
-English
-But in 1982, they were anything but common.
+In fact, తన own boardroom బయట నుండి Burke recall కి ఎక్కువ resistance face చేశాడు. FDA మరియు FBI రెండూ ఆ idea కి against గా ఉన్నాయి.
+In fact, Burke faced more resistance to a recall from outside his own boardroom. Both the FDA and the FBI were against the idea.
 
 ---
 
-Telugu
-Crisis సమయంలో Johnson & Johnson కు advice ఇచ్చిన ఒక public relations executive New York Times 2002 anniversary piece లో చెప్పినట్లుగా, “Before 1982, nobody ever recalled anything.”
-
-English
-“Before 1982, nobody ever recalled anything,” one public relations executive who advised Johnson & Johnson during the crisis told the New York Times in a 2002 anniversary piece subtitled “The Recall That Started Them All.”
+"FBI మమ్మల్ని అది చేయమని want చేయలేదు," అని Burke November 1982 లో Fortune కి చెప్పాడు, "ఎందుకంటే అది ఇది చేసిన వాడికి—whoever did this—'Hey, I'm winning, I can bring a major corporation to its knees' అని చెప్తుంది. మరియు FDA argue చేసింది—relieve చేసే దానికంటే ఎక్కువ public anxiety cause చేయొచ్చు."
+"The FBI didn't want us to do it," Burke told Fortune in November 1982, "because it would say to whomever did this, 'Hey, I'm winning, I can bring a major corporation to its knees.' And the FDA argued it might cause more public anxiety than it would relieve."
 
 ---
 
-Telugu
-వాస్తవానికి, Burke తన own boardroom బయట నుంచే recall కు ఎక్కువ resistance ఎదుర్కొన్నాడు.
-
-English
-In fact, Burke faced more resistance to a recall from outside his own boardroom.
-
----
-
-Telugu
-FDA మరియు FBI రెండూ ఆ idea కు against గా ఉన్నాయి.
-
-English
-Both the FDA and the FBI were against the idea.
-
----
-
-Telugu
-Burke Fortune కు November 1982 లో చెప్పినట్లుగా, FBI వారు “ఇలా చేస్తే, దీన్ని చేసిన వ్యక్తికి ‘నేను గెలుస్తున్నాను, major corporation ను knees మీదకు తెచ్చగలను’ అని signal అవుతుంది” అని భావించారు.
-
-English
-“The FBI didn’t want us to do it,” Burke told Fortune in November 1982, “because it would say to whomever did this, ‘Hey, I’m winning, I can bring a major corporation to its knees.’”
-
----
-
-Telugu
-FDA మాత్రం అది public anxiety ను relieve చేయడం కంటే ఎక్కువ cause చేయవచ్చని argue చేసింది.
-
-English
-“And the FDA argued it might cause more public anxiety than it would relieve.”
-
----
-
-Telugu
-అయినా Burke ముందుకు వెళ్లాడు.
-
-English
+అయినప్పటికీ, Burke ముందుకి moved అయ్యాడు.
 Still, Burke moved forward.

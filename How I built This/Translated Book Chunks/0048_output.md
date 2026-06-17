@@ -1,567 +1,321 @@
-“నేను parking lotకి వెళ్లి, ఏడవడం మొదలుపెట్టాను.”
+అది amazing గా sound అవుతుంది, right? కానీ మీరు imagine చేయగలరు—ఈ point లో Andy దీని గురించి Palo Alto office vs New York office తో మాట్లాడేటప్పుడు వచ్చిన responses మరి reactions లో wide differences.
 
-“I went out to the parking lot, and I just started weeping.”
+It sounds amazing, right? But you can imagine, at this point, the wide differences in responses and reactions Andy received when talking about it to the Palo Alto office versus the New York office.
 
 ---
 
-“నేను దీనిలో అన్నీ పెట్టాను. ఇది నా life. వీళ్లు నా employees, ఇది నా family. ఇది నా dad పేరు మీద ఉంది!” అని Gary తనలో నుంచి బయటకు వచ్చిన emotions‌ను వివరించాడు.
+West Coast folks ready గా ఉన్నారు. ఈ robust personalization functionality build చేయడంలో company deeply invest చేయాలని వాళ్ళు strongly feel అయ్యారు.
 
-“I put everything into this. This is my life. These are my employees, and this is my family. It was named after my dad!” Gary said, describing the emotions flowing out of him.
+The West Coast folks were ready. They felt strongly that the company should invest deeply in building this robust personalization functionality.
 
 ---
 
-“Block చుట్టూ halfway వెళ్లేసరికి, sell చేయకూడదని నేను నిర్ణయించుకున్నాను.”
+Retail side మాత్రం skeptical గా ఉండింది—అది charitable గా చెప్పాలంటే. "New York viewpoint ఏంటంటే, 'Reviews include చేయడానికి product page just update చేయించగలవా?'" అని Andy recount చేశాడు.
 
-“Halfway around the block, I decided not to sell.”
+The retail side, though, was skeptical, and that is being charitable. "The viewpoint in New York was, 'Can I just get the product page updated to include reviews?'" Andy recounted.
 
 ---
 
-Lisaకి ఇది పూర్తిగా about-face‌లా అనిపించి ఉండేది.
+ఈ hybrid thing ఇంక work చేయట్లేదు, ఏదైనా change అవ్వాల్సిన అవసరం ఉంది అని అప్పుడు Andy కి clear గా అర్థమైంది. "Company లో organizational harmony ఈ cross-coastal conflict వల్ల destroy అవుతోంది," అని అతను చెప్పాడు. "Culture deteriorate అవుతోంది, రోజురోజుకి harder గా అవుతోంది."
 
-To Lisa this would seem like a total about-face.
+It was clear to Andy then that this hybrid thing was no longer working and something had to change. "The organizational harmony at the company was being destroyed by this cross-coastal conflict," he said. "The culture was deteriorating, and it was becoming harder by the day."
 
 ---
 
-ఆమె దృష్టిలో deal అయిపోయింది.
+నాకు Andy Dunn మీద great empathy మరి admiration ఉంది. "నేను cumulative terrible mistakes యొక్క sum మాత్రమే," అని leader గా తనను ఎలా చూస్తున్నాడో describe చేస్తూ ఒకసారి నాకు చెప్పాడు.
 
-The deal was done as far as she was concerned.
+I have great empathy and admiration for Andy Dunn. "I’m just the sum of cumulative terrible mistakes," he once told me, describing how he views himself as a leader.
 
 ---
 
-ఆమెకు తెలియనిది ఏమిటంటే, గత మూడు నెలలుగా, deal negotiate అవుతున్నంతకాలం, Gary పూర్తిగా darknessలో జీవిస్తున్నాడు.
+కానీ అతని గురించి remarkable అయిన thing ఏంటంటే, తన struggles మీద reflect చేసే emotional maturity అతనికి ఉండింది. So much so that, తను ఎవరో, నిజంగా ఏం చేయాలనుకుంటున్నాడో figure out చేసుకోవడానికి help కోసం therapy form లో help తీసుకున్నాడు.
 
-What she didn’t know was that for the previous three months, as the deal was being negotiated, Gary had been living in total darkness.
+But what is remarkable about him as well is that he had the emotional maturity to reflect on his struggles. So much so that he sought help—in the form of therapy—to help him figure out who he was and what he really wanted to do.
 
 ---
 
-“నేను బాగా నిద్రపోవడం లేదు. Bike ride చేయడం లేదు. నా చుట్టూ ఉండేవారికి నేను probably అంత pleasantగా ఉండకపోవచ్చు,” అని అతను అన్నాడు.
+ఆ సంవత్సరం January లో, అతను Bonobos board of directors ను gather చేసి, Palo Alto office ను—దాన్ని open చేసిన ఒక సంవత్సరం barely తర్వాత—shut చేయాలని (shutter) decide చేశాడని inform చేశాడు.
 
-“I was not sleeping well. I was not riding my bike. I was probably not very fun to be around,” he said.
+In January of that year, he gathered the Bonobos board of directors and informed them that he’d decided to shutter the Palo Alto office barely a year after opening it.
 
 ---
 
-ఆ మూడు నెలల ప్రతి waking momentలో, Gary తనలో తానే ఆ deal గురించి పోరాడుతున్నాడు.
+ఆ closure, Andy అన్న "broader error" ను—company ను multibrand technology platform గా turn చేయడంలో—resolve చేయడానికి first step: Bonobos ఎవరో, తను ఏం చేస్తుందో దాని నుండి దూరంగా (away from) వెళ్ళడం.
 
-He spent every waking moment of those three months fighting himself over the deal.
+The closure was the first step toward resolving what Andy called a "broader error" he was making in trying to turn the company into a multibrand technology platform: getting away from who Bonobos was and what it did.
 
 ---
 
-అదికాకుండా, employeesకి sell plans గురించి చెబుతున్నప్పుడు, తాను వాళ్లకు ఒక lie అమ్మినట్టుగా Garyకి అనిపించింది.
+Business యొక్క core చుట్టూ experiment చేయడానికి, మరి new core businesses లోకి దూకడానికి (jumping into) మధ్య ఒక major difference ఉందని అతను believe చేశాడు.
 
-And on top of all that, when telling the employees about their plans to sell, Gary felt like he’d sold them a lie.
+There is a major difference, he believed, between experimenting around the core of a business and jumping into new core businesses.
 
 ---
 
-“Things would not change అని నేను చెప్పాను. కానీ అది నిజం కాదు. తప్పకుండా change అవుతుంది.”
+2012 లో open చేయడం start చేసిన fit-to-ship Guideshops, Nordstrom తో entered అయిన retail partnership, మరి dress shirts మరి suits లాంటి menswear's other categories—ఇవన్నీ Bonobos brand చుట్టూ build అయ్యాయి, మరి unsurprisingly, start నుండే చాలా బాగా చేశాయి.
 
-“I said things would not change. And it was not true. Of course it was going to change.”
+The fit-to-ship Guideshops they began opening in 2012, the retail partnership they entered into with Nordstrom, and the other categories of menswear like dress shirts and suits they developed—all of those built around the Bonobos brand and, unsurprisingly, did quite well from the start.
 
 ---
 
-“అది better కావచ్చు, worse కావచ్చు—but it is not going to change అని మీరు చెప్పలేరు,” Gary అన్నాడు.
+Bonobos ఏ గురించి ఉండాలో different ideas ఉన్న West Coast tech people తో filled అయిన high-cost Palo Alto office, మరి వాళ్ళు launch చేసిన derivative golf (Maide) మరి women's clothing (AYR) brands—ఇవి "Bonobos brand యొక్క scope కి outside" ఉన్న experiments.
 
-“It could be better, it could be worse—but you can’t say it is not going to change,” Gary said.
+The high-cost Palo Alto office filled with West Coast tech people who had different ideas for what Bonobos should be, and the derivative golf (Maide) and women's clothing (AYR) brands they launched—those were experiments that were "outside the scope of the Bonobos brand."
 
 ---
 
-అదే Noam Wasserman వివరించిన founder’s dilemmaలోని control part.
+Maide 2017 లో Bonobos Golf గా continue అయ్యింది, కానీ AYR successfully spin out అయింది. Palo Alto office యొక్క technology functions కూడా, వాళ్ళ former chief technology officer Michael Hart ను CEO గా చేసుకుని, ఒక personalization SaaS (software as a service) company గా spin out అయ్యాయి.
 
-That’s the control part of the founder’s dilemma that Noam Wasserman described.
+Maide hung on to become Bonobos Golf in 2017, but AYR was successfully spun out, as were the technology functions of the Palo Alto office, into a personalization SaaS (software as a service) company with their former chief technology officer, Michael Hart, as CEO.
 
 ---
 
-Gary Erickson తన $60 million share కోసం చెల్లించాల్సిన price ఏమిటంటే, తన employees—తన family—కి అన్నీ మునుపటిలాగే ఉంటాయి, అన్నీ okay అవుతాయి అని reassure చేయలేని పరిస్థితి.
+2014 నాటికి, Andy's phrase ఉపయోగిస్తే, Bonobos "massively turning the corner" (బాగా మలుపు తిరగడం) జరుగుతోంది. ఆ key mover twofold: ఒకటి, brand ఏంటో finally వాళ్ళు own చేసుకున్నారు; రెండు, దాన్ని వాళ్ళ Guideshops మరి Nordstrom partnership ద్వారా e-commerce దాటి physical brick-and-mortar (real store) లోకి multichannel గా తీసుకువెళ్ళారు.
 
-The price Gary Erickson would have to pay for his $60 million cut of the sale was the inability to reassure his employees—his family—that everything was going to be how it always was. That everything was going to be okay.
+By 2014, Bonobos was already "massively turning the corner," to use Andy's phrase. The key mover that did it for them was twofold: they finally owned what the brand was, and then they took it multichannel beyond e-commerce into physical brick-and-mortar with their Guideshops and Nordstrom partnership.
 
 ---
 
-ఆ price అతను చెల్లించడానికి సిద్ధంగా లేడు.
+"Business identity మీద జరిగిన మరో debate—అది మరో really fun board meeting," అని Andy చెప్పాడు. ఈసారి question: "ఇది e-commerce company నా, లేక menswear experience company నా?"
 
-It was a price he wasn’t willing to pay.
+"That was another really fun board meeting," Andy said of yet another debate over the identity of the business. In this one, the question was: "Is this an e-commerce company, or is this a menswear experience company?"
 
 ---
 
-Quaker Oats Clif Barని నడపడానికి పెట్టే వ్యక్తి bad job చేస్తాడని అతనికి అనిపించిందని కాదు.
+Andy case చేశాడు—వాళ్ళు అస్సలు e-commerce business కాదు అని. Google ఒక search company కాదు, search ను ఉపయోగించే ad sales company అని మీరు అన్నట్లే, Bonobos ఒక e-commerce platform ను utilize చేసే retail customer service business అని Andy చెప్పాడు.
 
-Not because he thought whoever Quaker Oats installed to run Clif Bar would do a bad job.
+Andy made the case that they weren't an e-commerce business at all. Just as you might say Google isn't a search company, it's an ad sales company that uses search, Andy said Bonobos was a retail customer service business that utilized an e-commerce platform.
 
 ---
 
-కానీ అది అతను ప్రేమించే, ఇంకా చేయాలనుకునే job—అది అతనికి $60 million cost అయినా కూడా.
+Traditional brick-and-mortar retailer ఇచ్చేటంత same level of fit and service ను deliver చేయడానికి ఒక way "invent" చేయగలిగితే, అది వాళ్ళని వాళ్ళ business soul కి మరింత close గా తీసుకువెళ్తుందని అన్నాడు.
 
-But because it was a job that he loved and still wanted, even if it cost him $60 million.
+And if they could "invent a way to deliver the same level of fit and service" as a traditional brick-and-mortar retailer, then that would only get them closer to their soul as a business.
 
 ---
 
-మరియు అది నిజంగానే cost అయ్యేది, ఎందుకంటే Lisa ఇంకా out కావాలనుకుంది.
+Technology ను abandon చేయకుండానే—అది ఎప్పుడూ అతని intention కాదు—Andy వాళ్ళ retail menswear roots లోకి lean అయ్యాడు, మరి 2009 లో reins తీసుకున్నప్పటి నుండి leader గా తనను bothered (vexed) చేసిన challenge ను solve చేయగలిగాడు.
 
-Which it would, because Lisa still wanted out.
+Without abandoning technology, which was never his intention, Andy had leaned into their retail menswear roots and managed to solve the challenge that had vexed him as a leader since he first took the reins in 2009.
 
 ---
 
-తర్వాతి ఏడు నెలలు Gary “dialing for dollars” చేశాడు, తన partnerని buy out చేయడానికి $60 million వెతుకుతూ.
+At last, Andy Bonobos ను తన మరి Brian Spaly యొక్క original pitch—"it's Ralph Lauren meets Zappos"—ను investors కి deliver చేయడానికి position లో పెట్టగలిగాడు. మరి everyone కి—company లోపల, బయట, investor అయినా customer అయినా, analyst అయినా employer అయినా—వాళ్ళు ఎవరో, ఏం చేస్తారో let know చేయగలిగాడు.
 
-Gary spent the next seven months “dialing for dollars,” looking for $60 million to buy out his partner.
+He had, at last, put Bonobos in a position to deliver on his and Brian Spaly's original pitch to investors—it's Ralph Lauren meets Zappos—and to let everyone know—inside and outside the company, investor or customer, analyst or employer—who they are and what they do.
 
 ---
 
-అది ఆమె expecting చేసినది, ఆమె losing చేస్తున్నది, కాబట్టి అది fair మాత్రమే.
+Everyone same page మీద వచ్చాక, work నిజంగా pay off కావడం start అయ్యింది. మరి 2017 ఆరంభంలో Walmart Bonobos మీద దృష్టి పెట్టింది (caught the eye of), ఆ summer business ను $300 million కంటే ఎక్కువకి purchase చేసింది.
 
-It’s what she was expecting, it’s what she was losing, and it was only fair.
+Once everyone was on the same page, the work really began to pay off, and in early 2017 Bonobos caught the eye of Walmart, which purchased the business that summer for more than $300 million.
 
 ---
 
-అదే సమయంలో, Gary మళ్లీ company day to day నడుపుతున్నాడు, company crazyగా grow అవుతోంది.
+Smartly, Walmart's leadership Bonobos ను తాను చేస్తున్నది continue చేయడానికి allow చేసింది—ఎందుకంటే వాళ్ళకి తామెవరో, Walmart ఏ business లో ఉందో తెలుసు, మరి Bonobos గురించి కూడా same thing ను fully అర్థం చేసుకున్నారు.
 
-At the same time, Gary was back running the company day to day, and it was growing like crazy.
+Smartly, Walmart's leadership has allowed Bonobos to continue to do what it does, because they know who they are and what business Walmart is in, and they fully understand the same thing about Bonobos.
 
 ---
 
-“మీ business grow అవుతున్నప్పుడు deal చేయాలనుకునే విషయం ఇది కాదు,” Gary అన్నాడు.
+Thankfully, Andy Dunn కి కూడా అది తెలుసు, మరి authentically తనకి సంబంధించిన things గా అవ్వగలగడం యొక్క power ను finally experience చేయగలిగాడు.
 
-“This isn’t something you want to deal with as you are growing your business,” Gary said.
+Thankfully, Andy Dunn understands that, too, and he has finally been able to experience the power of becoming more of the things that are authentically him.
 
 ---
 
-అతనికి ఇప్పటికే తన normal Clif Bar duties fulfill చేయాల్సి ఉంది.
+24 When to Sell and When to Stay
 
-He already had his normal Clif Bar duties to fulfill.
+24 When to Sell and When to Stay
 
 ---
 
-కానీ ఇప్పుడు అతనిపై $60 million debt ఉంది, అలాగే workforceలో కొంతకాలం పాటు “ఇది short-term deal, నేను తిరిగి company sell చేస్తాను” అని నమ్మకం ఉంది.
+February 2008 లో, popular Harvard Business School professor అయిన Noam Wasserman, Harvard Business Review లో ఒక article publish చేశాడు—కొన్ని years తర్వాత అది అదే name తో best-selling book కి basis అయింది. దాని title—"The Founder's Dilemma."
 
-But now he had $60 million in debt to cover and a workforce that, at least for a time, was “convinced this would be a short-term deal and I would go back and sell the company.”
+In February 2008, the popular Harvard Business School professor Noam Wasserman published an article in the Harvard Business Review that would become the basis for a best-selling book of the same name a few years later. It was called "The Founder's Dilemma."
 
 ---
 
-ఏమి జరిగిందో విని private equity groups నుంచి calls వస్తున్నాయి; Gary Quaker Oats offer తిరస్కరించడం పిచ్చిపని అని, debt లేకపోయినా Clif Bar never going to make it అని చెప్పే feelers పెడుతున్నారు.
+Thousands of entrepreneurs మీద Wasserman conduct చేసిన reams of research ఆధారంగా thesis ఏంటంటే—వాళ్ళ companies growth లో ఏదో critical point దగ్గర, all founders తామిద్దరు competing interests మధ్య—money మరి control—choice ఎదురుపడే situation లో ఉంటారు, మరి తరచుగా poorly choose చేస్తారు.
 
-He was taking calls from private equity groups who’d heard what had happened and were putting out feelers by way of telling Gary that he was out of his mind for turning down Quaker Oats and that Clif Bar was never going to make it, even without the debt.
+The thesis, based on reams of research Wasserman had conducted on thousands of entrepreneurs, was that at some critical point in the growth of their companies, all founders will find themselves with a choice between two competing interests—money and control—and they will often choose poorly.
 
 ---
 
-అయినా, తొమ్మిది సంవత్సరాల తర్వాత Gary మొత్తం debt pay off చేశాడు.
+వాళ్ళు either తమ own self-interest కి వ్యతిరేకంగా act చేస్తారు, లేదా కొన్ని instances లో, వాళ్ళ companies best interests కి వ్యతిరేకంగా, మరి sometimes both.
 
-And yet, nine years later, Gary paid off the entire debt.
+They will act either against their own self-interest or, in some instances, against the best interests of their companies, and sometimes both.
 
 ---
 
-అదే తర్వాత మరో తొమ్మిది సంవత్సరాలకు, Clif Bar $6 billion కంటే ఎక్కువ sales చేసింది.
+Wasserman's argument కి backdrop—fundraising landscape మరి grow అవ్వడానికి అవసరమైన capital బదులుగా అనేక entrepreneurs చేయడానికి unprepared గా ఉన్న management trade-offs.
 
-Nine years after that, Clif Bar did more than $6 billion in sales.
+The backdrop for Wasserman's argument was the landscape of fundraising and the management trade-offs many entrepreneurs are unprepared to make in exchange for the capital they need in order to grow.
 
 ---
 
-ఈరోజు అది United Statesలో leading energy bar.
+Specifically, investors demand చేసే control level ను వాళ్ళు resist చేస్తారు. "Founders easily let go చేయరు," అని Wasserman wrote.
 
-And today, it’s the leading energy bar in the United States.
+Specifically, they resist the level of control that investors demand. "Founders don't let go easily," Wasserman wrote.
 
 ---
 
-Garyకి, ఇది money గురించీ కాదు, control గురించీ కూడా కాదు.
+In fact, అతను analyze చేసిన entrepreneurs లో 80 percent తాము ready గా ఉండకముందే తమ founding leadership positions నుండి బలవంతంగా బయటకి తీయబడ్డారు (forced out), మరి "చాలామంది shocked" అయ్యారు అది happen అయినప్పుడు.
 
-For Gary, none of this was about the money, or even the control.
+In fact, 80 percent of the entrepreneurs he analyzed were forced out of their founding leadership positions before they were ready to leave, and "most [were] shocked" when it happened.
 
 ---
 
-“ఈ businessని grow చేయాలనే లోతైన కోరిక గురించి ఏదో ఉంది. సరైన విధంగా చేసిన business power, ఇద్దరు rich people కంటే చాలా powerful,” Gary అన్నాడు.
+ఇది entrepreneurial personality యొక్క ఫలితం, అని Wasserman argued. Entrepreneurs తమ focus లో single-minded గా (ఒక లక్ష్యం మీద దృష్టి) ఉంటారు. వాళ్ళు extra passionate. Sometimes తమ abilities కి మించి confident, naïveté point వరకు.
 
-“There was something deeper about wanting to grow this business. The power of a business done the right way is way more powerful than two rich people,” Gary said.
+This is a product of the entrepreneurial personality, Wasserman argued. Entrepreneurs tend to be single-minded in their focus. They are extra passionate. They are sometimes confident beyond their abilities, to the point of naïveté.
 
 ---
 
-అది freedom మరియు contentment నుంచి వచ్చే power.
+ఇవి great startup founder యొక్క attributes, business ను scale చేయడానికి charged అయిన CEO కి less so.
 
-It’s a power that comes from freedom and contentment.
+These are the attributes of a great startup founder, though less so of a CEO charged with scaling a business.
 
 ---
 
-మీరు already సరైనది చేశామని contentగా ఉన్నందున, మీరు చేయాలనుకున్నది ఏదైనా చేయగల freedom.
+అయినా, professional investors లేదా తమ own board of directors చేత ఈ analysis ఎదురుపడ్డప్పుడు, "founders usually తామే తమ start-ups ను success కి lead చేయగలమని convinced అవుతారు," అని Wasserman wrote.
 
-The freedom to do whatever you want because you are content with the fact that you’ve already done what you know is right.
+And still, when confronted with this analysis by professional investors or even their own board of directors, "founders are usually convinced that only they can lead their start-ups to success," Wasserman wrote.
 
 ---
 
-April 2000లో ఆ momentలో, block చుట్టూ halfway నడుస్తూ Gary Clif Barని sell చేయకూడదని నిర్ణయించినప్పుడు, అతనికి “completely free”గా అనిపించింది.
+"'Product ready stage కి నేను us ను తీసుకువెళ్ళాను కాబట్టి, ఇది company ను lead చేయగలను అని తెలియాలి' అన్నది common refrain (పదే పదే చెప్పే మాట)."
 
-In that moment back in April 2000, halfway through his walk around the block, when Gary decided not to sell Clif Bar, he “felt completely free.”
+"'Since I've gotten us to the stage where the product is ready, that should tell them that I can lead this company' is a common refrain."
 
 ---
 
-Ironically, అదే freedom అతనికి అక్కడే ఉండటానికి, ముందుకంటే ఎక్కువ responsibility తీసుకోవడానికి, employees పట్ల సరైనది చేయడానికి స్వేచ్ఛ ఇచ్చింది.
+Now, entrepreneurs తాము ఇష్టపడకపోతే professional money raise చేయాల్సిన అవసరం లేదు. తమకు available అయిన amounts లో లేదా valuation లో దాన్ని accept చేయాల్సిన అవసరం లేదు.
 
-Free, ironically enough, to stay right where he was, to take on even more responsibility than he had before, and to do right by his employees.
+Now, entrepreneurs don't have to raise professional money if they don't want to. They don't have to accept it in the amounts or at the valuation that may be available to them.
 
 ---
 
-ఆ decision చివరికి అతనిని rich చేసింది, వెంటనే happy చేసింది.
+తమ ideas లో idling అవుతున్న potential ను ఇతరులు ఎంత quickly కావాలనుకుంటారో అంత quickly realize చేయాల్సిన అవసరం కూడా లేదు. వాళ్ళు slow గా తీసుకోవచ్చు. వాళ్ళు compensation defer చేయొచ్చు. చాలా money make చేయడానికి wait చేయొచ్చు, company ను more natural pace లో grow అవ్వనివ్వొచ్చు.
 
-That decision would eventually make him rich, and it would immediately make him happy.
+They don't have to realize the potential idling within their ideas as quickly as others may want either. They can take it slow. They can defer compensation. They can wait to make a lot of money and let the company grow at a more natural pace.
 
 ---
 
-Angie మరియు Dan Bastian కూడా తమ employees పట్ల సరైనది చేయాలనుకున్నారు.
+చాలామంది entrepreneurs కి operate చేయడానికి ఇది unfamiliar place కాదు, ఎందుకంటే founders typically employees గా ఉంటే ఎంత earn చేస్తారో దాదాపు అంతే తామకు pay చేసుకుంటారు, మరి company లోకి వచ్చే CEO కంటే average గా చాలా తక్కువ.
 
-Angie and Dan Bastian wanted to do right by their employees as well.
+It wouldn't be an unfamiliar place from which to operate for most entrepreneurs, since founders typically pay themselves about as much as they would make if they were employees, and much less on average than a CEO would make coming into the company.
 
 ---
 
-అదే వాళ్లు తమ popcorn company Angie’s BOOMCHICKAPOPని sell చేయాలని ఎంచుకున్న పెద్ద reasons‌లో ఒకటి.
+Fundamentally, ఇది company కి best ఏది, తామకి best ఏది అని founder ఏమి అనుకుంటాడు అన్నదాని మీద depend అవుతుంది. "Entrepreneurs every step దగ్గర—making money and managing their ventures మధ్య choice ను face చేస్తారు," అని Wasserman wrote.
 
-That was a big part of the reason they chose to sell their popcorn company, Angie’s BOOMCHICKAPOP.
+Fundamentally, it comes down to what a founder thinks is best for the company and best for themselves. "Entrepreneurs face a choice, at every step, between making money and managing their ventures," Wasserman wrote.
 
 ---
 
-మొదట 2014లో private equity firm TPG Capitalకి majority stake sell చేయబడింది, తర్వాత 2017లో మొత్తం business Conagraకి sell అయింది.
+"ఈ fundamental tension 'rich' versus 'king' trade-offs ను yield చేస్తుంది. 'Rich' options company ను more valuable గా చేస్తాయి కానీ CEO position మరి major decisions మీద control ను తీసుకుని founder ను sideline చేయొచ్చు. 'King' choices CEO గా ఉండడం ద్వారా, board మీద control ను maintain చేయడం ద్వారా founder కి decision making control ను retain చేయనిస్తాయి—కానీ తరచుగా ఒక less valuable company build చేయడం ద్వారా మాత్రమే."
 
-First, a majority stake was sold to the private equity firm TPG Capital in 2014, then the whole thing was sold to Conagra in 2017.
+"This fundamental tension yields 'rich' versus 'king' trade-offs. The 'rich' options enable the company to become more valuable but [may] sideline the founder by taking away the CEO position and control over major decisions. The 'king' choices allow the founder to retain control of decision making by staying CEO and maintaining control over the board—but often only by building a less valuable company."
 
 ---
 
-Gary Erickson Clif Barని Quaker Oatsకి sell చేసే నిర్ణయం నుంచి తప్పుకునే ముందు ఎదుర్కొన్న మూడు నెలల tormentతో పోలిస్తే, Angie మరియు Danకి let go చేయడం అంత hard కాలేదు.
+By definition ఏ choice కూడా other కంటే better కాదు. Founders తమ company start చేసినప్పుడు వాళ్ళ goals ఏమిటి, వాటి success light లో ఆ goals ఎక్కడ evolve అయ్యాయి అన్నదాని మీద అంతా depend అవుతుంది.
 
-Unlike the three months of torment that Gary Erickson endured prior to pulling the pin on the sale of Clif Bar to Quaker Oats, it wasn’t so hard for Angie and Dan to let go.
+Neither choice is, by definition, better than the other. It all depends on what a founder's goals were when they started their company, and where those goals have evolved in light of their success.
 
 ---
 
-ఒక major multinational corporation వాళ్లను buy చేయాలనుకునే స్థితికి రావడానికి వాళ్లు తీసుకున్న roadతో పోలిస్తే, అది ఖచ్చితంగా సులభమే.
+అయితే growing మరి successful business తో wrangle అవుతున్నప్పుడు money మరి control మాత్రమే మీ choices అని I don't think.
 
-It was easier than the road they had taken to get to a place where a major multinational corporation would even consider buying them, that was for sure.
+Except I don't think money and control are your only choices when you are wrangling with a growing and successful business.
 
 ---
 
-Angie మరియు Dan 2003 నుంచి దీనిలో ఉన్నారు.
+Entrepreneur decision making ను motivate చేసే two major forces ఇవి మాత్రమే అని కూడా I don't believe. ఇక్కడ third ఉంది అని I think.
 
-Angie and Dan had been at it since 2003.
+I don't believe they are the only two major forces that motivate an entrepreneur's decision making either. I think there is a third.
 
 ---
 
-పదకొండు సంవత్సరాలు!
+Fundraising growth part లో lesser role play చేసే consideration, కానీ founder తను ever imagine చేసిన దానికంటే మించి తన business ను grow చేశాక మరి sell చేసే opportunity present అయినప్పుడు ఇది especially active అవుతుంది.
 
-Eleven years!
+A consideration that tends to play a lesser role during the fundraising part of growth, but is especially active once a founder has grown their business beyond what they ever imagined possible and the opportunity to sell presents itself.
 
 ---
 
-మొదట ఇది కేవలం outdoor events company—garageలో kettle corn pop చేసి, supermarkets బయట, Little League baseball gamesలో, Minnesota Vikings football gamesలో freezing Minnesota winterలో అమ్మడం.
+నేను happiness గురించి మాట్లాడుతున్నాను. Contentment. Right అనిపించే decision చేయడం.
 
-Initially, just as an outdoor events company, popping kettle corn in their garage and selling it outside supermarkets, Little League baseball games, and Minnesota Vikings football games in the freezing Minnesota winter.
+I'm talking about happiness. Contentment. Making a decision that feels right.
 
 ---
 
-వాళ్లు చివరికి North America అంతటా grocery store shelves నుంచి ఎగిరిపోయే beautifully branded and packaged popcorn business నిర్మిస్తారని వాళ్లకే shock, ఇతరులకూ shock.
+2000 లో, Gary Erickson మరి అతని partner Lisa Thomas—Clif Bar ను ఒక big food company కి sell చేయాలా వద్దా అన్న decision చేయాల్సి వచ్చింది.
 
-That they would end up building a business defined by beautifully branded and packaged popcorn that flies off grocery store shelves across North America was as much a shock to them as to anyone.
+In 2000, Gary Erickson and his partner at the time, Lisa Thomas, had to make a decision about whether or not they were going to sell Clif Bar to a big food company.
 
 ---
 
-ఎందుకంటే ప్రారంభంలో ఇది మొత్తం just a side hustle మాత్రమే.
+ఆ year earlier Nestlé PowerBar ను $375 million కి, Kraft Balance Bar ను $268 million కి buy చేశాక, energy bar game లోకి get in అవ్వడానికి try చేస్తున్న కొన్ని వాళ్ళు చుట్టూ తిరుగుతున్నారు (sniffing around).
 
-Because in the beginning this whole thing was just a side hustle.
+A number of them were sniffing around trying to get into the energy bar game after Nestlé bought PowerBar for $375 million and Kraft snapped up Balance Bar for $268 million earlier that year.
 
 ---
 
-Psychiatric nurse practitioner మరియు middle school teacher అయిన Angie మరియు Dan, తమ పిల్లల college educations కోసం కొంత extra money దాచుకోవడానికి ఒక మార్గం వెతుకుతున్నారు.
+Gary necessarily sell చేయాలని look చేస్తున్నాడని కాదు, కానీ తమ ఇద్దరి biggest competitors ను months gap లో, ఒక్కొక్కటికి a quarter billion dollars కంటే ఎక్కువ కి acquire అవ్వడం చూడడం, Lisa మీద big impact చూపించింది.
 
-A psychiatric nurse practitioner and middle school teacher, respectively, Angie and Dan were looking for a way to make a little extra money that they could put away for their children’s college educations.
+Gary wasn't necessarily looking to sell, but watching their two biggest competitors be acquired within months of each other, for more than a quarter of a billion dollars each, had a big impact on Lisa.
 
 ---
 
-వాళ్ల parents ideas ఆలోచించడం మొదలుపెట్టినప్పుడు పిల్లల వయసు కేవలం మూడు మరియు ఐదు సంవత్సరాలు.
+"నాకు ఆ moment exactly గుర్తుంది, నేను ఆమె నుండి call పొందినప్పుడు ఆమె, 'నేను company sell చేయాలనుకుంటున్నాను' అని చెప్పింది," అని Gary recount చేశాడు. "మరి నేను, 'all right, ఇది you do guess.'"
 
-The kids were just three and five years old when their parents started to kick around ideas.
+"I can remember the exact moment that I got a call from her and she said, 'I want to sell the company,'" Gary recounted. "And I said all right, I guess this is what you do."
 
 ---
 
-“మేము successfully employed, కానీ savings లేవు—we haven’t started yet—and everybody’s already got a college fund and a 401-whatever-that-is,” Angie వారి అప్పటి financial situation గురించి చెప్పింది.
+ఇక్కడ make చేయడానికి a ton of money ఉందని inarguable. అప్పటికి Clif Bar 8 సంవత్సరాల business లో ఉంది; growing staff మరి $40 million కంటే ఎక్కువ annual sales ఉన్నాయి. వాళ్ళు market లో మిగిలిన biggest privately held energy bar company.
 
-“We are successfully employed, but we don’t have any savings—we haven’t started yet—and everybody’s already got a college fund and a 401-whatever-that-is,” Angie said of their financial situation at the time.
+It was inarguable that there was a ton of money to be made here. Clif Bar had been in business for eight years by then; they had a growing staff and annual sales north of $40 million. They were the biggest privately held energy bar company left on the market.
 
 ---
 
-2019లో Minneapolisలో live interviewలో audience నవ్వుల మధ్య, “మాకు ఏమీ లేదు. ఇక్కడ ఏదో create చేయాలి,” అని ఆమె చెప్పింది.
+ఈ multinational conglomerates లో ఒకరు nine figures (hundreds of millions) వాళ్ళకి pay చేస్తారు without a doubt. కాబట్టి వాళ్ళు ఒక investment banker ను hire చేసుకున్నారు, అతను market లోకి వెళ్ళి company ను sale కి put చేశాడు, మరి అప్పుడు వాళ్ళు road కి వెళ్ళారు (hit the road).
 
-“We don’t have anything. We have to figure out how to create something here.”
+One of these multinational conglomerates was going to pay nine figures for them without a doubt. So they hired an investment banker, who went out onto the market and put the company up for sale, and then they hit the road.
 
 ---
 
-వాళ్లు kettle cornపై land కావడం pure chance—Dan చేసిన intrepid late-night googling ఫలితం.
+"మేము country అంతా travel చేయడం start చేశాం, తమ portfolio లో మాకు భాగంగా ఉండాలని కోరుకున్న ఈ large companies ను visit చేస్తూ," అని Gary చెప్పాడు, "మరి వాటిలో ఒకరి నుండి మాకు amazing deal వచ్చింది."
 
-The fact that it was kettle corn they landed on was pure chance—a product of Dan’s intrepid late-night googling.
+"We started traveling all over the country, visiting these large companies that wanted us to be part of their portfolio," Gary said, "and we got an amazing deal from one of them."
 
 ---
 
-“Somehow I stumbled across a site that said, ‘Make thousands of dollars every weekend popping kettle corn,’” Dan అన్నాడు.
+Quaker Oats Company—వాళ్ళకి అప్పటికే Chewy granola bars portfolio లో ఉన్నాయి మరి తామే PepsiCo కి sell కావడానికి year కంటే తక్కువ time దూరంలో ఉంది—Gary మరి Lisa కి $120 million offer చేసింది. అంటే each కి $60 million. వాళ్ళు walk away అవ్వగలరు, life set కి.
 
-“Somehow I stumbled across a site that said, ‘Make thousands of dollars every weekend popping kettle corn,’” Dan said.
+The Quaker Oats Company, which already had Chewy granola bars in its portfolio and was itself barely more than a year away from selling to PepsiCo, offered Gary and Lisa $120 million. That would mean $60 million for each of them. They could walk away, set for life.
 
 ---
 
-“అది ఏమిటో కూడా నాకు తెలియదు.”
+వాళ్ళు yes అన్నారు. Papers signing April 17, 2000 కి set అయ్యింది. Gary మరి Lisa తమ employees అందరికీ inform చేశారు.
 
-“I didn’t even know what it was.”
+They said yes. The signing of the papers was set for April 17, 2000. Gary and Lisa informed all their employees.
 
 ---
 
-ఆ sweet-and-salty treat గురించి అతనికి తెలియకపోవడం, ఆ website offer చేసిన అవకాశంపై అతని appetiteని తగ్గించలేదు.
+వాళ్ళ investment banker, Quaker Oats నుండి people, మరి lawyers అందరూ San Francisco లోని Bank of America building యొక్క thirtieth floor మీద gather అయ్యారు. Lisa contract లోని last few details nail down చేస్తూ వాళ్ళలో కొందరితో phone మీద ఉంది.
 
-His ignorance of the sweet-and-salty treat did little to suppress his appetite for the offer this website presented.
+Their investment banker, the people from Quaker Oats, and the lawyers were all gathered on the thirtieth floor of the Bank of America building in San Francisco. Lisa was on the phone with some of them nailing down the last few details in the contract.
 
 ---
 
-కేవలం $10,000కి, Washingtonలోని Gig Harborలో ఉన్న ఒక couple—దీన్ని తమ side hustleగా చేసుకున్న వాళ్లు—వాళ్లకు పెద్ద kettle, equipment, tent, table పంపుతారు.
+"Deal essentially done," అని Gary చెప్పాడు.
 
-For the low, low price of $10,000, a couple in Gig Harbor, Washington, who’d made this their side hustle, would send them a big kettle with all the equipment, a tent, and a table.
+"The deal was essentially done," Gary said.
 
 ---
 
-Recipe మాత్రం లేదు.
+మరి అప్పుడు, తను మరి Lisa Emeryville లోని తమ headquarters నుండి car లో jump అయ్యి Bay Bridge దాటి city లోకి drive చేయడానికి scheduled అయిన ఒక గంట కంటే తక్కువ time ముందు, Gary block చుట్టూ walk తీసుకోవాలని decide చేశాడు.
 
-No recipe.
-
----
-
-“ఆ phone call నాకు స్పష్టంగా గుర్తుంది,” Angie అన్నది.
-
-“I remember distinctly the phone call,” Angie said.
-
----
-
-“నేను patient takedown మధ్యలో ఉన్నాను, నా husband lineలో ఉన్నాడు.”
-
-“I’m in the middle of a patient takedown, and my husband’s on the line.”
-
----
-
-“కాబట్టి నేను nurses’ stationకి తిరిగి పరుగెత్తాను, అతను మరో వైపు నుంచి, ‘Ange what do you think about kettle corn?’ అన్నాడు.”
-
-“So I run back to the nurses’ station, and he’s on the other end and he says, ‘Ange what do you think about kettle corn?’”
-
----
-
-“నేను, ‘I like kettle corn’ అన్నాను.”
-
-“I’m like, ‘I like kettle corn.’”
-
----
-
-అందుకే వాళ్లు దాన్ని కొనేశారు.
-
-So they bought it.
-
----
-
-Phoneలోనే.
-
-Over the phone.
-
----
-
-Credit cardపై.
-
-On a credit card.
-
----
-
-తర్వాతి రెండు సంవత్సరాలు, weekdaysలో Dan పదమూడు ఏళ్ల పిల్లలకు Spanish మరియు social studies బోధించాడు, Angie local clinicలో పనిచేసింది.
-
-For the next two years, during the week Dan taught Spanish and social studies to thirteen-year-olds while Angie worked at the local clinic.
-
----
-
-రాత్రిళ్లు మరియు weekendsలో వాళ్లు kettle fire up చేసి, cheap Ziploc bagsలో kettle corn hand-pack చేసి, folding table మరియు tentతో greater Minneapolis area చుట్టూ తిరిగి, తమ delicious $3 snack bags అమ్మేవారు.
-
-Then at night and on weekends they would fire up the kettle, hand-pack the kettle corn into cheap Ziploc bags, and set out around the greater Minneapolis area with their folding table and their tent, selling bags of their delicious $3 snack.
-
----
-
-ఒక childని raise చేయడానికి village అవసరమని ఒక well-known African proverb చెబుతుంది.
-
-There is a well-known African proverb that says it takes a village to raise a child.
-
----
-
-Angie మరియు Dan Bastianకి తర్వాతి పది సంవత్సరాలు, popcorn business నిర్మించడానికి కూడా village అవసరమని నిరూపించాయి.
-
-The next ten years for Angie and Dan Bastian would prove that it also takes a village to build a popcorn business.
-
----
-
-2003లో, ఒక friend వాళ్లను local grocery chain buyerకి పరిచయం చేశాడు.
-
-In 2003, they were introduced by a friend to the buyer for a local grocery chain.
-
----
-
-ఆ buyer వాళ్లను, వాళ్ల kettle cornని ఇష్టపడి, side hustleని legitimate చేయడానికి అవసరమైన kick in the pants ఇచ్చాడు.
-
-The buyer took a liking to them (and their kettle corn) and gave them the kick in the pants they needed to make their side hustle legitimate.
-
----
-
-“వాళ్లు, ‘Get your act together. Nutritional panel తెచ్చుకోండి. Packaging తెచ్చుకోండి—twist ties grocery storesలో పని చేయవు,’ అన్నారు,” Dan చెప్పాడు.
-
-“They said, ‘Get your act together. Get a nutritional panel. Get packaging—twist ties don’t work in grocery stores,’” Dan said.
-
----
-
-“‘తర్వాత తిరిగి వచ్చి మాతో మాట్లాడండి.’”
-
-“‘Then come back and talk to us.’”
-
----
-
-తర్వాతి ఆరు నెలల్లో, వాళ్లు equipment కొన్నారు, small commercial kitchen rentకు తీసుకున్నారు—Angie చెప్పినట్టు “operation indoorsకి మార్చారు”—మరియు grocery chainకి తిరిగి వచ్చి “Angie’s Kettle Corn”ని officially launch చేశారు.
-
-So over the next six months, they bought some equipment, they rented out a small commercial kitchen—they “moved the operation indoors,” as Angie likes to put it—and they came back to the grocery chain to officially launch “Angie’s Kettle Corn.”
-
----
-
-వాళ్లు licensed అయ్యారు, roofed అయ్యారు, కానీ ఇంకా చుట్టూ ఉన్న వాళ్లతో, ఉన్నదానితో somehow making it work చేస్తున్న దశలోనే ఉన్నారు.
-
-They were licensed, and they were roofed, but they were still just kind of making it work with whomever and what they had around them.
-
----
-
-వారి logo Chris Higginbotham అనే local woman గీసింది, ఆమె వారి townకి కొంచెం northలో ఉన్న small townలో ఉండేది.
-
-Their logo was drawn by a local woman named Chris Higginbotham, who lived in a small town just north of theirs.
-
----
-
-“మేము ఆమె basementలో కూర్చుని logo draw చేశాం,” Angie వారి very formal business arrangement గురించి చెప్పింది.
-
-“We sat in her basement and drew out the logo,” Angie said of their very formal business arrangement.
-
----
-
-Packaging labels కూడా locally print చేయించుకోగలిగారు.
-
-They were able to get the labels for the packaging printed locally as well.
-
----
-
-Kettle corn manufacture చేయాల్సినప్పుడు, kitchenలో ఎక్కువగా Dan ఉండేవాడు.
-
-When it came time to manufacture the kettle corn, it was mostly Dan in the kitchen.
-
----
-
-కానీ అతను, Angie, వారి kids, “మరియు మేము ఎవరినైనా కనుక్కోగలిగితే వాళ్లు” ప్రతి రాత్రి bags hand-pack చేసి label చేసేవారు.
-
-But he and Angie and their kids “and whoever else we could find” would hand-pack and label the bags every night.
-
----
-
-Dan ప్రతి morning earlyగా లేచి, ఆ రోజు productని old banana boxesలో pack చేసేవాడు—అవి అతను delivery చేయబోతున్న అదే grocery stores నుంచి తెచ్చుకున్నవి.
-
-Dan would wake up early every morning and pack up the day’s product into old banana boxes that he’d liberated from the very grocery stores to which he was about to make deliveries.
-
----
-
-తర్వాత ప్రతి Thursday నుంచి Sunday వరకు, అతను మరియు Angie తమ first grocery clientsలో అరడజను storesలో product demos చేసేవారు.
-
-Then, every Thursday through Sunday, he and Angie would do product demos in a half dozen of their first grocery clients.
-
----
-
-Don మరియు Jeannie Boyer అనే couple సహాయంతో—వాళ్లు తర్వాత employees అయ్యారు, కానీ అప్పట్లో togetherగా ఏదో చేయాలనుకున్న retired third-grade teachers మాత్రమే.
-
-With the help of a couple named Don and Jeannie Boyer, who would eventually become their employees, but at the time were just a couple retired third-grade teachers who wanted to do something together.
-
----
-
-ఇంకా actual employees afford చేయలేక, Dan మరియు Angie Boyersకి hourకి $8 offer చేశారు… combined.
-
-Unable to afford actual employees just yet, Dan and Angie offered the Boyers $8 an hour . . . combined.
-
----
-
-“వాళ్లు, ‘మీరు మాకు ఎంత pay చేసినా మాకు care లేదు,’ అన్నారు,” Angie గుర్తు చేసుకుంది.
-
-“They said, ‘We don’t care what you pay us,’” Angie recalled.
-
----
-
-ఎందుకంటే వాళ్లు kind people, help చేయాలనుకున్నారు.
-
-“Because they were kind people and they wanted to help.”
-
----
-
-కొన్ని సంవత్సరాల్లోనే, Angie మరియు Danకి financial మరియు organizational help కూడా అవసరమైంది.
-
-Within a couple years, Angie and Dan would need financial and organizational help as well.
-
----
-
-వాళ్లు business expensesలో చాలా భాగం credit cardsపై పెట్టుకుంటూ వచ్చారు, 2006 నాటికి అంత credit card debt పెరిగింది कि technically ప్రారంభించినప్పటికంటే worse financial shapeలో ఉన్నారు.
-
-They’d been putting most of their business expenses on credit cards, and by 2006 they had so much credit card debt that they were technically in worse financial shape than when they started.
-
----
-
-అప్పుడు accountant కూడా అయిన ఒక family friend వాళ్లకు సహాయం చేశాడు.
-
-That’s when a family friend who was also an accountant came to their aid.
-
----
-
-“అతను మా books చూసి, ‘నేను మీకు loan ఇస్తాను, credit card debt relieve చేద్దాం, మీరు నాకే తిరిగి pay చేయండి’ అన్నాడు,” Angie గుర్తు చేసుకుంది.
-
-“He looked at our books and said, ‘Why don’t I just give you a loan here, and we can relieve your credit card debt and you can pay me back?’” Angie recalled.
-
----
-
-ఒక సంవత్సరం తర్వాత, Dan brother Greg businessలో చేరి, accountant-friend ప్రారంభించిన workని కొనసాగించాడు, financial perspective నుంచి విషయాలను clean up చేయడంలో సహాయం చేస్తూ.
-
-A year later, Dan’s brother, Greg, would join the business and continue the work their accountant-friend had begun by helping to clean things up from a financial perspective.
-
----
-
-Greg “companyకి rock” అయ్యాడు, Dan అన్నాడు.
-
-Greg would become “the rock of the company,” Dan said.
-
----
-
-ఈ people అందించిన support మరియు guidanceకి దీన్నంతకంటే మంచి time ఉండేది కాదు.
-
-The support and guidance these people offered could not have come at a better time.
-
----
-
-ఎందుకంటే Angie మరియు Dan ఇంకా money సంపాదించడం లేదు, కానీ 2007లో Greg companyలో చేరే సమయానికి వారు ఏదో సరైన దానిపై ఉన్నారని స్పష్టమైంది.
-
-Because while Angie and Dan weren’t making any money yet, it was clear by the time Greg joined the company in 2007 that they were onto something.
-
----
-
-వాళ్లు demandతో keep up చేయలేకపోయారు.
-
-They couldn’t keep up with demand.
-
----
-
-Dan cooking చేయడానికి మరియు తన daily to-do listsలో ఉన్న మిగతా అన్నీ complete చేయడానికి రోజు గంటలు సరిపోవడం లేదు.
-
-There weren’t enough hours in the day for Dan to do the cooking and to complete everything else on his daily to-do lists.
-
----
-
-Stopgapగా, వాళ్లు Minnesota State University నుంచి ముగ్గురు studentsని hire చేశారు—వారిలో ఇద్దరు relatives.
-
-As a stopgap, they hired three students from Minnesota State University—two of whom were relatives.
-
----
-
-వాళ్లకు minimum wage pay చేశారు.
-
-And paid them minimum wage.
-
----
-
-Incentiveగా production line చివర beer cooler పెట్టారు.
-
-They put a cooler of beer at the end of the production line as an incentive.
+And then, less than an hour before he and Lisa were scheduled to jump in the car and drive from their headquarters in Emeryville, across the Bay Bridge, and into the city, Gary decided to take a walk around the block.

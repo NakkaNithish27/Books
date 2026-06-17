@@ -1,741 +1,203 @@
-Telugu
-ఆ logo-less story కి ఎంతకాలం legs ఉంటాయి?
-
-English
+మరియు ఆ logo-less story ఎంత long before run out of legs (lose appeal) అవుతుంది?
 And how long before that logo-less story ran out of legs?
-
 ---
-
-Telugu
-Tim perspective నుండి మరింత specific గా చెప్పాలంటే, దాని point ఏమిటి?
-
-English
-More specifically, from Tim’s perspective, what would be the point?
-
+More specifically, Tim's perspective నుండి, దాని point ఏంటి?
+More specifically, from Tim's perspective, what would be the point?
 ---
-
-Telugu
-Tim లాగా overcrowded market లో break into కావాలనుకుంటే goal, tiger లేని Pumas తయారు చేయడం కాదు.
-
-English
-The goal, when you’re trying to break into an overcrowded market like Tim was, isn’t to make Pumas without the tiger.
-
+Tim లాగా overcrowded market లోకి break in అవ్వాలని try చేస్తున్నప్పుడు goal ఏంటంటే, tiger లేకుండా Pumas make చేయడం కాదు; ఇప్పటివరకు ఎవ్వరూ చూడని something make చేయడం.
+The goal, when you're trying to break into an overcrowded market like Tim was, isn't to make Pumas without the tiger; it's to make something no one has ever seen before.
 ---
-
-Telugu
-Goal ఏమిటంటే, ఎవ్వరూ ఇంతకుముందు చూడని దాన్ని తయారు చేయడం.
-
-English
-It’s to make something no one has ever seen before.
-
+Tim and Joey దాన్ని beginning నుండే understand చేశారు—market గురించి మరియు themselves గురించి—మరియు nearly anyone వేరే see చేసి వాళ్లకి differently do చేయమని tell చేసేలోపే lion's share of tweaks వాళ్ల Allbirds shoe కి చేశారు.
+Tim and Joey understood that—about the market and about themselves—nearly from the beginning, and they made the lion's share of tweaks to their Allbirds shoe before nearly anyone else had a chance to see it and tell them to do things differently.
 ---
-
-Telugu
-Tim మరియు Joey దీన్ని market గురించి కూడా, తమ గురించి కూడా, almost beginning నుంచే అర్థం చేసుకున్నారు.
-
-English
-Tim and Joey understood that—about the market and about themselves—nearly from the beginning.
-
+Tim మా conversation లో clear గా చెప్పినట్లుగా, ఈ first phase లో enough time spend చేయడం important, మీ product మరియు మీ story తో really comfortable get అవ్వడానికి మరియు మీరు build చేయాలని try చేస్తున్న business ని really తెలుసుకోవడానికి.
+As Tim made clear in our conversation, it's important to spend enough time in this first phase to really get comfortable with your product and your story and really get to know the business you're trying to build.
 ---
-
-Telugu
-కాబట్టి వారు Allbirds shoe లోని lion’s share tweaks ను, దాన్ని చూసి differently చేయమని చెప్పే అవకాశం nearly anyone else కి రాకముందే చేశారు.
-
-English
-And they made the lion’s share of tweaks to their Allbirds shoe before nearly anyone else had a chance to see it and tell them to do things differently.
-
----
-
-Telugu
-Tim తన conversation లో clear చేసినట్లుగా, first phase లో enough time spend చేయడం important.
-
-English
-As Tim made clear in our conversation, it’s important to spend enough time in this first phase.
-
----
-
-Telugu
-మీ product, మీ story తో really comfortable అవ్వాలి, మీరు build చేయాలనుకుంటున్న business ను really get to know చేయాలి.
-
-English
-To really get comfortable with your product and your story and really get to know the business you’re trying to build.
-
----
-
-Telugu
-Tim arguably ఐదు productive years అక్కడే గడిపాడు.
-
-English
+Tim, arguably, అక్కడ ఐదు productive years గడిపాడు.
 Tim, arguably, spent five productive years there.
-
 ---
-
-Telugu
-దానికి contrast గా, Whitney Wolfe Bumble first version ను world లోకి, people phones లోకి తీసుకురావడానికి ఒక year కన్నా తక్కువ time తీసుకుంది.
-
-English
-Whitney Wolfe, in contrast, took less than a year to get the first version of Bumble out into the world and onto people’s phones.
-
+Whitney Wolfe, in contrast, Bumble's first version ని world లోకి మరియు people's phones లోకి get out చేయడానికి less than a year తీసుకుంది, partly ఎందుకంటే ఆమెకి Tinder time నుండి business తెలుసు మరియు Tinder ని for good leave చేసిన day నుండి Bumble story యొక్క every moment ని live చేసింది.
+Whitney Wolfe, in contrast, took less than a year to get the first version of Bumble out into the world and onto people's phones, in part because she already knew the business from her time at Tinder and she'd lived every moment of the Bumble story from the day she left Tinder for good.
 ---
-
-Telugu
-దానికి ఒక కారణం, Tinder లో పని చేసిన అనుభవం వల్ల ఆమెకు business already తెలుసు.
-
-English
-In part because she already knew the business from her time at Tinder.
-
+First phase of development లో మీరు spend చేసే exact amount of time అంత important కాదు, మీరు అక్కడ too long stuck అవ్వకుండా ensure చేయడం అంత important.
+The exact amount of time you spend in the first phase of development isn't as important as making sure you don't get stuck there for too long.
 ---
-
-Telugu
-మరొక కారణం, Tinder ను for good వదిలిన రోజు నుండి Bumble story లో ప్రతి moment ఆమె lived చేసింది.
-
-English
-And she’d lived every moment of the Bumble story from the day she left Tinder for good.
-
----
-
-Telugu
-First phase development లో exact amount of time ఎంత spend చేస్తారన్నది అంత ముఖ్యమేమీ కాదు.
-
-English
-The exact amount of time you spend in the first phase of development isn’t as important.
-
----
-
-Telugu
-కానీ అక్కడ too long stuck కాకుండా చూసుకోవడం ముఖ్యము.
-
-English
-As making sure you don’t get stuck there for too long.
-
----
-
-Telugu
-ప్రతి idea ఎంత great అయినా, దానికి shelf life ఉంటుంది.
-
-English
+ప్రతి idea, ఎంత great అయినా, shelf life కలిగి ఉంటుంది.
 Every idea, no matter how great, has a shelf life.
-
 ---
-
-Telugu
-మీరు దాన్ని shelf నుండి తీసి time లో world లోకి పెట్టకపోతే, second phase feedback ఎంత వచ్చినా lack of interest ను overcome చేయలేడు.
-
-English
-If you don’t get it off that shelf and out into the world in time, no amount of feedback you get during the second phase of the iterative process can overcome a lack of interest.
-
+మీరు దాన్ని time లో shelf off నుండి world లోకి get చేయకపోతే, second phase of iterative process లో మీరు ఎంత feedback get చేసినా, lack of interest ని overcome చేయలేదు లేదా ఎవరైనా మిమ్మల్ని punch కి beat చేస్తే first-mover advantage ని mitigate చేయలేదు.
+If you don't get it off that shelf and out into the world in time, no amount of feedback you get during the second phase of the iterative process can overcome a lack of interest or mitigate first-mover advantage if someone beats you to the punch.
 ---
-
-Telugu
-లేదా ఎవరో ముందు punch కొడితే first-mover advantage ను mitigate చేయలేడు.
-
-English
-Or mitigate first-mover advantage if someone beats you to the punch.
-
+Criticism well handle చేయని people కి, లేదా countless aspiring writers desks లేదా hard drives మీద next great American novel ని forever నుండి trap చేసిన familiar yet unattainable form of perfectionism తో dogged అయిన people కి phase two కి move అవ్వడం tough అవ్వొచ్చు.
+Moving to phase two can be tough for people who don't handle criticism well, or who are dogged by that familiar yet unattainable form of perfectionism that has trapped the next great American novel on the desks or hard drives of countless aspiring writers since forever.
 ---
-
-Telugu
-Criticism handle చేయలేని people కి, లేదా perfectionism తో dogged అయ్యే people కి phase two కి move అవ్వడం tough.
-
-English
-Moving to phase two can be tough for people who don’t handle criticism well, or who are dogged by that familiar yet unattainable form of perfectionism.
-
+Friends and family ని money కోసం ask చేయడం లాగా, మీ idea మరియు మీ hard work అంతా feedback కి expose చేయడం very uncomfortable అవ్వొచ్చు, ఇది first phase of internal development ని ఒక safe space లాగా feel చేస్తుంది, ఇక్కడి నుండి మీరు absolutely sure గా అవ్వే వరకు head poke out చేయాలని want చేయరు.
+Like asking friends and family for money, exposing your idea and all your hard work to feedback can be very uncomfortable, which can make the first phase of internal development feel like a safe space out of which you would rather not poke your head until you're absolutely sure.
 ---
-
-Telugu
-ఆ perfectionism ఎన్నో aspiring writers desks లేదా hard drives లో next great American novel ను forever trapped చేసి ఉంచింది.
-
-English
-That has trapped the next great American novel on the desks or hard drives of countless aspiring writers since forever.
-
+కానీ "absolutely sure" అనేది exist అవ్వదు.
+Except "absolutely sure" doesn't exist.
 ---
-
-Telugu
-Friends and family ను money కోసం అడిగినట్టే, మీ idea మరియు hard work ను feedback కు expose చేయడం కూడా చాలా uncomfortable.
-
-English
-Like asking friends and family for money, exposing your idea and all your hard work to feedback can be very uncomfortable.
-
+ఎవరైనా entrepreneur perfectionism paralysis (frozen state) ఉన్నప్పటికీ succeed అయిన story ని నేను మీకు చెప్పాలని love అయ్యేవాన్ని—కానీ నా దగ్గర అలాంటిది ఏదీ లేదు, ఎందుకంటే అలాంటి people generally companies create చేయరు.
+I would love to tell you a story about an entrepreneur who succeeded in spite of the paralysis of their perfectionism—but I don't have one, because such people generally don't create companies.
 ---
-
-Telugu
-దానివల్ల first phase of internal development ఒక safe space లాగా అనిపించవచ్చు.
-
-English
-Which can make the first phase of internal development feel like a safe space.
-
+నేను meet అయ్యే creators మరియు innovators, criticism మరియు perfectionism తో struggle అయితే, వాళ్లకి తమ product ని marketplace ద్వారా judge అవ్వనివ్వడం యొక్క importance మరియు result గా product ని better make చేయడానికి users' feedback present చేసే opportunity కూడా understand అవుతుంది.
+The creators and innovators whom I meet, if they do struggle with criticism and perfectionism, also understand the importance of allowing their product to be judged by the marketplace, and the opportunity that users' feedback presents to make the product better as a result.
 ---
-
-Telugu
-అక్కడి నుండి మీరు absolutely sure అయ్యే వరకు బయటికి తల చూపించకూడదనిపించవచ్చు.
-
-English
-Out of which you would rather not poke your head until you’re absolutely sure.
-
----
-
-Telugu
-కానీ “absolutely sure” అనేది అసలు ఉండదు.
-
-English
-Except “absolutely sure” doesn’t exist.
-
----
-
-Telugu
-Perfectionism paralysis ఉన్నప్పటికీ success అయిన entrepreneur story చెప్పాలని రచయితకు ఉంది, కానీ అలాంటి story అతనికి లేదు.
-
-English
-I would love to tell you a story about an entrepreneur who succeeded in spite of the paralysis of their perfectionism—but I don’t have one.
-
----
-
-Telugu
-ఎందుకంటే అలాంటి people సాధారణంగా companies create చేయరు.
-
-English
-Because such people generally don’t create companies.
-
----
-
-Telugu
-రచయిత కలిసే creators మరియు innovators criticism, perfectionism తో struggle చేసినా, product marketplace చేత judge కావడం ఎంత important అనేది అర్థం చేసుకుంటారు.
-
-English
-The creators and innovators whom I meet, if they do struggle with criticism and perfectionism, also understand the importance of allowing their product to be judged by the marketplace.
-
----
-
-Telugu
-Users feedback product ను better చేయడానికి opportunity ఇస్తుందని కూడా వారు అర్థం చేసుకుంటారు.
-
-English
-And the opportunity that users’ feedback presents to make the product better as a result.
-
----
-
-Telugu
-Product dial in చేయడానికి వారికి abundance of feedback అవసరమని వారికి తెలుసు.
-
-English
+వాళ్ల product ని dial in చేయడానికి (fine-tune చేయడానికి) వాళ్లకి abundance of feedback అవసరం అని వాళ్లకి తెలుసు.
 They know that they need an abundance of feedback to dial in their product.
-
 ---
-
-Telugu
-వాస్తవానికి, వారు actively feedback seek చేస్తారు.
-
-English
+In fact, వాళ్లు actively దాన్ని seek out చేస్తారు.
 They actively seek it out, in fact.
-
 ---
-
-Telugu
-ఎందుకంటే వారు ఏమి చేయాలనుకుంటున్నారో, ఎందుకు చేయాలనుకుంటున్నారో, ఎలా చేయాలనుకుంటున్నారో తెలుసుకున్నప్పటికీ, people actually దాన్ని like చేస్తారా అన్నది తమకు తెలియదని కూడా తెలుసుకుంటారు.
-
-English
-Because while they know what they want to do, and they know why and how they want to do it, they also know that they have no idea if anyone will actually like what they’re making.
-
+ఎందుకంటే వాళ్లకి ఏం చేయాలనుకుంటున్నారో తెలుసు, మరియు ఎందుకు మరియు ఎలా చేయాలనుకుంటున్నారో తెలుసు, వాళ్లు make చేస్తున్నది ఎవరికైనా actually like అవుతుందో లేదో వాళ్లకి no idea అని కూడా వాళ్లకి తెలుసు.
+Because while they know what they want to do, and they know why and how they want to do it, they also know that they have no idea if anyone will actually like what they're making.
 ---
-
-Telugu
-ఇది ఎప్పుడూ essential గా keep in mind చేయాల్సిన విషయం.
-
-English
-And that’s always essential to keep in mind.
-
+మరియు అది keep in mind చేయడం always essential.
+And that's always essential to keep in mind.
 ---
-
-Telugu
-Iterative process లో ఈ aspect energy bar business లో అత్యంత స్పష్టంగా కనిపిస్తుంది.
-
-English
+Iterative process యొక్క ఈ aspect energy bar business లో కంటే ఎక్కడా more evident కాదు.
 Nowhere is this aspect of the iterative process more evident than in the energy bar business.
-
 ---
-
-Telugu
-సంవత్సరాలుగా, రచయిత energy bars creators ముగ్గురిని interview చేశాడు — Clif Bar యొక్క Gary Erickson, RXBar యొక్క Peter Rahal, Lärabar యొక్క Lara Merriken.
-
-English
-Somehow, over the years, I’ve managed to interview the creators of three of them—Gary Erickson of Clif Bar, Peter Rahal of RXBar, and Lara Merriken of Lärabar.
-
+Somehow, years over, నేను అందులో ముగ్గురి creators ని interview చేయగలిగాను—Clif Bar యొక్క Gary Erickson, RXBar యొక్క Peter Rahal, మరియు Lärabar యొక్క Lara Merriken.
+Somehow, over the years, I've managed to interview the creators of three of them—Gary Erickson of Clif Bar, Peter Rahal of RXBar, and Lara Merriken of Lärabar.
 ---
-
-Telugu
-వాళ్లు unique characters అయినప్పటికీ, వారి entrepreneurial journeys similar.
-
-English
-They are unique characters with similar entrepreneurial journeys.
-
+వాళ్లు similar entrepreneurial journeys కలిగిన unique characters, మరియు other people కోసం cook చేయడం love చేసే ఎవరైనా గా వాళ్ల stories నాకు attract అయినది ఏంటంటే, ఒక new recipe తో come up అవ్వడం మరియు దాన్ని exactly right get చేయడం ఎంత fraught (కష్టంతో కూడిన), people just eat చేయడమే కాకుండా love చేసేలా చేయడం.
+They are unique characters with similar entrepreneurial journeys, and I think what attracted me to their stories, as someone who loves to cook for other people myself, is just how fraught it can be to come up with a new recipe and then try to get it exactly right so people won't just eat it, but they'll love it, too.
 ---
-
-Telugu
-ఇతరుల కోసం cook చేయడం ఇష్టపడే రచయితకు, కొత్త recipe develop చేసి, people కేవలం eat చేయడమే కాక love చేసేలా exact గా get right చేయడం ఎంత fraught అవుతుందో ఈ stories attract చేశాయి.
-
-English
-And I think what attracted me to their stories, as someone who loves to cook for other people myself, is just how fraught it can be to come up with a new recipe and then try to get it exactly right so people won’t just eat it, but they’ll love it, too.
-
+మీ friends and family ని money కోసం ask చేయడం hard అని అనుకుంటున్నారా? వాళ్లని మీ food taste చేయమని మరియు honest opinion ఇవ్వమని ask చేయడం try చేయండి.
+You think asking your friends and family for money is hard? Try asking them to taste your food and give you their honest opinion.
 ---
-
-Telugu
-Friends and family ను money కోసం అడగడం hard అనుకుంటున్నారా?
-
-English
-You think asking your friends and family for money is hard?
-
+అది good గా ఉందో, వాళ్లకి like అయ్యిందో, దానిలో ఏం like అయ్యిందో, వాళ్లు change చేసేది ఏదైనా ఉందో, వాళ్లు more or less want చేసేది ఏదైనా ఉందో చెప్పమని వాళ్లని get చేయండి.
+Try getting them to tell you if it's good, if they like it, what they like about it, if there's anything they'd change, if there's anything they'd like more or less of.
 ---
-
-Telugu
-మీ food taste చేసి honest opinion ఇవ్వమని అడిగి చూడండి.
-
-English
-Try asking them to taste your food and give you their honest opinion.
-
+Experience నుండి నేను చెప్పగలను, ఇది impossible task లాగా feel అవ్వొచ్చు—ఎవరి feedback consider చేయాలో మరియు ఎవరిది ignore చేయాలో discern చేయవలసిన necessity ద్వారా మరింత difficult గా చేయబడిన, మరియు తర్వాత ఆ feedback ని ఎలా apply చేయాలో, అది every time మిమ్మల్ని drawing board కి back send చేయని way లో.
+I can tell you from experience that this can feel like an impossible task—one made even more difficult by the need to discern whose feedback to consider and whose to ignore, and then how to apply that feedback in such a way that it doesn't send you back to the drawing board every time.
 ---
-
-Telugu
-అది good గా ఉందా, వాళ్లకు like అయ్యిందా, ఏం like అయ్యింది, ఏమైనా change చేయాలా, ఏదైనా more లేదా less కావాలా అని చెప్పించడానికి ప్రయత్నించండి.
-
-English
-Try getting them to tell you if it’s good, if they like it, what they like about it, if there’s anything they’d change, if there’s anything they’d like more or less of.
-
----
-
-Telugu
-రచయిత experience ప్రకారం, ఇది impossible task లాగా అనిపించవచ్చు.
-
-English
-I can tell you from experience that this can feel like an impossible task.
-
----
-
-Telugu
-ఎవరి feedback consider చేయాలి, ఎవరిది ignore చేయాలి, ఆ feedback ను ఎలా apply చేయాలి అన్న need వల్ల అది ఇంకా difficult అవుతుంది.
-
-English
-One made even more difficult by the need to discern whose feedback to consider and whose to ignore, and then how to apply that feedback.
-
----
-
-Telugu
-ప్రతి feedback మీను drawing board కు తిరిగి పంపకుండా apply చేయాలి.
-
-English
-In such a way that it doesn’t send you back to the drawing board every time.
-
----
-
-Telugu
-ఇది difficult కానీ necessary process; Gary Erickson కి ఆరు నెలలు, Peter Rahal కి ఏడు నెలలు, Lara Merriken కి మూడు సంవత్సరాలు పట్టింది.
-
-English
+ఇది difficult కానీ necessary process, ఇది Gary Erickson కి six months, Peter Rahal కి seven months, Lara Merriken కి మూడు years పట్టింది complete చేయడానికి.
 It is a difficult but necessary process that took Gary Erickson six months, Peter Rahal seven months, and Lara Merriken three years to complete.
-
 ---
-
-Telugu
-ప్రతి product ఒక idea తోనే ప్రారంభమైంది.
-
-English
+Each product ఒక idea తో start అయ్యింది, of course.
 Each product started with an idea, of course.
-
 ---
-
-Telugu
-Gary, California లోని Berkeley లో నివసించే avid cyclist, తన idea ను 1990 లో Bay Area గుండా long, hilly ride లో పొందాడు.
-
-English
+Berkeley, California లో నివసిస్తున్న avid cyclist Gary, 1990 లో ఒక good friend తో Bay Area ద్వారా long, hilly ride మీద తన idea ని get చేశాడు.
 Gary, an avid cyclist living in Berkeley, California, got his in 1990 on a long, hilly ride through the Bay Area with a good friend.
-
 ---
-
-Telugu
-వారు 125 miles ride చేయాలని ప్లాన్ చేశారు, అందుకే ఒక్కొక్కరు ఒక banana మరియు six PowerBars fuel కోసం తెచ్చుకున్నారు.
-
-English
-They were planning to do 125 miles, so each of them brought a banana and six PowerBars ... for fuel.
-
+వాళ్లు 125 miles do చేయాలని plan చేశారు, so ఒక్కొక్కరు fuel కోసం ఒక banana మరియు six PowerBars (coincidentally Berkeley నుండే) bring చేశారు.
+They were planning to do 125 miles, so each of them brought a banana and six PowerBars (also from Berkeley, coincidentally) for fuel.
 ---
-
-Telugu
-ఆ సమయంలో PowerBars market లో readily available energy bars లో దాదాపు ఒక్కటే; cyclists అందరూ వాటినే తినేవారు — చాలామంది reluctantly.
-
-English
+ఆ సమయంలో, PowerBars మాత్రమే market లో readily available energy bars, so every cyclist వాటిని తినేవాడు—చాలామంది, grudgingly.
 At the time, PowerBars were the only readily available energy bars on the market, so every cyclist ate them—most, grudgingly.
-
 ---
-
-Telugu
-Mount Hamilton top వద్ద Gary ఐదు PowerBars తిన్న తర్వాత sixth one చూసి, “ఇంకోటి మాత్రం కాదు; దీనికంటే ఆకలితో ఉండటం better” అన్నాడు.
-
-English
-“When we were at the top of Mount Hamilton, I’d eaten five of those PowerBars, and I looked at the sixth one and I said, ‘No way. I can’t do one more. I would rather starve than eat another one of these,’” Gary recalled.
-
+"మేము Mount Hamilton top మీద ఉన్నప్పుడు, నేను ఆ PowerBars లో ఐదు తినేశాను, మరియు ఆరవదాన్ని చూసి అన్నాను, 'No way. ఇంకొకటి తినలేను. ఇంకో PowerBar తినే కంటే నేను starve అవ్వడం better,'" Gary recalled.
+"When we were at the top of Mount Hamilton, I'd eaten five of those PowerBars, and I looked at the sixth one and I said, 'No way. I can't do one more. I would rather starve than eat another one of these,'" Gary recalled.
 ---
-
-Telugu
-అప్పుడు ఆ bars consistency LaffyTaffy మరియు Now and Laters మధ్యలో ఉన్నట్టుగా ఉండేది, కానీ candied sugar flavor benefits ఏమీ లేకుండా.
-
-English
-Back then, the bars had a consistency somewhere between LaffyTaffy and Now and Laters, without any of the flavor benefits of candied sugar.
-
+Back then, bars consistency Laffy Taffy మరియు Now and Laters మధ్య somewhere ఉండేది, candied sugar యొక్క ఏ flavor benefits లేకుండా.
+Back then, the bars had a consistency somewhere between Laffy Taffy and Now and Laters, without any of the flavor benefits of candied sugar.
 ---
-
-Telugu
-Gary వాటిని “the bitter pill” అని పిలిచాడు.
-
-English
-“The bitter pill,” he called them.
-
+"The bitter pill," ఆయన దానిని call చేశాడు.
+"The bitter pill," he called them.
 ---
-
-Telugu
-అతను తన friend వైపు తిరిగి, “దానికంటే better energy bar నేను చేయగలను” అన్నాడు.
-
-English
-“I turned to my friend and said, ‘I can make a better energy bar than that.’”
-
+"నేను నా friend ని turn చేసి అన్నాను, 'దీని కంటే better energy bar make చేయగలను నేను.'"
+"I turned to my friend and said, 'I can make a better energy bar than that.'"
 ---
-
-Telugu
-దశాబ్దం తర్వాత, Lara, అప్పట్లో social worker, 2000 Memorial Day weekend లో Boulder, Colorado బయట mountain top వద్ద trail mix bag bottom నుండి తన bar idea పొందింది.
-
-English
+ఒక decade తర్వాత, Lara, ఆ time లో social worker, తన bar కోసం idea ని Boulder, Colorado వెలుపల ఒక mountain top మీద Memorial Day weekend 2000 లో trail mix bag bottom నుండి get చేసింది.
 A decade later, Lara, a social worker at the time, got the idea for her bar from the bottom of a trail mix bag at the top of a mountain outside Boulder, Colorado, on Memorial Day weekend in 2000.
-
 ---
-
-Telugu
-ఆమె trail mix తింటూ food మరియు raw foods గురించి ఆలోచిస్తుండగా suddenly light bulb went off.
-
-English
-“I was just kind of eating trail mix and thinking of food and raw foods and all of a sudden this light bulb goes off for me,” she said.
-
+"నేను just kind of trail mix తింటూ food, raw foods గురించి ఆలోచిస్తుంటే, ఒక్కసారిగా నాకు light bulb వెలిగింది," ఆమె చెప్పింది.
+"I was just kind of eating trail mix and thinking of food and raw foods and all of a sudden this light bulb goes off for me," she said.
 ---
-
-Telugu
-Fruit, nuts, spices తో — pure, simple, real foods — portable, convenient, indulgent taste ఉండే something ఎవరు ఎందుకు చేయలేదు అని ఆమె ఆలోచించింది.
-
-English
-“Why hasn’t somebody made something made of fruit, nuts, and spices—just pure, simple, real foods—but it’s portable and convenient and it tastes indulgent like you shouldn’t be eating it?”
-
+"'ఎందుకు ఎవరూ fruit, nuts, మరియు spices తో make చేసిన something—pure, simple, real foods—portable మరియు convenient గా ఉంటూ తినకూడని something లాగా indulgent గా taste అయ్యేది ఎందుకు make చేయలేదు?'"
+"'Why hasn't somebody made something made of fruit, nuts, and spices—just pure, simple, real foods—but it's portable and convenient and it tastes indulgent like you shouldn't be eating it?'"
 ---
-
-Telugu
-2012 లో, hard-core CrossFit enthusiast మరియు Paleo diet adherent అయిన Peter Rahal, ఆ diet strictures ను meet చేసే energy లేదా protein bar లేదని గుర్తించినప్పుడు RXBar idea వచ్చింది.
-
-English
-In 2012, Peter Rahal came up with the idea for RXBar when, as a hard-core CrossFit enthusiast and an adherent of the Paleo diet ... he recognized that there was no energy or protein bar out there that met the strictures of that diet.
-
+2012 లో, Peter Rahal RXBar కోసం idea తో come up అయ్యాడు, hard-core CrossFit enthusiast మరియు Paleo diet adherent గా (so many other CrossFitters లాగానే), ఆ diet strictures ని meet అయ్యే energy or protein bar market లో లేదని ఆయన recognize చేశాడు.
+In 2012, Peter Rahal came up with the idea for RXBar when, as a hard-core CrossFit enthusiast and an adherent of the Paleo diet (like so many other CrossFitters), he recognized that there was no energy or protein bar out there that met the strictures of that diet.
 ---
-
-Telugu
-Peter question సింపుల్: ఎందుకు?
-
-English
-“And the question was, why?” Peter said.
-
+"మరియు question ఏంటంటే, ఎందుకు?" Peter అన్నాడు.
+"And the question was, why?" Peter said.
 ---
-
-Telugu
-అదే activity చేసే, అదే nutrition values follow చేసే group ఉంది, gyms water మరియు T-shirts అమ్ముతున్నాయి, కానీ Paleo criteria fulfill చేసే good-tasting bar లేదు.
-
-English
-“There’s this group of people that all do the same activity, that subscribe to the same nutrition values, and yet these gyms are selling water, they’re selling T-shirts, but no good-tasting bar that fulfilled the Paleo criteria.”
-
+"ఇదే activity చేసే, ఇదే nutrition values ని subscribe చేసే people group ఒకటి ఉంది, అయినా ఈ gyms water sell చేస్తున్నాయి, T-shirts sell చేస్తున్నాయి, కానీ Paleo criteria ని fulfill చేసే good-tasting bar ఏదీ లేదు."
+"There's this group of people that all do the same activity, that subscribe to the same nutrition values, and yet these gyms are selling water, they're selling T-shirts, but no good-tasting bar that fulfilled the Paleo criteria."
 ---
-
-Telugu
-Tim Brown sneakers లాగే, crowded energy bar space లో clean and simple గా gap fill చేయాలనేది Peter idea.
-
-English
-Not unlike Tim Brown’s sneakers, Peter’s idea was to fill that gap in the otherwise crowded energy bar space with something clean and simple.
-
+Tim Brown's sneakers తో పోలికగా, Peter's idea ఏంటంటే otherwise crowded energy bar space లో ఆ gap ని clean మరియు simple something తో fill చేయడం.
+Not unlike Tim Brown's sneakers, Peter's idea was to fill that gap in the otherwise crowded energy bar space with something clean and simple.
 ---
-
-Telugu
-Interesting విషయం ఏమిటంటే, bars initial recipes rough outlines conceive చేసి down చేయడం — iterative process first phase — వీరిలో ఎవరికి చాలా ఎక్కువ time తీసుకోలేదు.
-
-English
-Interestingly, conceiving of and getting down the rough outlines of the bars’ initial recipes—this is what the first phase of their iterative process entailed—didn’t take any of these creators all that long.
-
+Interestingly, bars' initial recipes యొక్క rough outlines ని conceive చేయడం మరియు get down చేయడం—ఇది వాళ్ల iterative process యొక్క first phase—ఈ creators లో ఎవరికీ that long పట్టలేదు.
+Interestingly, conceiving of and getting down the rough outlines of the bars' initial recipes—this is what the first phase of their iterative process entailed—didn't take any of these creators all that long.
 ---
-
-Telugu
-Gary long ride నుండి home వచ్చిన 24 hours కూడా కాకముందే, తన small bakery recipes లో సహాయపడిన mother కు call చేసి energy bar idea కోసం help అడిగాడు.
-
-English
-Not twenty-four hours after Gary got home from his long ride, for instance, he called his mom, who’d helped him with recipes for the small bakery ... he currently owned, and enlisted her help with his energy bar idea.
-
+For instance, Gary long ride నుండి home వచ్చిన twenty-four hours లోపే తన mom కి call చేశాడు, ఆమె ఆయన currently own చేస్తున్న small bakery (Kali's, named after his grandma) కోసం recipes తో help చేసిన ఆమె, energy bar idea తో help కోసం enlist చేశాడు.
+Not twenty-four hours after Gary got home from his long ride, for instance, he called his mom, who'd helped him with recipes for the small bakery (Kali's, named after his grandma) he currently owned, and enlisted her help with his energy bar idea.
 ---
-
-Telugu
-ఆమె response: “Energy bar అంటే ఏమిటి?”
-
-English
-Her response was, “What’s an energy bar?”
-
+ఆమె response ఏంటంటే, "Energy bar అంటే ఏంటి?"
+Her response was, "What's an energy bar?"
 ---
-
-Telugu
-Gary answer basically Clif Bar recipe foundation.
-
-English
+ఆయన answer basically Clif Bar recipe foundation అయ్యింది.
 His answer was basically the foundation of the Clif Bar recipe.
-
 ---
-
-Telugu
-“నువ్వు చేసే oatmeal-raisin-chocolate chip cookie లాంటిదే, కానీ butter, sugar, oil వాడలేం” అని అతను చెప్పాడు.
-
-English
-“It is kind of like that oatmeal–raisin–chocolate chip cookie you make,” he began, “but we can’t use butter, we can’t use sugar, we can’t use oil.”
-
+"మీరు make చేసే ఆ oatmeal–raisin–chocolate chip cookie లాంటిదే అది," ఆయన start చేశాడు, "కానీ మనం butter use చేయలేము, sugar use చేయలేము, oil use చేయలేము."
+"It is kind of like that oatmeal–raisin–chocolate chip cookie you make," he began, "but we can't use butter, we can't use sugar, we can't use oil."
 ---
-
-Telugu
-Whole oats, real fruit, rice నుండి చేసిన sweetener మాత్రమే ఉపయోగించి, rectangular shape లో form చేయాలి.
-
-English
-It was just going to be whole oats, real fruit, and a sweetener made from rice, all of which he would form into a rectangular shape.
-
+అది just whole oats, real fruit, మరియు rice నుండి made sweetener మాత్రమే అవ్వబోతుంది, అన్నీ ఆయన rectangular shape గా form చేస్తాడు, ఎందుకంటే "అది cookie అవ్వబోదు—అది bar లాంటిది అవ్వాలి."
+It was just going to be whole oats, real fruit, and a sweetener made from rice, all of which he would form into a rectangular shape, because "it was not going to be a cookie—it had to be like a bar."
 ---
-
-Telugu
-ఎందుకంటే అది cookie కాదు — bar లాగా ఉండాలి.
-
-English
-Because “it was not going to be a cookie—it had to be like a bar.”
-
+Lara కూడా start చేయడానికి full day wait చేయలేదు.
+Lara didn't wait a full day to start tinkering either.
 ---
-
-Telugu
-Lara కూడా tinkering ప్రారంభించడానికి full day wait చేయలేదు.
-
-English
-Lara didn’t wait a full day to start tinkering either.
-
+"నేను mountain dig down run చేశాను," ఆమె చెప్పింది, "ఒక notebook తీసి ideas write down చేయడం start చేశాను. మరియు Denver వచ్చిన తర్వాత, pies, cookies మరియు cakes నుండి ideas get చేస్తుండేదాన్ని. మరియు అనుకునేదాన్ని, 'Okay, cherry pie తీసుకుని, నా Cuisinart లో raw, unprocessed food గా ఎలా make చేయాలి, మరియు దాన్ని cherry pie లేదా apple pie లేదా banana bread లాగా taste అయ్యేలా చేయాలి?'"
+"I ran down the mountain," she said, "I got out a notebook, and I started writing down ideas. And then when we got back to Denver, I would get ideas from pies and cookies and cakes. And I'd think, 'Okay, how do I take cherry pie and make basically a raw, unprocessed food just in my Cuisinart and make it taste like cherry pie or apple pie or banana bread?'"
 ---
-
-Telugu
-ఆమె mountain down పరుగెత్తి, notebook తీసుకుని ideas రాయడం ప్రారంభించింది.
-
-English
-“I ran down the mountain,” she said, “I got out a notebook, and I started writing down ideas.
-
----
-
-Telugu
-Denver కు తిరిగి వచ్చిన తర్వాత, pies, cookies, cakes నుండి ideas తీసుకుంది.
-
-English
-And then when we got back to Denver, I would get ideas from pies and cookies and cakes.
-
----
-
-Telugu
-Cherry pie ని Cuisinart లో raw, unprocessed food గా మార్చి cherry pie లాగా taste వచ్చేలా ఎలా చేయాలి అని ఆలోచించింది.
-
-English
-And I’d think, ‘Okay, how do I take cherry pie and make basically a raw, unprocessed food just in my Cuisinart and make it taste like cherry pie or apple pie or banana bread?’”
-
----
-
-Telugu
-ఆ తర్వాత recipes ఆమెకు fairly quickly వచ్చాయి.
-
-English
+ఆ తర్వాత ఆమెకి recipes fairly quickly వచ్చాయి.
 The recipes came fairly quickly for her after that.
-
 ---
-
-Telugu
-Peter మరియు అతని partner Jared Smith కోసం initial phase ఒక process లాగా సాగింది.
-
-English
+Peter మరియు ఆయన partner Jared Smith కోసం, initial phase మరింత process లాంటిది.
 For Peter and his partner, Jared Smith, the initial phase was more of a process.
-
 ---
-
-Telugu
-Peter చెప్పినట్లుగా, “ఇదిగో ఇప్పుడు commit అవుదాం” అన్న single moment లేదు.
-
-English
-“There was not this moment where it’s like, ‘Oh, we’re going to do it and commit,’” Peter said.
-
+"'Oh, we're going to do it and commit,' అని ఒక moment లేదు," Peter అన్నాడు.
+"There was not this moment where it's like, 'Oh, we're going to do it and commit,'" Peter said.
 ---
-
-Telugu
-మొదట Whole Foods కు వెళ్లి market tour చేద్దాం, ingredients తో play around చేద్దాం అనుకున్నారు.
-
-English
-“First, we’re like, ‘Let’s go to Whole Foods and tour the market. Let’s start playing around with ingredients.’
-
+"First, 'Whole Foods కి వెళ్లి market tour చేద్దాం. Ingredients తో play around చేయడం start చేద్దాం' అని అన్నాము. We just kind of did some preliminary market research and started learning."
+"First, we're like, 'Let's go to Whole Foods and tour the market. Let's start playing around with ingredients.' We just kind of did some preliminary market research and started learning."
 ---
-
-Telugu
-వారు preliminary market research చేసి, learning ప్రారంభించారు.
-
-English
-We just kind of did some preliminary market research and started learning.”
-
----
-
-Telugu
-అయినా Gary మరియు Lara లాగానే, వాళ్లు clear product vision తోనే ఆ tour కు వెళ్లారు — minimal-ingredient, Paleo-friendly protein bar.
-
-English
+Still, Gary మరియు Lara లాగా, వాళ్లు product కోసం clear vision తో వాళ్ల tour లోకి వెళ్లారు—minimal-ingredient, Paleo-friendly protein bar.
 Still, like Gary and Lara, they went into their tour with a clear vision for the product—a minimal-ingredient, Paleo-friendly protein bar.
-
 ---
-
-Telugu
-Product philosophy ఏమిటంటే, formula లో ఏ part అయినా ingredients best possible గా ఉండాలి.
-
-English
-“And the general philosophy around the product was that for whatever part of the formula, we wanted to make sure the ingredients were the best possible.”
-
+"మరియు product గురించి general philosophy ఏంటంటే, formula యొక్క ఏ part కైనా, ingredients best possible గా ఉండేలా sure make చేయాలనుకున్నాం."
+"And the general philosophy around the product was that for whatever part of the formula, we wanted to make sure the ingredients were the best possible."
 ---
-
-Telugu
-Iterative process లో ఈ point వద్ద, వీరిలో ఎవ్వరైనా negative feedback fear వల్ల freeze అయి idea ను development hell లో stuck చేయవచ్చు.
-
-English
+ఇది precisely iterative process లో ఈ point వద్ద, ఈ founders లో ఎవరైనా negative feedback fear లో freeze అయి తమ idea ని Hollywood "development hell" అని call చేసే దానిలో stuck అవ్వనివ్వగలిగేవారు.
 It is precisely at this point in the iterative process that any one of these founders could have frozen in fear of negative feedback and let their idea get stuck in what Hollywood calls development hell.
-
 ---
-
-Telugu
-Retrospect లో చూస్తే, అలా జరిగి ఉంటే వారిని blame చేయడం కష్టం, ఎందుకంటే closest people నుంచే resistance ఎదురైంది.
-
-English
+looking back now (In retrospect), అది happen అయితే వాళ్లలో ఎవరిని కూడా blame చేయడం hard అయ్యేది, ఎందుకంటే వాళ్లకి closest గా ఉన్న people నుండి వాళ్ల idea కి resistance face చేశారు.
 In retrospect, it would be hard to blame any of them if that had happened, because they each faced resistance to their idea from the people closest to them.
-
 ---
-
-Telugu
-Gary’s mom కి energy bar అంటే ఏమిటో కూడా తెలియదు.
-
-English
-Gary’s mom didn’t even know what an energy bar was.
-
+Gary's mom కి energy bar అంటే ఏంటో even know లేదు.
+Gary's mom didn't even know what an energy bar was.
 ---
-
-Telugu
-Lara parents కు ఆమె idea share చేసినప్పుడు, ఆమె completely out of her mind అని అనిపించింది.
-
-English
-Lara’s parents, when she called them to share her idea, thought she was completely out of her mind.
-
+Lara's parents, ఆమె తన idea share చేయడానికి call చేసినప్పుడు, ఆమెని completely out of her mind అని అనుకున్నారు.
+Lara's parents, when she called them to share her idea, thought she was completely out of her mind.
 ---
-
-Telugu
-వాళ్లు “private high school, USC వరకు చదివించాం, ఆమె graduate అయింది, thirty-two years old… ఏమవుతోంది?” అని అనుకున్నారు.
-
-English
-“They just thought, ‘We’ve sent her through private high school, USC, she’s graduated, she’s thirty-two years old . . . Oh my God, what’s going on here?’”
-
+"వాళ్లు just thought, 'మేము ఆమెని private high school, USC కి send చేశాము, graduate అయ్యింది, thirty-two years old . . . Oh my God, ఇక్కడ ఏం జరుగుతోంది?'"
+"They just thought, 'We've sent her through private high school, USC, she's graduated, she's thirty-two years old . . . Oh my God, what's going on here?'"
 ---
-
-Telugu
-Peter కి అతని Paleo protein bar bad idea అని చాలామంది చెప్పారు, అవసరమైతే మాటలతో కాకపోయినా.
-
-English
+Lots of people Peter's Paleo protein bar bad idea అని told చేశారు, necessarily words తో కాదు.
 Lots of people told Peter his Paleo protein bar was a bad idea, though not necessarily with their words.
-
 ---
-
-Telugu
-Peter excited గా చెప్పినప్పుడు, వారి face మీద “That’s a dumb idea” అన్న look ఉండేది.
-
-English
-“I’d be very excited about it, and the look on their face was like, That’s a dumb idea,” Peter said.
-
+"నేను దాని గురించి very excited గా ఉండేవాన్ని, మరియు వాళ్ల face మీద look 'That's a dumb idea' అని ఉండేది," Peter అన్నాడు, వాళ్ల skepticism ని ఆయన understand చేసేవాడు . . . to a degree.
+"I'd be very excited about it, and the look on their face was like, That's a dumb idea," Peter said, though he understood their skepticism . . . to a degree.
 ---
-
-Telugu
-అయినా అతను వారి skepticism ను కొంతవరకు understand చేశాడు.
-
-English
-Though he understood their skepticism . . . to a degree.
-
+"I mean, market కి మరో protein bar అవసరం లేదు, that's for sure. కానీ మేము just focused గా ఉన్నాము, మరియు మాకు ఏదైనా feedback negative గా వస్తే, 'మేము just దాన్ని anyway do చేస్తాము' అని అనుకునేవాళ్లం."
+"I mean, the market didn't need another protein bar, that's for sure. But we were just focused, and when we got some feedback, if it was negative, we were like, 'We're just going to do it anyway.'"
 ---
-
-Telugu
-Market కి another protein bar అవసరం లేదు అనేది నిజమే.
-
-English
-“I mean, the market didn’t need another protein bar, that’s for sure.
-
----
-
-Telugu
-కానీ వారు focused గా ఉన్నారు; negative feedback వచ్చినప్పుడు కూడా, “మేము anyway చేస్తాం” అనుకున్నారు.
-
-English
-But we were just focused, and when we got some feedback, if it was negative, we were like, ‘We’re just going to do it anyway.’”
-
----
-
-Telugu
-2012 summer ముగిసే సరికి, Peter తన CrossFit gym people కు samples తో inundate చేస్తున్నాడు.
-
-English
+2012 summer end నాటికి, Peter తన CrossFit gym లోని people ని samples తో inundate చేస్తున్నాడు.
 By the end of the summer of 2012, Peter was inundating the people at his CrossFit gym with samples.
-
 ---
-
-Telugu
-అతను development process యొక్క second iterative phase లోకి move అయ్యాడు.
-
-English
-He’d moved into the second iterative phase of the development process.
-
+ఆయన development process యొక్క second iterative phase లోకి move అయ్యాడు.
+He'd moved into the second iterative phase of the development process.
 ---
-
-Telugu
-Peter గుర్తుచేసుకున్నట్లుగా, RXBar dough logs Tupperware లో packed చేసి feedback తీసుకునేవారు.
-
-English
-“We’d have logs of this RXBar dough, packed in Tupperware, and we would just get feedback,” Peter remembered.
-
+"Tupperware లో packed చేసిన RXBar dough logs ఉండేవి, మరియు మేము just feedback get చేస్తుండేవాళ్లం," Peter ఆ early days ని గుర్తు చేసుకున్నాడు—ఆయన తన CrossFit gym లో, Jared తను belong అయ్యే gym లో.
+"We'd have logs of this RXBar dough, packed in Tupperware, and we would just get feedback," Peter remembered of those early days—he at his CrossFit gym, Jared at the gym he belonged to.
 ---
-
-Telugu
-అతను తన CrossFit gym లో, Jared తన gym లో, early days లో ఇదే చేశారు.
-
-English
-Of those early days—he at his CrossFit gym, Jared at the gym he belonged to.
-
+"You just ask a ton of questions: 'Do you like this?' 'Do you not like this?' 'What would you like?' 'Would you pay for this?' We collected tons of data."
+"You just ask a ton of questions: 'Do you like this?' 'Do you not like this?' 'What would you like?' 'Would you pay for this?' We collected tons of data."
 ---
-
-Telugu
-వారు tons of questions అడిగేవారు: ఇది like అయ్యిందా? like కాలేదా? మీకు ఏమి కావాలి? దానికి మీరు pay చేస్తారా?
-
-English
-“You just ask a ton of questions: ‘Do you like this?’ ‘Do you not like this?’ ‘What would you like?’ ‘Would you pay for this?’
-
----
-
-Telugu
-వారు tons of data collect చేశారు.
-
-English
-We collected tons of data.”
-
----
-
-Telugu
-ఆ data అంతా first flavor అయిన coconut chocolate recipe refine చేయడానికి ఉపయోగించారు.
-
-English
-All of that data went into refining the recipe for their first flavor, coconut chocolate.
-
----
-
-Telugu
-2013 mid-March లో, వారు మొదటిసారి legitimate sales చేసి real revenue collect చేసే వరకు ఈ refining కొనసాగింది.
-
-English
-Until mid-March 2013, when they made legitimate sales and collected real revenue for the first time.
+ఆ data అంతా వాళ్ల first flavor, coconut chocolate, recipe ని refine చేయడంలోకి వెళ్లింది, mid-March 2013 వరకు, అప్పుడు వాళ్లు first time legitimate sales make చేసి real revenue collect చేశారు.
+All of that data went into refining the recipe for their first flavor, coconut chocolate, until mid-March 2013, when they made legitimate sales and collected real revenue for the first time.
